@@ -16,7 +16,7 @@ export default { async fetch(request, env) {
  let body; try { body = await request.json(); } catch { return json({ error: "JSON inválido." }, 400, origin); }
  const stem = String(body.stem || "").trim(); const answer = String(body.answer || "").trim().toUpperCase(); const subject = String(body.subject || "").trim().slice(0, 160); const topic = String(body.topic || "").trim().slice(0, 200); const options = body.options && typeof body.options === "object" ? body.options : {};
  const optionLines = Object.entries(options).slice(0, 8).map(([k, v]) => String(k).slice(0, 3) + ": " + String(v).slice(0, 1000));
- if (!stem || stem.length > 6000 || !answer || !options[answer] || optionLines.length < 2) return json({ error: "Dados da questão incompletos ou inválidos." }, 400, origin);
+ if (!stem || stem.length > 6000 || !answer || !(options[answer] || options[answer.toLowerCase()] || options[answer.toUpperCase()]) || optionLines.length < 2) return json({ error: "Dados da questão incompletos ou inválidos." }, 400, origin);
  const prompt = "Você é um professor brasileiro experiente que comenta questões de concursos.\n" +
  "Pesquise usando a ferramenta de busca e use SOMENTE fontes brasileiras confiáveis, preferindo legislação oficial (Planalto), órgãos públicos, tribunais, universidades e periódicos científicos brasileiros.\n" +
  "Não invente leis, artigos, decisões, autores, títulos, datas ou URLs. Não use blogs comerciais, fóruns ou sites de cursinhos como fonte principal.\n" +
