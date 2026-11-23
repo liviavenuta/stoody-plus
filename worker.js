@@ -1,6 +1,6 @@
 /** Stoody+ API. Configure GEMINI_API_KEY as a Worker Secret. */
 const ALLOWED_ORIGIN = "https://liviavenuta.github.io";
-const MODEL = "gemini-2.5-flash";
+const MODEL = "gemini-3.8-flash";
 const MAX_BODY_BYTES = 12000;
 function cors(origin) { return { "Access-Control-Allow-Origin": origin === ALLOWED_ORIGIN ? ALLOWED_ORIGIN : "null", "Access-Control-Allow-Methods": "POST, OPTIONS, GET", "Access-Control-Allow-Headers": "Content-Type", "Access-Control-Max-Age": "86400", "Vary": "Origin" }; }
 function json(data, status, origin) { return new Response(JSON.stringify(data), { status, headers: { "Content-Type": "application/json; charset=utf-8", ...cors(origin), "Cache-Control": "no-store" } }); }
@@ -25,7 +25,7 @@ export default { async fetch(request, env) {
  "Se não houver base brasileira suficiente, responda exatamente: Não foi possível localizar fonte brasileira confiável suficiente para comentar esta questão com segurança.\n" +
  "Matéria: " + subject + "\nAssunto: " + (topic || "não informado") + "\nEnunciado: " + stem + "\nAlternativas:\n" + optionLines.join("\n") + "\nGabarito informado: " + answer;
  let upstream; try { upstream = await fetch("https://generativelanguage.googleapis.com/v1beta/models/" + MODEL + ":generateContent?key=" + encodeURIComponent(env.GEMINI_API_KEY), { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ contents: [{ role: "user", parts: [{ text: prompt }] }], tools: [{ google_search: {} }], generationConfig: { temperature: 0.2, maxOutputTokens: 1400 } }) }); } catch { return json({ error: "Não foi possível conectar ao serviço de IA." }, 502, origin); }
- const result = await upstream.json().catch(() => ({})); if (!upstream.ok) { const apiMessage = String(result.error && result.error.message || "Erro sem detalhes retornados pela API Gemini.").replace(/GEMINI_API_KEY|key=[^&\s]+/gi, "[segredo oculto]").slice(0, 500); return json({ error: "Falha na API Gemini: " + apiMessage }, 502, origin); }
+ const result = await upstream.json().catch(() => ({})); if (!upstream.ok) { const apiMessage = String(result.error && result.error.message || "Erro sem detalhes retornados pela API Gemini.").replace(/GEMINI_API_KEY|key=[^&\\s]+/gi, "[segredo oculto]").slice(0, 500); return json({ error: "Falha na API Gemini: " + apiMessage }, 502, origin); }
  const candidate = result.candidates && result.candidates[0]; const explanation = ((candidate && candidate.content && candidate.content.parts) || []).map(p => p.text || "").join("\n").trim();
  const chunks = candidate && candidate.groundingMetadata && candidate.groundingMetadata.groundingChunks || []; const references = []; const seen = new Set();
  for (const chunk of chunks) { const web = chunk.web; if (!web || !web.uri || !trustedBrazilianUrl(web.uri) || seen.has(web.uri)) continue; seen.add(web.uri); references.push({ label: String(web.title || new URL(web.uri).hostname).slice(0, 180), url: web.uri }); }
