@@ -1,0 +1,19 @@
+name: Validate Stoody+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check JavaScript syntax
+        run: node --check app.js
+      - name: Validate question bank JSON
+        run: |
+          node -e "const fs=require('fs'); const files=fs.readdirSync('.').filter(f=>f.startsWith('questions-')&&f.endsWith('.json')); let total=0; for(const f of files){const q=JSON.parse(fs.readFileSync(f,'utf8')); total+=q.length; console.log(f+': '+q.length+' questões');} if(total!==1200) throw new Error('Esperadas 1200 questões; encontradas '+total); console.log('Total validado: '+total);"
