@@ -1125,7 +1125,28 @@
       "e": "O maior valor encontrado no intervalo de B2 até B31."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. SOMA(B2:B31) adiciona os valores numéricos de todas as células do intervalo B2 até B31, incluindo as extremidades. Não conta células, não calcula média, não multiplica e não retorna o maior valor.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Dicas rápidas: backup",
+        "url": "https://cartilha.cert.br/dicas-rapidas/"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4078894",
@@ -1141,7 +1162,28 @@
       "e": "Gerar gráficos em Excel."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. O Painel de Controle reúne ferramentas para configurar e administrar o Windows, incluindo dispositivos, hardware, programas, rede, contas e opções do sistema. As demais alternativas descrevem tarefas de aplicativos específicos, não a finalidade do Painel de Controle.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atualização do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/windows-update"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4378746",
@@ -1157,7 +1199,28 @@
       "e": "Ativar a sincronização automática da nuvem, renomear extensões alteradas e definir privilégios emergenciais de gravação para os grupos."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. A contenção imediata exige retirar os equipamentos comprometidos da rede para impedir propagação lateral, bloquear indicadores de comprometimento no perímetro e acionar o plano de resposta. A coleta forense deve preservar evidências; não se deve reiniciar indiscriminadamente nem copiar arquivos para mídias sem controle. A CISA recomenda isolamento coordenado e preservação dos artefatos.",
+    "references": [
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "CISA — Orientações de resposta a incidentes e preservação",
+        "url": "https://www.cisa.gov/sites/default/files/2024-08/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf"
+      },
+      {
+        "label": "CERT.br — Fascículos de segurança, códigos maliciosos e proteção",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4377965",
@@ -1173,7 +1236,28 @@
       "e": "Wiki – serviço em nuvem – fórum de mensagens."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Wiki é uma ferramenta colaborativa para criação e edição coletiva de conteúdo; serviço em nuvem permite armazenar e acessar arquivos remotamente; fórum é um canal de comunicação assíncrona por tópicos e mensagens. A sequência corresponde exatamente às três categorias solicitadas.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4377984",
@@ -1189,7 +1273,28 @@
       "e": "Excluir as linhas em branco existentes no intervalo, reorganizando os dados."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. No Excel, Ctrl + Shift + L alterna a aplicação de filtros automáticos nos cabeçalhos do intervalo ou tabela. Com os filtros, é possível selecionar critérios para exibir registros e ordenar os dados; o atalho não protege a planilha nem cria uma tabela dinâmica.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4358036",
@@ -1205,7 +1310,28 @@
       "e": "Configurações > Atualização e Segurança > Programa Windows Insider."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. No Windows 10, o caminho indicado é Configurações > Atualização e Segurança > Windows Update. É nessa seção que o usuário verifica, baixa e instala atualizações do sistema. Recuperação, Segurança do Windows, solução de problemas e Programa Insider têm finalidades distintas.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atualização do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/windows-update"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4156919",
@@ -1221,7 +1347,28 @@
       "e": "F–F–V–F"
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. A sequência é V–V–F–V. Confidencialidade restringe o acesso a pessoas autorizadas; phishing tenta enganar usuários para obter dados; integridade protege exatidão e completude. A terceira afirmação é falsa: backup diferencial copia alterações desde o último backup completo, não desde o último incremental.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Dicas rápidas: backup",
+        "url": "https://cartilha.cert.br/dicas-rapidas/"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3203758",
@@ -1237,7 +1384,28 @@
       "e": "abrir uma outra janela de prompt."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. O comando CMD inicia uma nova instância do interpretador de comandos do Windows; a alternativa E descreve essa função. As demais opções correspondem a comandos específicos como ASSOC (associações de extensões), COPY (cópia), CHKDSK (verificação de disco) e COLOR (cores do console).",
+    "references": [
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3322346",
@@ -1253,7 +1421,28 @@
       "e": "É um sistema multitarefas."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A alternativa C é a incorreta porque o Windows é multitarefa e o escalonador do sistema operacional pode interromper e alternar a execução de processos/threads para compartilhar o processador. As demais características são compatíveis com o Windows 11: sistema básico, código proprietário/fechado e suporte a múltiplas sessões de usuário.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3332672",
@@ -1269,7 +1458,28 @@
       "e": "F11."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. F10 ativa a barra de menus ou as dicas de teclas do aplicativo ativo, conforme o contexto do programa. F11 costuma alternar a exibição em tela inteira; F7, F8 e F9 têm funções diferentes e dependem do aplicativo.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Facilitar a concentração em tarefas e Aero Shake",
+        "url": "https://support.microsoft.com/en-us/accessibility/windows/make-it-easier-to-focus-on-tasks"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3181922",
@@ -1284,7 +1494,28 @@
       "d": "Nobreak."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Nobreak (UPS) fornece energia temporária e proteção contra interrupções ou oscilações, ajudando a manter sistemas e dados acessíveis durante falhas de energia. Assinatura digital, criptografia e biometria atendem a outros objetivos, como autenticidade, confidencialidade ou controle de acesso.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3204065",
@@ -1300,7 +1531,28 @@
       "e": "Ctrl + Z"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Shift + F10 abre o menu de contexto do item selecionado, equivalente em geral ao clique com o botão direito. Ctrl + E costuma focar pesquisa em determinados aplicativos, Ctrl + F4 fecha documento/janela interna, Alt + Tab alterna janelas e Ctrl + Z desfaz ação.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3321430",
@@ -1316,7 +1568,28 @@
       "e": "V, apenas."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Entre as opções, apenas o nobreak (I) contribui diretamente para disponibilidade, pois mantém o equipamento energizado por tempo limitado durante uma queda de energia. Biometria, certificado digital, assinatura digital e criptografia se relacionam principalmente a identificação, autenticação, integridade ou confidencialidade.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3204082",
@@ -1332,7 +1605,28 @@
       "e": "Certificados digitais"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Firewall é software ou hardware que filtra o tráfego de rede segundo regras de segurança, podendo bloquear conexões não autorizadas e reduzir a exposição a invasões. Nobreak fornece energia; backup permite recuperação; biometria autentica características físicas; certificado digital vincula identidade a uma chave criptográfica.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos de segurança, códigos maliciosos e proteção",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3325216",
@@ -1348,7 +1642,28 @@
       "e": "Aero Peek."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. O recurso descrito é o Aero Shake (agora chamado de agitação da barra de título em configurações do Windows): sacudir a janela ativa minimiza as demais. No Windows 11, o comportamento depende da opção estar habilitada em Sistema > Multitarefas; portanto, não necessariamente vem ativado em toda instalação.",
+    "references": [
+      {
+        "label": "Microsoft Support — Facilitar a concentração em tarefas e Aero Shake",
+        "url": "https://support.microsoft.com/en-us/accessibility/windows/make-it-easier-to-focus-on-tasks"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3449649",
@@ -1364,7 +1679,28 @@
       "e": "exibir a lista de barras de endereços no Gerenciador de Arquivos."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. No Explorador de Arquivos, F4 seleciona/mostra a lista da barra de endereços. F3 pesquisa arquivos ou pastas; F2 renomeia o item selecionado; F6 percorre elementos da janela; F10 ativa a barra de menus em aplicativos.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3296252",
@@ -1380,7 +1716,28 @@
       "e": "Ctrl + E."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Ctrl + N abre uma nova janela do Explorador de Arquivos. Ctrl + W fecha a janela/guia atual; Ctrl + F ou Ctrl + E pode focar a pesquisa conforme o contexto; Ctrl + D tem outras funções, como adicionar aos favoritos em determinados aplicativos.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3203760",
@@ -1396,7 +1753,28 @@
       "e": "Tecla do logotipo do Windows + E."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Windows + D mostra a área de trabalho e, quando pressionado novamente, restaura as janelas. Windows + M minimiza todas as janelas, mas não funciona como alternância de mostrar/ocultar da mesma forma; Windows + E abre o Explorador de Arquivos.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Facilitar a concentração em tarefas e Aero Shake",
+        "url": "https://support.microsoft.com/en-us/accessibility/windows/make-it-easier-to-focus-on-tasks"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3322359",
@@ -1412,7 +1790,28 @@
       "e": "Biometria."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Biometria é um mecanismo de autenticação baseado em características físicas ou comportamentais, como impressão digital ou reconhecimento facial. Pode apoiar autenticidade e controle de acesso. Hub, roteador, conector e monitor são componentes de infraestrutura, não mecanismos de autenticação.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3232107",
@@ -1428,7 +1827,28 @@
       "e": "Ransomware."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Adware é software que exibe publicidade, inclusive anúncios pop-up ou banners, frequentemente de forma intrusiva. Trojan se disfarça de software legítimo; scareware usa alertas falsos para assustar; spyware monitora/coleta informações; ransomware bloqueia ou cifra dados para extorsão.",
+    "references": [
+      {
+        "label": "CERT.br — Fascículos de segurança, códigos maliciosos e proteção",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3250539",
@@ -1444,7 +1864,28 @@
       "e": "Copia todos os arquivos, independentemente de terem sido modificados desde o último backup."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Backup incremental copia os arquivos alterados desde o backup imediatamente anterior, seja ele completo ou incremental. Já o diferencial copia as alterações desde o último backup completo; o backup completo copia todo o conjunto selecionado.",
+    "references": [
+      {
+        "label": "CERT.br — Dicas rápidas: backup",
+        "url": "https://cartilha.cert.br/dicas-rapidas/"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3648002",
@@ -1460,7 +1901,28 @@
       "e": "edição."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Na interface clássica do Excel 2016, a guia Página Inicial inclui grupos como Área de Transferência, Fonte, Alinhamento, Número, Estilos, Células e Edição. Zoom é um controle associado à guia Exibir/barra de status, não um grupo da guia Página Inicial.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3203774",
@@ -1476,7 +1938,28 @@
       "e": "Função CÓDIGO"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. A função CÓDIGO retorna o código numérico do primeiro caractere de uma cadeia de texto, conforme a página de códigos usada pelo Excel. CARACT faz a operação inversa para códigos numéricos compatíveis; CONCATENAR une textos; EXATO compara textos; TIRAR remove caracteres não imprimíveis.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3648003",
@@ -1492,7 +1975,28 @@
       "e": "F11."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. F9 recalcula as planilhas em todas as pastas de trabalho abertas. Shift + F9 recalcula apenas a planilha ativa; Ctrl + Alt + F9 força o recálculo completo de todas as fórmulas. Portanto, D é a resposta.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3431185",
@@ -1508,7 +2012,28 @@
       "e": "editor de registro."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A Central de Notificações do Windows 10 reúne notificações e ações rápidas, oferecendo acesso direto a alertas e alguns controles do sistema. A barra de tarefas hospeda atalhos e janelas; Edge é navegador; Firewall protege conexões; Editor do Registro altera configurações avançadas.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atualização do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/windows-update"
+      },
+      {
+        "label": "Microsoft Support — Explorador de Arquivos no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3250531",
@@ -1524,7 +2049,28 @@
       "e": "ransomware."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Cavalo de Troia (trojan) é um malware que se apresenta como programa legítimo ou é embutido em software aparentemente confiável para induzir sua instalação. Pode executar diversas ações, como instalar backdoors, roubar dados ou baixar outros códigos maliciosos. Worm se replica autonomamente; spyware espiona; adware exibe anúncios; ransomware extorque.",
+    "references": [
+      {
+        "label": "CERT.br — Fascículos de segurança, códigos maliciosos e proteção",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3296484",
@@ -1540,7 +2086,28 @@
       "e": "Função EXATO."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. A função EXATO compara duas cadeias de texto e retorna VERDADEIRO somente quando são idênticas, distinguindo maiúsculas de minúsculas e espaços. FIXO formata números; MOEDA formata valores monetários; FONÉTICA trata informação fonética; REPT repete texto.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3232105",
@@ -1556,7 +2123,28 @@
       "e": "Confidencialidade."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Autenticidade é a propriedade que permite verificar que a informação, identidade ou origem é genuína e corresponde a quem afirma ser. Integridade trata de alterações indevidas; disponibilidade trata do acesso quando necessário; confidencialidade limita o acesso a autorizados. A formulação da questão remete à autenticidade.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "Microsoft Support — Ferramentas de configuração do sistema no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/system-configuration-tools-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3325221",
@@ -1572,7 +2160,28 @@
       "e": "Disponibilidade."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Equidade não integra o conjunto clássico de propriedades de segurança da informação cobrado nesse contexto. Confidencialidade, integridade e disponibilidade formam a tríade CIA; autenticidade também é frequentemente tratada como propriedade complementar. Logo, a exceção é equidade.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "CERT.br — Fascículos de segurança, códigos maliciosos e proteção",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3250842",
@@ -1588,7 +2197,29 @@
       "e": "F, F, V, V, F."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. O gabarito C parece ser o pretendido: I é falsa porque firewall isolado não basta; III é falsa porque desativar atualizações aumenta a exposição; e V pode funcionar como camada suplementar de controle de acesso, embora filtragem por MAC seja contornável. **Há, porém, problema técnico na questão:** VPN não impede malware por si só, e habilitar macros sem controles pode elevar o risco. A afirmação II não descreve necessariamente uma medida de prevenção; recomenda-se revisar o item e o gabarito.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos de segurança, códigos maliciosos e proteção",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Questão tecnicamente ambígua: VPN não impede malware por si só e macros habilitadas não são, por si, medida preventiva. O gabarito C foi mantido como provável intenção, mas recomenda-se revisão/anulação."
   },
   {
     "id": "3322495",
