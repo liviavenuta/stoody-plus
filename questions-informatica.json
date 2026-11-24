@@ -5451,9 +5451,9 @@
       "d": "Firewall.",
       "e": "Spyware."
     },
-    "answer": "D",
+    "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: A. A descrição é de um servidor ou solução antivírus/antimalware que detecta e bloqueia códigos maliciosos. Firewall controla tráfego de rede e pode reduzir exposição, mas não é sinônimo de antivírus. O gabarito D (Firewall) está tecnicamente incorreto para a função descrita; recomenda-se corrigir para A ou reescrever o enunciado.",
+    "explanation": "Alternativa correta: A. O enunciado descreve uma solução antivírus/antimalware instalada no servidor para detectar e bloquear códigos maliciosos. Firewall controla o tráfego de rede e pode reduzir a exposição a ameaças, mas não é sinônimo de antivírus. O gabarito foi corrigido de D (Firewall) para A (Antivírus).",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -5474,7 +5474,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "O enunciado descreve antivírus/antimalware, não firewall. Gabarito cadastrado D está tecnicamente incorreto; corrigir para A ou revisar a redação."
+    "reviewNote": "Gabarito corrigido de D para A: o enunciado descreve servidor antivírus/antimalware que detecta e bloqueia vírus. Firewall filtra tráfego de rede e não executa essa função específica."
   },
   {
     "id": "1283377",
@@ -6070,43 +6070,6 @@
     "explanationReviewed": "2026-11-24"
   },
   {
-    "id": "4888621",
-    "number": 166,
-    "subject": "Informática",
-    "topic": "Informática",
-    "stem": "A planilha abaixo foi criada no Excel 2010 BR. Na planilha foram realizados os procedimentos abaixo descritos:",
-    "options": {
-      "a": "76, 23 e =MENOR(A6:D6;1)",
-      "b": "76, 23 e =MENOR(A6:D6)",
-      "c": "46, 23 e =MENOR(A6:D6;1)",
-      "d": "46, 19 e =MENOR(A6:D6)",
-      "e": "46, 19 e =MENOR(A6:D6;1)"
-    },
-    "answer": "E",
-    "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. Questão removida na limpeza geral: o enunciado depende de uma planilha/imagem que não está incluída no registro textual, de modo que não há dados suficientes para reproduzir os cálculos ou validar o gabarito.",
-    "references": [
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
-        "url": "https://support.microsoft.com/pt-br/excel"
-      },
-      {
-        "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/"
-      },
-      {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
     "id": "1539828",
     "number": 167,
     "subject": "Informática",
@@ -6285,42 +6248,6 @@
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
-    "id": "1414850",
-    "number": 172,
-    "subject": "Informática",
-    "topic": "Informática > Microsoft Excel",
-    "stem": "Se um usuário do MS Excel 2016, em português, clicar no ícone, ele irá acessar a operação de:",
-    "options": {
-      "a": "preencher valores automaticamente.",
-      "b": "remover linhas duplicadas da planilha.",
-      "c": "experimentar valores para uma fórmula.",
-      "d": "dividir os textos da planilha em colunas."
-    },
-    "answer": "B",
-    "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Questão removida na limpeza geral: o enunciado depende de um ícone não reproduzido no registro. Embora a alternativa B sugira “Remover Duplicatas”, não é possível identificar o ícone com segurança sem a imagem original.",
-    "references": [
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
-        "url": "https://support.microsoft.com/pt-br/excel"
-      },
-      {
-        "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/"
-      },
-      {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
