@@ -1903,7 +1903,28 @@
       "d": "Nesse inventário os itens da classe A são inventariados três vezes ao ano, enquanto os da classe B duas vezes ao ano e os da classe C apenas uma vez ao ano."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — alternativa que NÃO descreve inventário rotativo.** A alternativa A descreve o inventário geral, concentrado no encerramento do exercício e abrangendo todos os itens de uma só vez. O inventário rotativo distribui as contagens ao longo do ano, por grupos de materiais.\n\n- **A) Correta como exceção:** descreve inventário geral, não rotativo.\n- **B) Incorreta como exceção:** programação mensal de itens é característica do inventário rotativo.\n- **C) Incorreta como exceção:** o inventário rotativo pode ser realizado sem paralisação ampla da área.\n- **D) Incorreta como exceção:** a frequência diferenciada por classes de valor/criticidade é uma forma de organizar o inventário rotativo.\n\n**Dica:** geral = todos os itens em uma operação concentrada; rotativo = grupos de itens contados em datas distribuídas.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3352841",
@@ -1920,7 +1941,28 @@
       "e": "parcial."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — rotativo.** O inventário rotativo é realizado de forma contínua e seletiva, segundo cronograma, contando grupos de materiais ao longo do tempo. Pode abranger estoques e bens distribuídos para uso, conforme o sistema de controle adotado.\n\n- **A) Periódico — incorreta:** indica realização em intervalos definidos, mas não necessariamente a contagem seletiva contínua.\n- **B) Sazonal — incorreta:** refere-se a períodos associados à sazonalidade.\n- **C) Perpétuo — incorreta:** costuma designar registro contínuo das movimentações/saldos, não o tipo de contagem seletiva descrito.\n- **D) Rotativo — correta:** contagens programadas, contínuas e por grupos.\n- **E) Parcial — incorreta:** descreve apenas uma contagem de parte dos itens, sem necessariamente indicar a rotina programada e recorrente.\n\n**Dica:** inventário rotativo = contagem parcial, seletiva e programada ao longo do exercício.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3359409",
@@ -1936,7 +1978,28 @@
       "d": "geral"
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — gráfica.** O cronograma representa graficamente as etapas e a programação temporal do inventário, permitindo visualizar a sequência de atividades e seus prazos.\n\n- **A) Gráfica — correta:** corresponde à forma de representação do cronograma.\n- **B) Específica — incorreta:** não descreve o modo de apresentação do cronograma.\n- **C) Genérica — incorreta:** não expressa a representação organizada das etapas.\n- **D) Geral — incorreta:** não é o termo que completa a definição.\n\n**Dica:** cronograma é uma representação gráfica/temporal das atividades, responsáveis e prazos.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3313513",
@@ -1953,7 +2016,28 @@
       "e": "efetuar contagens periódicas de partes específicas do estoque ao longo do ano."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — contagens periódicas de partes específicas do estoque ao longo do ano.** O inventário rotativo consiste em contar grupos de itens em ciclos previamente definidos, em vez de realizar uma única contagem total em uma data.\n\n- **A) Incorreta:** revisar após cada venda é registro contínuo de movimentações, não inventário rotativo.\n- **B) Incorreta:** não se limita a períodos de baixa demanda; o calendário pode ser definido por criticidade e risco.\n- **C) Incorreta:** descreve inventário geral anual.\n- **D) Incorreta:** não deve depender apenas da ocorrência de divergências.\n- **E) Correta:** contagens parciais e periódicas distribuídas ao longo do ano caracterizam o inventário rotativo.\n\n**Dica:** rotativo é programado e recorrente, permitindo identificar diferenças sem esperar o inventário geral.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2868403",
@@ -1970,7 +2054,28 @@
       "e": "I, II e III."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — I, II e III.** A classificação por forma de execução pode contemplar inventário de portas fechadas, portas semifechadas e portas abertas, conforme o grau de interrupção ou continuidade das operações durante a contagem.\n\n- **I — verdadeira:** portas fechadas pressupõe suspensão das movimentações na área durante o levantamento, para evitar alterações no saldo.\n- **II — verdadeira:** portas semifechadas permite movimentação controlada, com procedimentos para registrar entradas e saídas durante a contagem.\n- **III — verdadeira:** portas abertas permite continuidade operacional, com controles específicos para separar ou registrar movimentações e não comprometer a contagem.\n- **A), B), C) e D) — incorretas:** deixam de incluir uma ou mais modalidades.\n- **E) I, II e III — correta:** as três formas são reconhecidas na classificação didática apresentada.\n\n**Dica:** a diferença está no nível de interrupção e no controle das movimentações durante o inventário.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2899144",
@@ -1986,7 +2091,28 @@
       "d": "eficiência na comercialização de produtos e desenvolvimento da organização."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — melhoria na gestão do estoque e redução de desperdícios.** O inventário físico identifica divergências, perdas, sobras, materiais danificados e falhas de registro, permitindo corrigir controles e reduzir desperdícios.\n\n- **A) Incorreta:** emissão de empenho e elaboração de edital são atividades orçamentárias e de contratação, não benefícios diretos do inventário.\n- **B) Incorreta:** competição no mercado não é resultado direto da contagem física do estoque.\n- **C) Correta:** a conferência física melhora a acuracidade e permite agir sobre perdas e excessos.\n- **D) Incorreta:** comercialização pode ser beneficiada indiretamente por melhor estoque, mas não é o objetivo específico destacado.\n\n**Dica:** inventário melhora acuracidade, controle, identificação de perdas e planejamento de reposição.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2427622",
@@ -2003,7 +2129,28 @@
       "e": "geral."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — periódico.** O inventário periódico é realizado ao final de um intervalo previamente definido, para verificar as quantidades existentes e confrontá-las com os registros.\n\n- **A) Cíclico — incorreta:** é uma modalidade de contagem distribuída por ciclos e grupos de itens.\n- **B) Periódico — correta:** ocorre ao término de um período determinado.\n- **C) Anual — incorreta:** é um caso particular de periodicidade, mas o enunciado não limita o intervalo ao ano.\n- **D) Rotativo — incorreta:** consiste em contagens parciais recorrentes ao longo do período.\n- **E) Geral — incorreta:** refere-se à abrangência da contagem, não necessariamente ao intervalo fixo.\n\n**Dica:** periódico = em intervalos definidos; rotativo/cíclico = contagens parciais programadas ao longo do tempo.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2727987",
@@ -2017,7 +2164,28 @@
       "d": "Consultar o preço de mercado dos materiais em catálogos de fornecedores."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: C — realizar inventário físico completo dos materiais disponíveis.** A alternativa indicada pelo banco associa a conferência física dos materiais ao controle antes da distribuição. O inventário permite verificar quantidades existentes e confrontá-las com os registros.\n\n- **A) Incorreta:** relatório de distribuição é posterior à conferência e à separação do material.\n- **B) Incorreta:** contratar novos fornecedores não é procedimento obrigatório no recebimento de uma entrega.\n- **C) Gabarito cadastrado:** propõe levantamento físico dos materiais para conferir a disponibilidade.\n- **D) Incorreta:** consultar preços de mercado não é etapa necessária para receber e liberar materiais.\n\n**Ressalva importante:** tecnicamente, no recebimento de uma entrega, o procedimento fundamental é conferir o material recebido — quantitativa e qualitativamente — com o pedido, a nota fiscal e as especificações. Um inventário físico completo de todo o estoque não é, em regra, exigido a cada recebimento. Mantive C conforme o gabarito original, mas recomendo conferir esta questão com a fonte da banca; a redação parece imprecisa.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2768308",
@@ -2034,7 +2202,28 @@
       "e": "Oportunizar a regularização das inconsistências e permitir a apuração de responsabilidades quando se fizer necessário."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — contabilização dos passivos permanentes.** A alternativa está em desacordo porque o inventário patrimonial tem como foco os bens/ativos, sua existência, localização, identificação, conservação e conciliação com os registros patrimoniais. Não tem por objetivo contabilizar “passivos permanentes”.\n\n- **A) Objetivo válido:** informações patrimoniais apoiam decisões e ajudam a prevenir perdas.\n- **B) Objetivo válido:** inventários e registros atualizados podem subsidiar informações aos órgãos de fiscalização.\n- **C) Objetivo válido:** verificar existência, localização, conservação e identificação dos bens é finalidade central.\n- **D) Correta como exceção:** fala em passivos permanentes, enquanto o inventário descrito é de bens patrimoniais/ativos.\n- **E) Objetivo válido:** permite regularizar inconsistências e apurar responsabilidades quando necessário.\n\n**Dica:** inventário patrimonial confere bens e registros do ativo; não é instrumento para contabilizar passivos.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2957687",
@@ -2051,7 +2240,28 @@
       "e": "Ferramenta de marketing, muito utilizada na logística."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — documento que detalha os produtos em estoque.** O registro de inventário apresenta a relação dos itens existentes, com informações que permitem identificar e controlar quantidades e, conforme o modelo, outros dados dos materiais.\n\n- **A) Incorreta:** lista de clientes pertence ao cadastro comercial.\n- **B) Incorreta:** tabela de preços não é registro de inventário.\n- **C) Correta:** detalha os produtos/materiais existentes no estoque.\n- **D) Incorreta:** catálogo de fornecedores é instrumento de compras e suprimentos.\n- **E) Incorreta:** não é ferramenta de marketing.\n\n**Dica:** registro de inventário descreve o que existe fisicamente no estoque e dá suporte ao controle e à conciliação dos saldos.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2542355",
