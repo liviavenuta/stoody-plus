@@ -1214,7 +1214,20 @@
       "e": "a criatividade e a inovação."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é A — responsabilidade e autoridade. A estrutura de um sistema de gestão da qualidade precisa deixar claro quem responde por cada atividade, quais decisões cada função pode tomar e como as responsabilidades se articulam. Sem autoridade definida e responsabilização clara, políticas e objetivos da qualidade podem não se converter em ações consistentes.\n\nPor que as outras estão erradas: B) competência e experiência são importantes para selecionar e desenvolver pessoas, mas não substituem a definição formal de papéis e autoridade; C) técnica e histórico não expressam os elementos estruturais destacados; D) produtividade e reaproveitamento são possíveis resultados ou práticas operacionais; E) criatividade e inovação podem apoiar melhorias, mas não definem a estrutura de responsabilidades do sistema.\n\nDica: estrutura do sistema = papéis, responsabilidades, autoridade e relações entre funções.",
+    "references": [
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      },
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2445334",
@@ -1231,7 +1244,20 @@
       "e": "revisar a qualidade. https://www.tecconcursos.com.br/questoes/cadernos/108619254/imprimir 12/11/2026, 23:59 Caderno Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM - Porto Velho - 2027"
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D — controlar a qualidade. Controlar a qualidade envolve acompanhar a execução, medir e registrar resultados, comparar o desempenho com critérios estabelecidos, identificar desvios e recomendar ações corretivas. O controle verifica se o processo está entregando o resultado esperado e fornece informação para ajustes.\n\nPor que as outras estão erradas: A) planejar a qualidade define objetivos, padrões e processos necessários; B) programar refere-se à organização de atividades e cronogramas, não ao monitoramento dos resultados; C) aprovisionar está relacionado à disponibilização de recursos ou suprimentos; E) revisar pode ocorrer após avaliação, mas não é o nome específico da função descrita.\n\nDica de prova: monitorar, registrar, comparar resultados e corrigir desvios = controle da qualidade.",
+    "references": [
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      },
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2446206",
@@ -1248,7 +1274,20 @@
       "e": "de eficiência."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é B — qualidade de atendimento externo, conforme a classificação adotada no item. O enunciado considera o percurso do serviço do ponto de vista do usuário: preparação do ambiente, execução, finalização, manutenção e coleta de feedback de satisfação. Esses elementos integram a experiência do cliente externo e a avaliação de como o serviço é entregue.\n\nPor que as outras estão erradas: A) capacidade diz respeito à aptidão ou recursos para realizar o serviço, não à experiência completa do usuário; C) eficácia avalia alcance dos objetivos, mas não nomeia a dimensão de atendimento descrita; D) atendimento interno refere-se às relações entre áreas e usuários internos; E) eficiência relaciona resultados e recursos, enquanto o texto enfatiza o serviço percebido pelo cliente externo.\n\nNota: “qualidade de atendimento externo” é uma classificação específica de materiais de gestão; não deve ser confundida com as dimensões SERVQUAL, que usam categorias próprias.",
+    "references": [
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      },
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2445338",
@@ -1265,7 +1304,20 @@
       "e": "As afirmações I, II e III não são verdadeiras."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D — as três afirmações são verdadeiras. I) Um evento-sentinela é um sinal de alerta para investigar se processos ou estruturas assistenciais contribuíram para dano grave ou risco ao paciente, exigindo análise e melhoria. II) Avaliação da conformidade é um processo sistemático, com regras e critérios definidos, que busca demonstrar que requisitos especificados são atendidos e fortalecer a confiança. III) Registrar e tratar não conformidades permite identificar causas, corrigir problemas e prevenir recorrências, aumentando segurança e confiabilidade dos serviços.\n\nPor que as outras estão erradas: A, B e C são incorretas porque cada uma exclui pelo menos uma afirmação que está de acordo com os princípios de gestão da qualidade e segurança; E também é incorreta porque não são falsas as três afirmações.\n\nDica: em serviços de saúde, eventos-sentinela e não conformidades devem gerar registro, investigação, ação corretiva e aprendizado, não ocultação.",
+    "references": [
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      },
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1209036",
@@ -1282,7 +1334,20 @@
       "e": "somente III e IV."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é C — somente I e IV. Entre os princípios de gestão da qualidade segundo a ISO 9000/9001 estão liderança e abordagem de processo. A gestão por processos entende atividades inter-relacionadas como um sistema que produz resultados; a liderança estabelece propósito, direção e condições para o engajamento das pessoas.\n\nAs demais afirmações, como integridade, comunicação, planejamento e estratégia, podem ser valores, práticas ou instrumentos importantes da gestão, mas não são listadas como princípios autônomos nessa relação de sete princípios usada como referência no item.\n\nDica: os sete princípios incluem foco no cliente, liderança, engajamento das pessoas, abordagem de processo, melhoria, decisão baseada em evidências e gestão de relacionamento.",
+    "references": [
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      },
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1207790",
@@ -1299,7 +1364,20 @@
       "e": "Entidade, continuidade, oportunidade e registro pelo valor original"
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D. A questão utiliza uma classificação de dimensões da qualidade total que reúne qualidade intrínseca do produto ou serviço, custo, atendimento, moral, segurança e ética. A ideia é que qualidade organizacional não se limita ao desempenho técnico: envolve também custo adequado, atendimento ao usuário, condições humanas e segurança e conduta ética.\n\nPor que as outras estão erradas: A) reúne necessidades humanas associadas a outra classificação motivacional; B) lista princípios constitucionais da Administração Pública; C) mistura conceitos de gestão, mas não corresponde às dimensões indicadas na classificação da questão; E) apresenta termos ligados a registro contábil e atributos de informação, não dimensões da qualidade total.\n\nNota: a classificação pode variar entre autores e materiais didáticos; para esta questão, deve-se seguir a terminologia expressa no gabarito e na abordagem de qualidade total cobrada.",
+    "references": [
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      },
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "691980",
@@ -1316,7 +1394,20 @@
       "e": "confiabilidade."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é E — confiabilidade. Na gestão da qualidade de produtos, confiabilidade está relacionada à probabilidade de o produto desempenhar sua função sem falhas durante determinado período e em condições especificadas. A frequência com que o produto fica fora de operação por falhas é um indicador associado à confiabilidade: interrupções frequentes revelam menor confiabilidade.\n\nPor que as outras estão erradas: A) durabilidade refere-se à vida útil ou ao tempo de uso até a substituição; B) conformidade mede o atendimento às especificações; C) desempenho trata das características funcionais principais do produto; D) manutenção está ligada à facilidade e aos recursos necessários para reparar ou manter o produto em funcionamento.\n\nDica de prova: frequência de falhas e operação sem interrupções remetem à confiabilidade.",
+    "references": [
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      },
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4116601",
@@ -1333,7 +1424,20 @@
       "e": "indisponibilidade do interesse público."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é A — impessoalidade. O princípio da impessoalidade exige que a Administração atue visando ao interesse público, sem favorecer ou prejudicar pessoas por relações pessoais, amizades, parentesco ou preferências. Regina atende a vizinha sem conceder privilégio, tratando-a segundo os mesmos critérios aplicáveis aos demais cidadãos.\n\nPor que as outras estão erradas: B) publicidade diz respeito à transparência e divulgação dos atos administrativos, ressalvadas hipóteses legais de sigilo; C) eficiência exige boa utilização dos recursos e qualidade dos resultados; D) supremacia do interesse público é um princípio reconhecido na atuação administrativa, mas o fato narrado destaca ausência de favorecimento pessoal; E) indisponibilidade do interesse público significa que o agente não pode dispor livremente dos interesses e bens públicos como se fossem seus.\n\nBase normativa: art. 37, caput, da Constituição Federal, que inclui expressamente a impessoalidade entre os princípios da Administração Pública.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4291934",
@@ -1350,7 +1454,20 @@
       "e": "considerar o custo das demandas, a capacidade de execução dos setores e o tempo necessário para atendimento, priorizando as solicitações de menor impacto financeiro para ampliar o número de necessidades contempladas."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é C. A decisão deve considerar as necessidades institucionais, a finalidade pública das despesas, as prioridades estabelecidas no planejamento, a disponibilidade orçamentária e financeira e as normas aplicáveis. A fundamentação explícita permite demonstrar por que determinadas demandas foram priorizadas, preservando legalidade, impessoalidade, transparência e eficiência.\n\nPor que as outras estão erradas: A) priorizar apenas urgência e facilidade de execução no curto prazo pode deixar de considerar a finalidade e as prioridades institucionais; B) distribuir recursos de modo equilibrado por quantidade de solicitações não garante aderência às prioridades públicas; D) recorrência histórica, isoladamente, não prova que uma demanda seja prioritária; E) escolher apenas pelo menor custo pode sacrificar necessidade, impacto e qualidade do serviço.\n\nDica de prova: decisões de alocação de recursos públicos devem ser motivadas, alinhadas ao planejamento, à finalidade pública, ao orçamento e às normas.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4012459",
@@ -1367,7 +1484,20 @@
       "e": "gestão democrática dos atos administrativos."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é A — contraditório e ampla defesa. A oportunidade de manifestar intenção de recorrer, apresentar razões e oferecer contrarrazões permite que os interessados conheçam e contestem os fundamentos relevantes antes da decisão administrativa. Isso concretiza o contraditório e a ampla defesa no procedimento licitatório.\n\nPor que as outras estão erradas: B) eficiência é princípio administrativo importante, mas não identifica a garantia processual descrita; C) supremacia do interesse público orienta a atuação administrativa, mas não é a garantia de participação recursal; D) economicidade trata da relação entre custos e benefícios da contratação; E) gestão democrática não é o princípio jurídico específico aplicável ao rito recursal.\n\nAtenção normativa: a Lei nº 14.133/2021 disciplina os recursos administrativos nas licitações e assegura a possibilidade de manifestação e defesa nos termos legais.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3799460",
