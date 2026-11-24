@@ -1791,7 +1791,16 @@
       "e": "Seu débito com ele / seu débito para com ele."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A forma inadequada é “determinadas em não abrir mão”; a regência adequada é “determinadas a não abrir mão”. A alternativa A apresenta primeiro a construção incorreta e, em seguida, a forma recomendada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431265",
@@ -1807,7 +1816,16 @@
       "e": "É provável que não haja tempo para resolver tudo."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Indiscutivelmente todos os processos são de difícil julgamento” apresenta avaliação categórica, sem modalização de dúvida ou possibilidade. As demais opções usam marcas de opinião ou probabilidade, tornando o julgamento menos absoluto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2411345",
@@ -1823,7 +1841,16 @@
       "e": "injuntivo."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho dedica-se principalmente a caracterizar minuciosamente o boné do aluno, detalhando forma, materiais, cores, abas e acabamento. Predomina, portanto, a tipologia descritiva.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2671867",
@@ -1839,7 +1866,16 @@
       "e": "astucioso."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Matreiro” significa astuto, esperto, manhoso ou ardiloso. A alternativa E, “astucioso”, é sinônimo adequado no contexto.",
+    "references": [
+      {
+        "label": "Academia Brasileira de Letras — Vocabulário Ortográfico da Língua Portuguesa",
+        "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2533974",
@@ -1855,7 +1891,17 @@
       "e": "Bastou os professores chegar, os alunos ficaram assustados."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O gabarito registrado é A, mas a construção “Não é dos que acredita...” é discutível: a concordância tradicional recomenda “Não é dos que acreditam...”. B também pode ser interpretada como fórmula exclamativa “Viva os atletas!”, embora a concordância verbal estrita favoreça “Vivam os atletas”. Nenhuma alternativa é inteiramente inequívoca; o item precisa de revisão.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Questão com problema de formulação: A deveria ser “acreditam”; B pode ser lida como fórmula exclamativa, mas a concordância verbal recomendada é “Vivam os atletas”. Revisar/anular."
   },
   {
     "id": "2532533",
@@ -1871,7 +1917,16 @@
       "e": "vocativo."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho entre travessões — “termo criado pelo neurologista Marsel Mesulam, que denomina pessoas...” — explica e especifica o termo “Superagers”. Trata-se de aposto explicativo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2532538",
@@ -1887,7 +1942,16 @@
       "e": "lista."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O pronome oblíquo “-la” em “relembrá-la” retoma “uma lista de substantivos”, mencionada imediatamente antes. A alternativa E identifica o referente.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431007",
@@ -1903,7 +1967,16 @@
       "e": "Caso chova amanhã, eu não poderei sair de casa."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O raciocínio é pragmático porque parte de uma informação prática sobre a previsão do tempo (sol forte) para justificar uma decisão concreta (ir às praias do Nordeste).",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2651484",
@@ -1919,7 +1992,16 @@
       "e": "dissertativo-argumentativo, por apresentar o assunto consolidando uma opinião."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O parágrafo apresenta uma avaliação do Brasil após a Constituição de 1988 e sustenta uma opinião sobre os avanços e desafios do país. Predomina o tipo dissertativo-argumentativo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2599704",
@@ -1935,7 +2017,16 @@
       "e": "informar um fato pontual sobre benefícios e desafios da pesquisa científica no mundo."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto defende a importância da ciência e da tecnologia como motores do desenvolvimento humano, apresentando argumentos, exemplos e consequências sociais. A finalidade principal é dissertar sobre essa importância.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2599712",
@@ -1951,17 +2042,16 @@
       "e": "Alguém nascido hoje num país desenvolvido deverá viver mais de 80 anos e, contanto que a desigualdade seja muita, [...]."
     },
     "answer": "E",
-    "source": "Português.pdf"
-  },
-  {
-    "id": "2278525",
-    "number": 87,
-    "subject": "Língua Portuguesa",
-    "topic": "Língua Portuguesa",
-    "stem": "TEXTO PARA AS QUESTÕES 01 a 03. Reaprender a estar no mundo Volta às atividades sociais e ao trabalho precisam incluir cuidados com a saúde física, autoconhecimento, diálogo e empatia... Claudio Lottenberg 9 de dezembro de 2021... No estágio em que nos encontramos da pandemia de Covid-19 no Brasil, com uma parcela expressiva – mais de 60% – de sua população completamente imunizada, já é possível, ainda com alguns cuidados e medidas protetivas como uso de máscara e higienização constante das mãos, falar em alguma volta à normalidade. Com isso, avançam os planos para o retorno ao trabalho presencial ou em formatos híbridos. Mas no dia 11 de novembro a pandemia completou 20 meses, um período longo e que exigiu demais de todos em termos emocionais. Simplesmente voltar ao que éramos antes será muito difícil, assumindo que seja possível. Será preciso um reaprendizado. Algumas pessoas comentam, em tom de brincadeira, que já não sabem mais como viver em sociedade – que desaprenderam como se comportar em público. Por mais que seja mesmo brincadeira, isso não está tão longe assim da realidade. Aristóteles disse que o homem é um animal que vive em sociedade – mas talvez isso seja algo que tenha de ser adquirido, não um traço de algum modo inato. Listas, receitas, métodos, programas e recomendações de como nos reinserirmos no mundo circulam em abundância. Esses conteúdos são importantes, pensando que casos de ansiedade e depressão tiveram forte crescimento ao longo da pandemia – de 27,6% para a primeira e de 25,6%, para a segunda, segundo pesquisa publicada na revista científica The Lancet no mês passado. Mais do que em qualquer outro momento de nossas vidas, cuidar da saúde, tão atingida pelas consequências da crise sanitária, se faz necessário nesse caminho de volta à normalidade. Seja qual for a fórmula a se seguir, nela não poderá faltar ao menos: – Cuidado com a saúde física: o bem-estar físico não está desconectado da saúde mental. Ao praticar exercícios e estimular a liberação de dopamina e serotonina, estamos nutrindo nosso corpo com substâncias que elevam o prazer, a autoestima e ajudam a equilibrar as emoções. Aqui vale encontrar a atividade que mais combina com seu estilo, como uma caminhada pela manhã, yoga, práticas meditativas, natação e até uma dança de salão. Enquanto você cuida da sua saúde mental, o corpo também agradece. Com 150 minutos de exercício por semana é possível diminuir o risco de doenças como o diabetes. - Autoconhecimento: conhecer a si mesmo faz muito sentido quando falamos sobre saúde mental. Compreender o que gostamos de fazer, e isso inclui o trabalho, ao qual dedicamos grande parte do tempo de nossas vidas. Reconhecer nossos limites e se dar direito ao descanso e ao lazer. – Diálogo e empatia: as pessoas que estão retomando suas rotinas agora podem voltar com muitas sequelas desse período de isolamento. Mais do que nunca será preciso olhar para o capital humano e acolher aqueles que podem ter sofrido perda de familiares ou de amigos, ou estar com sequelas da doença, com problemas para dormir, ou que de outra forma estejam abaladas. Tudo isso lembrando que a pandemia não acabou e que ainda é preciso continuar com as medidas de proteção individuais e coletivas..... Claudio Lottenberg é mestre e doutor em oftalmologia pela Escola Paulista de Medicina (Unifesp). É presidente do conselho do Hospital Albert Einstein e do Instituto Coalizão Saúde.... (LOTTENBERG, Claudio. Reaprender a estar no mundo. Forbes Brasil, 09 de dezembro de",
-    "options": {},
-    "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Contanto que” introduz condição, enquanto o trecho original usa uma relação concessiva (“conquanto”, “ainda que”, “mesmo que”, “apesar de que”). A substituição por “contanto que” altera a relação lógica e o sentido.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2488889",
@@ -1977,7 +2067,16 @@
       "e": "citações de autoridades."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto apresenta dados estatísticos, exemplos de profissionais e informações sobre a trajetória da empresa e seus investidores. Não utiliza citações diretas de autoridades como estratégia argumentativa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2411282",
@@ -1993,7 +2092,16 @@
       "e": "predicativo."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “chegar às escolas”, o verbo “chegar” rege a preposição “a”. O termo “às escolas” indica o destino/lugar para o qual algo chega e exerce função de adjunto adverbial de lugar.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2412035",
@@ -2009,7 +2117,16 @@
       "e": "dialogais."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O excerto caracteriza a Cidade Livre por meio de detalhes sobre população, construções, ruas, materiais, estabelecimentos e condições do lugar. Predomina a tipologia descritiva.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2411912",
@@ -2025,7 +2142,16 @@
       "e": "Dados estatísticos"
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Coppola sustenta sua crítica citando exemplos de elementos repetidos em filmes contemporâneos, como acidentes de carro e quedas de helicóptero. Trata-se de exemplificação.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2411270",
@@ -2041,7 +2167,16 @@
       "e": "Além do mais, o preconceito linguístico está intimamente relacionado à toda imagem que cada um dos falantes tem do outro [...]."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A expressão “relacionado a imagens” está correta sem crase, pois “imagens” aparece em sentido genérico, sem artigo definido. A preposição “a” é exigida por “relacionado”, mas não há artigo feminino para formar a crase.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2223181",
@@ -2057,7 +2192,16 @@
       "e": "Consequência direta do uso de videogames, celulares e computadores o sedentarismo está presente em 23% dos adultos segundo a OMS. Já, nos mais jovens, esse índice é de 81%."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A alternativa A apresenta pontuação adequada: a expressão “segundo a OMS” fica isolada como indicação da fonte, e a frase seguinte começa com “Já” para introduzir contraste. As demais alternativas inserem vírgulas indevidas entre sujeito e predicado ou separam elementos de forma inadequada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2532438",
@@ -2073,7 +2217,16 @@
       "e": "separar o aposto dos outros elementos da frase."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O travessão introduz a fala direta da personagem, marcando a mudança do narrador para a fala da lebre. É um recurso convencional de pontuação em diálogos.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2533907",
@@ -2089,7 +2242,16 @@
       "e": "Mestre Camisa é formado pela Universidade Federal de Uberlândia."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto informa que Mestre Camisa desenvolveu seu próprio método de ensino e filosofia da capoeira, conforme a descrição de sua atuação e da criação da Abadá-Capoeira. A alternativa B é a única compatível com o conteúdo apresentado.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2601551",
@@ -2105,17 +2267,16 @@
       "e": "fazer uma crítica."
     },
     "answer": "C",
-    "source": "Português.pdf"
-  },
-  {
-    "id": "2430953",
-    "number": 98,
-    "subject": "Língua Portuguesa",
-    "topic": "Língua Portuguesa",
-    "stem": "Todas as questões desta prova se fundamentam em pequenos textos e sua finalidade principal é verificar a sua capacidade de compreender e interpretar textos, além de sua competência em redigir de forma correta e adequada. Observe quatro manchetes de jornais diversos:",
-    "options": {},
-    "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto apresenta informações sobre características, habitat, floração, altura e usos do pau-brasil. Sua finalidade principal é informar o leitor sobre a árvore.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2408544",
@@ -2131,7 +2292,16 @@
       "e": "Londres deixar de ser a cidade mais britânica."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A crônica trata da criação de sacolas e embalagens comestíveis, explicando sua origem e funcionamento. A ideia central é a nova criação de embalagens comestíveis.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2278614",
@@ -2147,7 +2317,16 @@
       "e": "narrador de terceira pessoa onisciente."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O narrador relata os fatos em terceira pessoa, mas revela pensamentos, percepções e sentimentos do menino, inclusive seu medo e sua interpretação do mundo. Isso caracteriza narrador onisciente em terceira pessoa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2278528",
