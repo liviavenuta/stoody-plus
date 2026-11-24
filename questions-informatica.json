@@ -4097,7 +4097,7 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "CONT.NÚM conta as células numéricas do intervalo B2:F4 e ignora textos e células vazias. O gabarito originalmente cadastrado é D (8), mas a tabela foi transcrita em texto sem preservar com segurança as posições das células. Sem a imagem ou planilha original, não é possível recontar o intervalo com confiabilidade. O gabarito deve permanecer provisório até conferência do material original.",
+    "explanation": "A função CONT.NÚM conta somente as células que contêm valores numéricos no intervalo B2:F4; textos e células vazias são ignorados. Na planilha original exibida no PDF (páginas 60–61), há 8 células numéricas nesse intervalo. Portanto, o resultado é 8, alternativa D. O gabarito D também consta no gabarito do simulado.",
     "references": [
       {
         "label": "Microsoft Support — Função CONT.NÚM",
@@ -4118,7 +4118,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito D (8) provisório, não confirmado. A transcrição perdeu o alinhamento/endereçamento de algumas células; obter imagem ou planilha original antes de validar ou corrigir."
+    "reviewNote": "Conferido na planilha original do PDF, páginas 60–61, e no gabarito do simulado: alternativa D (8). A imagem permite contar as células numéricas do intervalo B2:F4; a observação de transcrição/alinhamento está resolvida."
   },
   {
     "id": "2600172",
