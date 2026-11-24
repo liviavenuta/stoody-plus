@@ -6833,7 +6833,7 @@
         "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       }
     ],
-    "reviewNote": "A resposta D decorre da interpretação do critério como <19. Recomenda-se corrigir a cadeia de critério para \"> <19\"? Não: usar exatamente \"<19\", sem espaço inicial, no enunciado.",
+    "reviewNote": "O critério deve ser escrito sem espaço inicial, como \"<19\", para deixar inequívoca a comparação pretendida.",
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24"
   },
