@@ -5429,7 +5429,28 @@
       "e": "legalidade estrita, autotutela e publicidade."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — moralidade, razoabilidade e eficiência.** A exclusão de candidata de concurso público apenas por possuir prótese de silicone, sem demonstração de incompatibilidade concreta com as atribuições do cargo, sugere critério arbitrário e desproporcional. A Administração deve justificar tecnicamente as exigências de saúde, relacionando-as às funções do cargo e aos riscos efetivos.\n\n- **A) Incorreta:** impessoalidade e motivação podem ser relevantes, mas indisponibilidade do interesse público não é o núcleo do caso.\n- **B) Correta segundo o gabarito:** a decisão pode contrariar a moralidade por arbitrariedade, a razoabilidade pela falta de adequação/proporção e a eficiência por não guardar relação demonstrada com o desempenho funcional.\n- **C) Incorreta:** discricionariedade não autoriza critérios sem base técnica; consenso não é o tema.\n- **D) Incorreta:** supremacia do interesse público não autoriza restrições arbitrárias a direitos individuais.\n- **E) Incorreta:** legalidade e publicidade podem ser pertinentes em sentido amplo, mas autotutela não descreve a questão.\n\n**Ressalva:** a conclusão depende da ausência de justificativa médica ou funcional idônea. Se houvesse risco concreto, comprovado e juridicamente relevante para as atribuições do cargo, a análise poderia ser diferente. O enunciado não apresenta tal justificativa.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "772314",
@@ -5446,7 +5467,28 @@
       "e": "Pelo Princípio da Moralidade, o agente público deve agir segundo a sua subjetividade, sem precisar se ater a moralidade jurídica."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D.** A alternativa afirma que o agente público deve agir com conduta ética e respeitar os valores da boa administração. Isso corresponde à moralidade administrativa.\n\n- **A) Incorreta:** boa-fé não pode ser afastada pela percepção subjetiva do agente de que o ato deveria ser praticado de outra forma.\n- **B) Incorreta:** a moralidade administrativa não se reduz à boa-fé subjetiva; exige padrões objetivos de probidade e boa-fé.\n- **C) Incorreta:** moralidade não dispensa legalidade. Os princípios devem ser observados conjuntamente.\n- **D) Correta:** conduta ética e respeito à boa administração sintetizam a moralidade.\n- **E) Incorreta:** a atuação não pode ficar subordinada à subjetividade pessoal do agente nem ignorar a moralidade jurídica.\n\n**Dica:** moralidade administrativa é princípio jurídico vinculante, não preferência moral particular do servidor.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2473488",
@@ -5463,7 +5505,28 @@
       "e": "ampla defesa."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D — eficiência.** Lentidão injustificada, omissão, desperdício e ausência de planejamento comprometem o desempenho da Administração e a qualidade dos resultados. São condutas que contrariam diretamente a eficiência, prevista no art. 37, caput.\n\n- **A) Segurança jurídica — incorreta:** protege estabilidade e confiança legítima.\n- **B) Motivação — incorreta:** exige exposição dos fundamentos de fato e de direito das decisões.\n- **C) Moralidade — incorreta:** trata de probidade e ética, embora desperdício deliberado também possa levantar questões éticas.\n- **D) Eficiência — correta:** exige planejamento, produtividade, qualidade e uso racional dos recursos.\n- **E) Ampla defesa — incorreta:** é garantia processual.\n\n**Dica:** desperdício, baixa produtividade e demora injustificada são indícios típicos de ineficiência.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2473515",
@@ -5480,7 +5543,28 @@
       "e": "subjetividade; informalidade; tom particular e amistoso."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A.** A impessoalidade na comunicação oficial se manifesta por três características: ausência de impressões individuais de quem comunica; destinatário concebido de forma homogênea e impessoal; e assunto tratado como tema de interesse público.\n\n- **A) Correta:** reúne as três características da comunicação oficial impessoal.\n- **B) Incorreta:** discurso afetivo e individual e interesse particular contrariam a impessoalidade.\n- **C) Incorreta:** impressões individuais, destinatário particular e interesse individual são incompatíveis com comunicação institucional impessoal.\n- **D) Incorreta:** amizade, subjetividade afetiva e impressões redundantes não são fundamentos da impessoalidade.\n- **E) Incorreta:** subjetividade, informalidade e tom pessoal não caracterizam a comunicação oficial impessoal.\n\n**Dica:** comunicação oficial representa a instituição e trata de assuntos de interesse público, não a opinião ou preferência pessoal do agente.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1385033",
@@ -5494,7 +5578,28 @@
       "b": "Errado"
     },
     "answer": "a",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — Certo.** O item apresenta corretamente os cinco princípios expressos no art. 37, caput — legalidade, impessoalidade, moralidade, publicidade e eficiência — e associa eficiência à atuação com presteza, perfeição e rendimento funcional, formulação clássica da doutrina administrativa.\n\n- **A) Certo — correta:** a afirmação está de acordo com o rol constitucional e com a concepção doutrinária de eficiência.\n- **B) Errado — incorreta:** não há erro material que torne o item falso.\n\n**Dica:** eficiência envolve o modo de atuação do agente e a organização administrativa para alcançar resultados satisfatórios.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2473486",
@@ -5511,7 +5616,28 @@
       "e": "segurança jurídica."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — legalidade.** O texto afirma que as entidades públicas e os administradores estão condicionados aos mandamentos legais e às exigências do bem comum. O núcleo destacado é a submissão da Administração ao ordenamento, característica da legalidade administrativa.\n\n- **A) Legalidade — correta:** a Administração atua dentro das competências e limites jurídicos.\n- **B) Moralidade — incorreta:** exige padrões éticos, probidade e boa-fé.\n- **C) Impessoalidade — incorreta:** veda favorecimentos e exige objetividade.\n- **D) Publicidade — incorreta:** assegura transparência e divulgação dos atos.\n- **E) Segurança jurídica — incorreta:** protege previsibilidade, estabilidade e confiança legítima.\n\n**Dica:** quando o enunciado enfatiza mandamentos legais e submissão às normas, a resposta tende a ser legalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "692076",
@@ -5528,7 +5654,28 @@
       "e": "Eficiência."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — eficiência.** A Emenda Constitucional nº 19/1998 incluiu expressamente a eficiência no caput do art. 37 da Constituição, completando o conjunto conhecido como LIMPE.\n\n- **A) Moralidade — incorreta:** já constava do rol constitucional anterior à EC 19/1998.\n- **B) Legalidade — incorreta:** já era princípio expresso antes da emenda.\n- **C) Publicidade — incorreta:** também já constava do texto constitucional.\n- **D) Impessoalidade — incorreta:** também integrava o rol original.\n- **E) Eficiência — correta:** foi acrescentada expressamente pela EC 19/1998.\n\n**Dica:** a EC 19/1998, conhecida como Reforma Administrativa, incluiu a eficiência entre os princípios expressos do art. 37.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "828774",
@@ -5545,7 +5692,28 @@
       "e": "legalidade."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — legalidade.** Um prefeito não pode criar, por decreto, proibição geral de uso de determinada vestimenta em espaços públicos sem fundamento jurídico e competência legal. A restrição também suscitaria questões relativas às liberdades individuais, mas a pergunta pede o princípio administrativo diretamente violado pela imposição sem base legal.\n\n- **A) Tutela — incorreta:** não é o princípio central do caso.\n- **B) Eficiência — incorreta:** trata de resultados e qualidade da gestão.\n- **C) Autotutela — incorreta:** refere-se à revisão dos próprios atos administrativos.\n- **D) Publicidade — incorreta:** trata da transparência e divulgação.\n- **E) Legalidade — correta:** a Administração não pode criar proibições arbitrárias sem fundamento jurídico.\n\n**Atenção:** a pressão de um grupo religioso não substitui a lei nem autoriza o Executivo municipal a restringir liberdades individuais por simples decreto.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1000914",
@@ -5562,7 +5730,28 @@
       "e": "proporcionalidade."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — legalidade.** A frase reproduz a definição tradicional de legalidade administrativa: toda atividade da Administração deve ter fundamento no ordenamento e respeitar os limites da competência atribuída.\n\n- **A) Eficiência — incorreta:** refere-se a qualidade, produtividade e resultados.\n- **B) Motivação — incorreta:** exige explicitar os fundamentos de fato e de direito do ato.\n- **C) Legalidade — correta:** é a submissão da Administração à lei e ao Direito.\n- **D) Autoridade — incorreta:** não é o princípio descrito.\n- **E) Proporcionalidade — incorreta:** exige adequação e equilíbrio entre meios e fins.\n\n**Dica:** “não sendo autorizada, a atividade é ilícita” é a fórmula tradicional de legalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1620938",
@@ -5576,7 +5765,28 @@
       "b": "Errado"
     },
     "answer": "b",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — Errado.** O item atribui à moralidade uma definição que corresponde principalmente à impessoalidade. A vedação de preferências, favoritismos e escolhas pessoais, com atuação voltada à finalidade pública, é núcleo da impessoalidade.\n\n- **A) Certo — incorreta:** o enunciado troca os conceitos.\n- **B) Errado — correta:** a descrição apresentada é de impessoalidade, não de moralidade.\n\n**Distinção importante:**\n- **Moralidade:** exige probidade, honestidade, boa-fé e ética administrativa.\n- **Impessoalidade:** veda favorecimentos e perseguições e exige atuação objetiva, orientada à finalidade pública.\n\n**Dica:** favoritismo e preferência pessoal apontam para impessoalidade; honestidade e probidade apontam para moralidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios, motivação e finalidade (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Manual de Redação da Presidência da República — 3ª edição",
+        "url": "https://www.gov.br/planalto/pt-br/assuntos/assuntos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "828624",
