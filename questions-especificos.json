@@ -10287,25 +10287,25 @@
       "d": "Apenas II, III e IV.",
       "e": "I, II, III e IV."
     },
-    "answer": "C",
+    "answer": "B",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "Gabarito informado no arquivo: C. Revisão técnica: o conteúdo das assertivas aponta para I, II e IV, portanto a alternativa B. A assertiva III é incorreta por caracterizar a compra organizacional como pessoal. Recomenda-se corrigir o gabarito para B ou revisar a transcrição das assertivas antes de publicar.",
+    "explanation": "A alternativa correta é B (apenas I, II e IV). I é verdadeira: a compra organizacional costuma ser conduzida por compradores profissionais, com critérios técnicos e procedimentos formais. II é verdadeira: a venda pessoal tem papel relevante no mercado organizacional porque permite contato direto, levantamento das necessidades, esclarecimento de especificações e negociação com os participantes do centro de compras. III é falsa: a compra é orientada pelas necessidades e objetivos da organização, não por uma natureza predominantemente pessoal. IV é verdadeira: o processo de compra organizacional ocorre em etapas, como reconhecimento do problema, descrição da necessidade, especificação do produto, busca e avaliação de fornecedores, seleção, pedido e avaliação do desempenho. Portanto, o gabarito C que constava no arquivo não corresponde às assertivas; o gabarito foi corrigido para B com base nas fontes consultadas.",
     "references": [
       {
-        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
-        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+        "label": "Lumen Learning — The Organizational Buying Process",
+        "url": "https://courses.lumenlearning.com/suny-hccc-marketing/chapter/reading-the-organizational-buying-process/"
       },
       {
-        "label": "TCU — Licitações e Contratos",
-        "url": "https://licitacoesecontratos.tcu.gov.br/"
+        "label": "Kotler e Keller — Marketing Management, 14th ed. (processo de compra empresarial)",
+        "url": "https://library.uniq.edu.iq/storage/books/file/kotler_keller_-_marketing_management_14th_edition/1666787488kotler_keller_-_marketing_management_14th_edition.pdf"
       },
       {
-        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
-        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+        "label": "SAGE — Professional Selling, 2nd ed. (compradores organizacionais e processo de compra)",
+        "url": "https://uk.sagepub.com/sites/default/files/upm-assets/128257_book_item_128257.pdf"
       },
       {
-        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
-        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+        "label": "Burnett — Introducing Marketing: Organizational Buyer Behavior",
+        "url": "https://biz.libretexts.org/Bookshelves/Marketing/Introducing_Marketing_%28Burnett%29/04%3A_Understanding_Buyer_Behavior/4.04%3A_Organizational_buyer_behavior"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
