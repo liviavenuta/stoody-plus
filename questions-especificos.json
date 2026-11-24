@@ -1147,7 +1147,28 @@
       "e": "Marketplaces – Marketing de Relacionamento – marketshare"
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — Benchmarking / Marcos Referenciais / benchmark.** Benchmarking é um processo sistemático de comparação de práticas e resultados com organizações reconhecidas por desempenho superior, para identificar oportunidades de melhoria. As referências não precisam ser concorrentes diretos.\n\n- **A) Correta:** benchmarking é a prática; marcos referenciais são referências de comparação; benchmark pode designar a medida ou padrão comparativo.\n- **B) Incorreta:** backflushing é técnica de baixa/registro de materiais vinculada à produção; back to back tem outro uso comercial/logístico.\n- **C) Incorreta:** brainstorming é geração coletiva de ideias; budgets são orçamentos.\n- **D) Incorreta:** block stacking é forma de armazenagem em blocos; break-even point é ponto de equilíbrio.\n- **E) Incorreta:** marketplaces são plataformas de comércio; market share é participação de mercado.\n\n**Dica:** benchmarking = aprender comparando processos e resultados com referências de excelência, não apenas com concorrentes.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "487777",
@@ -1164,7 +1185,28 @@
       "e": "Pessoas"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — Materiais.** A área de administração de materiais normalmente coordena compras, estoques, almoxarifados, centros de distribuição e, conforme a estrutura da organização, recursos patrimoniais.\n\n- **A) Jurídico — incorreta:** presta assessoramento jurídico e análise de legalidade.\n- **B) Projetos — incorreta:** planeja e acompanha projetos, não é a área típica de suprimentos.\n- **C) Materiais — correta:** reúne aquisição, controle de estoque, armazenagem e distribuição.\n- **D) Qualidade — incorreta:** atua em padrões e controle da qualidade.\n- **E) Pessoas — incorreta:** cuida de gestão de recursos humanos.\n\n**Dica:** compras, almoxarifado, estoque e distribuição são funções que costumam integrar a área de materiais/suprimentos.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1560751",
@@ -1181,7 +1223,28 @@
       "e": "a documentação do fluxo de informações é dispensável no controle de estoques, para que se evite excesso burocrático."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — demanda média, tempo de reposição e estoque de segurança.** Esses parâmetros são fundamentais para dimensionar níveis de estoque e evitar tanto ruptura quanto excesso.\n\n- **A) Incorreta:** o objetivo não é manter estoques no nível mais elevado possível, mas em níveis adequados à demanda e ao risco de falta.\n- **B) Correta:** demanda média, lead time/tempo de reposição e estoque de segurança apoiam o cálculo do ponto de pedido e da reposição.\n- **C) Incorreta:** produzir conforme planejamento é atividade de planejamento e controle da produção; relaciona-se ao estoque, mas não define por si só o controle de estoques.\n- **D) Incorreta:** rentabilidade, liquidez e risco são indicadores financeiros, não os cálculos centrais do controle físico de estoque.\n- **E) Incorreta:** documentação e registros são indispensáveis à rastreabilidade e ao controle; não devem ser eliminados sob pretexto de reduzir burocracia.\n\n**Dica:** ponto de pedido depende do consumo durante o prazo de reposição e de uma margem de segurança.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "334023",
@@ -1198,7 +1261,28 @@
       "e": "pelo pagamento dos títulos referente à compra de mercadorias."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — guarda física e conservação dos materiais.** O almoxarifado é o espaço/setor responsável por receber, conferir, guardar, preservar e disponibilizar materiais para os usuários, conforme as requisições autorizadas.\n\n- **A) Incorreta:** compra e negociação com fornecedores pertencem à função de aquisição/compras.\n- **B) Correta:** guarda e conservação são atribuições centrais do almoxarifado.\n- **C) Incorreta:** o almoxarifado distribui materiais aos usuários internos, não aos fornecedores.\n- **D) Incorreta:** planejamento da produção é atribuição da área produtiva/PCP.\n- **E) Incorreta:** pagamento de títulos é atividade financeira/contábil.\n\n**Dica:** almoxarifado recebe, confere, guarda, conserva, controla e entrega materiais.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "449461",
@@ -1215,7 +1299,28 @@
       "e": "I, II e III."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — I, II e III.** O conceito amplo de administração de materiais abrange todo o fluxo físico e operacional, desde o planejamento e a aquisição até o recebimento, armazenagem, movimentação interna e distribuição de produtos acabados.\n\n- **I — correta:** programação de materiais e compras integra o planejamento do abastecimento.\n- **II — correta:** recepção e armazenamento no almoxarifado são etapas essenciais do ciclo.\n- **III — correta:** movimentação, transporte interno e armazenamento de produtos acabados também fazem parte da gestão do fluxo de materiais.\n- **A), B), C) e D) — incorretas:** deixam de reconhecer uma ou mais etapas do processo.\n- **E) I, II e III — correta:** todas as etapas descritas integram a administração de materiais.\n\n**Dica:** o escopo é sistêmico: planejamento, compra, recebimento, armazenagem, movimentação e distribuição.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "296103",
@@ -1232,7 +1337,28 @@
       "e": "etiquetar, guardar e acompanhar as quantidades de materiais de acordo com a aprovação do setor de compras da organização."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — entregar os materiais, mediante requisições autorizadas, aos usuários da empresa.** Uma das principais funções do almoxarifado é atender às requisições internas, entregando os materiais de forma controlada e registrando a movimentação.\n\n- **A) Incorreta:** a atualização dos registros é importante, mas a alternativa limita a atividade a um período e não expressa a atribuição mais direta solicitada.\n- **B) Correta:** a entrega mediante requisição autorizada é atividade típica do almoxarifado.\n- **C) Incorreta:** acondicionamento e conferência podem fazer parte da rotina, mas a descrição não identifica tão diretamente a atribuição central apresentada.\n- **D) Incorreta:** confirmação de recebimento é etapa de entrada e controle, não a atribuição destacada na pergunta.\n- **E) Incorreta:** etiquetar e guardar são atividades do setor, mas a redação condiciona o acompanhamento das quantidades à aprovação do setor de compras, o que não define a função do almoxarifado.\n\n**Dica:** saída de material deve ocorrer com requisição/autorização e registro, garantindo rastreabilidade e responsabilização.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "261825",
@@ -1249,7 +1375,28 @@
       "e": "sequência de operações que se inicia na identificação do fornecedor, na compra do bem, seu recebimento, transporte interno e acondicionamento, seu transporte durante o processo produtivo/uso, na armazenagem como produto acabado e na sua distribuição ao consumidor final."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E.** A alternativa apresenta a sequência integrada de operações da administração de materiais, desde a identificação de fornecedores e aquisição até recebimento, transporte, armazenagem e distribuição ao consumidor ou usuário final.\n\n- **A) Incorreta:** descreve de forma genérica um sistema de solução de problemas, não a sequência específica de materiais.\n- **B) Incorreta:** limita a função ao planejamento de compras.\n- **C) Incorreta:** limita a atividade à entrega final.\n- **D) Incorreta:** é uma definição genérica de processo organizacional, não da administração de materiais.\n- **E) Correta:** descreve o fluxo amplo de materiais ao longo da cadeia.\n\n**Dica:** administração de materiais não é apenas comprar ou armazenar; coordena o fluxo desde o fornecedor até o destino final.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "269274",
@@ -1266,7 +1413,28 @@
       "e": "auditoria; importação."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — controle de estoques; transportes e distribuição.** São áreas típicas do sistema de materiais, pois cuidam da disponibilidade dos itens e do deslocamento até os pontos de uso ou clientes.\n\n- **A) Compras e controladoria — incorreta:** compras integra materiais, mas controladoria é função de controle gerencial/financeiro e não forma o par típico pedido.\n- **B) Relações públicas e almoxarifado — incorreta:** relações públicas não integra o sistema de materiais.\n- **C) Controle de estoques; transportes e distribuição — correta:** ambas são funções logísticas centrais.\n- **D) Planejamento da produção e recursos humanos — incorreta:** são áreas correlatas, mas não representam o sistema de materiais.\n- **E) Auditoria e importação — incorreta:** podem apoiar ou compor atividades específicas, mas não representam o conjunto típico.\n\n**Dica:** sistema de materiais inclui compras, estoques, armazenagem, movimentação, transporte e distribuição.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "244198",
@@ -1283,7 +1451,28 @@
       "e": "Controle de estoques: responsável pela gestão econômica dos estoques, através do planejamento e da programação do material, compreendendo análise, previsão, controle e ressuprimento."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — controle de estoques.** O controle de estoques responde pela gestão econômica e operacional dos níveis de materiais, abrangendo planejamento, programação, análise, previsão, controle e ressuprimento.\n\n- **A) Incorreta:** classificação organiza e codifica itens; negociação e contratação pertencem à função de compras.\n- **B) Incorreta:** movimentação cuida do deslocamento dos materiais; cadastro de fornecedores, pesquisa e compras pertencem à aquisição.\n- **C) Incorreta:** armazenagem e almoxarifado cuidam da guarda e conservação; identificação, classificação e codificação são funções de classificação/cadastramento.\n- **D) Incorreta:** inspeção de recebimento verifica conformidade quantitativa e qualitativa; guarda, preservação e expedição são funções de armazenagem/almoxarifado.\n- **E) Correta:** descreve a gestão econômica dos estoques e o ciclo de planejamento e reposição.\n\n**Dica:** controle de estoques = decidir quanto manter, quando repor e como evitar falta ou excesso.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "487024",
@@ -1300,7 +1489,28 @@
       "e": "a administração de recursos patrimoniais trata da sequência de operações que, diferentemente da administração de recursos materiais, não se inicia pela identificação do fornecedor, ou pela compra de um bem, mas preocupa-se com sua conservação, manutenção e, eventual, alienação."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: D — sequência da administração de recursos materiais.** A alternativa D descreve o fluxo de materiais desde a identificação do fornecedor e compra até transporte, armazenagem e distribuição do produto acabado.\n\n- **A) Incorreta:** instalação é normalmente recurso patrimonial, de caráter permanente, não material de consumo.\n- **B) Incorreta:** conjunto de bens, valores e direitos compõe o patrimônio da pessoa jurídica, não uma “matriz de recursos materiais”.\n- **C) Incorreta:** produtos em processo e produtos acabados são materiais/estoques no fluxo produtivo; produto acabado não se torna automaticamente bem patrimonial.\n- **D) Correta segundo o gabarito:** descreve a cadeia operacional da administração de recursos materiais.\n- **E) Descrição parcialmente plausível:** a gestão patrimonial realmente envolve conservação, manutenção e eventual alienação de bens permanentes. Por isso, a alternativa também tem conteúdo conceitualmente defensável, embora descreva apenas parte do ciclo patrimonial.\n\n**Ressalva:** a questão pode admitir discussão, porque a alternativa E apresenta atividades efetivamente relacionadas à administração patrimonial. A D é a resposta mais diretamente alinhada à definição ampla de administração de materiais; preservei o gabarito cadastrado e sinalizei a sobreposição conceitual.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, apostila e slides",
+        "url": "https://repositorio.enap.gov.br/handle/1/2449"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "265341",
