@@ -4120,7 +4120,16 @@
       "d": "II e III."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Apenas III está correta. O narrador associa a juventude à vivência exterior e à interação com os outros, enquanto a velhice favorece a vivência interior, a recordação e a reflexão. I e II invertem essas definições.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2543725",
@@ -4135,7 +4144,16 @@
       "d": "\" — e. mesmo que houvesse, eu não saberia usá-lo, sou avesso a essas coisas.”"
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A frase “se a gente se dedica a recordar, quanto tempo sobra para a vida propriamente dita?” amplia a reflexão pessoal para uma questão geral sobre o equilíbrio entre memória e experiência presente.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2280832",
@@ -4151,7 +4169,16 @@
       "e": "aceitar que é um sentimento tão legítimo quanto a depressão, a ansiedade ou outra prostração qualquer."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Para a autora, permitir a tristeza significa reconhecer que a introspecção e os períodos de desânimo podem fazer parte da experiência humana, sem tratá-los automaticamente como doença ou tentar suprimi-los com soluções imediatas.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2231716",
@@ -4167,7 +4194,16 @@
       "e": "*... aquela mansão onde as bruxas morreram de chatice...”"
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A frase “A verdade é uma mentira contada por Fernando Silva” é ilustrada pela ideia de que o passarinho parece imitar Fernando quando canta como o sabiá que Fernando imita: a narrativa e a imaginação do contador transformam a percepção da realidade.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2231522",
@@ -4183,7 +4219,16 @@
       "e": "\"... aquela mansão onde as bruxas morreram de chatice...”"
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho em que o narrador pensa “Esse passarinho está imitando Fernando quando imita o sabiá” retoma a ideia de que a narrativa de Fernando transforma a percepção do real, fazendo a realidade parecer imitar a ficção contada por ele.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1971357",
@@ -4197,8 +4242,17 @@
       "c": "expositiva, que se baseia na exposição de ideias, não tomando uma posição sobre elas.",
       "d": "descritiva, pautada nos traços mais particulares do objeto em questão, a imagem individual."
     },
-    "answer": "A",
-    "source": "Português.pdf"
+    "answer": "B",
+    "source": "Português.pdf",
+    "explanation": "O fragmento apresenta uma reflexão e uma posição sobre os desejos humanos, formulando recomendações e ideias gerais ao leitor. Predomina a organização dissertativa, não uma sequência de acontecimentos narrativos.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1971341",
@@ -4213,7 +4267,16 @@
       "d": "registra os acontecimentos sob uma ótica individual, sem que haja uma sobrecarga de emoções na narração."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O narrador relata os fatos a partir de sua própria perspectiva e reconhece o contraste entre seu medo infantil e a desenvoltura da irmã. A narração é individual e não se concentra em dramatizar o sofrimento de Barbara.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1973969",
@@ -4229,7 +4292,16 @@
       "e": "as palavras, como os seres humanos, simplificam as fases da vida e sofrem as impressões dos sentidos que se estabelecem no contexto social, além de caírem em desuso e morrerem lentamente."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A comparação indica que as palavras, assim como os seres humanos, sofrem a influência de seu tempo, mudam de significado, acompanham tendências e podem cair em desuso.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1775666",
@@ -4245,7 +4317,16 @@
       "e": "recato, sujeira."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Luxo” remete à ostentação, riqueza ou excesso; “lixo” designa aquilo que é descartado ou considerado imprestável. A alternativa D apresenta os sentidos correspondentes.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1696711",
@@ -4261,17 +4342,16 @@
       "e": "de forma heterogênea, em 3ª pessoa, onisciente, em parágrafos predominantemente narrativos, e em 1ª pessoa, em parágrafo predominantemente dissertativo."
     },
     "answer": "E",
-    "source": "Português.pdf"
-  },
-  {
-    "id": "886888",
-    "number": 186,
-    "subject": "Língua Portuguesa",
-    "topic": "Língua Portuguesa",
-    "stem": "Texto para responder às questões de 01 a 10. O Dia da Consciência Negra [...] O assunto é delicado; em questão de raça, deve-se tocar nela com dedos de veludo. Pode ser que eu esteja errada, mas parece que no tema de raça, racismo, negritude, branquitude, nós caímos em preconceito igual ao dos racistas. O europeu colonizador tem - ou tinha - uma lei: teve uma parte de sangue negro - é negro. Por pequena que seja a gota de sangue negro no indivíduo, polui-se a nobre linfa ariana, e o portador da mistura é \"declarado negro”. E os mestiços aceitam a definição e - meiões, quarteirões, octorões - se dizem altivamente “negros\", quando isso não é verdade. Ao se afirmar “negro” o mestiço faz bonito, pois assume no total a cor que o branco despreza. Mas ao mesmo tempo está assumindo também o preconceito do branco contra o mestiço. Vira racista, porque, dizendo-se negro, renega a sua condição de mulato, mestiço, half-breed, meia casta, marabá, desprezados pela branquidade. Aliás, é geral no mundo a noção exacerbada de raça, que não afeta só os brancos, mas os amarelos, vermelhos, negros; todos desprezam o meia casta, exemplo vivo da infração à lei tribal. Eu acho que um povo mestiço, como nós, deveria assumir tranquilamente essa sua condição de mestiço; em vez de se dizer negro por bravata, por desafio - o que é bonito, sinal de orgulho, mas sinal de preconceito também. Os campeões nossos da negritude, todos eles, se dizem simplesmente negros. Acham feio, quem sabe até humilhante, se declararem mestiços, ou meio brancos, como na verdade o são. “Black is beautiful” eu também acho. Mas mulato é lindo também, seja qual for a dose da sua mistura de raça. Houve um tempo, antes de se desenvolver no mundo a reação antirracista, em que até se fazia aqui no Rio o concurso “rainha das mulatas”. Mas a distinção só valia para a mulata jovem e bela. Preconceito também e dos péssimos, pois a mulata só era valorizada como objeto sexual, capaz de satisfazer a consciência dos homens. A gente não pode se deixar cair nessa armadilha dos brancos. A gente tem de assumir a nossa mulataria. Qual brasileiro pode jurar que tem sangue “puro” nas veias, - branco, negro, árabe, japonês? Vejam a lição de Gilberto Freyre, tão bonita. Nós todos somos mestiços, mulatos, morenos, em dosagens várias. Os casos de branco puro são exceção {como os de índios puros - tais os remanescentes de tribos que certos antropólogos querem manter isolados, geneticamente puros - fósseis vivos - para eles estudarem...). Não vale indagar se a nossa avó chegou aqui de caravela ou de navio negreiro, se nasceu em taba de índio ou na casa- grande. Todas elas somos nós, qualquer procedência Tudo é brasileiro. Quando uma amiga minha, doutora, participante ilustre de um congresso médico, me declarou orgulhosa “eu sou negra” - não resisti e perguntei: “Por que você tem vergonha de ser mulata?” Ela quase se zangou. Mas quem tinha razão era eu. Na paixão da luta contra a estupidez dos brancos, os mestiços caem justamente na posição que o branco prega: negro de um lado, branco do outro. Teve uma gota de sangue africano é negro - mas tendo uma gota de sangue branco será declarado branco? Não é. Ah, meus irmãos, pensem bem. Mulata, mulato também são bonitos e quanto! E nós todos somos mesmo mestiços, com muita honra, ou morenos, como o queria o grande Freyre. Raça morena, estamos apurando. Daqui a 500 anos será reconhecida como “zootecnicamente pura\" tal como se diz de bois e de cavalos. Se é assim que eles gostam! QUEIROZ, Rachel. O Dia da Consciência Negra. O Estado de S. Paulo, São Paulo, 23nov.",
-    "options": {},
-    "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto alterna trechos narrados em terceira pessoa sobre o cronista jovem e passagens em primeira pessoa que expressam a perspectiva do cronista idoso. O foco narrativo é heterogêneo, combinando narração e reflexão.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1425552",
@@ -4287,7 +4367,16 @@
       "e": "Porquanto"
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Entretanto” é conjunção adversativa e pode ser substituída por “no entanto”, sem alteração relevante do sentido de oposição introduzido no período.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1998004",
@@ -4303,7 +4392,16 @@
       "e": "roupa."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O pronome relativo “que” em “o que resta de roupa” retoma o pronome demonstrativo “o”, equivalente a “aquilo”. Evita a repetição desse elemento no encadeamento textual.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1984329",
@@ -4319,7 +4417,16 @@
       "e": "roupa."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “o que resta de roupa”, o “que” retoma o pronome demonstrativo “o” (“aquilo”), evitando sua repetição. A alternativa C identifica o referente.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1984252",
@@ -4335,7 +4442,17 @@
       "e": "por conseguinte."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "No trecho “não por sadismo, mas por ignorância”, “mas” tem valor adversativo/corretivo. Contudo, as opções oferecidas não apresentam substituto sintaticamente adequado e equivalente, como “porém” ou “e sim”. “Não obstante” não se encaixa naturalmente nessa estrutura. O item merece anulação ou reformulação.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Nenhuma das opções substitui adequadamente “mas” em “não por sadismo, mas por ignorância”. “Não obstante” não preserva a construção sintática e o valor corretivo. Recomenda-se anulação/reformulação."
   },
   {
     "id": "1971162",
@@ -4351,7 +4468,16 @@
       "e": "ratificar a ideia de que é fundamental a diminuição da idade penal."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A expressão “A verdade é que” introduz a refutação de uma ideia contrária à tese do autor: após apresentar a alegação de que o ECA não pune, o texto mostra as medidas socioeducativas existentes. A expressão prepara a contraposição e a negação do argumento adversário.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1808303",
@@ -4367,7 +4493,16 @@
       "e": "II"
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Apenas a afirmativa I corresponde ao texto narrativo: a organização apresenta personagens, espaço, tempo e acontecimentos. As demais descrições tratam de características gerais de outros modos de organização ou atribuem ao texto uma estrutura episódica que não se verifica no fragmento.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1808318",
@@ -4383,7 +4518,16 @@
       "e": "ELE é um pronome substantivo pessoal oblíquo e substitui um referente já apresentado."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Ele” retoma o marido, mencionado anteriormente, e funciona como pronome pessoal oblíquo tônico após a preposição “para”. Não é pronome oblíquo átono; a classificação da alternativa E é a adequada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1808069",
@@ -4399,7 +4543,16 @@
       "e": "II e III."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A afirmativa I descreve a organização narrativa por meio de participantes, circunstâncias e acontecimentos. As afirmativas II e III não caracterizam adequadamente o fragmento, que não apresenta uma sucessão extensa de episódios em cadeias paralelas.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2727563",
@@ -4414,8 +4567,18 @@
       "d": "quantificação e qualificação.",
       "e": "causa e efeito."
     },
-    "answer": "C",
-    "source": "Português.pdf"
+    "answer": "A",
+    "source": "Português.pdf",
+    "explanation": "A correlação “quanto mais..., tanto mais...” expressa proporção: à medida que aumenta a reflexão sobre o caso, aumenta também a revolta da personagem. A alternativa A é a mais próxima da relação de quantificação/proporção, embora o enunciado não ofereça a denominação técnica mais precisa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A relação sintática é de proporção (“quanto mais..., tanto mais...”), mas nenhuma opção a nomeia diretamente. A é a mais próxima; recomenda-se revisar as alternativas."
   },
   {
     "id": "1981429",
@@ -4431,7 +4594,16 @@
       "e": "Os dois obedeciam um costume antigo."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Agradava-lhes a companhia um do outro” está correto: o verbo “agradar”, no sentido de causar agrado, rege a preposição “a”, e o pronome “lhes” funciona como objeto indireto. As demais alternativas apresentam problemas de regência.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1981058",
@@ -4447,7 +4619,17 @@
       "e": "\"para quem não tem a solidariedade como móvel de sua conduta\" = [... ] até para quem não tem a solidariedade como móvel de sua conduta."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Alguns anos atrás” pode ser reescrito como “há alguns anos”, preservando a referência temporal passada. A alternativa C traz “Há anos”, que mantém a ideia geral, embora omita o quantificador “alguns”; seria melhor escrever “Há alguns anos”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A substituição deveria ser “Há alguns anos”, para preservar integralmente o quantificador “alguns” do original."
   },
   {
     "id": "1980475",
@@ -4463,7 +4645,16 @@
       "e": "Todo o texto é desenvolvido como uma crítica às pessoas que, com o objetivo de diminuir o sentimento de solidão, acabam domesticando animais silvestres."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto apresenta exemplos de pessoas que alimentam animais e conduz o leitor a uma conclusão inesperada: o homem que alimenta os pombos revela que o faz para administrar anticoncepcionais e reduzir a população. O final quebra a expectativa criada pelo comportamento aparentemente generoso.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1981561",
@@ -4479,7 +4670,17 @@
       "e": "contraste."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A correlação “quanto mais refletia..., tanto mais se revoltava...” expressa proporção: o aumento da reflexão corresponde ao aumento da revolta. A alternativa D (“causa e efeito”) é a resposta pretendida pela banca, mas a classificação mais precisa é relação proporcional.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A relação entre as orações é proporcional (“quanto mais..., tanto mais...”), e não propriamente causa e efeito. Gabarito D é aproximado; recomenda-se corrigir a classificação ou reformular as opções."
   },
   {
     "id": "1987821",
@@ -4495,6 +4696,15 @@
       "e": "portanto."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Então” introduz uma conclusão ou consequência do raciocínio anterior e pode ser substituído por “portanto”. As alternativas adversativas (“entretanto”, “contudo”), causais (“porquanto”) ou conformativas (“consoante”) alterariam o sentido.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   }
 ]
