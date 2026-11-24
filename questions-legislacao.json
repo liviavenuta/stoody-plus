@@ -1368,7 +1368,16 @@
       "e": "previsibilidade"
     },
     "answer": "D",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, caput, da Constituição enumera legalidade, impessoalidade, moralidade, publicidade e eficiência. A lacuna é preenchida por “eficiência”.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3173854",
@@ -1385,7 +1394,16 @@
       "e": "deverá responder em ação regressiva, no caso de ter agido com dolo ou culpa, se a empresa for responsabilizada pelos danos causados a Maria."
     },
     "answer": "E",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A empresa privada prestadora de serviço público responde objetivamente perante a vítima pelos danos causados por seus agentes nessa qualidade. O agente responde regressivamente perante a empresa se comprovados dolo ou culpa, conforme art. 37, § 6º.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3216513",
@@ -1402,7 +1420,20 @@
       "e": "a decisão está incorreta e Maria deverá ser reintegrada, pois a aposentadoria por contribuição não é prevista na Constituição Federal como causa de extinção do vínculo de emprego. A decisão deve ser tomada, contudo, pela Justiça Comum."
     },
     "answer": "B",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, § 14, incluído pela EC nº 103/2019, determina o rompimento do vínculo que gerou o tempo de contribuição utilizado na aposentadoria. A regra não alcança aposentadorias concedidas antes da entrada em vigor da emenda, conforme a disciplina de transição e a jurisprudência constitucional. A controvérsia sobre o ato de desligamento e seus efeitos deve observar o regime jurídico e a competência jurisdicional aplicável.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "STF — Jurisprudência",
+        "url": "https://portal.stf.jus.br/jurisprudencia/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3173852",
@@ -1419,7 +1450,16 @@
       "e": "a remuneração dos servidores públicos somente poderá ser fixada ou alterada por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data, com a necessária distinção e variação de índices, a ser arbitrada pela respectiva lei."
     },
     "answer": "A",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A alternativa A reproduz os incisos XII e XIII do art. 37: vencimentos do Legislativo e Judiciário não podem superar os do Executivo, e é vedada a vinculação ou equiparação remuneratória. Improbidade não acarreta perda de direitos políticos nem prisão automática; a revisão geral anual ocorre sem distinção de índices; e não existe teto prescricional geral de cinco anos para toda ação de ressarcimento.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3210060",
@@ -1436,7 +1476,16 @@
       "e": "contado em dobro, para todos os efeitos legais."
     },
     "answer": "C",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O servidor investido em mandato de Deputado Estadual fica afastado do cargo, emprego ou função (art. 38, I). Seu tempo de serviço é contado para todos os efeitos legais, exceto para promoção por merecimento, conforme art. 38, IV.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3054420",
@@ -1453,7 +1502,16 @@
       "e": "legalidade, impessoalidade, moralidade, publicidade e eficiência.”"
     },
     "answer": "E",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A alternativa E apresenta corretamente os cinco princípios expressos no art. 37, caput: legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2894545",
@@ -1470,7 +1528,20 @@
       "e": "terá direito subjetivo de ser nomeado, pois a abertura de novo concurso para o mesmo cargo, mesmo após o término de validade do certame anterior, gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital."
     },
     "answer": "B",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O candidato aprovado fora do número de vagas não adquire direito automático à nomeação apenas porque foi aberto novo concurso durante a validade do anterior. Pode surgir direito subjetivo se demonstrar preterição arbitrária e imotivada, reveladora de necessidade inequívoca de nomeação, conforme a tese do STF no Tema 784.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "STF — Jurisprudência",
+        "url": "https://portal.stf.jus.br/jurisprudencia/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3166621",
@@ -1486,7 +1557,16 @@
       "d": "financiamento privado de serviços e bens por parte de empresas parceiras do poder público de tal forma que fiquem assegurados o pagamento e o recebimento de itens e serviços com qualificação técnica adequada ao fim a que se destinam."
     },
     "answer": "B",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, XXI, estabelece a licitação pública como regra para obras, serviços, compras e alienações, ressalvadas as hipóteses legais. A licitação deve assegurar igualdade de condições e exigir apenas qualificação técnica e econômica indispensável ao cumprimento das obrigações. A alternativa reproduz o núcleo constitucional do dispositivo.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3447314",
@@ -1503,7 +1583,17 @@
       "e": "Atribuição de cargos por meio de indicação política, independentemente da qualificação do candidato."
     },
     "answer": "C",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A alternativa C expressa a regra geral do art. 37, II, da Constituição: a investidura em cargo ou emprego público depende de aprovação prévia em concurso, ressalvadas as exceções constitucionais, como cargos em comissão. Atenção: o enunciado cita a Lei Orgânica e o Estatuto de Ouro Preto do Oeste/RO; a conferência integral dessa legislação municipal exige consulta às versões locais vigentes, não substituídas pela regra constitucional geral.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Questão depende de legislação municipal específica (Lei Orgânica e Estatuto de Ouro Preto do Oeste/RO). A resposta C coincide com a regra constitucional geral, mas precisa ser cotejada com os diplomas locais citados."
   },
   {
     "id": "3327799",
@@ -1520,7 +1610,16 @@
       "e": "I, II, IV e VI."
     },
     "answer": "A",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "As afirmativas I a V correspondem aos princípios expressos no art. 37 e às suas definições usuais. A razoabilidade, mencionada em VI, é princípio reconhecido no Direito Administrativo e na legislação, mas não integra a enumeração literal do caput do art. 37. Portanto, apenas I a V são expressos no dispositivo.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2967000",
@@ -1537,7 +1636,20 @@
       "e": "O texto está totalmente incorreto."
     },
     "answer": "C",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O texto está parcialmente incorreto em dois pontos: a EC nº 138/2025 passou a permitir um cargo de professor com outro de qualquer natureza, e a proibição de acumular também alcança subsidiárias e sociedades controladas direta ou indiretamente pelo poder público (art. 37, XVII). A alternativa C aponta corretamente a extensão às subsidiárias e controladas, embora a alteração constitucional de 2025 também deva ser considerada na leitura atualizada do enunciado.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Planalto — Emenda Constitucional nº 138/2025",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc138.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2843005",
@@ -1554,7 +1666,16 @@
       "e": "A União, os Estados e o Distrito Federal manterão escolas de governo para a formação e o aperfeiçoamento dos servidores públicos."
     },
     "answer": "D",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, XXI, determina que obras, serviços, compras e alienações sejam contratados mediante licitação pública, ressalvados os casos especificados na legislação. As demais alternativas correspondem a outros incisos ou parágrafos do art. 37.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2895620",
@@ -1571,7 +1692,16 @@
       "e": "a investidura em cargo, emprego ou função pública depende de aprovação prévia em concurso público de provas e títulos."
     },
     "answer": "B",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, V, estabelece que as funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo. Cargos em comissão destinam-se apenas a direção, chefia e assessoramento e devem ser preenchidos nos casos, condições e percentuais mínimos previstos em lei.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3067888",
@@ -1588,7 +1718,16 @@
       "e": "de vereador, ele deverá renunciar à remuneração do cargo eletivo, ainda que haja compatibilidade de horários, se optar pelas vantagens de seu cargo, emprego ou função."
     },
     "answer": "A",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 38, V, determina que, na hipótese de afastamento para exercício de mandato eletivo, o servidor vinculado a regime próprio de previdência social permanece filiado ao regime do ente federativo de origem. As demais opções confundem as regras aplicáveis a Prefeito, Vereador e Deputado.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2822428",
@@ -1605,7 +1744,16 @@
       "e": "a realização da manifestação é legítima, pois a Constituição Federal assegura o exercício pleno do direito de greve por servidores públicos, que não pode sofrer restrição ou condicionamento por lei."
     },
     "answer": "C",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A Constituição assegura o direito de greve dos servidores públicos civis nos termos e limites definidos em lei específica, mas veda a vinculação ou equiparação de quaisquer espécies remuneratórias para efeito de remuneração de pessoal do serviço público (art. 37, XIII). A reivindicação de indexar vencimentos ao subsídio dos Ministros do STF contraria essa vedação.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2948718",
@@ -1622,7 +1770,20 @@
       "e": "Os vencimentos dos cargos do Poder Legislativo e do Poder Executivo não poderão ser superiores aos pagos pelo Poder Judiciário."
     },
     "answer": "B",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A Constituição admite, havendo compatibilidade de horários, a acumulação de um cargo de professor com outro de qualquer natureza, conforme a EC nº 138/2025. Assim, a hipótese mais restrita descrita na alternativa B — professor com cargo técnico ou científico — continua abrangida pela autorização atual. A proibição também se estende a empregos e funções, e o direito sindical do art. 37, VI, refere-se aos servidores civis.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Planalto — Emenda Constitucional nº 138/2025",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc138.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3097918",
@@ -1638,7 +1799,20 @@
       "d": "legalidade, impessoalidade, previsibilidade, razoabilidade e segurança jurídica."
     },
     "answer": "C",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A Súmula Vinculante nº 13, que veda o nepotismo nas hipóteses nela descritas, tem fundamento nos princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência, previstos no art. 37, caput.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "STF — Jurisprudência",
+        "url": "https://portal.stf.jus.br/jurisprudencia/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2953454",
@@ -1655,7 +1829,16 @@
       "e": "servidores públicos, empregados públicos ou temporários são regidos pelo estatuto dos servidores públicos civis."
     },
     "answer": "B",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A regra constitucional é a vedação à acumulação remunerada de cargos públicos, ressalvadas as hipóteses expressas e desde que haja compatibilidade de horários e respeito ao teto. Temporários não se tornam titulares de cargo efetivo; empregados públicos não adquirem estabilidade do art. 41 apenas pelo decurso do tempo.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2934190",
@@ -1672,7 +1855,16 @@
       "e": "é vedada, mas poderá ser autorizada, em caráter excepcional, por meio de Decreto do Chefe do Poder Executivo, para atender casos de calamidade pública."
     },
     "answer": "C",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, IX, permite contratação por tempo determinado para atender necessidade temporária de excepcional interesse público, desde que os casos sejam estabelecidos em lei. Não basta decreto do Executivo nem a contratação fica limitada às áreas de saúde e educação.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2967434",
@@ -1689,7 +1881,16 @@
       "e": "legalidade, impessoalidade, moralidade, publicidade e eficiência."
     },
     "answer": "E",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A alternativa E reproduz os cinco princípios expressos no caput do art. 37: legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2967025",
@@ -1706,7 +1907,21 @@
       "e": "terão, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, salvo se por lei específica em autarquias e empresas públicas."
     },
     "answer": "D",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, XVII, estende a proibição de acumulação a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias e sociedades controladas direta ou indiretamente pelo poder público. A EC nº 138/2025 atualizou a exceção relativa a cargo de professor, permitindo sua acumulação com outro de qualquer natureza, se houver compatibilidade de horários.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Planalto — Emenda Constitucional nº 138/2025",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc138.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "As alternativas C e D são praticamente idênticas e ambas parecem reproduzir a regra do art. 37, XVII; a diferença é essencialmente de pontuação. Questão com duplicidade de resposta, recomendada revisão/anulação."
   },
   {
     "id": "2934417",
@@ -1723,7 +1938,16 @@
       "e": "A perda da função pública e a indisponibilidade de bens."
     },
     "answer": "E",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, § 4º, prevê, entre as consequências dos atos de improbidade, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei. A Constituição não prevê cassação de direitos políticos nem prisão civil como sanções automáticas de improbidade.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3077858",
@@ -1740,7 +1964,17 @@
       "e": "a revisão geral da remuneração dos servidores públicos, sem distinção de índices entre servidores públicos civis e militares, far-se-á sempre na mesma data."
     },
     "answer": "B",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, III, prevê concurso com validade de até dois anos, prorrogável uma vez por igual período. Contudo, a alternativa E também reproduz a regra do art. 37, X, sobre revisão geral anual na mesma data e sem distinção de índices. Assim, há mais de uma alternativa constitucionalmente correta.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Questão com dupla resposta: B corresponde ao art. 37, III, e E corresponde ao art. 37, X. Recomenda-se anulação ou reformulação."
   },
   {
     "id": "2904831",
@@ -1757,7 +1991,16 @@
       "e": "caso a Câmara Municipal aprove previamente a campanha publicitária, ela pode ser veiculada no âmbito do Município X, ainda que em ano eleitoral."
     },
     "answer": "D",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "O art. 37, § 1º, exige que a publicidade institucional tenha caráter educativo, informativo ou de orientação social e proíbe nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores. A condição de médico do Prefeito não afasta essa vedação.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3296481",
@@ -1774,7 +2017,20 @@
       "e": "Empresas públicas."
     },
     "answer": "B",
-    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf"
+    "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
+    "explanation": "A agência executiva é uma qualificação atribuída a autarquia ou fundação que celebra contrato de gestão e cumpre requisitos legais, não uma nova espécie de pessoa jurídica. A qualificação integra a arquitetura gerencial associada à reforma administrativa e à EC nº 19/1998.",
+    "references": [
+      {
+        "label": "Planalto — Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Planalto — Lei nº 9.649/1998",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9649cons.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2951680",
