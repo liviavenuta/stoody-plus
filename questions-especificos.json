@@ -4964,7 +4964,28 @@
       "d": "atualizar o inventário; ter o espaço ideal, inspecionar a entrada de produtos, capacitar a equipe."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — atualizar o inventário, manter espaço adequado, inspecionar entradas e capacitar a equipe.** Essas ações correspondem a boas práticas de gestão do almoxarifado: conhecer os saldos, organizar a estrutura física, verificar os materiais recebidos e preparar os profissionais para executar os procedimentos corretamente.\n\n- **A) Incorreta:** terceirização, centros de custos, emissão fiscal e curva ABC podem existir em determinados modelos de gestão, mas não formam o conjunto de recomendações gerais mais diretamente ligado à rotina do almoxarifado.\n- **B) Incorreta:** licitações e editais pertencem principalmente ao processo de contratação/aquisição, não às recomendações operacionais do depósito.\n- **C) Incorreta:** mistura ações de pessoal, capacitação e atividades financeiras/licitações sem foco na gestão física e no controle dos materiais.\n- **D) Correta:** inventário atualizado, espaço apropriado, inspeção no recebimento e capacitação sustentam controle, conservação e eficiência.\n\n**Dica:** almoxarifado eficiente combina estrutura adequada, inventário confiável, recebimento criterioso e equipe treinada.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2899137",
@@ -4980,7 +5001,28 @@
       "d": "perecível."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — empilhamento.** Empilhar é organizar materiais verticalmente, uns sobre os outros, de maneira planejada e estável. Não significa simplesmente colocar volumes sem critério: devem ser observados peso, resistência da embalagem, estabilidade, altura, acesso e segurança.\n\n- **A) Função de semelhança — incorreta:** refere-se à aproximação ou agrupamento de itens semelhantes, não à disposição vertical descrita.\n- **B) Função de acomodação — incorreta:** não é a denominação técnica específica solicitada.\n- **C) Empilhamento — correta:** descreve a disposição de unidades em camadas para aproveitar espaço, respeitando limites de segurança.\n- **D) Perecível — incorreta:** caracteriza materiais sujeitos a deterioração, não um critério de arranjo físico.\n\n**Dica:** empilhamento aumenta o aproveitamento cúbico, mas exige respeitar capacidade de carga, estabilidade e limites de altura.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2899140",
@@ -4996,7 +5038,28 @@
       "d": "porta paletes; layout; corrimãos."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — pontes rolantes, guindastes e paleteiras.** São equipamentos utilizados na movimentação e no manuseio de materiais em armazéns. Pontes rolantes e guindastes movimentam cargas suspensas; paleteiras transportam paletes em deslocamentos horizontais.\n\n- **A) Correta:** os três itens são equipamentos de movimentação de materiais.\n- **B) Incorreta:** pré-lingadas são conjuntos de carga/amarração e reatores e tubos de gases medicinais são materiais ou instalações específicas, não equipamentos gerais de movimentação.\n- **C) Incorreta:** caminhões e tratores são veículos ou máquinas de transporte/tração; carrinhos de mão são equipamentos simples, mas a alternativa não corresponde ao conjunto típico indicado.\n- **D) Incorreta:** porta-paletes é uma estrutura de armazenagem; layout é o arranjo físico; corrimãos são elementos de proteção.\n\n**Dica:** diferencie equipamento de movimentação (paleteira, empilhadeira, ponte rolante) de estrutura de armazenagem (estante, rack, porta-paletes).",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3207593",
@@ -5013,7 +5076,28 @@
       "e": "cantiléver."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — porta-paletes.** O sistema porta-paletes utiliza estruturas de estantes dimensionadas para armazenar cargas unitizadas, geralmente sobre paletes. O acesso aos níveis e posições é normalmente realizado por empilhadeiras, permitindo localizar e retirar unidades de carga.\n\n- **A) Mezanino — incorreta:** é uma plataforma ou piso intermediário que amplia a área útil vertical do armazém.\n- **B) Racks — incorreta como resposta mais específica:** rack é denominação genérica para estruturas de armazenagem; a descrição apresentada corresponde ao sistema porta-paletes.\n- **C) Porta-paletes — correta:** estantes destinadas a armazenar paletes, com acesso por equipamentos de movimentação.\n- **D) Carrossel — incorreta:** sistema dinâmico de prateleiras ou bandejas que se deslocam até o operador.\n- **E) Cantiléver — incorreta:** estrutura com braços em balanço, indicada para cargas longas, como tubos e barras.\n\n**Dica:** porta-paletes = cargas paletizadas acessadas por empilhadeiras; cantiléver = materiais compridos; mezanino = aproveitamento de altura por piso intermediário.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3449250",
@@ -5030,7 +5114,28 @@
       "e": "1.V, 2.F, 3. F."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — 1.V, 2.F, 3.V.** A primeira e a terceira afirmações descrevem princípios adequados de layout. A segunda contém um erro ao recomendar que itens de baixa rotatividade fiquem próximos à expedição.\n\n- **1 — Verdadeira:** separar recebimento, armazenagem e expedição e reduzir cruzamentos melhora o fluxo e diminui deslocamentos e congestionamentos.\n- **2 — Falsa:** em regra, itens de maior giro devem ocupar posições mais acessíveis e próximas das áreas de separação/expedição. Itens de baixo giro podem ficar em posições menos privilegiadas. A parte sobre materiais pesados ou volumosos em áreas acessíveis a equipamentos adequados está correta, mas a afirmação inteira fica falsa pela primeira orientação.\n- **3 — Verdadeira:** circulação segura, sinalização e barreiras de proteção em pontos críticos são elementos essenciais do projeto.\n\n- **A), B), C) e E) — incorretas:** apresentam sequências incompatíveis com a avaliação das três afirmações.\n- **D) Correta:** V – F – V.\n\n**Dica:** layout deve equilibrar fluxo, acessibilidade conforme giro, aproveitamento do espaço e segurança das pessoas.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2953486",
@@ -5047,7 +5152,28 @@
       "e": "por compatibilidade."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — por frequência.** O critério de armazenagem por frequência considera quantas vezes os materiais entram e saem do estoque. Itens de maior movimentação (alto giro) são posicionados em locais de acesso mais rápido, próximos às áreas de atendimento, separação ou expedição.\n\n- **A) Por tamanho, peso ou forma — incorreta:** considera dimensões e características físicas dos materiais.\n- **B) Especial — incorreta:** costuma envolver requisitos específicos de conservação, segurança ou manuseio.\n- **C) Por frequência — correta:** relaciona a localização à intensidade de movimentação do item.\n- **D) Por agrupamento ou complementaridade — incorreta:** aproxima materiais semelhantes ou que são utilizados em conjunto.\n- **E) Por compatibilidade — incorreta:** separa ou aproxima itens conforme possam ser armazenados juntos sem risco ou prejuízo.\n\n**Dica:** alto giro = posições mais acessíveis; baixo giro = posições menos próximas das áreas de expedição.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3207607",
@@ -5064,7 +5190,28 @@
       "e": "pontos mínimos de estoque."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito indicado: C — técnicas para armazenagem de materiais.** A questão reúne métodos de controle da rotação e retirada de estoques: PEPS/FIFO (primeiro que entra, primeiro que sai), FEFO (primeiro que vence, primeiro que sai) e UEPS/LIFO (último que entra, primeiro que sai). A alternativa C é a classificação mais próxima entre as opções apresentadas.\n\n- **A) Sistemas de classificação de materiais — incorreta:** classificação agrupa itens por características, finalidade ou relevância, não define a ordem de saída.\n- **B) Logística de suprimentos — incorreta:** é o campo mais amplo de planejamento e abastecimento.\n- **C) Técnicas para armazenagem de materiais — resposta esperada:** entre as opções, abrange os critérios de rotação e retirada do estoque.\n- **D) Endereçamentos de estoque — incorreta:** endereçamento identifica a localização física de cada item.\n- **E) Pontos mínimos de estoque — incorreta:** relacionam-se a níveis de reposição.\n\n**Ressalva técnica importante:** o enunciado associa PEPS a FEFO entre parênteses, mas os conceitos não são sinônimos. PEPS/FIFO prioriza a ordem de entrada; FEFO prioriza a data de validade. Além disso, UEPS/LIFO é um método de fluxo de custos de estoque não aceito pelo CPC 16 (IAS 2) para mensuração contábil de estoques. Portanto, a questão usa “técnicas de armazenagem” em sentido amplo e contém imprecisão conceitual; vale manter o gabarito indicado pela banca, mas estudar as distinções.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3313510",
@@ -5081,7 +5228,28 @@
       "e": "sistema FIFO."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — sistema drive-in.** O drive-in é um sistema de armazenagem de alta densidade, no qual a empilhadeira ingressa em corredores internos da estrutura para depositar ou retirar paletes. É indicado, em geral, para grandes quantidades de um mesmo produto e baixa variedade, especialmente quando a rotatividade é menor e se aceita acesso menos seletivo.\n\n- **A) Cross docking — incorreta:** prioriza a transferência rápida entre recebimento e expedição, com pouca ou nenhuma estocagem.\n- **B) Sistema ABC — incorreta:** é uma técnica de classificação dos itens conforme sua importância ou participação, não uma estrutura física de armazenagem.\n- **C) Drive-in — correta:** aproveita intensamente o espaço cúbico para grandes volumes de itens homogêneos.\n- **D) Picking — incorreta:** é a atividade de separação de pedidos.\n- **E) FIFO — incorreta:** é uma regra de rotação/saída de estoque, não um sistema físico de armazenagem.\n\n**Dica:** drive-in privilegia densidade e costuma operar com acesso LIFO; não é a melhor escolha quando se exige acesso direto e seletivo a cada palete.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2872832",
@@ -5098,7 +5266,28 @@
       "e": "Inspeção."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — estocagem.** Nos diagramas de processo, o triângulo invertido é tradicionalmente utilizado para representar armazenamento ou estocagem, isto é, a permanência de materiais em determinado local aguardando uma etapa posterior.\n\n- **A) Transporte — incorreta:** representa deslocamento de pessoas ou materiais entre locais.\n- **B) Atraso — incorreta:** indica espera ou demora no fluxo.\n- **C) Estocagem — correta:** corresponde à guarda ou armazenamento do material.\n- **D) Operação — incorreta:** indica execução de uma atividade ou transformação.\n- **E) Inspeção — incorreta:** representa verificação de quantidade, qualidade ou conformidade.\n\n**Dica:** na simbologia clássica de fluxogramas de processo: círculo = operação; seta = transporte; quadrado = inspeção; D = espera/atraso; triângulo invertido = armazenamento. Confirme sempre a legenda adotada pelo material da questão.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3469114",
@@ -5115,7 +5304,28 @@
       "e": "Uma pratica de logística reversa."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — software para gerenciar as atividades de um armazém.** WMS é a sigla de Warehouse Management System, ou Sistema de Gerenciamento de Armazém. É um sistema informatizado que apoia e controla processos como recebimento, endereçamento, armazenagem, inventário, separação de pedidos, expedição e rastreabilidade.\n\n- **A) Incorreta:** controle de mão de obra pode ser uma funcionalidade de alguns WMS, mas não define o sistema.\n- **B) Incorreta:** embalagem de produtos frágeis é uma atividade operacional, não um sistema de gestão.\n- **C) Incorreta:** reduzir custos pode ser um benefício, mas não é a definição de WMS.\n- **D) Correta:** descreve um software voltado à gestão das operações e dos estoques dentro do armazém.\n- **E) Incorreta:** logística reversa trata do fluxo de retorno de produtos e materiais.\n\n**Dica:** WMS gerencia a operação interna do armazém; ERP integra processos empresariais mais amplos; TMS gerencia o transporte.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: gestão e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "GS1 — Standards for traceability and supply chain visibility",
+        "url": "https://www.gs1.org/standards/traceability"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3469108",
