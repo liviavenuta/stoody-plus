@@ -5252,44 +5252,6 @@
     "explanationReviewed": "2026-11-24"
   },
   {
-    "id": "2872832",
-    "number": 139,
-    "subject": "139) A Figura abaixo apresenta um Diagrama de Fluxo genérico dos processos de um Almoxarifado:",
-    "topic": "139) A Figura abaixo apresenta um Diagrama de Fluxo genérico dos processos de um Almoxarifado:",
-    "exam": "Administração de Recursos Materiais - Armazenagem (Almoxarifado)",
-    "stem": "A Figura abaixo apresenta um Diagrama de Fluxo genérico dos processos de um Almoxarifado: Nas colunas numeradas de 1 a 5, constam os símbolos representativos das diversas atividades desenvolvidas. O triângulo representado na coluna 5 refere-se à atividade de:",
-    "options": {
-      "a": "Transporte.",
-      "b": "Atraso.",
-      "c": "Estocagem.",
-      "d": "Operação.",
-      "e": "Inspeção."
-    },
-    "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "**Gabarito: C — estocagem.** Nos diagramas de processo, o triângulo invertido é tradicionalmente utilizado para representar armazenamento ou estocagem, isto é, a permanência de materiais em determinado local aguardando uma etapa posterior.\n\n- **A) Transporte — incorreta:** representa deslocamento de pessoas ou materiais entre locais.\n- **B) Atraso — incorreta:** indica espera ou demora no fluxo.\n- **C) Estocagem — correta:** corresponde à guarda ou armazenamento do material.\n- **D) Operação — incorreta:** indica execução de uma atividade ou transformação.\n- **E) Inspeção — incorreta:** representa verificação de quantidade, qualidade ou conformidade.\n\n**Dica:** na simbologia clássica de fluxogramas de processo: círculo = operação; seta = transporte; quadrado = inspeção; D = espera/atraso; triângulo invertido = armazenamento. Confirme sempre a legenda adotada pelo material da questão.",
-    "references": [
-      {
-        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, requisição e distribuição",
-        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
-      },
-      {
-        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
-        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
-      },
-      {
-        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
-        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
-      },
-      {
-        "label": "IBGE — Apostila de Gestão de Materiais",
-        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
     "id": "3469114",
     "number": 140,
     "subject": "140) Assinale a alternativa que descreve corretamente um sistema WMS (Warehouse Management System).",
@@ -7255,44 +7217,6 @@
     "explanationReviewed": "2026-11-24"
   },
   {
-    "id": "2785129",
-    "number": 192,
-    "subject": "192) Observe a imagem a seguir.",
-    "topic": "192) Observe a imagem a seguir.",
-    "exam": "Administração de Recursos Materiais - Armazenagem (Almoxarifado)",
-    "stem": "Observe a imagem a seguir. Trata-se de um importante setor das empresas, sejam públicas ou privadas, e consiste no lugar destinado à armazenagem em condições adequadas de produtos para uso interno. O tema é uma das principais matérias de estudo no campo da administração. Este setor das empresas denomina-se:",
-    "options": {
-      "a": "Diretoria.",
-      "b": "Almoxarifado.",
-      "c": "Recursos Humanos.",
-      "d": "Financeiro.",
-      "e": "Comercial."
-    },
-    "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "**Gabarito: B — almoxarifado.** O enunciado define o setor destinado à guarda e à conservação de materiais para uso interno, em condições adequadas. Essa é a finalidade típica do almoxarifado.\n\n- **A) Diretoria — incorreta:** exerce funções de direção e decisão.\n- **B) Correta:** guarda, conserva, controla e distribui materiais.\n- **C) Recursos Humanos — incorreta:** administra relações e processos de pessoal.\n- **D) Financeiro — incorreta:** administra recursos financeiros e pagamentos.\n- **E) Comercial — incorreta:** atua em vendas e relacionamento comercial.\n\n**Dica:** o almoxarifado é a unidade física e operacional de guarda e fornecimento dos materiais da organização.",
-    "references": [
-      {
-        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
-        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
-      },
-      {
-        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
-        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
-      },
-      {
-        "label": "IBGE — Apostila de Gestão de Materiais",
-        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
-      },
-      {
-        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
-        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
     "id": "1130184",
     "number": 193,
     "subject": "193) Substitua os números apresentados a seguir pelos conceitos corretos. O (1) é uma plataforma disposta (2) para carregamento, constituída de vigas, blocos ou",
@@ -7956,44 +7880,6 @@
       },
       {
         "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
-        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
-      },
-      {
-        "label": "IBGE — Apostila de Gestão de Materiais",
-        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
-      },
-      {
-        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
-        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
-    "id": "1480628",
-    "number": 211,
-    "subject": "211) A seta na Figura 1 abaixo aponta para um dos tipos de equipamentos de unitização mais utilizados no armazenamento de materiais, que são plataformas com",
-    "topic": "211) A seta na Figura 1 abaixo aponta para um dos tipos de equipamentos de unitização mais utilizados no armazenamento de materiais, que são plataformas com",
-    "exam": "Administração de Recursos Materiais - Armazenagem (Almoxarifado)",
-    "stem": "A seta na Figura 1 abaixo aponta para um dos tipos de equipamentos de unitização mais utilizados no armazenamento de materiais, que são plataformas com aberturas que permitem a inserção dos garfos de uma empilhadeira ou de carrinhos hidráulicos, nos quais podem ser arranjados os materiais a serem movimentados. É o elemento unitizador que pode ser feito de diversos materiais: madeira, aço, alumínio ou papelão que, segundo Franscischini e Gurgel (2013), denomina-se: Figura 1",
-    "options": {
-      "a": "Estantes.",
-      "b": "Racks.",
-      "c": "Gaiolas.",
-      "d": "Paletes.",
-      "e": "Contêineres."
-    },
-    "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "**Gabarito: D — paletes.** Palete é uma plataforma com aberturas que permitem a entrada dos garfos de empilhadeiras ou paleteiras. Ele reúne volumes menores em uma unidade de carga, facilitando armazenagem, movimentação e transporte. Pode ser fabricado em madeira, plástico, metal ou papelão, conforme aplicação.\n\n- **A) Estantes — incorreta:** são estruturas fixas de armazenagem.\n- **B) Racks — incorreta:** são estruturas de armazenagem, não a plataforma unitizadora descrita.\n- **C) Gaiolas — incorreta:** recipientes/estruturas fechadas para acondicionar cargas.\n- **D) Correta:** corresponde à plataforma de unitização descrita.\n- **E) Contêineres — incorreta:** unidades fechadas de carga, em escala e configuração distintas.\n\n**Nota:** a questão menciona uma figura que não está disponível no texto extraído; a descrição escrita, porém, identifica claramente o palete.",
-    "references": [
-      {
-        "label": "Governo Federal — IN SEDAP nº 205/1988: armazenagem, recebimento e distribuição",
-        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
-      },
-      {
-        "label": "Ministério do Trabalho — NR-11: transporte, movimentação, armazenagem e manuseio",
         "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
       },
       {
@@ -9898,44 +9784,6 @@
     "explanationReviewed": "2026-11-24"
   },
   {
-    "id": "548162",
-    "number": 262,
-    "subject": "262) Uma repartição municipal em um Estado tem quatro fornecedores para medidores de consumo de energia elétrica. O sistema de informações da empresa",
-    "topic": "262) Uma repartição municipal em um Estado tem quatro fornecedores para medidores de consumo de energia elétrica. O sistema de informações da empresa",
-    "exam": "Administração de Recursos Materiais - Noções da Gestão de Compras",
-    "stem": "Uma repartição municipal em um Estado tem quatro fornecedores para medidores de consumo de energia elétrica. O sistema de informações da empresa identificou uma situação de baixo estoque e precisa emitir uma recomendação de compra, conforme os critérios mostrados na tabela abaixo. A recomendação de compra será emitida para o fornecedor com melhor pontuação, considerando todos os itens. Neste caso, trata-se do fornecedor:",
-    "options": {
-      "a": "I.",
-      "b": "III.",
-      "c": "V.",
-      "d": "IV.",
-      "e": "II."
-    },
-    "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "**Gabarito informado: A — fornecedor I.** A questão afirma que a escolha deve considerar a pontuação total de critérios de avaliação, mas a tabela mencionada no enunciado não veio no texto extraído. Sem os critérios e as notas dos fornecedores, não é possível recalcular nem confirmar independentemente que o fornecedor I tem a maior pontuação.\n\n- **A) I — gabarito original:** mantido conforme o arquivo de questões.\n- **B a E) — demais fornecedores:** não é possível comparar sem a tabela.\n\n**Ressalva essencial:** esta explicação não valida o resultado numérico. A imagem/tabela original precisa ser consultada para confirmar a soma, os pesos e o fornecedor vencedor. Não se deve usar a resposta como verificada apenas com o texto disponível.",
-    "references": [
-      {
-        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
-        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
-      },
-      {
-        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
-        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
-      },
-      {
-        "label": "TCU — Licitações e Contratos",
-        "url": "https://licitacoesecontratos.tcu.gov.br/"
-      },
-      {
-        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
-        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
     "id": "548167",
     "number": 263,
     "subject": "263) As atividades de compras envolvem a aquisição de matérias-primas, suprimentos e componentes para o conjunto da organização. NÃO refere-se a atividade de",
@@ -10178,44 +10026,6 @@
     "answer": "A",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
     "explanation": "**Gabarito: A — I e III.** Registros de compras fornecem histórico para consulta e decisão gerencial. Registros agrupados podem consolidar informações e simplificar análises, enquanto registros individuais detalham operações ou itens conforme o sistema adotado.\n\n- **I — Verdadeira:** direção e gestores consultam registros para planejamento, controle e auditoria.\n- **II — Falsa:** a descrição de “registro individual” não é universal e a lista apresentada não permite concluir que essa seja a definição técnica adotada; no contexto da classificação da questão, itens como material de escritório e limpeza são exemplos de registros agrupados por categoria.\n- **III — Verdadeira:** registros agrupados facilitam análises consolidadas, risco de falta e fiscalização.\n- **A) Correta:** I e III.\n\n**Ressalva:** as expressões “registro individual” e “registro agrupado” dependem da classificação específica da bibliografia; a justificativa da II segue a distinção presumida pela questão e deve ser cotejada com o material de origem.",
-    "references": [
-      {
-        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
-        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
-      },
-      {
-        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
-        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
-      },
-      {
-        "label": "TCU — Licitações e Contratos",
-        "url": "https://licitacoesecontratos.tcu.gov.br/"
-      },
-      {
-        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
-        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
-    "id": "1484740",
-    "number": 270,
-    "subject": "270) Para responder à pergunta, observe a figura abaixo:",
-    "topic": "270) Para responder à pergunta, observe a figura abaixo:",
-    "exam": "Administração de Recursos Materiais - Noções da Gestão de Compras",
-    "stem": "Para responder à pergunta, observe a figura abaixo: Figura 01: Organização Centralizada Fonte: Gonçalves, 2013 A Figura 01 representa uma estrutura centralizada do departamento de compras. Analise as alternativas abaixo e assinale a alternativa que identifica uma das vantagens dessa modalidade.",
-    "options": {
-      "a": "A economia de escala é obtida em compras centralizadas mediante negociações para a contratação de fornecimentos de grande vulto.",
-      "b": "Permite uma maior autonomia funcional das unidades regionais.",
-      "c": "Permite responder mais rapidamente às necessidades de aquisição emergencial.",
-      "d": "Exerce um melhor gerenciamento de suas funções e de suas necessidades, além de permitir um melhor controle.",
-      "e": "Proporciona maior flexibilidade e sensibilidade na solução dos problemas pelo conhecimento específico da regional interessada."
-    },
-    "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "**Gabarito: A — economia de escala em grandes negociações.** Na estrutura centralizada, as necessidades das unidades são consolidadas e negociadas por um órgão central. O maior volume agregado pode aumentar o poder de barganha, gerar padronização e reduzir custos unitários.\n\n- **A) Correta:** compras de grande vulto podem aproveitar escala e melhores condições comerciais.\n- **B) Incorreta:** maior autonomia regional é característica associada à descentralização.\n- **C) Incorreta:** resposta mais rápida a urgências locais costuma ser vantagem da descentralização.\n- **D) Incorreta como vantagem distintiva:** controle pode melhorar com centralização, mas a opção A é a vantagem econômica clássica explicitada pelo enunciado.\n- **E) Incorreta:** flexibilidade e conhecimento específico regional são vantagens da descentralização.\n\n**Dica:** centralização favorece escala, padronização e controle; descentralização favorece agilidade e adaptação local.",
     "references": [
       {
         "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
@@ -12841,44 +12651,6 @@
     "explanationReviewed": "2026-11-24"
   },
   {
-    "id": "2897175",
-    "number": 340,
-    "subject": "340) Analise a imagem.",
-    "topic": "340) Analise a imagem.",
-    "exam": "Administração de Recursos Materiais - Compras no Setor Público",
-    "stem": "Analise a imagem. A área de compras possui importância fundamental em uma entidade pública, ao mesmo tempo que encontra muitos desafios. Para evitar a situação trazida anteriormente, cabe à área administrativa de compras públicas",
-    "options": {
-      "a": "preferir a inexigibilidade de licitação para dar celeridade ao processo licitatório.",
-      "b": "fracionar a despesa para adoção da modalidade de licitação de menor valor e com menos formalidades.",
-      "c": "disseminar que o processo licitatório é demorado e dificultoso, não sendo possível utilizar estratégias de planejamento.",
-      "d": "tornar possível encaixar a necessidade das áreas demandantes às exigências da lei, da melhor maneira possível.",
-      "e": "preferir os fornecedores já contratados, por conhecer o bom trabalho que desenvolveram perante à Administração."
-    },
-    "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "Alternativa correta: D. O planejamento das compras deve transformar a necessidade da área demandante em objeto bem definido, com requisitos técnicos proporcionais e compatíveis com a legislação, estudo técnico preliminar, estimativa de custos e estratégia de contratação. Não se deve preferir inexigibilidade sem hipótese legal, fracionar despesa para escapar de exigências ou favorecer fornecedor conhecido. A alternativa D traduz a compatibilização da necessidade administrativa com as regras legais.",
-    "references": [
-      {
-        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
-        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
-      },
-      {
-        "label": "TCU — Licitações e Contratos",
-        "url": "https://licitacoesecontratos.tcu.gov.br/"
-      },
-      {
-        "label": "CGU — Integridade nas contratações públicas",
-        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
-      },
-      {
-        "label": "Constituição Federal de 1988 — art. 37",
-        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
     "id": "2831813",
     "number": 341,
     "exam": "",
@@ -14543,43 +14315,6 @@
     "explanationReviewed": "2026-11-24"
   },
   {
-    "id": "2121574",
-    "number": 385,
-    "subject": "385) A espinha dorsal de qualquer organização é pautada a partir do funcionamento das quatro funções administrativas, também conhecidas como processo",
-    "topic": "385) A espinha dorsal de qualquer organização é pautada a partir do funcionamento das quatro funções administrativas, também conhecidas como processo",
-    "exam": "Administração Geral e Pública - Processo Organizacional e Funções Administrativas",
-    "stem": "A espinha dorsal de qualquer organização é pautada a partir do funcionamento das quatro funções administrativas, também conhecidas como processo administrativo. Trata-se de um ciclo que se repete de forma indefinida, em contínuo processo de correção e ajustamento por meio da retroação. Cada uma das funções administrativas possui características e processos distintos essenciais, para que as organizações possam obter sucesso em suas operações. Sobre os processos típicos em cada uma das quatro funções administrativas, conforme figura a seguir: É correto afirmar que:",
-    "options": {
-      "a": "A definição de padrões e o monitoramento de desempenho são atividades típicas da função administrativa de direção.",
-      "b": "As atividades de orientação, monitoramento, motivação e liderança são típicas da função administrativa de planejamento.",
-      "c": "A definição da missão e dos planos necessários para o seu alcance são atividades típicas da função administrativa de controle.",
-      "d": "A divisão do trabalho, a designação de autoridades e a responsabilidade são atividades típicas da função administrativa de organização."
-    },
-    "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "Alternativa correta: D. A divisão do trabalho, a designação de autoridades e a definição de responsabilidades são atividades típicas da organização, que estrutura recursos e relações para viabilizar os planos. Definir padrões e monitorar desempenho são atividades de controle; orientar e motivar pessoas são direção; definir missão e planos é planejamento. Portanto, D é a correta.",
-    "references": [
-      {
-        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
-        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
-      },
-      {
-        "label": "PUCRS — Processo administrativo: planejamento, organização, direção e controle",
-        "url": "https://revistaseletronicas.pucrs.br/graduacao/article/download/6061/4362"
-      },
-      {
-        "label": "IFRN — Material didático de Administração e processo administrativo",
-        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
-      },
-      {
-        "label": "Estratégia Concursos — funções do processo administrativo",
-        "url": "https://cdn.estrategiaconcursos.com.br/storage/temp/aula/275009/0/curso-55510-aula-00-46ac-completo.pdf"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
     "id": "1898124",
     "number": 386,
     "subject": "386) A coordenação no âmbito de uma organização constitui uma das funções inerentes à atuação do administrador, podendo ser exercida por meio de diferentes",
@@ -14768,44 +14503,6 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24"
-  },
-  {
-    "id": "1092178",
-    "number": 391,
-    "subject": "391) Analise a seguinte imagem e assinale a alternativa correta no que diz respeito ao que ela se refere.",
-    "topic": "391) Analise a seguinte imagem e assinale a alternativa correta no que diz respeito ao que ela se refere.",
-    "exam": "Administração Geral e Pública - Processo Organizacional e Funções Administrativas",
-    "stem": "Analise a seguinte imagem e assinale a alternativa correta no que diz respeito ao que ela se refere. Fonte: Chiavenato (2014).",
-    "options": {
-      "a": "Trata-se das Funções do Administrador.",
-      "b": "Trata-se das Premissas do Planejamento.",
-      "c": "Trata-se dos Desdobramentos dos Objetivos Organizacionais.",
-      "d": "Trata-se dos Níveis Institucionais das Organizações."
-    },
-    "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "Alternativa correta: A. A figura citada como fonte Chiavenato (2014) é associada ao modelo das quatro funções administrativas — planejamento, organização, direção e controle —, portanto a alternativa A é a resposta esperada. **Ressalva:** a imagem não está incorporada ao registro textual desta questão; por isso, não é possível confirmar visualmente se o diagrama original realmente apresenta as quatro funções. O gabarito foi mantido, mas recomenda-se conferir a imagem da prova antes de considerar a questão definitivamente validada.",
-    "references": [
-      {
-        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
-        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
-      },
-      {
-        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
-        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
-      },
-      {
-        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
-        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
-      },
-      {
-        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
-        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A imagem referenciada no enunciado não consta do registro JSON. O gabarito A é plausível pela referência a Chiavenato e ao modelo das quatro funções, mas deve ser confirmado com a imagem original."
   },
   {
     "id": "996958",
