@@ -14,6 +14,50 @@ jobs:
           node-version: 22
       - name: Check JavaScript syntax
         run: node --check app.js
-      - name: Validate question bank JSON
+      - name: Validate all question banks and app integration
         run: |
-          node -e "const fs=require('fs'); const files=fs.readdirSync('.').filter(f=>f.startsWith('questions-')&&f.endsWith('.json')); let total=0; for(const f of files){const q=JSON.parse(fs.readFileSync(f,'utf8')); total+=q.length; console.log(f+': '+q.length+' questões');} if(total!==1200) throw new Error('Esperadas 1200 questões; encontradas '+total); console.log('Total validado: '+total);"
+          node <<'NODE'
+          const fs = require('node:fs');
+          const expected = {
+            'questions-admin.json': 200,
+            'questions-legislacao.json': 200,
+            'questions-informatica.json': 196,
+            'questions-especificos.json': 392,
+            'questions-portugues.json': 188,
+          };
+          const app = fs.readFileSync('app.js', 'utf8');
+          let total = 0;
+          for (const [file, expectedCount] of Object.entries(expected)) {
+            if (!app.includes(file)) throw new Error(`app.js não carrega ${file}`);
+            const questions = JSON.parse(fs.readFileSync(file, 'utf8'));
+            if (!Array.isArray(questions) || questions.length !== expectedCount) {
+              throw new Error(`${file}: esperadas ${expectedCount}; encontradas ${questions.length}`);
+            }
+            const ids = new Set();
+            const numbers = new Set();
+            for (const q of questions) {
+              const answer = String(q.answer ?? '').toLowerCase();
+              const options = q.options && typeof q.options === 'object' ? q.options : {};
+              if (!q.id || ids.has(String(q.id))) throw new Error(`${file}: ID ausente/duplicado na questão ${q.number}`);
+              if (!Number.isInteger(q.number) || numbers.has(q.number)) throw new Error(`${file}: número ausente/duplicado na questão ${q.number}`);
+              if (Object.keys(options).length < 2 || Object.keys(options).length > 5 || typeof options[answer] !== 'string') {
+                throw new Error(`${file}: alternativas/gabarito inválidos na questão ${q.number}`);
+              }
+              if (!String(q.stem ?? '').trim() || !String(q.explanation ?? '').trim()) {
+                throw new Error(`${file}: enunciado/explicação ausentes na questão ${q.number}`);
+              }
+              if (!Array.isArray(q.references) || q.references.length === 0 || q.references.some(r => !/^https:\/\//.test(r.url ?? ''))) {
+                throw new Error(`${file}: referências ausentes/inválidas na questão ${q.number}`);
+              }
+              if (q.explanationStatus !== 'revisado_com_fontes') {
+                throw new Error(`${file}: status de revisão ausente na questão ${q.number}`);
+              }
+              ids.add(String(q.id));
+              numbers.add(q.number);
+            }
+            total += questions.length;
+            console.log(`${file}: ${questions.length} questões validadas`);
+          }
+          if (total !== 1176) throw new Error(`Total esperado: 1176; encontrado: ${total}`);
+          console.log(`Total validado e integrado ao app: ${total} questões`);
+          NODE
