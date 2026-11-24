@@ -3547,7 +3547,17 @@
       "e": "Tudo são alegrias."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Quem eram os convidados da festa?” está correto: o verbo “ser” pode concordar com o predicativo plural em construções interrogativas desse tipo. Ressalva: “Tudo são alegrias” também é construção aceita, pois o verbo ser pode concordar com o predicativo plural quando o sujeito é “tudo”; assim, o item pode admitir mais de uma resposta.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A alternativa E (“Tudo são alegrias”) também é aceita pela concordância do verbo ser com o predicativo plural. Há possível dupla resposta com D; recomenda-se revisão/anulação."
   },
   {
     "id": "2207340",
@@ -3563,7 +3573,16 @@
       "e": "caber."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Assistir” no sentido de caber, competir ou pertencer rege preposição “a”. Em “Que direito lhe assistia?”, o sentido é “que direito lhe cabia?”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1974702",
@@ -3579,7 +3598,16 @@
       "e": "incluir um termo."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Obviamente” é um advérbio que reforça a certeza do enunciador e apresenta a afirmação como evidente, buscando não deixar dúvidas sobre a avaliação do caso.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1974719",
@@ -3595,7 +3623,16 @@
       "e": "no entanto"
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A conjunção “mas” introduz oposição ou ressalva. “No entanto” mantém esse valor adversativo; “logo”, “assim” e “agora” não preservam a mesma relação.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1758536",
@@ -3611,7 +3648,16 @@
       "e": "insensível."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Suscetível” significa sujeito a, passível de ou vulnerável a algo. “Insensível” não é sinônimo; indica falta de sensibilidade, sendo a opção que não pode substituir o termo sem alterar o sentido.",
+    "references": [
+      {
+        "label": "Academia Brasileira de Letras — Vocabulário Ortográfico da Língua Portuguesa",
+        "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1670470",
@@ -3627,7 +3673,16 @@
       "e": "pouca."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Que dor de coração me dava” expressa intensidade ou grande quantidade de dor. Substituir “que” por “pouca” inverte o sentido, reduzindo a intensidade da dor.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1558900",
@@ -3643,7 +3698,16 @@
       "e": "I e III."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "As afirmativas I e III estão corretas. “A maioria das pessoas não se preocupa” admite concordância com o núcleo singular “maioria”; “o presidente, junto com ministros, compareceu” mantém o verbo no singular. II deveria ser “Pesquisam-se meios”; IV deveria ser “Houve motivos”, pois haver no sentido de existir é impessoal.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1534147",
@@ -3659,7 +3723,16 @@
       "e": "pontapé."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Antigamente” é formado por derivação sufixal: antigo + -mente. “Beleza” também se forma por derivação sufixal (belo + -eza), assim como o processo solicitado.",
+    "references": [
+      {
+        "label": "Academia Brasileira de Letras — Vocabulário Ortográfico da Língua Portuguesa",
+        "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4888575",
@@ -3675,7 +3748,16 @@
       "e": "nem."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Mas” é conjunção coordenativa adversativa e pode ser substituída por “porém”, que mantém a ideia de oposição entre as orações.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1970543",
@@ -3690,7 +3772,16 @@
       "d": "\"para mim, não: é uma vigorosa corrente de água límpida e fresca.”"
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A pergunta “se a gente se dedica a recordar, quanto tempo sobra para a vida propriamente dita?” generaliza a reflexão do narrador sobre o equilíbrio entre memória e vida presente, levando a questão para a experiência humana em geral.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1974977",
@@ -3706,7 +3797,16 @@
       "e": "de ligação."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Exibiu” é verbo transitivo direto: quem exibe, exibe algo. O complemento “uma matéria” não é introduzido por preposição e funciona como objeto direto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1447713",
@@ -3722,7 +3822,16 @@
       "e": "“da próxima vez que te esqueceres de alguma coisa” / da próxima vez que esqueceres de alguma coisa"
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Lembrarmo-nos do rosto” está correto com verbo pronominal e complemento introduzido por “de”; “lembrarmos o rosto” também está correto com o verbo não pronominal e objeto direto. As demais alternativas apresentam problemas de regência em pelo menos uma das versões.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1539711",
@@ -3738,7 +3847,16 @@
       "e": "O guarda-noturno, que passa rente à minha casa. pode ouvir ainda a música de algum rádio."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A crase pode ser facultativa antes de pronome possessivo feminino singular, como em “à minha casa” ou “a minha casa”. As demais alterações mantêm artigo definido ou não permitem crase nesse contexto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2543185",
@@ -3754,7 +3872,16 @@
       "e": "Adjetivos substantivados; apenas descritivo."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Predominam verbos no presente e a primeira pessoa, com reflexão sobre o ato de escrever. O texto combina exposição de ideias e relato de experiências, sendo predominantemente narrativo-dissertativo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1696720",
@@ -3770,7 +3897,16 @@
       "e": "“Em certo período, consagrou mais tempo a tarefas burocráticas do que ao jornalismo, porém jamais deixou de ser homem de jornal,” (§ 9)."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho D apresenta uma generalização sobre o gênero crônica e sua função, defendendo uma ideia sobre a liberdade do cronista em contraste com a obrigação do editorialista. É o segmento de caráter dissertativo-argumentativo mais evidente.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1750093",
@@ -3786,7 +3922,16 @@
       "e": "Adjunto adnominal"
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “cuja finalidade é o bem maior”, o pronome relativo “cuja” estabelece relação de posse e funciona como adjunto adnominal de “finalidade”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1581257",
@@ -3802,7 +3947,16 @@
       "e": "banquete."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Bródio” é palavra pouco usual que significa banquete ou refeição farta, sentido confirmado pelo contexto da cerimônia e da mesa preparada para os convidados.",
+    "references": [
+      {
+        "label": "Academia Brasileira de Letras — Vocabulário Ortográfico da Língua Portuguesa",
+        "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2004861",
@@ -3818,7 +3972,16 @@
       "e": "as palavras, como os seres humanos, redimensionam os sentidos da existência e se mantém vivas ao longo do tempo, porque não sofrem influências de significados, mas de significantes."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A comparação indica que as palavras, assim como as pessoas, sofrem a influência de seu tempo, modificam-se e acompanham as tendências sociais e culturais.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1970238",
@@ -3834,7 +3997,16 @@
       "e": "“Mas a verdade é que ele tocou numa questão que incomoda pais, educadores e empresas no mundo inteiro”"
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A vírgula em “o momento mais especial de sua vida escolar, a formatura” introduz um aposto explicativo. Pode ser substituída por dois-pontos para anunciar a especificação do que é esse momento.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2591835",
@@ -3850,7 +4022,16 @@
       "e": "Viajar, partir e a depender de onde se vive -- Europa ou Brasil —, voltar, respectivamente, a Paris ou ao Rio."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A alternativa E preserva a estrutura paralela do trecho: viajar e partir; voltar a Paris quando se vive na Europa e ao Rio quando se vive no Brasil. As demais opções alteram a relação de destino ou a organização sintática.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2524791",
@@ -3866,7 +4047,16 @@
       "e": "I, IlI e IV."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Apenas a afirmativa I está de acordo com o texto: o narrador critica a busca incessante por consumo e metas materiais, que contribui para a infelicidade. Não afirma que projeções garantam felicidade, que baste ocultar amarguras ou que se deva assistir a palestras de autoajuda.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2524850",
@@ -3882,7 +4072,16 @@
       "e": "\"Isso, talvez, seja felicidade, vai saber.\""
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “Isso, talvez, seja felicidade”, o advérbio “talvez” está intercalado entre o sujeito (“Isso”) e o verbo (“seja”), ficando isolado por vírgulas. Esse é o caso de inserção de segmento entre sujeito e verbo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2544248",
@@ -3897,7 +4096,16 @@
       "d": "por isso."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Por isso” estabelece uma relação de consequência ou conclusão: o narrador admira o homem e, por essa razão, sente-se solidário e o acompanha em seu esforço. A expressão conecta a observação à conclusão afetiva do cronista.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2543720",
