@@ -6562,15 +6562,19 @@
     },
     "answer": "A",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: A — I: indisponibilidade do interesse público; II: supremacia do interesse público.** A primeira definição afirma que os agentes não são donos dos interesses públicos e devem agir conforme a legislação, não segundo sua vontade. Isso expressa a indisponibilidade: o administrador não pode dispor livremente de interesses que pertencem à coletividade. A segunda afirma a prevalência do interesse coletivo e a existência de prerrogativas públicas previstas em lei, o que corresponde à supremacia do interesse público.\n\n- **A) Correta:** associa corretamente indisponibilidade e supremacia.\n- **B) Incorreta:** inverte os conceitos.\n- **C) Incorreta:** a segunda descrição não define legalidade, mas supremacia.\n- **D) Incorreta:** imparcialidade não é a ideia central da primeira definição.\n- **E) Incorreta:** a segunda descrição não corresponde à legalidade.\n\n**Dica:** indisponibilidade = gestor não é dono do interesse público; supremacia = prerrogativas públicas para proteção do interesse coletivo, sempre dentro da Constituição e da lei.",
+    "explanation": "**Gabarito: A — I: indisponibilidade do interesse público; II: supremacia do interesse público.**\n\n- **I — Indisponibilidade:** os agentes públicos não são proprietários dos interesses públicos que administram. Devem atuar conforme a legislação e a finalidade pública, sem dispor livremente desses interesses ou agir segundo vontade pessoal.\n- **II — Supremacia:** expressa a ideia de que, nos limites constitucionais e legais, o interesse público pode fundamentar prerrogativas administrativas que não existem nas relações privadas comuns.\n\n- **A) Correta:** apresenta a correspondência adequada.\n- **B) Incorreta:** inverte os conceitos.\n- **C) Incorreta:** a segunda descrição não define legalidade, mas supremacia.\n- **D) Incorreta:** imparcialidade não é a definição da primeira frase.\n- **E) Incorreta:** não corresponde às duas definições.\n\n**Atenção:** supremacia não é autorização para arbitrariedade nem princípio absoluto. Deve ser compatibilizada com direitos fundamentais, legalidade, proporcionalidade e controle judicial.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6600,15 +6604,19 @@
     },
     "answer": "C",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: C — responsabilidade objetiva.** O art. 37, § 6º, da Constituição estabelece que as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.\n\n- **A) Supremacia do interesse público — incorreta:** trata da prevalência do interesse coletivo nos limites jurídicos, não do dever de indenizar.\n- **B) Legalidade — incorreta:** exige atuação conforme o ordenamento.\n- **C) Responsabilidade objetiva — correta:** em regra, a vítima não precisa provar culpa do agente para responsabilizar o Estado; deve demonstrar dano e nexo causal, sem prejuízo das excludentes aplicáveis.\n- **D) Boa-fé administrativa — incorreta:** é padrão de conduta, não o regime constitucional de reparação.\n- **E) Autotutela — incorreta:** refere-se à revisão dos próprios atos administrativos.\n\n**Atenção:** a responsabilidade objetiva do Estado não significa responsabilidade automática por qualquer dano; é necessário nexo causal e podem existir causas excludentes ou atenuantes.",
+    "explanation": "**Gabarito: C — princípio da responsabilidade objetiva.** O art. 37, § 6º, da Constituição estabelece que as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.\n\n- **A) Supremacia do interesse público — incorreta:** trata de prerrogativas administrativas nos limites do ordenamento, não da reparação de danos.\n- **B) Legalidade — incorreta:** exige conformidade da atuação administrativa com o Direito.\n- **C) Responsabilidade objetiva — correta:** em regra, a vítima não precisa provar dolo ou culpa do agente para responsabilizar o Estado, mas deve demonstrar os pressupostos da responsabilidade, como dano e nexo causal.\n- **D) Boa-fé administrativa — incorreta:** é padrão de conduta, não o fundamento específico da responsabilidade estatal.\n- **E) Autotutela — incorreta:** refere-se à revisão dos próprios atos pela Administração.\n\n**Precisão:** responsabilidade objetiva não significa responsabilidade automática por qualquer dano; causas excludentes ou atenuantes do nexo causal podem ser relevantes conforme o caso.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6638,15 +6646,19 @@
     },
     "answer": "C",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: C — continuidade do serviço público.** A suplência, a delegação e a substituição permitem que funções temporariamente vagas sejam exercidas e que a atividade administrativa não fique paralisada. A ideia é assegurar a continuidade da prestação e do funcionamento do serviço público.\n\n- **A) Supremacia do interesse público — incorreta:** refere-se à prevalência do interesse coletivo nos limites legais.\n- **B) Motivação — incorreta:** exige exposição dos fundamentos das decisões.\n- **C) Continuidade — correta:** busca evitar interrupções indevidas na prestação dos serviços e no funcionamento administrativo.\n- **D) Moralidade — incorreta:** exige probidade e ética.\n- **E) Razoabilidade e proporcionalidade — incorreta:** exigem adequação e equilíbrio entre meios e fins.\n\n**Dica:** mecanismos de substituição e cobertura temporária de funções apontam para continuidade.",
+    "explanation": "**Gabarito: C — continuidade do serviço público.** Suplência, delegação e substituição permitem preencher temporariamente funções vagas e evitar paralisação das atividades administrativas. A ideia central é assegurar a continuidade da prestação do serviço público.\n\n- **A) Supremacia do interesse público — incorreta:** trata da prevalência do interesse público nos limites jurídicos.\n- **B) Motivação — incorreta:** exige exposição das razões de fato e de direito das decisões.\n- **C) Continuidade — correta:** busca evitar interrupções indevidas na prestação de atividades e serviços públicos.\n- **D) Moralidade — incorreta:** exige probidade e ética.\n- **E) Razoabilidade e proporcionalidade — incorreta:** controlam adequação e excesso, mas não explicam diretamente a substituição temporária de agentes.\n\n**Dica:** mecanismos de substituição, suplência e organização de escalas para impedir paralisação remetem à continuidade.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6676,15 +6688,19 @@
     },
     "answer": "C",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: C — controle ou tutela.** A questão descreve fiscalização das atividades de entidades administrativas para verificar se cumprem os objetivos para os quais foram criadas, sempre dentro dos limites legais. No contexto da Administração indireta, trata-se do controle finalístico ou tutela administrativa.\n\n- **A) Autotutela — incorreta:** é a revisão dos próprios atos da Administração.\n- **B) Hierarquia — incorreta:** envolve coordenação e subordinação entre órgãos da mesma pessoa jurídica; não há subordinação hierárquica entre Administração direta e entidade da indireta.\n- **C) Controle ou tutela — correta:** fiscalização finalística das entidades descentralizadas nos limites previstos em lei.\n- **D) Especialidade — incorreta:** determina que a entidade atue dentro das finalidades específicas para as quais foi criada.\n- **E) Presunção de legitimidade/veracidade — incorreta:** é atributo dos atos administrativos.\n\n**Dica:** Administração indireta não é subordinada hierarquicamente à direta; está sujeita à supervisão ou tutela finalística nos termos legais.",
+    "explanation": "**Gabarito: C — controle ou tutela.** A fiscalização das atividades de entidades da Administração indireta, para verificar se cumprem os objetivos legais e organizacionais, é controle finalístico ou tutela administrativa. Esse controle ocorre nos limites previstos em lei.\n\n- **A) Autotutela — incorreta:** é a revisão dos próprios atos da Administração.\n- **B) Hierarquia — incorreta:** organiza relações de subordinação entre órgãos da mesma pessoa jurídica; não há hierarquia entre Administração direta e entidade descentralizada com personalidade própria.\n- **C) Controle ou tutela — correta:** permite ao ente instituidor acompanhar a atuação da entidade indireta para verificar sua conformidade com as finalidades legais.\n- **D) Especialidade — incorreta:** determina que a entidade atue dentro da finalidade específica para a qual foi criada.\n- **E) Presunção de legitimidade/veracidade — incorreta:** é atributo dos atos administrativos.\n\n**Dica:** controle finalístico sobre entidade descentralizada = tutela/supervisão; subordinação interna entre órgãos = hierarquia.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6714,15 +6730,19 @@
     },
     "answer": "D",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: D — autotutela.** A autotutela é o poder-dever de a Administração rever seus próprios atos. A Súmula 473 do STF sintetiza a distinção: atos ilegais devem ser anulados; atos válidos podem ser revogados por conveniência ou oportunidade, respeitados direitos adquiridos e o controle judicial.\n\n- **A) Moralidade — incorreta:** exige padrões éticos e probidade.\n- **B) Eficiência — incorreta:** busca qualidade e bons resultados.\n- **C) Proporcionalidade — incorreta:** exige equilíbrio entre meios e fins.\n- **D) Autotutela — correta:** permite a revisão administrativa de seus próprios atos, observados os limites legais.\n- **E) Supremacia do poder público — incorreta:** não é a denominação técnica do poder de revisão descrito.\n\n**Precisão:** a frase do enunciado é ampla. A Administração não pode “modificar” ou revogar qualquer ato indistintamente; anulação é para ilegalidade, revogação é para conveniência/oportunidade de ato válido, com limites e garantias.",
+    "explanation": "**Gabarito: D — autotutela.** A Administração tem o poder-dever de rever seus próprios atos: deve anular os ilegais e pode revogar os válidos quando inconvenientes ou inoportunos, respeitados os direitos adquiridos e os limites legais. A Súmula 473 do STF sintetiza essa orientação.\n\n- **A) Moralidade — incorreta:** exige probidade e ética, mas não nomeia o poder de revisão.\n- **B) Eficiência — incorreta:** relaciona-se à qualidade e aos resultados da atuação.\n- **C) Proporcionalidade — incorreta:** controla adequação e excesso.\n- **D) Autotutela — correta:** é a revisão administrativa dos próprios atos.\n- **E) Supremacia do poder público — incorreta:** não é a denominação do poder de revisão descrito.\n\n**Distinção essencial:** ato ilegal é, em regra, anulado; ato válido que se tornou inconveniente ou inoportuno pode ser revogado. A revogação não serve para corrigir ilegalidade.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6752,15 +6772,19 @@
     },
     "answer": "E",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: E — supremacia do interesse público.** A desapropriação para construir uma escola pública é exemplo clássico de atuação estatal que pode fazer prevalecer uma finalidade pública sobre o interesse individual de propriedade, desde que observados os requisitos constitucionais e legais, como utilidade pública, procedimento e indenização nos termos aplicáveis.\n\n- **A) Eficiência — incorreta:** pode ser relevante à boa execução do projeto, mas não é o princípio diretamente ilustrado pela desapropriação.\n- **B) Continuidade dos serviços públicos — incorreta:** refere-se à prestação regular e não interrompida de serviços.\n- **C) Moralidade — incorreta:** exige probidade e ética.\n- **D) Indisponibilidade do interesse público — incorreta como resposta pretendida:** significa que o administrador não pode dispor livremente do interesse coletivo; a desapropriação exemplifica mais diretamente a supremacia.\n- **E) Supremacia do interesse público — correta:** demonstra a possibilidade de intervenção estatal sobre a propriedade privada para realizar finalidade pública, nos limites legais.\n\n**Atenção:** supremacia não autoriza desapropriação arbitrária. A medida deve estar prevista em lei e respeitar as garantias constitucionais do proprietário.",
+    "explanation": "**Gabarito: E — supremacia do interesse público.** A desapropriação para construir uma escola pública é exemplo de atuação estatal que, observados os requisitos constitucionais e legais, permite a transferência compulsória de propriedade particular para atender a uma finalidade pública.\n\n- **A) Eficiência — incorreta:** pode ser considerada na escolha e execução do projeto, mas não é o fundamento jurídico central do instrumento.\n- **B) Continuidade — incorreta:** trata da prestação regular e não interrompida dos serviços.\n- **C) Moralidade — incorreta:** exige probidade e ética.\n- **D) Indisponibilidade — incorreta como resposta pretendida:** significa que o administrador não pode dispor livremente do interesse público; não é o fundamento específico da prerrogativa expropriatória.\n- **E) Supremacia do interesse público — correta segundo a classificação tradicional:** a desapropriação concretiza uma prerrogativa estatal para atender a finalidade pública, nos limites da Constituição e da lei.\n\n**Atenção:** desapropriação não é ato arbitrário. Exige hipótese legal, finalidade pública, procedimento e, como regra, justa e prévia indenização em dinheiro, ressalvadas as exceções constitucionais.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6790,15 +6814,19 @@
     },
     "answer": "D",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: D — segurança jurídica.** O princípio protege estabilidade, previsibilidade e confiança legítima nas relações jurídicas, evitando mudanças arbitrárias e surpresas indevidas na atuação administrativa.\n\n- **A) Incorreta:** descreve moralidade, ligada à ética e à probidade.\n- **B) Incorreta:** descreve impessoalidade, que veda favorecimentos e exige objetividade.\n- **C) Incorreta:** descreve razoabilidade e proporcionalidade, relacionadas à adequação e ao equilíbrio das decisões.\n- **D) Correta:** segurança jurídica busca estabilidade e previsibilidade das relações jurídicas.\n- **E) Incorreta:** descreve legalidade, que exige atuação dentro dos limites normativos.\n\n**Dica:** estabilidade, previsibilidade, proteção da confiança e vedação a mudanças retroativas prejudiciais apontam para segurança jurídica.",
+    "explanation": "**Gabarito: D — segurança jurídica.** Esse princípio busca estabilidade, previsibilidade e proteção da confiança nas relações jurídicas, evitando mudanças arbitrárias e surpresas indevidas na atuação administrativa.\n\n- **A) Incorreta:** descreve moralidade, ligada à ética e à probidade.\n- **B) Incorreta:** descreve impessoalidade, que veda favorecimentos e exige objetividade.\n- **C) Incorreta:** descreve razoabilidade e proporcionalidade, relacionadas à adequação e ao equilíbrio das decisões.\n- **D) Correta:** corresponde à estabilidade e previsibilidade das relações jurídicas.\n- **E) Incorreta:** descreve legalidade, isto é, atuação dentro dos limites normativos.\n\n**Dica:** segurança jurídica envolve previsibilidade, proteção da confiança, estabilidade e respeito a situações consolidadas, sem impedir mudanças legítimas quando feitas conforme o Direito.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6827,15 +6855,19 @@
     },
     "answer": "A",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: A — tutela.** A Administração indireta possui personalidade jurídica própria e não está subordinada hierarquicamente à Administração direta. Entretanto, suas atividades ficam sujeitas ao controle finalístico ou tutela administrativa, nos limites definidos em lei.\n\n- **A) Tutela — correta:** permite supervisão finalística da entidade descentralizada.\n- **B) Autotutela — incorreta:** é a revisão dos próprios atos pela Administração.\n- **C) Eficiência — incorreta:** orienta qualidade e resultados.\n- **D) Segurança jurídica — incorreta:** protege estabilidade e confiança legítima.\n\n**Dica:** tutela = controle finalístico; hierarquia = subordinação interna entre órgãos; autotutela = revisão dos próprios atos.",
+    "explanation": "**Gabarito: A — tutela.** A Administração indireta possui personalidade jurídica própria e não está hierarquicamente subordinada à Administração direta. Contudo, suas atividades estão sujeitas a controle finalístico, nos limites definidos pela lei, chamado tutela ou supervisão administrativa.\n\n- **A) Tutela — correta:** controle finalístico sobre a entidade descentralizada.\n- **B) Autotutela — incorreta:** revisão dos próprios atos administrativos.\n- **C) Eficiência — incorreta:** princípio de qualidade e resultados.\n- **D) Segurança jurídica — incorreta:** protege estabilidade e previsibilidade.\n\n**Dica:** não confunda tutela com hierarquia. A hierarquia ocorre entre órgãos dentro da mesma pessoa jurídica; a tutela é controle legal sobre entidade com personalidade própria.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6865,15 +6897,19 @@
     },
     "answer": "E",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: E — autotutela.** O texto afirma que a Administração não pode permanecer inerte diante de vícios de legalidade ou legitimidade em seus próprios atos. Isso traduz a autotutela, que impõe à Administração o dever de anular atos ilegais, observados os limites legais e a segurança jurídica.\n\n- **A) Tutela — incorreta:** é controle finalístico sobre entidades da Administração indireta.\n- **B) Publicidade — incorreta:** assegura transparência e divulgação.\n- **C) Devido processo legal — incorreta:** é garantia processual, embora possa ser exigido em procedimentos de revisão que afetem direitos.\n- **D) Motivação — incorreta:** exige explicitar os fundamentos das decisões.\n- **E) Autotutela — correta:** permite e exige revisão dos próprios atos ilegais.\n\n**Atenção:** a autotutela deve respeitar contraditório e ampla defesa quando a revisão puder afetar situações individuais, além de prazos e regras de decadência aplicáveis.",
+    "explanation": "**Gabarito: E — autotutela.** O trecho afirma que a Administração não deve manter atos com vícios de legalidade ou legitimidade. Isso corresponde ao poder-dever de autotutela, pelo qual a Administração revê seus próprios atos e anula os ilegais, conforme a Súmula 473 do STF e a Lei nº 9.784/1999.\n\n- **A) Tutela — incorreta:** é controle finalístico exercido sobre entidades da Administração indireta.\n- **B) Publicidade — incorreta:** refere-se à transparência e divulgação dos atos.\n- **C) Devido processo legal — incorreta:** é garantia que deve ser observada em procedimentos, mas não nomeia a revisão administrativa dos próprios atos.\n- **D) Motivação — incorreta:** exige explicitar os fundamentos da decisão.\n- **E) Autotutela — correta:** permite e impõe a revisão dos atos ilegais, observados os limites jurídicos.\n\n**Atenção:** a autotutela não autoriza ignorar contraditório, ampla defesa quando cabíveis, decadência, segurança jurídica ou direitos de terceiros. A Administração deve observar os procedimentos e limites legais.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
@@ -6901,15 +6937,19 @@
     },
     "answer": "A",
     "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
-    "explanation": "**Gabarito: A — I: proporcionalidade; II: publicidade.** A primeira definição trata da adequação entre meios e fins e da proibição de impor restrições ou sanções além do estritamente necessário, conteúdo do princípio da proporcionalidade. A segunda trata da transparência e visibilidade da atuação administrativa, que corresponde à publicidade.\n\n- **A) Correta:** proporcionalidade e publicidade correspondem às duas definições.\n- **B) Incorreta:** razoabilidade é relacionada à adequação, mas a expressão “vedação de excesso” e a limitação de restrições ao estritamente necessário apontam especificamente para proporcionalidade; legalidade não define transparência.\n- **C) Incorreta:** legalidade e moralidade não correspondem às definições apresentadas.\n- **D) Incorreta:** proporcionalidade está correta, mas a segunda definição é publicidade, não legalidade.\n- **E) Incorreta:** razoabilidade não é a denominação mais precisa da primeira definição, e eficiência não significa transparência.\n\n**Dica:** proporcionalidade controla excessos; publicidade permite visibilidade e controle social da atuação administrativa, ressalvadas hipóteses legais de sigilo.",
+    "explanation": "**Gabarito: A — I: proporcionalidade; II: publicidade.**\n\n- **I — Proporcionalidade:** exige adequação entre meios e fins e proíbe impor obrigações, restrições ou sanções em intensidade superior à estritamente necessária para atender ao interesse público. É uma dimensão da vedação ao excesso.\n- **II — Publicidade:** assegura transparência e visibilidade da atuação administrativa, permitindo conhecimento e controle social e institucional, ressalvadas as hipóteses legais de sigilo.\n\n- **A) Correta:** associa proporcionalidade à primeira definição e publicidade à segunda.\n- **B) Incorreta:** razoabilidade não é o termo específico da primeira descrição, e legalidade não define transparência.\n- **C) Incorreta:** legalidade e moralidade não correspondem às definições apresentadas.\n- **D) Incorreta:** a segunda descrição trata de publicidade, não de legalidade.\n- **E) Incorreta:** a segunda descrição trata de publicidade, não de eficiência.\n\n**Dica:** vedação de excesso e adequação entre meios e fins apontam para proporcionalidade; visibilidade e transparência apontam para publicidade.",
     "references": [
       {
-        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 100 (Planalto)",
+        "label": "Constituição Federal de 1988 — arts. 5º, 37 e 37, § 6º (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
       },
       {
         "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
         "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — Súmula 473 (autotutela administrativa)",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
       },
       {
         "label": "Decreto-Lei nº 3.365/1941 — desapropriações por utilidade pública (Planalto)",
