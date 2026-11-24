@@ -3339,7 +3339,28 @@
       "e": "Princípio da Disponibilidade"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Nobreak (UPS) fornece energia temporária quando há interrupção da rede elétrica, permitindo manter o equipamento em funcionamento por algum tempo ou desligá-lo corretamente. Isso contribui para a disponibilidade dos sistemas e dados.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2956355",
@@ -3355,7 +3376,28 @@
       "e": "Função ESCOLHER"
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. ÍNDICE retorna o valor ou a referência localizada na interseção de uma linha e coluna de uma matriz/intervalo. CORRESP localiza a posição de um item; PROCURAR encontra texto; SE testa condição; ESCOLHER seleciona um argumento por índice.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função ÍNDICE",
+        "url": "https://support.microsoft.com/pt-br/office/função-índice-a5dcf0dd-996d-40a4-a822-b56b061328bd"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (referência)",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2832927",
@@ -3371,7 +3413,28 @@
       "e": "Função SOMA"
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A função DIAS retorna a quantidade de dias entre duas datas, calculando a diferença entre a data final e a inicial. DATA constrói uma data; ÍNDICE consulta intervalos; SE testa condições; SOMA adiciona valores.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função DIAS",
+        "url": "https://support.microsoft.com/pt-br/excel/functions/days-function"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (referência)",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2832897",
@@ -3387,7 +3450,28 @@
       "e": "retornar o número de série sequencial que representa uma data particular."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. ÍNDICE retorna um valor ou uma referência a um valor dentro de uma tabela ou intervalo, conforme os índices de linha e coluna informados. As demais alternativas descrevem funções de data, lógica, soma ou conversão de data.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função ÍNDICE",
+        "url": "https://support.microsoft.com/pt-br/office/função-índice-a5dcf0dd-996d-40a4-a822-b56b061328bd"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (referência)",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2832899",
@@ -3403,7 +3487,28 @@
       "e": "IBM Informix"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. McAfee é uma marca de produtos de segurança que inclui proteção antivírus/antimalware. Sublime Text e CodeBlocks são ferramentas de desenvolvimento; MySQL e IBM Informix são sistemas de banco de dados.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft — Como se proteger contra malware",
+        "url": "https://www.microsoft.com/pt-br/security/business/security-101/what-is-malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2489063",
@@ -3419,7 +3524,28 @@
       "e": "Drive"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. OneDrive é o serviço de armazenamento em nuvem da Microsoft que permite sincronizar e compartilhar arquivos entre dispositivos e com outras pessoas. Word é um editor de texto e Outlook é um serviço de e-mail; iCloud e Google Drive também oferecem recursos semelhantes, mas não são o serviço da Microsoft associado ao Windows 10.",
+    "references": [
+      {
+        "label": "Microsoft Support — Compartilhar arquivos e pastas no OneDrive",
+        "url": "https://support.microsoft.com/pt-br/office/compartilhar-arquivos-e-pastas-do-onedrive"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2601738",
@@ -3435,7 +3561,28 @@
       "e": "Antivírus."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Firewall monitora e controla comunicações de entrada e saída conforme regras de segurança, podendo permitir ou bloquear tráfego. Antivírus/antispyware detectam software malicioso; criptografia protege dados; autenticação de dois fatores verifica a identidade.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — Understanding and Responding to Distributed Denial-of-Service Attacks",
+        "url": "https://www.cisa.gov/news-events/news/understanding-and-responding-distributed-denial-service-attacks"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2408969",
@@ -3451,7 +3598,29 @@
       "e": ".DOCX"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Entre as opções, .DOCX é a única extensão comum de documento do Office e pode ser explorada em campanhas maliciosas por meio de conteúdo enganoso ou vulnerabilidades. **Ressalva:** não existe uma extensão única “mais utilizada” universalmente por vírus; executáveis e documentos habilitados para macros (como .DOCM) também são vetores frequentes. O item está mal formulado e a alternativa E é apenas a mais plausível entre as listadas.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "Microsoft — Como se proteger contra malware",
+        "url": "https://www.microsoft.com/pt-br/security/business/security-101/what-is-malware"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Enunciado generaliza incorretamente a extensão mais usada por vírus. .DOCX não é arquivo executável nem formato habilitado para macros por padrão; há diversos vetores e extensões. E é apenas a alternativa mais plausível entre as opções, recomenda-se revisar/anular."
   },
   {
     "id": "2601735",
@@ -3467,7 +3636,28 @@
       "e": "Esse ataque “inunda” uma rede com pacotes SYN (SynFlood), impedindo que determinado serviço pare de ser realizado."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. O ataque de negação de serviço busca tornar um serviço indisponível ao sobrecarregar seus recursos ou sua rede. SYN flood é uma modalidade que envia grande volume de solicitações TCP SYN e pode esgotar recursos de conexão. As demais alternativas descrevem outros tipos de ataque ou objetivos.",
+    "references": [
+      {
+        "label": "CISA — Understanding and Responding to Distributed Denial-of-Service Attacks",
+        "url": "https://www.cisa.gov/news-events/news/understanding-and-responding-distributed-denial-service-attacks"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2649964",
@@ -3483,7 +3673,28 @@
       "e": "Hardware."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Na janela Propriedades da unidade no Windows 10, as opções de verificação e otimização/desfragmentação ficam na guia Ferramentas. Segurança trata de permissões; Compartilhamento trata de acesso pela rede; Geral exibe informações e uso do disco; Hardware lista dispositivos.",
+    "references": [
+      {
+        "label": "Microsoft Support — Desfragmentar/otimizar unidades",
+        "url": "https://support.microsoft.com/en-us/windows/defragment-optimize-your-data-drives-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Gerenciamento de espaço em disco no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2634834",
@@ -3499,7 +3710,28 @@
       "e": "utilização incorreta de firewalls e roteadores."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. A questão pede a exceção: transportar dados com criptografia é uma medida de proteção, não uma vulnerabilidade. Senhas previsíveis, ausência de correções, privilégios excessivos e configuração incorreta de firewalls/roteadores criam fragilidades exploráveis.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2870431",
@@ -3515,7 +3747,28 @@
       "e": "confidencialidade."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. O conjunto clássico de princípios da segurança da informação inclui confidencialidade, integridade e disponibilidade; autenticidade também é frequentemente tratada como requisito complementar. Liberdade não integra esse conjunto de princípios.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2870436",
@@ -3531,7 +3784,28 @@
       "e": "Microsoft Windows Defender."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Microsoft Windows Defender (atualmente Microsoft Defender Antivirus) é uma solução de proteção contra malware e spyware integrada ao Windows. FortiGate, pfSense e WatchGuard são plataformas/appliances de segurança de rede; TinyWall é uma interface/controle de firewall.",
+    "references": [
+      {
+        "label": "Microsoft — Como se proteger contra malware",
+        "url": "https://www.microsoft.com/pt-br/security/business/security-101/what-is-malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2870433",
@@ -3547,7 +3821,28 @@
       "e": "firewall."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Nobreak, ou UPS, armazena energia em baterias e fornece alimentação temporária quando a energia da rede é interrompida. Backup é cópia de dados; certificado digital e biometria apoiam identidade/autenticidade; firewall controla tráfego de rede.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2634911",
@@ -3563,7 +3858,28 @@
       "e": "completo, diferencial e incremental."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. A sequência pretendida é completo, incremental e diferencial. O completo copia o conjunto selecionado; o incremental copia alterações desde o backup imediatamente anterior; o diferencial copia alterações desde o último backup completo. A restauração incremental pode exigir a cadeia de backups, enquanto o diferencial normalmente exige o completo e o diferencial mais recente.",
+    "references": [
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2634841",
@@ -3579,7 +3895,28 @@
       "e": "Exibe grande quantidade de anúncios sem o consentimento do usuário, deixando o computador vulnerável para invasão de outros malwares."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Ransomware bloqueia o acesso a arquivos ou sistemas, frequentemente por criptografia, e exige pagamento para tentar restabelecê-lo. Backdoor permite acesso oculto; rootkit oculta componentes maliciosos; keylogger registra teclas; adware exibe publicidade indesejada.",
+    "references": [
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2601722",
@@ -3595,7 +3932,29 @@
       "e": "F7."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Ctrl + Alt + Tab exibe miniaturas das aplicações abertas e permite alternar entre elas usando as setas. **Ressalva:** o enunciado chama esse recurso de “Aero Flip”, termo historicamente associado ao Flip 3D do Windows Vista/7; no Windows 10, a Visão de Tarefas é aberta por Windows + Tab. A alternativa A descreve o alternador persistente de aplicativos, não o antigo Flip 3D.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Ctrl+Alt+Tab exibe miniaturas de aplicativos abertos, mas 'Aero Flip' é nomenclatura histórica ambígua. No Windows 10, Win+Tab abre a Visão de Tarefas; revisar a terminologia."
   },
   {
     "id": "2533665",
@@ -3611,7 +3970,29 @@
       "e": "Retorna a tangente hiperbólica inversa de um número"
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. **Ressalva de gabarito:** a função MÉDIA calcula a média aritmética dos argumentos numéricos; quando recebe referências, ignora texto e valores lógicos nelas. A descrição da alternativa B — considerar também texto e valores lógicos — corresponde à função MÉDIAA (AVERAGEA), não à MÉDIA. A alternativa A descreve MÉDIASE; C descreve MÉDIASES; D descreve DESV.MÉDIO. Assim, não há alternativa tecnicamente correta para a função MÉDIA como o enunciado pede; recomenda-se anulação ou correção das opções.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função MÉDIA",
+        "url": "https://support.microsoft.com/pt-br/excel/average-function"
+      },
+      {
+        "label": "Microsoft Support — Função MÉDIAA",
+        "url": "https://support.microsoft.com/en-us/excel/averagea-function"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (referência)",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Não há alternativa correta para a função MÉDIA: a opção B descreve MÉDIAA (AVERAGEA), que inclui texto e valores lógicos; a opção A descreve MÉDIASE. Recomenda-se anulação/correção."
   },
   {
     "id": "2617465",
@@ -3627,7 +4008,28 @@
       "e": "necessidade de menos espaço de armazenamento."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. A principal vantagem do backup incremental é reduzir o volume de dados copiados em cada execução e, consequentemente, o espaço de armazenamento necessário. Em contrapartida, a recuperação pode ser mais trabalhosa, pois pode exigir o backup completo e todos os incrementais subsequentes.",
+    "references": [
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431558",
@@ -3643,7 +4045,28 @@
       "e": "o sistema de arquivos e o espaço usado."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Na guia Geral das propriedades de uma unidade, o Windows apresenta informações como o sistema de arquivos (por exemplo, NTFS) e o espaço usado/livre. Informações sobre processador, memória, edição do Windows e grupo de trabalho pertencem a outras telas de sistema.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Gerenciamento de espaço em disco no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431561",
@@ -3659,7 +4082,28 @@
       "e": "informações do sistema."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Limpeza de Disco é a ferramenta tradicional do Windows 10 para remover arquivos temporários e outros itens desnecessários e liberar espaço. Otimizar unidades trata da otimização/desfragmentação; as demais ferramentas têm finalidades administrativas diferentes.",
+    "references": [
+      {
+        "label": "Microsoft Support — Gerenciamento de espaço em disco no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Desfragmentar/otimizar unidades",
+        "url": "https://support.microsoft.com/en-us/windows/defragment-optimize-your-data-drives-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431580",
@@ -3675,7 +4119,28 @@
       "e": "não utilização de referência absoluta para travar a célula C8."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Ao arrastar a fórmula de C4 para baixo, uma referência relativa a C8 se desloca para C9 e C10. Para manter fixa a célula que contém a taxa de câmbio, a fórmula deve usar referência absoluta, por exemplo $C$8. Sem os cifrões, o cálculo passa a apontar para células incorretas.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel (referência)",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431181",
@@ -3691,7 +4156,28 @@
       "e": "mover o arquivo para a pasta de destino e copiar o arquivo para a lixeira."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Ao arrastar um arquivo de uma unidade para outra no Explorador de Arquivos, a ação padrão é copiá-lo. Dentro da mesma unidade, a ação padrão costuma ser mover. O uso de teclas modificadoras, como Ctrl ou Shift, pode alterar esse comportamento.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431201",
@@ -3707,7 +4193,29 @@
       "e": "13."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. CONT.NÚM conta células que contêm valores numéricos em um intervalo e ignora textos e células vazias. **Ressalva:** a tabela foi transcrita em texto com alinhamento/posições de células pouco claros; o total depende da disposição exata dos valores em B2:F4. O gabarito D (8) deve ser confirmado com a imagem ou planilha original antes de ser considerado definitivo.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função CONT.NÚM",
+        "url": "https://support.microsoft.com/pt-br/excel/count-function"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (referência)",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Tabela transcrita sem alinhamento inequívoco das células. O resultado de CONT.NÚM depende da posição dos dados; confirmar gabarito D com imagem/planilha original."
   },
   {
     "id": "2600172",
@@ -3723,7 +4231,28 @@
       "e": "biometria, firewall e nobreak."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Biometria, assinatura digital e certificados digitais podem apoiar a autenticidade: associam uma identidade a uma pessoa ou verificam a origem/validade de uma assinatura. Criptografia é mais diretamente associada à confidencialidade; backup e nobreak apoiam recuperação e disponibilidade; firewall filtra tráfego.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2650125",
@@ -3739,7 +4268,28 @@
       "e": "7."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. A expressão C1 + (A1 − C1) + B1 simplifica-se algebricamente para A1 + B1, pois C1 e −C1 se anulam. Com A1=12 e B1=5, o resultado é 17, independentemente do valor aleatório gerado em C1.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel (referência)",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2488932",
@@ -3755,7 +4305,28 @@
       "e": "garante que o autor da informação é realmente quem ele diz que é."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Integridade busca assegurar que a informação permaneça completa e correta e não seja alterada de forma não autorizada. A alternativa A descreve disponibilidade; B, confidencialidade; C, não repúdio; E, autenticidade.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2488935",
@@ -3771,7 +4342,28 @@
       "e": "Pharming."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Pharming é o redirecionamento fraudulento da navegação, frequentemente por manipulação/envenenamento de DNS, para um site falso mesmo quando a vítima digita o endereço legítimo. Phishing costuma usar mensagens ou páginas enganosas para induzir a vítima a fornecer dados.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2488936",
@@ -3787,7 +4379,28 @@
       "e": "spyware."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Rootkit é uma categoria de malware projetada para ocultar sua presença ou a de outros componentes maliciosos e, em alguns casos, manter acesso privilegiado ao sistema. Não é hardware nem antivírus; pode ter funcionalidades que se sobrepõem a outras categorias de malware.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft — Como se proteger contra malware",
+        "url": "https://www.microsoft.com/pt-br/security/business/security-101/what-is-malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2488938",
@@ -3803,7 +4416,28 @@
       "e": "Win + Shift + M"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Ctrl + Shift + Esc abre diretamente o Gerenciador de Tarefas no Windows. Win + D mostra a área de trabalho; Ctrl + A seleciona tudo; Alt + Tab alterna entre janelas; Win + Shift + M restaura janelas minimizadas.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2488941",
