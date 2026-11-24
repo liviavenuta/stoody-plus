@@ -2724,7 +2724,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Legalidade, impessoalidade e moralidade são princípios expressos no art. 37, caput. A estabilidade é adquirida após três anos de efetivo exercício, e o servidor civil tem direito à livre associação sindical. A acumulação de dois cargos de professor é permitida se houver compatibilidade de horários.",
+    "explanation": "O art. 37, caput, estabelece os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência. A estabilidade é adquirida após três anos de efetivo exercício, nos termos do art. 41; o servidor civil tem direito à livre associação sindical; e há hipóteses constitucionais de acumulação de cargos de professor.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2750,11 +2750,15 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A alternativa A é a incorreta porque a regra geral do art. 37, § 6º, é a responsabilidade objetiva das pessoas jurídicas de direito público e das pessoas jurídicas de direito privado prestadoras de serviços públicos, baseada no risco administrativo, sem necessidade de provar dolo ou culpa do Estado. O direito de regresso contra o agente exige dolo ou culpa.",
+    "explanation": "A alternativa A é a incorreta. O art. 37, § 6º, adota, para as pessoas jurídicas de direito público e prestadoras privadas de serviços públicos, a responsabilidade objetiva perante terceiros: a vítima deve demonstrar conduta estatal, dano e nexo causal, sem provar dolo ou culpa do agente. A culpa administrativa é uma construção distinta, associada à falta do serviço em certas hipóteses de omissão. A ação regressiva contra o agente exige dolo ou culpa.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "STF — Jurisprudência",
+        "url": "https://portal.stf.jus.br/jurisprudencia/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -2776,7 +2780,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 3º, II, assegura o acesso dos usuários a registros administrativos e a informações sobre atos de governo, ressalvadas as informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado. A alternativa B reproduz essa garantia.",
+    "explanation": "O art. 37, § 3º, assegura formas de participação do usuário e acesso a registros administrativos e informações sobre atos de governo, ressalvado o sigilo imprescindível à segurança da sociedade e do Estado. A alternativa C está errada porque a responsabilidade do § 6º trata de danos causados pelos agentes públicos, não por particulares em geral.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2802,7 +2806,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 7º, prevê que a lei disporá sobre requisitos e restrições aplicáveis ao ocupante de cargo ou emprego da Administração direta e indireta que possibilite acesso a informações privilegiadas. As demais alternativas confundem autorização legal de estatais, estabilidade, exceções à acumulação de proventos e ampla defesa.",
+    "explanation": "O art. 37, § 7º, prevê que a lei disponha sobre requisitos e restrições aplicáveis ao ocupante de cargo ou emprego da Administração direta e indireta que possibilite acesso a informações privilegiadas. As demais alternativas confundem autorização legislativa com criação de estatais, estabilidade com vitaliciedade e as exceções à acumulação de proventos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2828,7 +2832,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 13, estabelece que a readaptação deve ocorrer em cargo com atribuições e responsabilidades compatíveis com a limitação física ou mental, exigidas a habilitação e a escolaridade do cargo de destino, mantendo-se a remuneração do cargo de origem.",
+    "explanation": "O art. 37, § 13, prevê readaptação para cargo cujas atribuições e responsabilidades sejam compatíveis com a limitação física ou mental do servidor, desde que ele possua habilitação e escolaridade exigidas para o cargo de destino, mantendo-se a remuneração do cargo de origem.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2854,7 +2858,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Avaliação de desempenho, estágio probatório e ampliação de autonomia por contrato de desempenho integram mecanismos de gestão orientados à eficiência, princípio expresso no art. 37 e reforçado pela EC nº 19/1998.",
+    "explanation": "A avaliação de desempenho, o estágio probatório e os instrumentos de ampliação de autonomia gerencial estão associados à busca de melhores resultados e qualidade na prestação dos serviços públicos. São manifestações do princípio da eficiência, incluído expressamente no art. 37 pela EC nº 19/1998.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2880,7 +2884,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 38, III, permite ao servidor eleito vereador manter as vantagens do cargo efetivo sem prejuízo da remuneração do mandato eletivo, desde que haja compatibilidade de horários. Sem compatibilidade, será afastado, com possibilidade de opção remuneratória.",
+    "explanation": "O servidor eleito vereador pode acumular as vantagens do cargo efetivo com a remuneração do mandato eletivo se houver compatibilidade de horários, conforme art. 38, III. Se não houver compatibilidade, será afastado do cargo e poderá optar pela remuneração. Se vinculado a RPPS, permanece filiado ao regime de origem.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2906,7 +2910,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, XII, determina que os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo. A associação sindical do inciso VI é assegurada aos servidores civis; a acumulação de dois cargos de professor é possível nas condições constitucionais.",
+    "explanation": "O art. 37, XII, determina que os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não podem ser superiores aos pagos pelo Poder Executivo. O concurso tem validade de até dois anos; o direito sindical é assegurado aos servidores civis; e a acumulação remunerada é excepcional.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2932,7 +2936,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 6º, assegura à pessoa jurídica responsável o direito de regresso contra o agente que causou o dano quando houver dolo ou culpa. A responsabilidade da entidade perante o terceiro é objetiva, desde que presentes os demais pressupostos da responsabilidade civil.",
+    "explanation": "O art. 37, § 6º, assegura o direito de regresso contra o agente responsável quando comprovados dolo ou culpa. A responsabilidade da pessoa jurídica perante a vítima é objetiva, desde que o dano tenha sido causado por agente nessa qualidade.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2958,7 +2962,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Nas hipóteses em que a Constituição permite acumular cargos, o teto remuneratório é aplicado a cada vínculo isoladamente, e não sobre a soma das remunerações, conforme entendimento do STF (Temas 377 e 384). Honorários sucumbenciais de advogados públicos também se submetem ao teto constitucional.",
+    "explanation": "Nas hipóteses constitucionais de acumulação lícita de cargos, empregos ou funções, o teto remuneratório deve ser aplicado a cada vínculo isoladamente, e não à soma das remunerações, conforme entendimento do STF em repercussão geral. As demais alternativas generalizam ou descrevem incorretamente os subtetos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -2988,7 +2992,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 13, permite readaptar servidor efetivo para cargo com atribuições e responsabilidades compatíveis com sua limitação física ou mental, observadas habilitação e escolaridade, mantendo-se a remuneração do cargo de origem. A alternativa A reproduz a regra.",
+    "explanation": "O art. 37, § 13, autoriza a readaptação do servidor efetivo para atribuições compatíveis com sua limitação física ou mental, mantida a remuneração do cargo de origem, desde que possua habilitação e escolaridade exigidas para o cargo de destino.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3014,7 +3018,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, XVIII, confere à administração fazendária e a seus servidores fiscais, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei. A alternativa B está correta.",
+    "explanation": "O art. 37, XVIII, estabelece que a administração fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei. Estrangeiros também podem acessar cargos, empregos e funções públicas na forma da lei.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3040,7 +3044,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O aplicativo concretiza participação e informação do usuário, e o logotipo institucional pode identificar legitimamente o órgão responsável. Já o slogan de gestão “trabalhando para todos” pode caracterizar promoção institucional da administração de ocasião, contrariando o art. 37, § 1º, que veda publicidade com caráter de promoção pessoal ou de autoridade. A alternativa C é a que melhor distingue esses elementos.",
+    "explanation": "A participação do usuário e a oferta de informações sobre saúde são compatíveis com o art. 37, § 3º, e com o princípio da eficiência. A identificação institucional do órgão pode ser legítima; já o slogan promocional da gestão pode caracterizar promoção institucional/pessoal vedada pelo art. 37, § 1º. A alternativa C é a que melhor distingue esses elementos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3067,7 +3071,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A exigência de concurso público está ligada à impessoalidade, pois promove seleção objetiva e igualdade de acesso. Aplica-se também aos empregos públicos; não se aplica às nomeações para cargos em comissão declarados em lei como de livre nomeação e exoneração.",
+    "explanation": "A exigência de concurso concretiza especialmente a impessoalidade e a isonomia no acesso aos postos públicos. Aplica-se tanto a cargos quanto a empregos públicos; a exceção são os cargos em comissão declarados em lei como de livre nomeação e exoneração, conforme art. 37, II.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3093,7 +3097,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A contratação temporária para necessidade temporária de excepcional interesse público é admitida pelo art. 37, IX, nos casos estabelecidos em lei. A remuneração de ocupantes de funções públicas também se submete ao teto remuneratório constitucional; no âmbito do Executivo estadual, o limite geral é o subsídio do Governador, observadas as regras específicas.",
+    "explanation": "A função temporária exercida para atender necessidade temporária de excepcional interesse público submete-se às regras constitucionais de remuneração e ao teto aplicável ao Poder Executivo estadual, cujo limite geral é o subsídio do Governador, conforme art. 37, XI. A contratação temporária não exige concurso público nos moldes do art. 37, II, mas depende de lei que estabeleça os casos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3119,7 +3123,7 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O princípio da publicidade sofre limitações quando há informações protegidas por sigilo legal, como dados fiscais e informações pessoais. A publicidade administrativa não é absoluta e deve ser harmonizada com a intimidade, o sigilo fiscal e a proteção de dados.",
+    "explanation": "A publicidade é limitada por hipóteses constitucionais e legais de sigilo, como a proteção de informações fiscais e de dados cuja divulgação seja legalmente restrita. A mitigação não elimina o princípio: deve haver fundamento legal para o sigilo, compatível com o acesso à informação e a proteção de dados.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3144,7 +3148,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 4º, prevê, entre as consequências dos atos de improbidade, a indisponibilidade dos bens e a perda da função pública, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível. As demais alternativas contrariam a vedação à promoção pessoal e as regras de acumulação.",
+    "explanation": "O art. 37, § 4º, prevê que atos de improbidade podem acarretar, entre outras consequências, indisponibilidade dos bens e perda da função pública, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível. A publicidade institucional não pode promover pessoalmente o Prefeito.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3170,7 +3174,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, XXII, estabelece que as administrações tributárias são atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, com recursos prioritários e atuação integrada, inclusive mediante compartilhamento de cadastros e informações fiscais, na forma da lei ou convênio.",
+    "explanation": "O art. 37, XXII, define as administrações tributárias como atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, com recursos prioritários e atuação integrada, inclusive mediante compartilhamento de cadastros e informações fiscais, na forma da lei ou convênio.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3196,7 +3200,7 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O tratamento imparcial decorre especialmente da impessoalidade, que exige critérios objetivos e vedação de favorecimentos, e da legalidade, que submete a atuação administrativa ao ordenamento jurídico. A alternativa E reúne esses princípios.",
+    "explanation": "A imparcialidade no tratamento dos cidadãos decorre diretamente da legalidade e da impessoalidade: a Administração deve agir conforme o ordenamento e aplicar critérios objetivos, sem favorecimentos ou perseguições.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3222,7 +3226,7 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, caput, estabelece os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência. A alternativa E reproduz integralmente a enumeração constitucional.",
+    "explanation": "A alternativa E reproduz os cinco princípios expressos no caput do art. 37: legalidade, impessoalidade, moralidade, publicidade e eficiência.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3248,7 +3252,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O servidor eleito vereador pode exercer simultaneamente o cargo de Oficial de Justiça e o mandato, se houver compatibilidade de horários, percebendo as vantagens do cargo de origem sem prejuízo da remuneração eletiva, conforme art. 38, III.",
+    "explanation": "O servidor eleito vereador, havendo compatibilidade de horários, recebe as vantagens de seu cargo de Oficial de Justiça sem prejuízo da remuneração do mandato eletivo, conforme art. 38, III. Sem compatibilidade, aplica-se o afastamento previsto no inciso II.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3274,7 +3278,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 4º, prevê as consequências constitucionais dos atos de improbidade administrativa, entre elas suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma da lei.",
+    "explanation": "O art. 37, § 4º, prevê suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário como consequências possíveis dos atos de improbidade administrativa, na forma e gradação previstas em lei.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3298,7 +3302,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, I, prevê que cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos legais e aos estrangeiros, na forma da lei. As demais alternativas contrariam regras sobre remuneração, acumulação e contratação temporária.",
+    "explanation": "O art. 37, I, permite que cargos, empregos e funções públicas sejam acessíveis aos brasileiros que preencham os requisitos legais e aos estrangeiros, na forma da lei. As demais alternativas contrariam as vedações de vinculação remuneratória, acumulação incompatível e contratação temporária.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3323,7 +3327,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, XIX, determina que autarquia seja criada por lei específica e que a instituição de empresa pública, sociedade de economia mista e fundação seja autorizada por lei específica. No caso da fundação, lei complementar define suas áreas de atuação.",
+    "explanation": "O art. 37, XIX, estabelece que autarquia é criada por lei específica; a instituição de empresa pública, sociedade de economia mista e fundação é autorizada por lei específica. No caso da fundação, lei complementar define suas áreas de atuação. A alternativa A reproduz essa regra.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -3349,7 +3353,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A EC nº 19/1998 incluiu expressamente o princípio da eficiência no caput do art. 37, refletindo a orientação de uma Administração Pública gerencial, voltada à qualidade, aos resultados e ao melhor uso dos recursos públicos.",
+    "explanation": "A EC nº 19/1998 acrescentou o princípio da eficiência ao caput do art. 37, consolidando a orientação gerencial voltada a resultados, qualidade, produtividade e melhor utilização dos recursos públicos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
