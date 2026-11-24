@@ -1514,7 +1514,20 @@
       "e": "autotutela."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é B — impessoalidade. O atendimento preferencial a conhecidos, sem critério legal ou objetivo que o justifique, representa favorecimento pessoal. A Administração deve tratar os usuários segundo critérios gerais e isonômicos, orientando sua atuação ao interesse público e não às relações particulares do agente.\n\nPor que as outras estão erradas: A) soberania é atributo do Estado, não o princípio administrativo diretamente violado; C) eficiência diz respeito à qualidade e ao bom uso dos recursos, mas não é o foco da preferência pessoal narrada; D) publicidade trata da transparência dos atos; E) autotutela é o poder-dever de a Administração rever seus próprios atos, nos limites legais.\n\nBase: art. 37, caput, da Constituição Federal. O texto do enunciado contém metadados de impressão colados após a pergunta; isso não altera a identificação do princípio.",
+    "references": [
+      {
+        "label": "Decreto nº 1.171/1994 — Código de Ética Profissional do Servidor Público Federal",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3868677",
@@ -1531,7 +1544,20 @@
       "e": "II, apenas."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é B — I e II, apenas. I) Legalidade exige que a Administração atue conforme o ordenamento jurídico e dentro das competências e autorizações normativas. II) Moralidade exige atuação ética, proba e compatível com a finalidade pública. III) está incorreta porque eficiência não afasta legalidade formal ou material: os princípios constitucionais devem ser observados conjuntamente.\n\nPor que as outras estão erradas: A) inclui III, que é falsa, e exclui II, que é verdadeira; C) também inclui III e exclui I; D) considera verdadeira a III; E) exclui a afirmação I, que está correta.\n\nDica: eficiência não é autorização para descumprir lei. O resultado administrativo deve ser buscado por meios juridicamente válidos.",
+    "references": [
+      {
+        "label": "Decreto nº 1.171/1994 — Código de Ética Profissional do Servidor Público Federal",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4012253",
@@ -1548,7 +1574,20 @@
       "e": "I, apenas."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D — II, apenas. A afirmação II está correta: a Administração Pública está submetida ao princípio da legalidade e deve atuar com fundamento no ordenamento jurídico. A afirmação I está incorreta porque contratos administrativos não são simplesmente regidos por um regime de direito privado; submetem-se a regime jurídico-administrativo, com normas de direito público e aplicação subsidiária de regras privadas quando cabível. A afirmação III também está incorreta porque o princípio é chamado impessoalidade, não pessoalidade.\n\nPor que as outras estão erradas: A) III é falsa; B) I e III são falsas; C) inclui III, que está incorreta; E) I está incorreta.\n\nDica de prova: impessoalidade significa atuação objetiva e sem favorecimentos; “pessoalidade” não é o princípio constitucional do art. 37.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4012215",
@@ -1565,7 +1604,20 @@
       "e": "eficiência."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é C — legalidade. Para a Administração Pública, o princípio da legalidade significa que o agente só pode agir quando houver fundamento jurídico e dentro das competências e limites previstos no ordenamento. Diferentemente do particular, que em regra pode fazer o que a lei não proíbe, o administrador está vinculado à finalidade pública e à autorização normativa.\n\nPor que as outras estão erradas: A) supremacia do interesse público é uma diretriz de proteção do interesse coletivo, não a exigência específica de conformidade com a lei; B) discricionariedade permite escolha administrativa dentro dos limites legais; D) autotutela é revisão dos próprios atos; E) eficiência busca bons resultados e uso adequado de recursos, mas não substitui legalidade.\n\nBase: art. 37 da Constituição Federal e Lei nº 9.784/1999.",
+    "references": [
+      {
+        "label": "Decreto nº 1.171/1994 — Código de Ética Profissional do Servidor Público Federal",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4085064",
@@ -1582,7 +1634,20 @@
       "e": "A discricionariedade administrativa afasta a incidência de controle relacionado à moralidade dos atos praticados pelo agente público. https://www.tecconcursos.com.br/questoes/cadernos/108619254/imprimir 12/11/2026, 23:59 Caderno Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM - Porto Velho - 2027"
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é B. A impessoalidade impede favorecimentos e perseguições arbitrárias e exige critérios objetivos, coerentes e aplicados de maneira isonômica. O agente público não pode substituir critérios institucionais por preferências pessoais.\n\nPor que as outras estão erradas: A) moralidade não depende apenas das convicções subjetivas do agente; deve ser compatível com padrões éticos e a finalidade pública; C) eficiência não autoriza flexibilizar normas obrigatórias sem fundamento jurídico; D) publicidade não substitui controle de finalidade, motivação e moralidade; E) discricionariedade não afasta controle de legalidade e moralidade.\n\nDica: discricionariedade é espaço de escolha juridicamente delimitado, não liberdade para agir sem controle. O texto da alternativa E contém metadados de impressão colados ao final.",
+    "references": [
+      {
+        "label": "Decreto nº 1.171/1994 — Código de Ética Profissional do Servidor Público Federal",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3542302",
@@ -1599,7 +1664,20 @@
       "e": "Sanção por desvio de verbas após processo legal."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D — uso de bens públicos para promoção pessoal em campanha. Bens e recursos públicos devem ser utilizados para finalidades públicas e institucionais, não para promoção eleitoral ou pessoal de agentes. Essa conduta pode violar impessoalidade, moralidade e regras específicas sobre uso da máquina pública e propaganda eleitoral.\n\nPor que as outras estão erradas: A) contratação transparente, quando realizada conforme as regras, é compatível com publicidade e controle; B) remoção devidamente motivada pode ser ato legítimo; C) divulgação de atos e contas concretiza transparência, respeitados os sigilos legais; E) aplicação de sanção após processo legal é compatível com o devido processo, desde que respeitadas as garantias aplicáveis.\n\nBase: art. 37 da Constituição Federal. A depender do contexto eleitoral, também podem incidir normas específicas de direito eleitoral e de improbidade.",
+    "references": [
+      {
+        "label": "Decreto nº 1.171/1994 — Código de Ética Profissional do Servidor Público Federal",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3596488",
@@ -1616,7 +1694,20 @@
       "e": "legalidade."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D — eficiência. A Emenda Constitucional nº 19/1998 incluiu expressamente a eficiência no caput do art. 37 da Constituição Federal, ao lado de legalidade, impessoalidade, moralidade e publicidade. A mudança integrou o contexto da reforma administrativa gerencial, que enfatizou resultados e qualidade na prestação dos serviços públicos.\n\nPor que as outras estão erradas: A) publicidade já constava do texto constitucional original; B) impessoalidade já era princípio expresso; C) moralidade também já constava; E) legalidade igualmente já integrava o rol. A inovação cobrada pela questão foi a inclusão expressa da eficiência.\n\nDica: memorize o conjunto LIMPE; a eficiência foi acrescentada pela EC nº 19/1998.",
+    "references": [
+      {
+        "label": "Decreto nº 1.171/1994 — Código de Ética Profissional do Servidor Público Federal",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3540834",
@@ -1633,7 +1724,20 @@
       "e": "Universalidade."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D — legalidade. O administrador público deve atuar em conformidade com a lei e com as demais normas aplicáveis, dentro de sua competência. A legalidade limita o poder estatal e protege os cidadãos contra atos arbitrários.\n\nPor que as outras estão erradas: A) improbidade é uma categoria de ilícito, não o princípio descrito; B) eficiência refere-se à busca de resultados e qualidade; C) moralidade exige padrões éticos e probidade; E) universalidade é princípio utilizado em outros campos, como saúde e seguridade, mas não corresponde à definição apresentada.\n\nDica: “não praticar atos sem autorização normativa” é a formulação clássica do princípio da legalidade administrativa.",
+    "references": [
+      {
+        "label": "Decreto nº 1.171/1994 — Código de Ética Profissional do Servidor Público Federal",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3790169",
@@ -1650,7 +1754,20 @@
       "e": "Publicidade limita-se a extrato formal, já que o mérito administrativo resiste ao escrutínio público, permitindo exposição restrita de motivos e de elementos sensíveis."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é A. Publicidade é a regra geral de transparência dos atos e informações administrativas, permitindo controle social e conhecimento das razões da atuação estatal. Essa regra convive com hipóteses legítimas de sigilo previstas em lei, proteção de dados pessoais e resguardo de informações legalmente protegidas. Restrições devem ter fundamento, ser proporcionais e registradas adequadamente.\n\nPor que as outras estão erradas: B) publicação sumária não substitui motivação quando esta é exigida; C) divulgação voluntária genérica não assegura transparência do conteúdo decisório; D) eficiência não autoriza ocultar decisões ou eliminar suas premissas fáticas e jurídicas; E) mérito administrativo não torna o ato imune à transparência e ao controle, ressalvados os sigilos legais.\n\nBase: art. 37 da Constituição Federal e Lei nº 12.527/2011 (Lei de Acesso à Informação).",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3783675",
@@ -1667,7 +1784,20 @@
       "e": "Ampliar discricionariedade individual do fiscal, redigir justificativas breves, limitar divulgação de atos e considerar moralidade por tradições locais de tolerância setorial. https://www.tecconcursos.com.br/questoes/cadernos/108619254/imprimir 12/11/2026, 23:59 Caderno Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM - Porto Velho - 2027"
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é A. A opção reúne os cinco princípios expressos no art. 37 da Constituição: legalidade, ao vincular a autuação à tipificação normativa; impessoalidade, ao evitar favorecimento; moralidade, ao exigir conduta íntegra e finalidade pública; publicidade, ao registrar e dar transparência aos atos oficiais; e eficiência, ao organizar recursos e trabalho de forma adequada.\n\nPor que as outras estão erradas: B) dispensa registros e trata dados como reservados sem indicar fundamento legal; C) valoriza reputação pessoal do fiscal e reduz transparência; D) prioriza conveniência e restringe acesso sem justificativa; E) amplia discricionariedade individual e limita divulgação, contrariando a atuação vinculada aos princípios.\n\nDica: um ato de fiscalização deve ser motivado, impessoal, juridicamente fundamentado, transparente nos limites legais e executado com uso adequado dos recursos. A alternativa E contém metadados de impressão colados ao final.",
+    "references": [
+      {
+        "label": "Decreto nº 1.171/1994 — Código de Ética Profissional do Servidor Público Federal",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d1171.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3633704",
