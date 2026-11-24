@@ -1,37 +1,41 @@
-# Auditoria das nove questões pendentes — 2026-11-24
+# Auditoria das nove questões pendentes — atualização de 24/11/2026
 
-## Escopo e critério
+## Escopo
 
-Auditoria documental dos nove registros sinalizados no banco. Foram comparados enunciado, alternativas, gabarito, explicação, referências e observações atualmente armazenadas nos arquivos JSON.
+Os quatro PDFs originais enviados nesta conversa foram confrontados com os nove registros do banco. Foram conferidos enunciados, alternativas, imagens/tabelas quando relevantes e os gabaritos incluídos nos próprios cadernos.
 
-**Limite importante:** os PDFs originais citados nos registros não estão presentes na árvore atual do repositório. Portanto, não foi possível confrontar as transcrições com as páginas/imagens originais. Nenhum gabarito foi alterado nesta etapa.
+## Resultado atualizado
 
-## Resultado por questão
+| Matéria | Questão | Gabarito no PDF | Resultado da auditoria |
+|---|---:|:---:|---|
+| Informática | 114 | D | **Conferida.** A imagem da planilha nas páginas 60–61 permite contar 8 células numéricas em B2:F4; CONT.NÚM retorna 8. Explicação e observação atualizadas. |
+| Português | 15 | D | **Conferida com ressalva.** O texto “Escorrendo” e as alternativas foram conferidos na página 11; o gabarito do simulado é D. A alternativa E descreve traços presentes no texto, por isso a observação de possível sobreposição interpretativa foi mantida. |
+| Legislação | 15 | D | **Conferida.** O gabarito do caderno é D. A explicação considera a redação do art. 37, XVI, “b”, após a EC nº 138/2025. |
+| Legislação | 85 | C | **Conferida.** O gabarito do caderno é C. O registro mantém a referência à Súmula 52 do TCE-SP e a ressalva de que a Súmula 45 não deve ser apresentada como fundamento vigente. |
+| Legislação | 92 | B | **Conferida.** O gabarito do caderno é B. O enunciado e as datas (aposentadoria em 1996 e reingresso em janeiro de 1998) coincidem com o registro. |
+| Conhecimentos Específicos | 336 | E | **Enunciado e alternativas restaurados; gabarito contestado.** O PDF traz o caso de Edmilson que compra o cartucho com dinheiro próprio e pede reembolso. O gabarito do caderno indica E (“peculato”), mas os fatos narrados não demonstram claramente apropriação ou desvio de bem público. A chave publicada foi preservada, mas a questão continua pendente de validação jurídica e conferência do material-base Profuncionário. |
+| Conhecimentos Específicos | 355 | A | **Conferida e restaurada.** A tabela original traz Planejamento, Organização, Supervisão e Controle; as atividades são geração de competências, liderança, soluções de problemas e fixação de objetivos. A associação I–Z, II–W, III–X, IV–Y corresponde à alternativa A. |
+| Conhecimentos Específicos | 373 | B | **Alternativas corrigidas.** O PDF apresenta a alternativa D como “II e III”; o banco continha indevidamente uma frase sobre estratégia institucional. A alternativa B coincide com o gabarito do caderno. |
+| Conhecimentos Específicos | 399 | D | **Conferida e restaurada.** O enunciado original pergunta qual função usa a comunicação como instrumento básico; o gabarito do caderno é D (Coordenar). |
 
-| Matéria | Questão | Resultado | Fundamentação / ação necessária |
-|---|---:|---|---|
-| Informática | 114 | PENDENTE — fonte primária ausente | A própria explicação informa que a transcrição da planilha perdeu o alinhamento/endereço das células. O gabarito D (8) continua provisório. Obter a imagem ou planilha original e recontar B2:F4 antes de validar. |
-| Língua Portuguesa | 15 | PENDENTE — possível ambiguidade | D é defensável porque a crônica parte de experiências individuais para alcançar vivências coletivas. E também descreve características presentes no texto (relato subjetivo e reflexivo). Conferir comando e critério da banca no caderno original e no gabarito oficial. Não alterar D sem essa conferência. |
-| Legislação | 15 | CONFERÊNCIA NORMATIVA FAVORÁVEL AO GABARITO D | A EC nº 138/2025 alterou o art. 37, XVI, “b”, da Constituição para permitir um cargo de professor com outro de qualquer natureza, observadas compatibilidade de horários e teto constitucional. Assim, a hipótese descrita sustenta D. A explicação atual está materialmente alinhada à redação vigente. |
-| Legislação | 85 | PENDENTE — validação documental complementar | O registro aponta a Súmula 52 do TCE-SP como fundamento para vedar sessões extraordinárias e verbas de gabinete. A explicação alerta corretamente para não usar a antiga Súmula 45 como fundamento vigente. Antes de retirar a pendência, anexar/arquivar evidência oficial do texto e vigência da Súmula 52 e conferir o recorte temporal da prova. |
-| Legislação | 92 | PENDENTE — caso constitucional complexo | A explicação articula o art. 11 da EC 20/1998 e os Temas 921 e 627 do STF. O raciocínio depende das datas exatas de aposentadoria, reingresso e da natureza acumulável dos cargos. Revalidar diretamente os acórdãos/teses e a legislação vigente na data do reingresso, além de conferir a transcrição original. Não alterar o gabarito B nesta etapa. |
-| Conhecimentos Específicos | 336 | BLOQUEIO — incompatibilidade grave entre enunciado e alternativas | O campo stem descreve o término do cartucho de tinta de uma impressora escolar, mas as alternativas respondem a uma pergunta sobre peculato do art. 312 do Código Penal. O texto do enunciado cadastrado não corresponde à pergunta pressuposta pelas alternativas e pela explicação. Recuperar a página original; não é seguro reconstruir o enunciado por inferência. |
-| Conhecimentos Específicos | 355 | PENDENTE — reconstrução sem imagem original | O stem cadastrado menciona um quadro de gestão do desempenho, enquanto o enunciado reescrito apresenta fases clássicas do processo administrativo. A correspondência I–Z, II–W, III–X, IV–Y é conceitualmente coerente com o texto reescrito, mas é necessário conferir se essa reformulação preserva o quadro original e a pergunta da banca. |
-| Conhecimentos Específicos | 373 | BLOQUEIO — contradição interna entre item e alternativa | O item IV do enunciado diz “fiscalização dos funcionários em relação às tarefas”, mas a alternativa D contém outra formulação (“a formulação das estratégias institucionais de longo prazo…”). A explicação trata IV como planejamento estratégico, o que não corresponde ao item IV atualmente armazenado. A resposta B não pode ser considerada validada com essa divergência. Conferir o original e corrigir a transcrição completa, não apenas o comentário. |
-| Conhecimentos Específicos | 399 | PENDENTE — conferir fidelidade à classificação cobrada | A alternativa D (coordenar) é coerente com a classificação clássica de cinco funções explicitada no enunciado reescrito. Como a redação foi reformulada e a comunicação é transversal em modelos administrativos contemporâneos, conferir a formulação e o gabarito no material original antes de remover a ressalva. |
+## Alterações realizadas no GitHub
+
+- questions-informatica.json: explicação da questão 114 confirmada pela imagem original e gabarito.
+- questions-portugues.json: questão 15 conferida com o PDF e gabarito D; ressalva interpretativa preservada.
+- questions-legislacao.json: questões 15, 85 e 92 confrontadas com o PDF e seus gabaritos.
+- questions-especificos.json: enunciados/alternativas das questões 336, 355, 373 e 399 restaurados ou corrigidos conforme o PDF; questão 336 permanece explicitamente pendente quanto à validade jurídica do gabarito E.
 
 ## Conclusão
 
-- 1 questão com conferência normativa favorável ao gabarito atual (Legislação 15).
-- 2 questões com incompatibilidade material que impede validação (Específicos 336 e 373).
-- 6 questões ainda dependem de fonte primária ou validação documental complementar.
-- Nenhum gabarito, enunciado ou alternativa foi alterado nesta etapa.
-- As nove observações devem permanecer abertas até a conferência das fontes indicadas.
+Oito das nove questões têm correspondência entre o gabarito cadastrado e o gabarito publicado nos PDFs. A questão 336 é a exceção qualitativa: o gabarito publicado é E, mas a fundamentação em peculato não é demonstrada pelos fatos do enunciado. A questão 15 de Português também mantém ressalva de possível sobreposição entre D e E, embora o gabarito-fonte indique D.
 
-## Fonte normativa consultada
+**Não declarar o banco definitivamente validado enquanto a questão 336 não for esclarecida.** Para isso, é necessário conferir o Caderno 15 do Profuncionário citado no enunciado e, se disponível, o gabarito oficial da prova VUNESP.
 
-- Constituição Federal, art. 37, XVI, redação da EC nº 138/2025: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
-- Emenda Constitucional nº 138/2025: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc138.htm
-- Publicação original da EC nº 138/2025 na Câmara dos Deputados: https://www2.camara.leg.br/legin/fed/emecon/2025/emendaconstitucional-138-19-dezembro-2025-798508-publicacaooriginal-177473-pl.html
+## Fontes fornecidas
 
-Este relatório registra o estado da auditoria; não representa validação definitiva das nove questões.
+- Conhecimentos Específicos para Técnico Administrativo — PDF enviado, questões 336, 355, 373 e 399 e gabarito.
+- Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde — PDF enviado, questões 15, 85 e 92 e gabarito.
+- Português — PDF enviado, questão 15, página 11 e gabarito ao final.
+- Informática — PDF enviado, questão 114, páginas 60–61 e gabarito ao final.
+
+Este relatório substitui a avaliação preliminar anterior, que foi feita antes de os PDFs originais estarem disponíveis.
