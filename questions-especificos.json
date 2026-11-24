@@ -12516,7 +12516,28 @@
       "e": "Priorizar fornecedores locais, fomentando o desenvolvimento econômico regional, independentemente da sua qualificação e da competitividade de suas ofertas."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. O cadastro unificado de licitantes permite reunir informações de habilitação e qualificação, dar publicidade e facilitar a participação de interessados. A Lei nº 14.133/2021, art. 87, prevê sistema público, amplamente divulgado e permanentemente aberto, com chamamento público periódico para atualização e ingresso de novos interessados. A finalidade não é reservar mercado nem restringir competidores, mas apoiar a verificação dos requisitos e a competitividade. A redação do art. 87 foi atualizada pela Lei nº 15.266/2025 para incluir licitantes e contratados.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "Lei nº 15.266/2025 — alterações no registro cadastral unificado (PNCP)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15266.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3550094",
@@ -12531,7 +12552,28 @@
       "e": "O registro de estoque de bens permanentes deve ser dispensado, uma vez que esses itens são contabilizados diretamente como ativos imobilizados."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. O controle de estoque deve ser contínuo, com registros de entradas, saídas, saldos, localização e condições dos materiais, de modo a permitir conferência e planejamento de reposição. A guarda física cabe à unidade responsável pelo almoxarifado, não exclusivamente ao agente de contratação; a escrituração não pode ficar restrita ao fechamento anual. Bens permanentes são registrados no sistema patrimonial, enquanto os materiais de consumo são controlados no estoque, sem que isso dispense o registro de ambos.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais",
+        "url": "https://bibliotecadigital.enap.gov.br/"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3550096",
@@ -12548,7 +12590,28 @@
       "e": "O agente de contratação deve consultar sistemas oficiais, como o CATMAT, para utilizar a codificação e descrição padronizada dos materiais durante o planejamento da contratação."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. A codificação padronizada facilita a identificação do objeto, a comparação de propostas, a pesquisa de preços e a integração dos sistemas de compras. O agente de contratação e a equipe de planejamento devem consultar o catálogo oficial CATMAT/CATSER e conferir se o código e a descrição correspondem às especificações pretendidas. O código não substitui a descrição técnica nem define sozinho se o item é permanente ou de consumo; tampouco é adequado criar códigos divergentes por unidade.",
+    "references": [
+      {
+        "label": "Compras.gov.br — Catálogo CATMAT/CATSER",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/catalogo/catalogo/"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3446882",
@@ -12564,7 +12627,28 @@
       "d": "Realizar as compras de maneira planejada, garantindo o suprimento adequado de materiais ao menor custo total, sem comprometer a qualidade e a legalidade do processo."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. A função compras deve assegurar suprimento oportuno e adequado, controlar o processo e buscar o menor custo total sem sacrificar qualidade, legalidade ou continuidade do serviço. Comprar grandes quantidades independentemente da necessidade aumenta custos de armazenagem, risco de obsolescência, perdas e imobilização de recursos. Por isso, a alternativa C é a exceção: o lote deve resultar de planejamento de demanda, prazos de reposição e análise econômica.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais",
+        "url": "https://bibliotecadigital.enap.gov.br/"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3313515",
@@ -12581,7 +12665,28 @@
       "e": "concurso público."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. A alternativa esperada é concorrência. Na Lei nº 14.133/2021, concorrência é modalidade de licitação que pode adotar critérios de julgamento como menor preço, técnica e preço, melhor técnica ou maior retorno econômico, conforme o objeto e as hipóteses legais. Ressalva: a questão está formulada de modo genérico e usa linguagem que pode remeter ao regime anterior; hoje o critério de julgamento é distinto da modalidade. Pregão é obrigatório quando o objeto tem padrões de desempenho e qualidade objetivamente definíveis por especificações usuais de mercado.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "IN SEGES/ME nº 73/2022 — licitação por menor preço ou maior desconto",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-73-de-30-de-setembro-de-2022"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3214072",
@@ -12598,7 +12703,29 @@
       "e": "incorreu em crime de peculato, uma vez que, neste caso, há uma confusão entre a coisa pública e a privada, comprometendo a transparência e a boa gestão da primeira."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. O gabarito informado é E, mas a conclusão de que a conduta configura peculato não decorre dos fatos narrados. O art. 312 do Código Penal exige apropriação ou desvio, em proveito próprio ou alheio, de dinheiro, valor ou bem móvel de que o agente tenha posse em razão do cargo, ou subtração valendo-se da facilidade funcional. Comprar um cartucho com recursos próprios e pedir reembolso, por si só, não demonstra esses elementos. A atitude pode ter sido administrativamente inadequada por contornar o fluxo de autorização, compra e prestação de contas, mas a questão não fornece fatos suficientes para qualificá-la como peculato. Assim, o item é juridicamente problemático e recomenda-se revisão/anulação do gabarito E; não há alternativa plenamente correta com os dados apresentados.",
+    "references": [
+      {
+        "label": "Código Penal — Decreto-Lei nº 2.848/1940, art. 312 (peculato)",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "CGU — Integridade nas contratações públicas",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Gabarito E questionável: os fatos não demonstram os elementos do peculato; recomenda-se revisão/anulação."
   },
   {
     "id": "3184827",
@@ -12615,7 +12742,28 @@
       "e": "Evitar contratos formais para permitir maior flexibilidade."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. Pesquisar o mercado e solicitar propostas de diferentes prestadores cria base objetiva para estimar preços, comparar capacidade técnica e condições de execução e justificar a escolha. A contratação pública deve observar isonomia, transparência, planejamento e competição, com procedimento formal adequado ao valor e à natureza do objeto. Preferências pessoais, contratação informal ou seleção por relações anteriores comprometem a impessoalidade e podem restringir a concorrência.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "CGU — Integridade nas contratações públicas",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2901531",
@@ -12632,7 +12780,28 @@
       "e": "Mantenha o controle emocional frente à negociação e seja rígido em suas ponderações. Dessa forma demonstrará autoridade e levará o fornecedor a oferecer condições especiais ou aceitar a sua proposta."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. A técnica positiva é explicitar com clareza as necessidades e objeções relevantes antes de fechar a negociação, para que as condições propostas possam ser avaliadas e ajustadas com transparência. A negociação deve se apoiar em critérios objetivos, estimativas e limites previamente definidos. Blefar sobre concorrentes, usar gatilhos para manipular decisões ou adotar rigidez emocional como estratégia pode comprometer a confiança e a integridade da relação com o fornecedor.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "CGU — Integridade nas contratações públicas",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2872065",
@@ -12648,7 +12817,28 @@
       "d": "3, 2, 1, 1."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. A sequência é 2–1–1–3. Evitar corresponde a impedir sobrepreço, preços inexequíveis e superfaturamento; assegurar corresponde a selecionar proposta capaz de gerar contratação mais vantajosa e garantir tratamento isonômico e justa competição; incentivar corresponde à inovação e ao desenvolvimento nacional sustentável. A sequência reproduz os objetivos do art. 11 da Lei nº 14.133/2021.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "CGU — Integridade nas contratações públicas",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2897175",
@@ -12665,7 +12855,28 @@
       "e": "preferir os fornecedores já contratados, por conhecer o bom trabalho que desenvolveram perante à Administração."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. O planejamento das compras deve transformar a necessidade da área demandante em objeto bem definido, com requisitos técnicos proporcionais e compatíveis com a legislação, estudo técnico preliminar, estimativa de custos e estratégia de contratação. Não se deve preferir inexigibilidade sem hipótese legal, fracionar despesa para escapar de exigências ou favorecer fornecedor conhecido. A alternativa D traduz a compatibilização da necessidade administrativa com as regras legais.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "CGU — Integridade nas contratações públicas",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2831813",
@@ -12680,7 +12891,28 @@
       "e": "follow-up"
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. Follow-up é o acompanhamento do pedido de compra após sua emissão, por meio de contatos e verificações com o fornecedor para confirmar produção, prazo, quantidade e qualidade da entrega. Backlog refere-se a demanda ou trabalho pendente; forwarding, a encaminhamento; warehousing, a armazenagem; e gateway, a ponto de conexão ou acesso. O termo adequado para acompanhamento do pedido é follow-up.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais",
+        "url": "https://bibliotecadigital.enap.gov.br/"
+      },
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2848971",
@@ -12697,7 +12929,28 @@
       "e": "dado que viabiliza compras futuras com economia de escala e sem necessidade de reserva de dotação orçamentária, que somente é requerida no momento da aquisição."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. O sistema de registro de preços permite registrar preços e condições para contratações futuras, sem obrigar a Administração a adquirir imediatamente nem a contratar todo o quantitativo. A existência de ata não exige, por si só, reserva prévia de dotação para toda a estimativa; a disponibilidade orçamentária é exigida quando da formalização da contratação decorrente, conforme o caso. Isso favorece compras parceladas e entregas futuras, útil quando faltam espaço seguro de armazenagem ou recursos imediatos. A ata tem vigência de um ano, prorrogável por igual período se demonstrada a vantajosidade.",
+    "references": [
+      {
+        "label": "Decreto nº 11.462/2023 — Sistema de Registro de Preços",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11462.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2217223",
@@ -12714,7 +12967,25 @@
       "e": "compra para investimento."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. A compra para investimento é aquela destinada à aquisição de bens que integrarão o ativo da instituição, como máquinas, equipamentos e outros bens permanentes. Compra para consumo atende às necessidades correntes de materiais consumíveis; compra emergencial decorre de situação urgente devidamente caracterizada; e compra especulativa busca antecipar movimentos de preço ou disponibilidade, não formar o ativo imobilizado.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {},
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais",
+        "url": "https://bibliotecadigital.enap.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2356699",
@@ -12731,7 +13002,28 @@
       "e": "as relações pessoais com os fornecedores."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. A reposição de materiais deve seguir os procedimentos internos formalizados da companhia, incluindo autorização, especificação, pesquisa de preços, aprovação e registro da aquisição. Promoções, relações pessoais ou negociações isoladas do solicitante não substituem os controles e as competências definidas. O procedimento padronizado assegura rastreabilidade, economicidade e segregação de funções.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "CGU — Integridade nas contratações públicas",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3324969",
@@ -12748,7 +13040,28 @@
       "e": "Pré-qualificação permanente de padronização."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. O catálogo eletrônico de padronização é o sistema informatizado centralizado destinado a padronizar itens a serem adquiridos pela Administração, com especificações e referências que reduzem variações desnecessárias e facilitam o planejamento e a comparação de propostas. Cadastro de fornecedores e ata de registro de preços têm funções diferentes: o primeiro reúne dados dos licitantes; a segunda registra preços e condições para futuras contratações.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "Compras.gov.br — Catálogo CATMAT/CATSER",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/catalogo/catalogo/"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "IN SEGES/ME nº 73/2022 — licitação por menor preço ou maior desconto",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-73-de-30-de-setembro-de-2022"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1255570",
@@ -12765,7 +13078,28 @@
       "e": "a corrupção e a fraude pioram a imagem do Brasil, e as licitações contribuem na reversão dessa percepção."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. A licitação cria competição estruturada e regras públicas para selecionar proposta vantajosa, assegurar igualdade entre participantes e reduzir riscos de sobrepreço, inexequibilidade e superfaturamento. A tecnologia pode apoiar a análise de editais e detectar padrões de risco, mas não substitui controles, auditoria ou fiscalização. A vantagem pública não é simplesmente pagar o menor valor nominal: deve-se considerar qualidade, adequação e, quando cabível, o ciclo de vida do objeto.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "CGU — Integridade nas contratações públicas",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1255565",
@@ -12782,7 +13116,28 @@
       "e": "alterar os processos da repartição pública de forma que a dependência dos equipamentos fosse evitada."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. Com restrição orçamentária e equipamentos que ainda podem ser utilizados, a medida mais eficiente é implantar manutenção preventiva, inspeções e correções planejadas, priorizando os ativos críticos. Isso reduz falhas, indisponibilidade, custos emergenciais e interrupções no atendimento. A compra imediata de equipamentos novos e o descarte indiscriminado podem desperdiçar recursos quando reparo ou manutenção são economicamente viáveis.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais",
+        "url": "https://bibliotecadigital.enap.gov.br/"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "314568",
@@ -12799,7 +13154,28 @@
       "e": "a licitação sustentável é uma solução importante para as questões ambientais, no entanto aumenta o gasto do Estado e do contribuinte."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. As compras públicas podem funcionar como instrumento de política pública. A Lei Complementar nº 123/2006 prevê tratamento favorecido às microempresas e empresas de pequeno porte, com objetivos como desenvolvimento econômico e social local e regional, eficiência das políticas públicas e inovação. Esse tratamento deve observar as condições e limites legais; não significa escolher fornecedores locais sem qualificação nem abandonar a competição. A alternativa D expressa essa finalidade de estímulo ao emprego formal e à atividade econômica.",
+    "references": [
+      {
+        "label": "Lei Complementar nº 123/2006 — tratamento favorecido às MEs e EPPs",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "313272",
@@ -12816,7 +13192,28 @@
       "e": "As compras públicas sustentáveis (CPS) devem ser entendidas como processos licitatórios que apresentam critérios de sustentabilidade. A Política Nacional de Resíduos Sólidos é um um marco legal que ilustra a importância das CPS ao estabelecer o objetivo de prioridade nas aquisições governamentais para produtos reciclados e recicláveis."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. A alternativa E está correta: a Política Nacional de Resíduos Sólidos prevê prioridade, nas aquisições e contratações governamentais, para produtos reciclados e recicláveis e para bens, serviços e obras compatíveis com padrões de consumo sustentável. As demais estão erradas: o SRP pode agregar demanda e gerar escala; há tratamento favorecido legal para MEs/EPPs; a preferência por bens nacionais tem previsão legal; e a publicação do edital integra a fase externa, não a fase interna do planejamento.",
+    "references": [
+      {
+        "label": "Lei nº 12.305/2010 — Política Nacional de Resíduos Sólidos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm"
+      },
+      {
+        "label": "Lei Complementar nº 123/2006 — tratamento favorecido às MEs e EPPs",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "248734",
@@ -12832,7 +13229,28 @@
       "d": "o desgaste do pessoal do setor de compras devido à duração do ciclo de compras e pelo excesso de atividades operacionais."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. A gestão estratégica de suprimentos integra fluxos de materiais e informações entre as áreas internas e os fornecedores, articulando planejamento, desenvolvimento e qualificação de fornecedores, logística, qualidade e custo total. Essa visão sistêmica permite que compras contribua para decisões estratégicas e para o desempenho organizacional, em vez de atuar apenas como setor operacional que emite pedidos.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais",
+        "url": "https://bibliotecadigital.enap.gov.br/"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3939235",
@@ -12849,7 +13267,28 @@
       "e": "internalizada."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. A expressão 'sem divisão' indica concentração administrativa: as atribuições permanecem reunidas em um único órgão, sem distribuição interna entre órgãos especializados. Centralização, em sentido mais amplo, ocorre quando a própria pessoa política ou entidade executa a atividade por seus órgãos, em oposição à descentralização para outra pessoa jurídica. Como a questão destaca ausência de repartição interna da função, a resposta pretendida é concentração.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3921299",
@@ -12866,7 +13305,28 @@
       "e": "São corretas apenas as afirmativas 3, 4 e 5."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. Estão corretas as afirmativas 2, 3 e 4. O planejamento é permanente e contínuo (2); quanto mais distante o objetivo no tempo, maior a incerteza (3); políticas funcionam como diretrizes gerais que orientam decisões e ações administrativas (4). A afirmativa 1 descreve o planejamento, não a direção, pois trata de orientação para o futuro. A 5 não apresenta adequadamente os componentes da direção, associados à comunicação, liderança, motivação e orientação de pessoas.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3804199",
@@ -12883,7 +13343,28 @@
       "e": "Direção – Planejamento – Organização – Controle."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. A sequência é planejamento, organização, direção e controle. Definir objetivos e metas a partir de dados é planejamento; distribuir tarefas, escalas e responsabilidades é organização; acompanhar e motivar a equipe durante a execução é direção; comparar resultados com metas e corrigir desvios é controle. O caso descreve precisamente o ciclo clássico das quatro funções administrativas.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3867946",
@@ -12900,7 +13381,28 @@
       "e": "Coordenação, pois articula diferentes setores."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. Elaborar o orçamento anual, estabelecer metas e prever os recursos necessários para os próximos doze meses é planejamento. Essa função define antecipadamente objetivos, prioridades, meios, prazos e recursos. Organização distribui recursos e responsabilidades; direção conduz pessoas; controle compara o realizado com o planejado e corrige desvios.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3821468",
@@ -12917,7 +13419,29 @@
       "e": "I - W - II- Y - III- Z - IV- X."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. A correlação indicada pelo gabarito é I–Z, II–W, III–X e IV–Y: planejamento relaciona-se à fixação de objetivos; organização, à geração e alocação de competências e recursos; direção/supervisão, à liderança; e controle, à identificação e solução de problemas ou correção de desvios. A tabela foi transcrita com formatação confusa, mas a alternativa A é a que melhor corresponde ao encadeamento funcional apresentado. Recomenda-se conferir o quadro original da prova para afastar erro de transcrição.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Enunciado/tabela com formatação possivelmente corrompida; conferir imagem original."
   },
   {
     "id": "3637633",
@@ -12934,7 +13458,28 @@
       "e": "A direção, para que a rotina estabelecida continue e o cronograma ocorra no tempo determinado."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. Comparar o que foi executado com o que havia sido planejado e identificar o descumprimento do cronograma caracteriza a função controle. O controle monitora o desempenho, mede desvios em relação a padrões e metas e subsidia ações corretivas. Planejamento define o plano; organização estrutura recursos e tarefas; direção orienta a execução.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3491427",
@@ -12951,7 +13496,28 @@
       "e": "1-3-2-4."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. A ordem é 4–1–3–2. Controle compara a execução com os objetivos e identifica desvios; planejamento decide antecipadamente o que fazer, como, quando e com quais meios; direção orienta pessoas por comunicação, motivação e liderança; organização agrupa atividades e recursos para executar o plano. A sequência corresponde à alternativa D.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3788986",
@@ -12968,7 +13534,28 @@
       "e": "Organização"
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. Planejamento é a função que estabelece objetivos futuros e define antecipadamente o caminho, os meios, os prazos e as ações para alcançá-los. Organização estrutura recursos e responsabilidades; direção conduz pessoas e esforços; controle acompanha resultados e corrige desvios. Portanto, a definição apresentada corresponde ao planejamento.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3711747",
@@ -12985,7 +13572,28 @@
       "e": "Motivação."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. Controle é a função administrativa responsável por acompanhar a execução, comparar resultados com padrões e objetivos, identificar desvios e adotar medidas corretivas. Planejamento estabelece metas; organização distribui recursos e tarefas; direção lidera e motiva. A fiscalização e a correção descritas no enunciado são características centrais do controle.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3681408",
@@ -13002,7 +13610,28 @@
       "e": "A função organização envolve recursos, ao passo que direção envolve pessoas."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. A alternativa E distingue corretamente as funções: organização trata da estruturação e alocação de recursos, atividades e responsabilidades; direção atua sobre pessoas, comunicação, liderança e motivação. A alternativa A mistura missão e planejamento com organização; B inclui desenho da estrutura, próprio da organização; C confunde controle operacional com controle tático; e D enumera incorretamente os níveis de planejamento, que são estratégico, tático e operacional.",
+    "references": [
+      {
+        "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "Funções administrativas — planejamento, organização, direção e controle",
+        "url": "https://stecine.azureedge.net/repositorio/conceitos_e_evolucao_da_administracao_da_producao_e_operacoes/index.html"
+      },
+      {
+        "label": "IFRN — Gestão e Empreendedorismo: processo administrativo",
+        "url": "https://memoria.ifrn.edu.br/bitstream/handle/1044/2239/Livro3%20-%20N%C3%BAcleo%20Articulador%20FINAL.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3626111",
