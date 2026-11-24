@@ -692,7 +692,7 @@
     },
     "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: A. O PROCV pesquisa na primeira coluna da matriz e retorna valores de colunas à direita; não faz busca nativa para a esquerda. ÍNDICE com CORRESP permite localizar a chave em uma coluna à direita da coluna que contém o valor de retorno e devolver um valor à esquerda. Portanto, a situação descrita é a alternativa A, e não D. **Gabarito corrigido de D para A.**",
+    "explanation": "Alternativa correta: A. O PROCV tradicional pesquisa na primeira coluna da matriz e retorna valores de colunas à direita. A combinação ÍNDICE+CORRESP permite localizar a chave em uma coluna e retornar o valor correspondente de outra, inclusive quando a coluna de retorno está à esquerda da coluna de pesquisa. A alternativa A descreve essa vantagem. O gabarito foi corrigido de D para A.",
     "references": [
       {
         "label": "Microsoft Support — Usar funções para localizar dados em tabelas",
@@ -700,8 +700,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito corrigido de D para A: ÍNDICE+CORRESP permite localizar o valor em uma coluna e retornar dados de outra coluna, inclusive à esquerda; o PROCV tradicional retorna a partir da primeira coluna da matriz para a direita."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4426691",
