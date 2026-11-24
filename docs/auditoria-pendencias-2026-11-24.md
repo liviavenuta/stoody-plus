@@ -39,3 +39,22 @@ Os nove gabaritos cadastrados coincidem com os gabaritos publicados nos PDFs. Is
 - Informática — PDF enviado, questão 114, páginas 60–61 e gabarito ao final.
 
 Este relatório substitui a avaliação preliminar anterior, que foi feita antes de os PDFs originais estarem disponíveis.
+
+
+
+## Complemento de pesquisa externa — questão 336
+
+Em 24/11/2026, foi localizada a mesma questão em página pública do Gran Questões, identificada como questão Q3630483, da prova VUNESP — Prefeitura de Aparecida — Secretário de Escola — 2024. A página reproduz o mesmo enunciado e as cinco alternativas, inclusive a alternativa E que classifica a conduta como peculato. Isso confirma a identificação da questão e sua vinculação à prova, mas a página consultada não exibiu, no trecho público acessível, a fundamentação do gabarito ou o inteiro teor de eventual recurso. https://questoes.grancursosonline.com.br/questoes-de-concursos/conhecimentos-especificos-de-um-determinado-cargo-area-secretario-escolar-394731?pagina=14
+
+O portal do MEC confirma que, para a habilitação em Secretaria Escolar do Profuncionário, o Caderno 15 é “Administração de Materiais”, e disponibiliza uma referência oficial ao material. A página de catálogo consultada não expõe o texto integral do capítulo/exemplo relacionado à questão. https://portal.mec.gov.br/index.php?id=13155&option=com_content&view=article
+
+A comparação jurídica com o art. 312 do Código Penal mostra que peculato exige apropriação ou desvio de dinheiro, valor ou bem móvel de que o agente tenha posse em razão do cargo, em proveito próprio ou alheio; o §1º trata de subtração ou contribuição para subtração valendo-se da facilidade proporcionada pelo cargo. O enunciado da questão descreve, literalmente, compra de cartucho com dinheiro particular e pedido de ressarcimento futuro. Esses fatos, isoladamente, não descrevem apropriação, desvio ou subtração de bem público. Fontes: texto atualizado do Código Penal na Câmara dos Deputados https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-2848-7-dezembro-1940-412868-normaatualizada-pe.html e glossário do Conselho Nacional do Ministério Público https://www.cnmp.mp.br/portal/glossario/7835-peculato
+
+### Decisão sobre a questão 336
+
+- **Gabarito publicado na fonte de questões:** E (a página do Gran confirma a alternativa e o texto da questão; o caderno compilado anexado também lista E no gabarito).
+- **Validade jurídico-penal da justificativa:** não demonstrada pelos fatos expressos no enunciado.
+- **Status mantido:** `pendente_validacao_gabarito`.
+- **Não alterar a chave para A, B, C ou D por inferência.** Para fechar a questão com segurança, ainda é necessário obter o texto integral do Caderno 15 do MEC e, se existente, a resposta oficial da VUNESP a recurso ou justificativa de gabarito.
+
+A questão, portanto, não pode ser marcada como definitivamente validada. A pesquisa externa reforça a identificação da fonte e a dúvida jurídica, mas não substitui o material didático primário citado no comando.
