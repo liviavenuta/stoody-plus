@@ -9118,7 +9118,28 @@
       "d": "Monopolizar as fontes de suprimentos."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — monopolizar as fontes de suprimento.** A função de compras deve pesquisar o mercado, desenvolver alternativas, comparar condições e preservar a continuidade do abastecimento. Concentrar deliberadamente o fornecimento em uma fonte monopolista contraria a busca de competitividade e aumenta a exposição a riscos de dependência.\n\n- **A) Verificar notas fiscais — atividade compatível:** documentos fiscais e comerciais são conferidos no fluxo de aquisição e recebimento.\n- **B) Manter registros e arquivos — compatível:** histórico de cotações, pedidos e fornecedores dá rastreabilidade e subsidia decisões.\n- **C) Conseguir informações de preço — compatível:** pesquisa de mercado e análise de preços são centrais.\n- **D) Correta como EXCETO:** monopolizar fontes não é objetivo de compras; deve-se avaliar competição, alternativas e risco de concentração.\n\n**Dica:** compras busca o melhor valor total e segurança de fornecimento, não dependência desnecessária de um fornecedor.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2984868",
@@ -9135,7 +9156,28 @@
       "e": "Obsolescência dos estoques."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — níveis dos estoques.** A área de compras precisa acompanhar os níveis disponíveis, os estoques mínimos e os pontos de reposição para planejar aquisições em tempo hábil, evitando tanto rupturas quanto excesso de capital imobilizado.\n\n- **A) Gestão de estoques — incorreta:** é uma função mais abrangente, que inclui políticas, armazenagem, controle e inventário.\n- **B) Correta:** o enunciado pergunta especificamente qual aspecto observar para evitar custos de manutenção e risco de falta: os níveis de estoque.\n- **C) Tecnologia de estoques — incorreta:** não é o parâmetro de controle descrito.\n- **D) Espaço físico — incorreta:** relaciona-se à armazenagem e capacidade.\n- **E) Obsolescência — incorreta:** é risco importante, mas não o aspecto que equilibra custo de manutenção e risco de ruptura no enunciado.\n\n**Dica:** compras e gestão de estoques devem compartilhar informações sobre consumo, saldo, prazo de reposição e estoque de segurança.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: gestão, controle e reposição de estoques",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — planejamento das contratações",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2831810",
@@ -9152,7 +9194,28 @@
       "e": "follow-up"
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — follow-up.** Follow-up é o acompanhamento sistemático do pedido após sua emissão. O comprador verifica com o fornecedor o andamento da produção, a expedição e a previsão de entrega, para agir diante de atrasos ou divergências.\n\n- **A) Backlog — incorreta:** representa carteira ou acúmulo de pedidos/serviços pendentes.\n- **B) Forwarding — incorreta:** relaciona-se à expedição/encaminhamento de cargas.\n- **C) Warehousing — incorreta:** significa armazenagem.\n- **D) Gateway — incorreta:** designa ponto de conexão/passagem em redes ou sistemas.\n- **E) Correta:** follow-up é o acompanhamento do pedido.\n\n**Dica:** emitir pedido não encerra a atividade de compras; é necessário acompanhar prazo, quantidade, qualidade e documentação.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2361101",
@@ -9169,7 +9232,28 @@
       "e": "emitido pela empresa de vendas para o cliente com as especificações detalhadas dos produtos adquiridos."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — documento que oficializa a compra e estabelece as condições negociadas.** A ordem ou pedido de compra é emitida pelo comprador ao fornecedor e registra o objeto, quantidades, preços, prazos, local de entrega e demais condições acordadas. Conforme o contexto contratual, pode integrar ou formalizar a contratação, sem substituir necessariamente um contrato mais amplo.\n\n- **A) Incorreta:** descreve uma requisição interna de material/compra, não a ordem enviada ao fornecedor.\n- **B) Correta:** formaliza o pedido e registra as condições comerciais da aquisição.\n- **C) Incorreta:** descreve proposta ou cotação emitida pelo vendedor.\n- **D) Incorreta:** acordos de longo prazo podem ser contratos ou instrumentos de fornecimento continuado, não a definição geral de ordem de compra.\n- **E) Incorreta:** descreve documento emitido pelo vendedor, como confirmação/fatura, e não a ordem emitida pelo comprador.\n\n**Dica:** requisição nasce na área solicitante; ordem/pedido de compra é expedido pelo comprador ao fornecedor.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2410836",
@@ -9185,7 +9269,28 @@
       "d": "Liderar o processo de gestão de suprimentos e de contratação de pessoal para a empresa, autorizar e efetuar todos os pagamentos referentes às aquisições e às referidas contratações."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — contratação de pessoal e autorização/execução de todos os pagamentos.** A área de compras administra o processo de aquisição de bens e serviços, fornecedores, políticas e procedimentos, mas contratação de pessoal e pagamento de obrigações pertencem a outras funções organizacionais e níveis de autorização.\n\n- **A) Compatível:** cadastro e qualificação de fornecedores são atividades de compras.\n- **B) Compatível:** a área pode apoiar os procedimentos de licitação e contratação, respeitadas as competências legais.\n- **C) Compatível:** políticas e procedimentos de aquisição e conformidade fazem parte da governança de compras.\n- **D) Correta como EXCETO:** reúne atribuições de gestão de pessoas e financeira, não uma responsabilidade integral do setor de compras.\n\n**Dica:** compras conduz seleção e contratação de fornecedores; RH administra pessoal; financeiro executa pagamentos segundo autorizações e controles.",
+    "references": [
+      {
+        "label": "Lei nº 4.320/1964 — execução da despesa pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — contratação pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1984447",
@@ -9202,7 +9307,28 @@
       "e": "atende às necessidades de reposição dos materiais dos estoques planejados."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — atender às necessidades de reposição dos materiais dos estoques planejados.** A gestão de compras transforma necessidades de reposição em aquisições junto ao mercado, respeitando planejamento, especificações, orçamento e prazos. As outras alternativas descrevem mais diretamente atividades de estoque ou distribuição.\n\n- **A) Incorreta:** controle físico dos materiais armazenados pertence à gestão de estoques/almoxarifado.\n- **B) Incorreta:** análise da necessidade de reposição é interface entre estoques e compras, mas a alternativa E expressa diretamente a finalidade de compras.\n- **C) Incorreta:** recebimento, movimentação e estocagem são atividades de armazenagem/distribuição.\n- **D) Incorreta:** sistemas de controle de saldos são gestão de estoques.\n- **E) Correta:** compras atende à reposição dos estoques planejados.\n\n**Dica:** gestão de estoques identifica quando e quanto repor; compras obtém os itens de fontes externas; centros de distribuição recebem, guardam e movimentam.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2410837",
@@ -9218,7 +9344,28 @@
       "d": "II e III, apenas."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — I e III, apenas.** A afirmativa I reconhece compras como função integrada à logística e às demais áreas. A III também é verdadeira: compras afeta estoques, atendimento, custos, competitividade e relacionamento com clientes. A II é falsa porque aquisições bem planejadas e negociadas podem reduzir custos e melhorar resultados.\n\n- **I — Verdadeira:** compras tem papel transversal e estratégico, não apenas burocrático.\n- **II — Falsa:** gestão de compras pode gerar economias, ganhos de qualidade, produtividade e redução de riscos.\n- **III — Verdadeira:** decisões de aquisição repercutem diretamente no abastecimento e no desempenho organizacional.\n- **C) Correta:** I e III.\n\n**Dica:** compras estratégicas conecta custo total, qualidade, prazo, risco de fornecimento e objetivos da organização.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2348088",
@@ -9234,7 +9381,28 @@
       "d": "a guia de produção."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — ordem de compra.** A ordem de compra (ou pedido de compra) documenta a negociação e formaliza a solicitação ao fornecedor, identificando os itens, quantidades e condições pactuadas.\n\n- **A) Termo de cessão — incorreta:** formaliza transferência/cessão de uso ou de bens, conforme o caso.\n- **B) Guia de remessa — incorreta:** acompanha a movimentação ou remessa de materiais.\n- **C) Correta:** registra e formaliza a compra negociada.\n- **D) Guia de produção — incorreta:** acompanha ordens e processos produtivos.\n\n**Dica:** a ordem de compra documenta a transação comercial; a nota fiscal documenta fiscalmente a operação e a circulação, conforme a legislação.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3325095",
@@ -9251,7 +9419,28 @@
       "e": "São elementos críticos nos esforços dirigidos ao desenvolvimento de fornecedores: efetividade da via de comunicação; avaliação do fornecedor e respectivo feedback; foco no custo total (e não somente no preço); e, perspectiva de longo prazo."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito indicado: B — mas há problema no item D.** A alternativa B é incorreta porque desenvolvimento de fornecedores não deve focar exclusivamente no produto da compradora nem enfraquecer a capacidade de negociação do fornecedor. O objetivo é melhorar desempenho, qualidade, custo total, capacidade e cooperação em bases equilibradas.\n\n- **A) Correta:** desenvolvimento pode incluir metas, capacitação e investimentos para elevar a capacidade do fornecedor.\n- **B) Incorreta:** a abordagem é unilateral e contrária à cooperação e à melhoria conjunta.\n- **C) Correta:** confiança e cooperação podem sustentar parcerias competitivas.\n- **D) Também problemática/incorreta:** a expressão “a única alternativa é internalizar” é absoluta e falsa; outras medidas incluem desenvolver fornecedores alternativos, qualificar novos parceiros, redesenhar especificações e gerir riscos.\n- **E) Correta:** comunicação, avaliação, feedback, custo total e horizonte de longo prazo são elementos reconhecidos.\n\n**Ressalva importante:** mantive o gabarito original B, mas a alternativa D também contém uma afirmação tecnicamente incorreta. A questão é passível de contestação/anulação por apresentar mais de uma opção incorreta.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1678124",
@@ -9267,7 +9456,28 @@
       "d": "I, II e III."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — I, II e III.** As três afirmativas apresentam vantagens típicas da centralização: consolidação de volumes para negociar preços, especialização da equipe e economia de escala.\n\n- **I — Correta:** maior volume agregado pode aumentar poder de barganha e melhorar preços e condições.\n- **II — Correta:** uma equipe central especializada pode acompanhar o mercado e padronizar critérios.\n- **III — Correta:** compras em escala podem reduzir custos administrativos e unitários, quando a demanda e a logística permitem.\n- **D) Correta:** todas as afirmativas.\n\n**Ressalva:** centralização não é sempre superior; unidades descentralizadas podem responder melhor a urgências e peculiaridades locais. A decisão depende de dispersão geográfica, padronização, volume e tempo de atendimento.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3325093",
@@ -9284,7 +9494,28 @@
       "e": "Maximização dos problemas de comunicação com as demais áreas da empresa e zelo pela ausência de histórico de informações das aquisições anteriores."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — maximizar problemas de comunicação e eliminar histórico.** A alternativa descreve justamente práticas contrárias à boa gestão: a comunicação entre compras e demais áreas deve ser eficiente, e os registros históricos são essenciais para planejamento, análise de fornecedores e auditoria.\n\n- **A) Compatível:** reduzir custos de aquisição pode elevar a competitividade, sem sacrificar qualidade e risco.\n- **B) Compatível:** reduzir lead time melhora disponibilidade e atendimento.\n- **C) Compatível:** processos de compras precisam acompanhar mudanças no modelo de negócio.\n- **D) Compatível:** requisitos de qualidade e certificação podem orientar especificações e seleção.\n- **E) Correta como EXCETO:** comunicação ruim e ausência de histórico prejudicam governança e desempenho.\n\n**Dica:** informação compartilhada e memória de compras sustentam decisões melhores e rastreáveis.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3325097",
@@ -9301,7 +9532,28 @@
       "e": "F, F, V, F."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — V, V, V, F.** As três primeiras afirmativas defendem integração e melhoria conjunta na cadeia de suprimentos. A quarta é falsa porque competir isoladamente ignora interdependências e oportunidades de cooperação entre empresas.\n\n- **1 — Verdadeira:** ganhos de custo, qualidade e valor agregado fortalecem a cadeia como um todo.\n- **2 — Verdadeira no contexto da questão:** qualificar e avaliar novos fornecedores exige recursos; melhorar o desempenho dos atuais pode ser eficiente, desde que se preserve concorrência e alternativas quando necessárias.\n- **3 — Verdadeira:** empresas podem compartilhar práticas e apoiar fornecedores para elevar padrões de qualidade e desempenho.\n- **4 — Falsa:** a incerteza não justifica isolamento; deve-se gerir riscos, diversificar fontes quando adequado e desenvolver relações colaborativas.\n- **D) Correta:** V, V, V, F.\n\n**Nota:** a segunda afirmativa não deve ser interpretada como obrigação de permanecer com fornecedores atuais a qualquer custo. Avaliação de mercado e fontes alternativas continuam importantes para reduzir dependência e risco.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1627512",
@@ -9318,7 +9570,28 @@
       "e": "elaborar estatísticas de consumo por materiais e centros de custos para previsão das compras."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito informado: C — induzir economias de escala por meio da flexibilidade do processo produtivo.** Economias de escala podem ser favorecidas por políticas de estoque e lotes que estabilizam o abastecimento e permitem programar produção e compras. Contudo, a formulação da alternativa é imprecisa: a função clássica dos estoques é regular o fluxo entre suprimento e demanda, amortecer variações e evitar interrupções; a flexibilidade produtiva é mais diretamente associada à programação e ao planejamento da produção.\n\n- **A) Incorreta:** receber e conferir materiais é atividade de recebimento/almoxarifado.\n- **B) Incorreta:** armazenar e registrar itens comprados descreve operações de almoxarifado, não toda a função de estoques.\n- **C) Gabarito original:** pode ser associada à função de amortecimento/regularização que permite lotes e continuidade produtiva, mas a redação “induzir economias de escala por meio da flexibilidade” não é precisa.\n- **D) Incorreta:** encaminhar notas fiscais para pagamento é fluxo administrativo-financeiro.\n- **E) Incorreta:** estatísticas de consumo apoiam previsão e compras, mas são atividade de análise/planejamento.\n\n**Ressalva:** mantive C, porém a questão merece revisão da fonte e do gabarito, pois a alternativa não descreve com precisão uma função clássica dos estoques.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: gestão, controle e reposição de estoques",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — planejamento das contratações",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1323680",
@@ -9335,7 +9608,28 @@
       "e": "A gestão hospitalar precisa caminhar junto ao setor financeiro para organizar e planejar estratégias que visem à melhoria das manutenções e da qualidade de assistência ao usuário."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — manutenção preventiva otimiza custos e qualidade/disponibilidade dos equipamentos.** Em serviços de saúde, a Engenharia Clínica participa da gestão do ciclo de vida das tecnologias, incluindo planejamento, avaliação, recebimento, instalação, manutenção e segurança. A manutenção preventiva reduz falhas inesperadas, prolonga a vida útil e contribui para a continuidade assistencial.\n\n- **A) Verdadeira em termos gerais, mas não é a melhor resposta:** a Engenharia Clínica pode participar da especificação e aquisição e influenciar os custos.\n- **B) Incorreta:** viabilizar aquisições adequadas não é papel secundário; é parte importante da gestão de tecnologia.\n- **C) Incorreta:** a atuação da Engenharia Clínica tende a apoiar o uso adequado da tecnologia, não demonstrar necessariamente inadequação.\n- **D) Correta no foco da questão:** manutenção preventiva é atividade essencial e contribui para custo e qualidade assistencial.\n- **E) Correta em termos gerais, mas genérica:** integração com a gestão financeira é útil, porém não descreve tão diretamente o papel técnico da manutenção.\n\n**Nota:** a manutenção preventiva não garante, por si só, qualidade das peças; exige plano, registros, pessoal capacitado e peças compatíveis.",
+    "references": [
+      {
+        "label": "Anvisa — RDC nº 509/2021: gerenciamento de tecnologias em saúde",
+        "url": "https://www.gov.br/anvisa/pt-br/assuntos/servicosdesaude/seguranca-do-paciente/legislacao"
+      },
+      {
+        "label": "Anvisa — Tecnovigilância e segurança de produtos para saúde",
+        "url": "https://www.gov.br/anvisa/pt-br/assuntos/fiscalizacao-e-monitoramento/tecnovigilancia"
+      },
+      {
+        "label": "Ministério da Saúde — Política Nacional de Gestão de Tecnologias em Saúde",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_gestao_tecnologias_saude.pdf"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — recebimento e execução contratual",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1253857",
@@ -9352,7 +9646,28 @@
       "e": "complementar … de produtos em trânsito … o pagamento de imposto já realizado"
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — nota fiscal de remessa de mercadorias; comprova a procedência da carga.** A nota fiscal de remessa documenta a circulação de mercadorias em situações específicas em que há deslocamento sem uma venda comum, conforme a natureza da operação e a legislação fiscal aplicável. O documento acompanha a carga e permite identificar origem, destino, natureza e itens transportados.\n\n- **A) Correta no contexto da questão:** “de remessa”, “de mercadorias” e “a procedência da carga” formam a combinação esperada.\n- **B) Incorreta:** nota fiscal de exportação não se define como documento “de estoque”.\n- **C) Incorreta:** devolução documenta retorno de mercadorias, não prestação de serviços para esse propósito.\n- **D) Incorreta:** nota de compra não é documento para comprovar remessa de mercadoria, e ISS incide sobre serviços.\n- **E) Incorreta:** nota complementar ajusta valores ou informações em hipóteses específicas; não substitui a documentação de remessa.\n\n**Ressalva fiscal:** a finalidade e o CFOP dependem da operação concreta; não existe uma única nota de remessa aplicável a toda circulação.",
+    "references": [
+      {
+        "label": "Lei nº 4.320/1964 — execução da despesa pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — contratação pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "781443",
@@ -9369,7 +9684,28 @@
       "e": "espacial."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — irregular.** Demanda irregular/intermitente apresenta ocorrências esparsas, com períodos sem consumo e solicitações pontuais. O enunciado destaca poucos clientes, demanda baixa em cada localização e entradas/saídas descontínuas da linha.\n\n- **A) Independente — incorreta:** significa que a demanda do item não é calculada diretamente a partir da demanda de outro item; não indica, por si, intermitência.\n- **B) Temporal — incorreta:** não é a classificação adequada para o padrão descrito.\n- **C) Dependente — incorreta:** decorre da necessidade de outro item, como componentes calculados a partir do plano de produção.\n- **D) Correta:** demanda irregular/intermitente é baixa, descontínua e difícil de prever por métodos simples.\n- **E) Espacial — incorreta:** não descreve o padrão temporal da demanda.\n\n**Dica:** demanda dependente deriva de outro item; independente vem do mercado; irregular descreve padrão de ocorrência instável/intermitente.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: gestão, controle e reposição de estoques",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — planejamento das contratações",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1012805",
@@ -9386,7 +9722,28 @@
       "e": "da avaliação de potenciais fornecedores."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — avaliação de potenciais fornecedores.** O processo de aquisição envolve identificar fontes, solicitar e avaliar propostas, selecionar fornecedores e assegurar que bens e serviços sejam obtidos de acordo com os requisitos de qualidade, prazo, custo e risco.\n\n- **A) Incorreta:** gerenciamento do canal de distribuição pertence à logística/distribuição.\n- **B) Incorreta:** classificação de itens em estoque é atividade de gestão de estoques.\n- **C) Incorreta:** cálculo de custo pode apoiar a aquisição, mas “custo parcial” não define o processo.\n- **D) Incorreta:** aquisição deve buscar continuidade e confiabilidade do fornecimento, não ignorá-las.\n- **E) Correta:** avaliar fornecedores potenciais integra o processo de aquisição.\n\n**Dica:** aquisição não é só emitir pedido; envolve mercado, avaliação, seleção, negociação e acompanhamento do fornecimento.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "691982",
@@ -9403,7 +9760,28 @@
       "e": "II,apenas."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — I e II, apenas.** O sinal da demanda pode chegar à área de compras por requisição, planejamento de necessidades ou sistema integrado. O planejamento das necessidades de materiais (MRP) calcula os itens e quantidades necessários à produção a partir do plano mestre, estrutura do produto e estoques disponíveis. Já a negociação não precisa ficar sempre sob responsabilidade do proprietário: pode ser delegada a profissionais e estruturas autorizadas.\n\n- **I — Verdadeira:** a demanda interna desencadeia o processo de aquisição.\n- **II — Verdadeira:** MRP calcula necessidades de materiais para fabricação.\n- **III — Falsa:** não há regra de que somente o dono da empresa deva negociar pagamentos e prazos.\n- **D) Correta:** I e II.\n\n**Nota:** há erro de digitação em uma das opções (a alternativa B aparece como “I, II e II|.”); isso não altera a identificação da opção D no conjunto apresentado.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "692184",
@@ -9420,7 +9798,28 @@
       "e": "sistema de reposição periódica."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — sistema de reposição periódica.** Nesse sistema, as posições de estoque são verificadas em intervalos fixos. Em cada revisão, emite-se pedido para completar o estoque até um nível-alvo (máximo ou nível de reposição), descontando o saldo disponível e considerando, conforme o modelo, pedidos em trânsito.\n\n- **A) Lote econômico — incorreta:** calcula uma quantidade econômica de pedido, não necessariamente revisões em períodos fixos.\n- **B) Sinal da demanda — incorreta:** é o evento/informação que indica necessidade de reposição.\n- **C) Ponto de pedido — incorreta:** dispara uma compra quando o estoque atinge determinado nível.\n- **D) Solicitação automática — incorreta:** descreve uma forma de emissão, não o método de revisão periódica.\n- **E) Correta:** revisão em intervalos fixos com pedido para recompor o nível desejado.\n\n**Dica:** revisão contínua/ponto de pedido monitora o saldo continuamente; revisão periódica verifica em datas predeterminadas.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: gestão, controle e reposição de estoques",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — planejamento das contratações",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "617343",
@@ -9437,7 +9836,28 @@
       "e": "São corretas as afirmativas 1, 2, 3 e 4."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — todas as afirmativas (1, 2, 3 e 4).** A centralização pode consolidar demanda, aumentar poder de negociação e padronizar o relacionamento com fornecedores. A descentralização, por sua vez, pode adaptar compras às necessidades locais e reduzir o tempo de tramitação e atendimento.\n\n- **1 — Correta:** maior volume agregado pode reduzir preço médio por negociação e escala.\n- **2 — Correta:** centralização pode fortalecer a posição de negociação e o relacionamento institucional com fornecedores.\n- **3 — Correta no contexto:** unidades locais podem ajustar quantidades e variedades às peculiaridades regionais, evitando estoques inadequados.\n- **4 — Correta no contexto:** decisões e ordens locais podem tramitar mais rapidamente, reduzindo faltas quando a estrutura central seria lenta.\n- **E) Correta:** todas as afirmativas.\n\n**Ressalva:** efeitos sobre o nível total de estoque dependem da coordenação, da visibilidade de saldos e da política de reposição; descentralizar sem integração pode, ao contrário, duplicar estoques.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2473506",
@@ -9454,7 +9874,28 @@
       "e": "1 e 2"
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — objetivos 1, 2 e 3.** Compras deve assegurar fluxo confiável de materiais e serviços, continuidade do suprimento, fontes alternativas e melhor valor obtido por meios éticos. A afirmativa 4 está errada porque a cooperação entre departamentos exige comunicação e compartilhamento de informações relevantes.\n\n- **1 — Correta:** garante materiais e serviços para as necessidades da organização.\n- **2 — Correta:** mantém fontes atuais e desenvolve alternativas para necessidades futuras ou emergentes.\n- **3 — Correta:** busca valor, qualidade e condições vantajosas com integridade.\n- **4 — Incorreta:** compras deve fornecer e receber informações para que toda a organização opere eficazmente.\n- **D) Correta:** 1, 2 e 3.\n\n**Dica:** compras é uma função de integração: relacionamento externo com fornecedores e colaboração interna com as áreas usuárias.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "548162",
@@ -9471,7 +9912,28 @@
       "e": "II."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito informado: A — fornecedor I.** A questão afirma que a escolha deve considerar a pontuação total de critérios de avaliação, mas a tabela mencionada no enunciado não veio no texto extraído. Sem os critérios e as notas dos fornecedores, não é possível recalcular nem confirmar independentemente que o fornecedor I tem a maior pontuação.\n\n- **A) I — gabarito original:** mantido conforme o arquivo de questões.\n- **B a E) — demais fornecedores:** não é possível comparar sem a tabela.\n\n**Ressalva essencial:** esta explicação não valida o resultado numérico. A imagem/tabela original precisa ser consultada para confirmar a soma, os pesos e o fornecedor vencedor. Não se deve usar a resposta como verificada apenas com o texto disponível.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "548167",
@@ -9488,7 +9950,28 @@
       "e": "comparar preço, qualidade e serviço."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — avaliar o desempenho da fabricação.** A função de compras seleciona e qualifica fornecedores, negocia contratos e compara propostas considerando preço, qualidade e serviço. Avaliar o desempenho do processo fabril interno é atribuição de produção/operações, embora compras possa utilizar dados de qualidade e capacidade do fornecedor.\n\n- **A) Selecionar e qualificar fornecedores — atividade de compras.**\n- **B) Avaliar desempenho de fornecedores — atividade de compras.**\n- **C) Negociar contratos — atividade de compras, conforme alçadas e regras aplicáveis.**\n- **D) Correta como NÃO atividade de compras:** avaliar o desempenho da fabricação interna é função de produção.\n- **E) Comparar preço, qualidade e serviço — atividade de compras.**\n\n**Dica:** compras avalia a capacidade e o desempenho do fornecedor; produção controla o desempenho do processo produtivo da organização.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "575501",
@@ -9505,7 +9988,28 @@
       "e": "produção."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — órgão de compras.** Compras é a interface da organização com o mercado fornecedor, identificando fontes externas e obtendo matérias-primas, componentes, materiais e serviços necessários às operações.\n\n- **A) Vendas — incorreta:** relaciona a organização ao mercado consumidor e à saída de produtos/serviços.\n- **B) Logística — incorreta:** integra fluxos e movimentações, mas não é o órgão específico que realiza aquisições.\n- **C) Controle — incorreta:** monitora processos e resultados, não constitui a interface de suprimento externo.\n- **D) Correta:** compras conecta a empresa ao ambiente fornecedor.\n- **E) Produção — incorreta:** transforma insumos em produtos ou serviços.\n\n**Dica:** compras abastece a organização; vendas escoa sua produção para o mercado.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1560740",
@@ -9522,7 +10026,28 @@
       "e": "fornecedores de itens críticos e não críticos para o produto final devem ser avaliados do mesmo modo pela empresa ou órgão público."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — fornecedor único pode criar dependência e risco.** Quando uma organização depende de uma única fonte, uma interrupção, aumento de preço, falha de qualidade ou problema financeiro do fornecedor pode comprometer a operação. A concentração pode ser justificável em casos específicos, mas exige análise e mitigação de riscos.\n\n- **A) Correta:** dependência de fonte única pode ameaçar a continuidade do negócio.\n- **B) Incorreta:** pontuação de históricos e registros é uma técnica de avaliação quantitativa/documental; não caracteriza, por si, avaliação qualitativa.\n- **C) Incorreta:** autoavaliação pode fornecer dados, mas não substitui verificação independente e evidências.\n- **D) Incorreta:** históricos são úteis, mas sua disponibilidade e pertinência variam entre fases e fornecedores novos.\n- **E) Incorreta:** fornecedores críticos exigem avaliação proporcional ao risco e impacto; não necessariamente o mesmo tratamento de itens não críticos.\n\n**Dica:** classifique criticidade, avalie dependência e, quando possível, desenvolva fontes alternativas.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1416024",
@@ -9539,7 +10064,28 @@
       "e": "Princípio da isonomia."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — princípio da padronização.** A Lei 14.133/2021 determina que, quando pertinente, a padronização considere compatibilidade de especificações estéticas, técnicas ou de desempenho, além de condições de manutenção, assistência técnica e garantia. O enunciado reproduz a ideia de padronização das compras públicas.\n\n- **A) Correta:** é o princípio da padronização.\n- **B) Uniformidade — incorreta:** não é a denominação legal do princípio descrito.\n- **C) Funcionalidade — incorreta:** pode orientar requisitos, mas não é o princípio referido.\n- **D) Igualdade — incorreta:** igualdade é princípio geral, porém não descreve a compatibilidade técnica citada.\n- **E) Isonomia — incorreta:** assegura tratamento igual aos licitantes, não padronização técnica.\n\n**Base legal:** Lei nº 14.133/2021, art. 40, inciso V, alínea “a”, e § 1º, conforme a disciplina de padronização.",
+    "references": [
+      {
+        "label": "Lei nº 4.320/1964 — execução da despesa pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — contratação pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1416222",
@@ -9554,7 +10100,28 @@
       "e": "abertura da caixa, assinatura da nota fiscal, recebimento de treinamento sobre equipamento."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — avaliação, aceite e instalação/acompanhamento da instalação.** Ao receber equipamento médico-hospitalar, a Engenharia Clínica deve verificar se o equipamento corresponde às especificações e condições contratadas, avaliar sua integridade e funcionalidade, formalizar o aceite técnico quando cabível e assegurar instalação adequada, incluindo requisitos de infraestrutura e segurança.\n\n- **A) Incorreta:** abrir a caixa e assinar documentos de transporte/fiscais não substitui avaliação técnica e instalação.\n- **B) Correta:** reúne as três etapas técnicas essenciais descritas.\n- **C) Incorreta:** assinatura da nota fiscal sem avaliação técnica não comprova conformidade funcional.\n- **D) Incorreta:** conhecimento de transporte e instalação, sem aceite/avaliação, é insuficiente.\n- **E) Incorreta:** treinamento é importante, mas não substitui avaliação, aceite e instalação.\n\n**Dica:** recebimento administrativo e aceite técnico são atos distintos; não ateste conformidade antes de verificar requisitos, acessórios, documentação e funcionamento.",
+    "references": [
+      {
+        "label": "Anvisa — RDC nº 509/2021: gerenciamento de tecnologias em saúde",
+        "url": "https://www.gov.br/anvisa/pt-br/assuntos/servicosdesaude/seguranca-do-paciente/legislacao"
+      },
+      {
+        "label": "Anvisa — Tecnovigilância e segurança de produtos para saúde",
+        "url": "https://www.gov.br/anvisa/pt-br/assuntos/fiscalizacao-e-monitoramento/tecnovigilancia"
+      },
+      {
+        "label": "Ministério da Saúde — Política Nacional de Gestão de Tecnologias em Saúde",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_gestao_tecnologias_saude.pdf"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — recebimento e execução contratual",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "261829",
@@ -9571,7 +10138,28 @@
       "e": "II."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — I e II.** Leilão público pode ampliar transparência e participação de interessados, conforme a modalidade e o objeto. EDI (Electronic Data Interchange) permite troca estruturada de documentos e transações eletrônicas entre organizações. A afirmativa III é absoluta e incorreta: o estoque mínimo é parâmetro de política, mas não deve ser seguido mecanicamente sem considerar consumo, prazo, criticidade e contexto.\n\n- **I — Verdadeira no contexto:** publicidade e possibilidade de participação ampliada são características compatíveis com procedimentos competitivos, observadas as regras da modalidade.\n- **II — Verdadeira:** EDI integra a troca eletrônica de dados com parceiros como fornecedores, clientes, bancos e transportadoras.\n- **III — Falsa:** estoque mínimo é referência de controle, não regra inflexível para toda decisão de compra.\n- **D) Correta:** I e II.\n\n**Dica:** EDI automatiza intercâmbio de documentos; parâmetros de estoque orientam decisões, mas precisam ser analisados em conjunto com demanda e lead time.",
+    "references": [
+      {
+        "label": "Lei nº 4.320/1964 — execução da despesa pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — contratação pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "261828",
@@ -9588,7 +10176,28 @@
       "e": "III."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — I e III.** Registros de compras fornecem histórico para consulta e decisão gerencial. Registros agrupados podem consolidar informações e simplificar análises, enquanto registros individuais detalham operações ou itens conforme o sistema adotado.\n\n- **I — Verdadeira:** direção e gestores consultam registros para planejamento, controle e auditoria.\n- **II — Falsa:** a descrição de “registro individual” não é universal e a lista apresentada não permite concluir que essa seja a definição técnica adotada; no contexto da classificação da questão, itens como material de escritório e limpeza são exemplos de registros agrupados por categoria.\n- **III — Verdadeira:** registros agrupados facilitam análises consolidadas, risco de falta e fiscalização.\n- **A) Correta:** I e III.\n\n**Ressalva:** as expressões “registro individual” e “registro agrupado” dependem da classificação específica da bibliografia; a justificativa da II segue a distinção presumida pela questão e deve ser cotejada com o material de origem.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1484740",
@@ -9605,7 +10214,28 @@
       "e": "Proporciona maior flexibilidade e sensibilidade na solução dos problemas pelo conhecimento específico da regional interessada."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — economia de escala em grandes negociações.** Na estrutura centralizada, as necessidades das unidades são consolidadas e negociadas por um órgão central. O maior volume agregado pode aumentar o poder de barganha, gerar padronização e reduzir custos unitários.\n\n- **A) Correta:** compras de grande vulto podem aproveitar escala e melhores condições comerciais.\n- **B) Incorreta:** maior autonomia regional é característica associada à descentralização.\n- **C) Incorreta:** resposta mais rápida a urgências locais costuma ser vantagem da descentralização.\n- **D) Incorreta como vantagem distintiva:** controle pode melhorar com centralização, mas a opção A é a vantagem econômica clássica explicitada pelo enunciado.\n- **E) Incorreta:** flexibilidade e conhecimento específico regional são vantagens da descentralização.\n\n**Dica:** centralização favorece escala, padronização e controle; descentralização favorece agilidade e adaptação local.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEGES/ME nº 65/2021 — Pesquisa de preços",
+        "url": "https://www.gov.br/transferegov/pt-br/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021-1"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Portal de Compras do Governo Federal — Pesquisa de Preços",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/pesquisa-de-precos/pesquisa-de-precos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1420915",
