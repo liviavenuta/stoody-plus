@@ -3415,7 +3415,32 @@
       "e": "I, II e III."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — apenas III (inventários rotativos).** Entre as três expressões apresentadas, “inventários rotativos” corresponde a uma modalidade reconhecida de inventário físico. “Inventários macros” e “inventários finais” não são as categorias da classificação indicada na questão.\n\n- **I — incorreta:** “inventário macro” não é a categoria técnica apresentada nessa classificação.\n- **II — incorreta:** “inventário final” não é a denominação da modalidade.\n- **III — correta:** inventário rotativo é levantamento contínuo e seletivo, programado para cobrir os itens ao longo do exercício.\n- **A), C), D) e E) — incorretas:** incluem categorias que não correspondem à tipologia indicada.\n- **B) Apenas III — correta.**\n\n**Dica:** inventário rotativo/cíclico distribui as contagens ao longo do ano; não confunda com inventário geral/anual.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "809286",
@@ -3432,7 +3457,32 @@
       "e": "simples conferência entre o físico e a ficha de controle, através do inventário permanente."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — confrontar o físico com a ficha de controle e corrigir possíveis erros contábeis.** O inventário físico compara a quantidade efetivamente existente com os registros de estoque e permite investigar e corrigir diferenças.\n\n- **A) Incorreta:** o confronto não se limita às saídas nem depende apenas de relatório de auditoria.\n- **B) Incorreta:** informar a expedição pode ser uma providência, mas não é o objetivo principal do inventário.\n- **C) Correta:** descreve a comparação do estoque físico com os registros e a correção de divergências.\n- **D) Incorreta:** avaliar o desempenho do almoxarifado pode ser um resultado adicional, não a finalidade central.\n- **E) Incorreta:** mistura inventário físico com inventário permanente; a contagem física é justamente a verificação material do saldo.\n\n**Dica:** inventário físico = contar, comparar com o registro, apurar a causa e regularizar divergências.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1418069",
@@ -3449,7 +3499,32 @@
       "e": "Planejar o suprimento de recursos de manufatura, controlar o volume de contas a pagar aos fornecedores e coordenar a estocagem de diferentes lotes de compra."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — enfrentar períodos de capacidade ociosa, demanda irregular e obter economias em compras de larga escala.** A manutenção de estoques pode dar flexibilidade à produção e à operação, permitindo enfrentar variações de demanda, sazonalidade e interrupções de fornecimento, além de aproveitar condições econômicas de compra em escala.\n\n- **A) Incorreta:** promete atendimento pleno de todas as demandas e justifica investimento sem considerar custos e limites; estoque não elimina todos os riscos.\n- **B) Incorreta:** qualidade de fornecedores e reclamações de clientes não são os benefícios centrais de flexibilidade dos estoques.\n- **C) Correta:** estoque pode amortecer períodos de demanda irregular, capacidade ociosa ou picos, além de permitir compras em lotes economicamente vantajosos.\n- **D) Incorreta:** mistura planejamento de produção e previsão, mas “recompensar a administração” não é benefício logístico reconhecido.\n- **E) Incorreta:** reúne atividades de planejamento e controle financeiro que não definem a flexibilidade proporcionada pelos estoques.\n\n**Atenção:** estoque traz benefícios de flexibilidade, mas também gera custos de capital, armazenagem, seguro e risco de obsolescência. O nível adequado depende do equilíbrio entre serviço e custo total.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3780579",
@@ -3466,7 +3541,32 @@
       "e": "rotativo."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — inventário de verificação.** O enunciado descreve um levantamento físico e financeiro feito em qualquer época para conferir a correspondência entre o bem registrado e o existente, por iniciativa do controle patrimonial ou a pedido do responsável pela carga. A denominação específica cobrada é inventário de verificação.\n\n- **A) Transferência — incorreta:** ocorre quando há mudança de responsável/dirigente pela carga patrimonial.\n- **B) Verificação — correta:** busca confirmar a existência, situação e correspondência dos registros em momento não necessariamente fixo.\n- **C) Extinção — incorreta:** ocorre no encerramento ou transformação da unidade gestora.\n- **D) Periódico — incorreta:** indica uma frequência predefinida.\n- **E) Rotativo — incorreta:** é levantamento contínuo, seletivo e programado ao longo do exercício.\n\n**Nota:** a IN SEDAP nº 205/1988 lista as categorias anual, inicial, transferência, extinção/transformação e eventual; “verificação” aparece em classificações de controle patrimonial específicas. A resposta acompanha a terminologia usada no item.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3205672",
@@ -3483,7 +3583,32 @@
       "e": "Curva de Frequência."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — Curva 80-20.** A Curva ABC é frequentemente associada ao princípio de Pareto, conhecido como regra 80/20: uma parcela relativamente pequena dos itens tende a concentrar grande parte do valor de consumo ou impacto econômico do estoque.\n\n- **A) Curva 90-10 — incorreta:** não é a denominação usual da Curva ABC.\n- **B) Curva agregada — incorreta:** não corresponde ao nome alternativo clássico.\n- **C) Curva 65% — incorreta:** não é a denominação reconhecida.\n- **D) Curva 80-20 — correta:** é a associação clássica à regra de Pareto.\n- **E) Curva de Frequência — incorreta:** não é o nome alternativo da Curva ABC.\n\n**Atenção:** a proporção 80/20 é uma aproximação didática, não uma regra matemática fixa para todo estoque. A classificação real depende dos dados de consumo e valor.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3440584",
@@ -3499,7 +3624,32 @@
       "d": "armazenagem tradicional"
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — cross docking.** Cross docking é uma operação em que os produtos chegam ao centro de distribuição, são conferidos e separados por destino e seguem para expedição em curto prazo, sem armazenagem prolongada.\n\n- **A) Milk Run — incorreta:** é um sistema de coleta/entrega em rotas programadas, geralmente reunindo cargas de vários fornecedores ou pontos.\n- **B) Cross docking — correta:** recebe, separa/consolida por destino e expede rapidamente, minimizando estocagem.\n- **C) Estocagem geral — incorreta:** pressupõe guarda dos produtos em estoque.\n- **D) Armazenagem tradicional — incorreta:** envolve endereçamento, guarda e permanência dos materiais até a demanda.\n\n**Dica:** cross docking = mercadoria cruza a doca; não vai para estoque de longa permanência.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2311175",
@@ -3516,7 +3666,32 @@
       "e": "por oportunidade."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — por pressão.** Na distribuição interna por pressão, os materiais são entregues conforme tabelas de provisão ou quantidades previamente estabelecidas, independentemente de solicitação específica do usuário. Na distribuição por requisição, a entrega depende de pedido formal do setor interessado.\n\n- **A) Por pressão — correta:** distribuição planejada e periódica com base em tabelas de provisão.\n- **B) Por requisição — incorreta:** depende de solicitação do usuário.\n- **C) Por necessidade — incorreta:** não é a denominação técnica apresentada.\n- **D) Por conveniência — incorreta:** não corresponde ao método descrito.\n- **E) Por oportunidade — incorreta:** não é o método de distribuição indicado.\n\n**Dica:** pressão = entrega programada sem pedido individual; requisição = usuário solicita o material.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "999162",
@@ -3533,7 +3708,32 @@
       "e": "Embalagens originais, como caixas de papelão, precisam ser retiradas e descartadas antes da estocagem."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — manter os medicamentos, sempre que possível, nas embalagens originais.** As embalagens originais ajudam a preservar a integridade, identificação, lote e prazo de validade dos medicamentos. A RDC nº 430/2020 da ANVISA exige condições adequadas de armazenamento, identificação e preservação da qualidade e segurança.\n\n- **A) Correta:** conservar na embalagem original, sempre que possível, favorece proteção e rastreabilidade.\n- **B) Incorreta:** embalagem aberta não deve ser automaticamente refrigerada; a condição de temperatura depende da especificação do fabricante e do produto.\n- **C) Incorreta:** embalagens transparentes não são recomendação geral; alguns medicamentos exigem proteção contra luz.\n- **D) Incorreta:** todas as embalagens devem manter identificação adequada, inclusive lote e validade; transparência não elimina essa exigência.\n- **E) Incorreta:** retirar e descartar embalagens originais pode comprometer proteção, identificação e rastreabilidade.\n\n**Dica:** siga as condições do fabricante, preserve embalagem e identificação, controle temperatura/umidade quando aplicável e observe lote e validade.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1153264",
@@ -3549,7 +3749,32 @@
       "d": "a produção / o serviço"
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — oferta e demanda.** O ideal teórico para reduzir a necessidade de estoques é sincronizar a oferta com a demanda, de modo que os materiais cheguem quando e na quantidade em que serão necessários.\n\n- **A) Serviço e preço — incorreta:** são fatores comerciais, mas não expressam a sincronização que reduz estoques.\n- **B) Oferta e demanda — correta:** equilíbrio entre disponibilidade e necessidade reduz excesso e falta.\n- **C) Preço e segurança — incorreta:** não são os fluxos que precisam ser sincronizados.\n- **D) Produção e serviço — incorreta:** podem ser coordenados, mas a expressão geral da teoria é oferta e demanda.\n\n**Atenção:** na prática, a sincronização perfeita é difícil por causa de incerteza, variação de demanda, lead time e risco de interrupções; por isso, muitas organizações mantêm estoques de segurança.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1151648",
@@ -3565,7 +3790,32 @@
       "d": "Proceder a conferência visual, verificando as condições da embalagem quanto a possíveis avarias na carga transportada."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — receber materiais mesmo se a compra não foi autorizada.** A questão pede a exceção entre as responsabilidades do recebimento. O almoxarifado deve conferir materiais, documentos e condições da entrega, mas não deve aceitar como regular uma compra sem autorização administrativa.\n\n- **A) Correta:** conferência quantitativa e qualitativa verifica quantidade e conformidade com especificações.\n- **B) Correta:** coordenar recebimento e devolução integra a gestão do fluxo de materiais.\n- **C) Incorreta — resposta da questão:** não se deve receber/regularizar material de compra não autorizada como se o procedimento estivesse correto; é necessário verificar a autorização e a documentação.\n- **D) Correta:** inspeção visual da embalagem identifica avarias aparentes no transporte.\n\n**Dica:** recebimento envolve conferência documental, quantitativa, qualitativa e registro da entrada. Entrega física não equivale automaticamente à aceitação administrativa.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "UFBA — estudo acadêmico sobre cross-docking",
+        "url": "https://repositorio.ufba.br/ri/bitstream/ri/9365/1/MA%C3%8DRA%20CERQUEIRA%20BARRETO%281%29.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "623526",
