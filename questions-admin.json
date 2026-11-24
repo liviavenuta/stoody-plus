@@ -6183,7 +6183,28 @@
       "e": "legalidade e eficiência."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — legalidade e eficiência.** A alternativa apresenta dois princípios expressamente previstos no caput do art. 37 da Constituição Federal.\n\n- **A) Celeridade e transparência — incorreta:** são valores e diretrizes relevantes, mas não substituem os princípios expressos do rol.\n- **B) Isonomia e pessoalidade — incorreta:** pessoalidade contraria a impessoalidade.\n- **C) Legalidade e imparcialidade — incorreta:** legalidade é expressa, mas a palavra constitucional é impessoalidade.\n- **D) Moralidade e proporcionalidade — incorreta:** moralidade é expressa, mas proporcionalidade não substitui eficiência no rol literal.\n- **E) Legalidade e eficiência — correta:** ambos constam expressamente do art. 37.\n\n**Dica:** a questão pede apenas dois exemplos; ambos precisam estar literalmente no rol do LIMPE.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4085067",
@@ -6198,7 +6219,28 @@
       "e": "a atuação ética do agente público está vinculada à observância da finalidade pública, da integridade funcional e da prevalência do interesse coletivo."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E.** A alternativa afirma que a atuação ética está vinculada à finalidade pública, à integridade funcional e à prevalência do interesse coletivo. Essa formulação reúne deveres decorrentes dos princípios da moralidade, impessoalidade e finalidade pública.\n\n- **A) Incorreta:** imparcialidade não se limita à vedação de vantagem patrimonial indevida; também exige ausência de favorecimento e perseguição.\n- **B) Incorreta:** legalidade formal não é parâmetro suficiente para a avaliação ética; moralidade é princípio autônomo.\n- **C) Incorreta:** ética administrativa não é facultativa; é exigência jurídica.\n- **D) Incorreta:** lealdade institucional não autoriza flexibilizar procedimentos em desrespeito à lei ou aos direitos dos administrados.\n- **E) Correta:** relaciona ética, finalidade pública, integridade e interesse coletivo.\n\n**Dica:** ética pública é dever jurídico e institucional, não preferência pessoal nem conveniência da gestão.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3956611",
@@ -6215,7 +6257,28 @@
       "e": "responsabilidade civil do Estado."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — tutela administrativa.** O controle finalístico exercido pela Administração direta sobre entidades da Administração indireta é tradicionalmente chamado tutela administrativa ou supervisão ministerial, conforme o ente e a estrutura administrativa. Busca verificar se a entidade está cumprindo as finalidades para as quais foi criada, nos limites legais.\n\n- **A) Tutela administrativa — correta:** controle finalístico sobre entidade descentralizada.\n- **B) Autotutela — incorreta:** é a revisão que a própria Administração faz de seus atos, anulando os ilegais e revogando os inconvenientes ou inoportunos nos limites jurídicos.\n- **C) Especialidade — incorreta:** é o princípio segundo o qual a entidade da Administração indireta deve atuar dentro das finalidades específicas para as quais foi criada.\n- **D) Continuidade — incorreta:** exige prestação regular e não interrompida dos serviços públicos.\n- **E) Responsabilidade civil do Estado — incorreta:** trata do dever de reparar danos causados nos termos constitucionais e legais.\n\n**Dica:** tutela/supervisão = controle finalístico da Administração direta; autotutela = revisão dos próprios atos.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3867976",
@@ -6232,7 +6295,28 @@
       "e": "V – F – F"
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — V, V, F.** A primeira afirmação é considerada verdadeira no sentido amplo de legalidade/juridicidade: a Administração precisa de fundamento normativo, que pode decorrer da Constituição, de competências constitucionais e de princípios jurídicos. A segunda descreve corretamente a descentralização por criação de entidades com personalidade jurídica própria, sujeitas a controle finalístico nos limites legais. A terceira é falsa porque a Administração não revoga atos ilegais por conveniência e oportunidade; atos ilegais devem ser anulados, enquanto a revogação se aplica a atos válidos que se tornaram inconvenientes ou inoportunos.\n\n- **I — verdadeira segundo a leitura ampla do enunciado:** o fundamento da atuação administrativa deve ser jurídico, não necessariamente apenas uma regra legal detalhada.\n- **II — verdadeira:** entidades da Administração indireta possuem personalidade jurídica própria e se submetem à supervisão finalística e ao controle jurídico cabível.\n- **III — falsa:** confunde anulação com revogação. Ilegalidade conduz à anulação; conveniência e oportunidade podem fundamentar revogação de ato válido, respeitados direitos adquiridos e limites legais.\n- **A) V–V–F — correta.**\n- **B, C, D e E — incorretas:** não refletem a avaliação das três afirmações.\n\n**Ressalva terminológica:** a expressão “legalidade em sentido estrito” na primeira frase é imprecisa, porque o complemento menciona princípios implícitos e competências constitucionais, aproximando-se da noção ampla de juridicidade. O gabarito A depende dessa leitura ampla.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4012303",
@@ -6249,7 +6333,28 @@
       "e": "formalidade"
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — rastreabilidade.** O enunciado descreve a capacidade de identificar origem, histórico de movimentações e responsáveis por registros, processos e bens. Isso corresponde à rastreabilidade das informações e dos procedimentos.\n\n- **A) Padronização — incorreta:** estabelece formatos e procedimentos uniformes, mas não garante por si só histórico e identificação de responsáveis.\n- **B) Economicidade — incorreta:** refere-se à obtenção e utilização econômica dos recursos.\n- **C) Rastreabilidade — correta:** permite reconstruir o percurso, a origem e as alterações de uma informação ou bem.\n- **D) Centralização — incorreta:** concentra decisões ou atividades em uma unidade.\n- **E) Formalidade — incorreta:** diz respeito ao respeito às formas e procedimentos previstos, não necessariamente ao histórico rastreável.\n\n**Nota:** rastreabilidade é uma diretriz de gestão, controle e governança; não integra o rol literal dos cinco princípios do art. 37, mas é compatível com transparência, controle e eficiência.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3544588",
@@ -6266,7 +6371,28 @@
       "e": "As afirmações I, II e III não são verdadeiras."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito cadastrado: D — as afirmações I, II e III são verdadeiras.** A I está correta: há dever de obediência hierárquica, mas não se deve cumprir ordem manifestamente ilegal. A II descreve o poder de polícia como atuação estatal que condiciona ou restringe atividades privadas em benefício do interesse coletivo, com vínculo geral perante a coletividade. A III está correta ao afirmar que atos normativos primários retiram fundamento direto da Constituição e podem inovar na ordem jurídica, como leis e medidas provisórias.\n\n- **I — verdadeira:** ordens superiores devem ser cumpridas, salvo quando manifestamente ilegais; a ressalva protege a legalidade.\n- **II — verdadeira na ideia central:** o poder de polícia é função pública que limita ou condiciona direitos e atividades particulares. A expressão “se insere na esfera privada” é pouco precisa: o poder é exercido pela Administração sobre atividades e direitos privados.\n- **III — verdadeira:** atos normativos primários possuem fundamento constitucional direto e inovam na ordem jurídica, observadas as competências e limites constitucionais.\n- **A, B e C — incorretas:** excluem uma ou mais afirmações consideradas verdadeiras.\n- **D) Todas verdadeiras — correta segundo o gabarito.**\n- **E) Todas falsas — incorreta.**\n\n**Ressalva:** a redação da II deveria dizer que o poder de polícia é exercido pela Administração sobre a esfera privada, e não que ele “se insere” nela. A imprecisão não altera a ideia central cobrada.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3578108",
@@ -6283,7 +6409,28 @@
       "e": "1–B, 2–D, 3–C, 4–A, 5–E"
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D — 1–B, 2–A, 3–D, 4–C, 5–E.** A sequência associa as etapas do procedimento disciplinar às garantias e finalidades correspondentes.\n\n1. **Instauração formal → B:** legalidade e formalidade procedimental exigem procedimento instaurado pela autoridade competente, conforme as regras aplicáveis.\n2. **Vista dos autos e defesa → A:** contraditório e ampla defesa asseguram conhecimento dos elementos e possibilidade de manifestação.\n3. **Produção de provas → D:** busca da verdade material e apuração adequada dos fatos.\n4. **Relatório conclusivo → C:** deve apresentar análise fundamentada, contribuindo para a motivação da decisão.\n5. **Aplicação de penalidade → E:** exercício do poder disciplinar e autotutela, com proteção do interesse público e respeito às garantias legais.\n\n- **A, B, C e E — incorretas:** apresentam associações incompatíveis com as etapas descritas.\n- **D — correta:** corresponde à sequência 1–B, 2–A, 3–D, 4–C, 5–E.\n\n**Atenção:** a penalidade não pode ser aplicada automaticamente; exige competência, tipicidade administrativa quando cabível, motivação, proporcionalidade e respeito ao contraditório e à ampla defesa.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2960292",
@@ -6300,7 +6447,28 @@
       "e": "Princípio da legalidade."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito cadastrado: C — supremacia do interesse público.** **Ressalva conceitual importante:** o fragmento afirma que a Administração não tem disponibilidade sobre os interesses públicos confiados à sua guarda. Essa formulação corresponde mais precisamente ao princípio da **indisponibilidade do interesse público**, que não aparece entre as alternativas. A supremacia do interesse público é princípio distinto, ligado à prevalência do interesse público nos termos do ordenamento.\n\n- **A) Eficiência — incorreta:** trata de qualidade e resultados.\n- **B) Publicidade — incorreta:** trata de transparência.\n- **C) Supremacia do interesse público — gabarito cadastrado, mas não é a correspondência técnica mais precisa:** refere-se à prevalência do interesse público, e não à impossibilidade de o administrador dispor dele.\n- **D) Moralidade — incorreta:** exige padrões éticos e probidade.\n- **E) Legalidade — incorreta:** exige conformidade com o ordenamento, mas não expressa especificamente a indisponibilidade descrita.\n\n**Conclusão da revisão:** a alternativa tecnicamente adequada seria “indisponibilidade do interesse público”, ausente do item. Mantive o gabarito C no banco, mas sinalizei a questão como conceitualmente defeituosa para não ensinar a distinção errada.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3449004",
@@ -6317,7 +6485,28 @@
       "e": "motivação."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — motivação.** O princípio da motivação exige que a Administração apresente os fundamentos de fato e de direito que justificam suas decisões, permitindo controle de legalidade e compreensão dos motivos do ato.\n\n- **A) Impessoalidade — incorreta:** exige atuação objetiva e sem favorecimentos.\n- **B) Legalidade — incorreta:** determina conformidade com o ordenamento, mas não nomeia especificamente o dever de explicitar as razões da decisão.\n- **C) Autonomia da vontade — incorreta:** não rege a atuação administrativa como liberdade privada.\n- **D) Eficiência — incorreta:** relaciona-se a qualidade e resultados.\n- **E) Motivação — correta:** exige exposição dos fundamentos fáticos e jurídicos, conforme as hipóteses legais.\n\n**Dica:** quando o enunciado fala em justificar decisões e apresentar razões de fato e de direito, pense em motivação.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2960720",
@@ -6334,7 +6523,28 @@
       "e": "1 - 4 - 2 - 3."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — 2–4–3–1.** A sequência pretendida é:\n\n1. **Finalidade pública e vedação a favorecimentos → 2, impessoalidade.**\n2. **Execução imediata e possibilidade de impor obrigações → 4, presunção de legitimidade/veracidade, segundo a classificação adotada pela questão.**\n3. **Criação de autarquias para especialização de funções → 3, especialidade.**\n4. **Coordenação e subordinação entre órgãos → 1, hierarquia.**\n\n- **A, C, D e E — incorretas:** não apresentam a sequência pretendida.\n- **B) 2–4–3–1 — correta segundo o gabarito.**\n\n**Ressalva técnica:** a segunda descrição menciona atributos como imperatividade e autoexecutoriedade, e não apenas presunção de legitimidade/veracidade. A presunção de legitimidade permite que o ato seja considerado válido até prova em contrário, mas a criação unilateral de obrigações é mais propriamente ligada à imperatividade; a execução direta, à autoexecutoriedade, quando admitida. Assim, a associação da questão é imprecisa e merece revisão pela banca.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 37, 41 e 5º, LV (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 8.112/1990 — regime jurídico dos servidores federais (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2881111",
