@@ -13,7 +13,28 @@
       "e": "I, III e V."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Cavalo de Troia e worm são categorias de código malicioso. Hacker designa uma pessoa ou agente, spam é mensagem não solicitada e pharming é uma fraude de redirecionamento, não uma categoria de malware em si. Portanto, apenas I e II são malwares.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CERT.br — Recomendações sobre phishing e pharming",
+        "url": "https://www.cartilha.cert.br/docs/notificacoes/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2649963",
@@ -29,7 +50,28 @@
       "e": "Adware."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Ransomware é malware que bloqueia o acesso a dados ou sistemas, frequentemente por criptografia, e exige pagamento para tentar liberar o acesso. Spyware coleta informações; cavalo de Troia disfarça sua natureza; backdoor cria um meio de acesso; adware exibe publicidade.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2411213",
@@ -45,7 +87,28 @@
       "e": "utilizar uma versão antiga do antivírus instalado."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. A proteção exige camadas: antivírus/antimalware atualizado e ativo, cautela com redes públicas e arquivos, atualizações do sistema e comportamento seguro. As demais opções recomendam desativar ou deixar desatualizada a proteção, aumentando a exposição.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2409421",
@@ -61,7 +124,28 @@
       "e": "Programas"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. No Windows 10, o caminho clássico para configurar o reconhecimento de fala passava pelo Painel de Controle, em Facilidade de Acesso, na opção Reconhecimento de Fala. A documentação atual também descreve configurações em Sistema/Idioma e Fala; a questão é específica do fluxo tradicional do Windows 10.",
+    "references": [
+      {
+        "label": "Microsoft Support — Usar reconhecimento de fala no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/use-voice-recognition-in-windows"
+      },
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas do Windows",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2409407",
@@ -77,7 +161,28 @@
       "e": "backup espelhado."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Backup diferencial copia todos os dados alterados desde o último backup completo. O incremental copia apenas o que mudou desde o backup anterior, seja ele completo ou incremental. A descrição do enunciado corresponde ao diferencial.",
+    "references": [
+      {
+        "label": "IBM — O que é backup e restauração?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      },
+      {
+        "label": "ENISA — Technical Implementation Guidance, backup and recovery tests",
+        "url": "https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2409385",
@@ -93,7 +198,28 @@
       "e": "shareware."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Adware é software que exibe publicidade, muitas vezes indesejada, durante o uso de aplicativos ou navegação. Freeware e shareware descrevem modelos de distribuição/licenciamento; malware é a categoria ampla, e vírus é um tipo específico de código malicioso.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CERT.br — Recomendações sobre phishing e pharming",
+        "url": "https://www.cartilha.cert.br/docs/notificacoes/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2408970",
@@ -109,7 +235,28 @@
       "e": "Kaspersky."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. McAfee, Avast, Norton e Kaspersky são marcas de soluções antivírus/segurança. VCrash não é reconhecido como antivírus entre as opções; assim, a alternativa pretendida é A. Como a questão não identifica fabricante ou produto, a classificação de VCrash depende do contexto da prova.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2409388",
@@ -125,7 +272,28 @@
       "e": "band switch."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Firewall é um mecanismo de segurança que aplica regras ao tráfego de rede, permitindo ou bloqueando conexões conforme origem, destino, portas, protocolos e políticas. Antivírus atua principalmente sobre códigos maliciosos em dispositivos; hub é equipamento de interconexão e criptografia protege a confidencialidade/integridade dos dados.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2261516",
@@ -141,7 +309,28 @@
       "e": "Ataque que consiste em uma verificação sistemática de todas as possíveis chaves e senhas."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Sniffing é a captura/observação de pacotes que trafegam por uma rede. Pode ser usado para diagnóstico legítimo ou, de forma maliciosa, para interceptar informações não protegidas. As demais alternativas descrevem ataques de negação de serviço, IP spoofing ou força bruta.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2280819",
@@ -157,7 +346,29 @@
       "e": "capacidade de armazenamento necessária."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A questão pede o item que não seria fundamental em um plano de backup, mas a alternativa C (tipo de dados) também é relevante: a natureza, criticidade e volume dos dados influenciam frequência, retenção, método e prioridade de restauração. Janela, versionamento, tempo de restauração e capacidade também são elementos de planejamento. O enunciado não oferece uma exceção tecnicamente inequívoca; o gabarito C foi preservado apenas para rastreabilidade, com recomendação de revisão/anulação.",
+    "references": [
+      {
+        "label": "IBM — O que é backup e restauração?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      },
+      {
+        "label": "ENISA — Technical Implementation Guidance, backup and recovery tests",
+        "url": "https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Questão possivelmente sem alternativa correta: tipo/natureza dos dados é elemento relevante de qualquer plano de backup. Recomenda-se revisar o gabarito C ou anular."
   },
   {
     "id": "1776090",
@@ -173,7 +384,28 @@
       "e": "malware."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Phishing é fraude que usa mensagens, páginas ou comunicações enganosas para induzir a vítima a revelar dados, clicar em links ou executar ações. Sniffing é captura de tráfego; spamming é envio massivo de mensagens; spyware e malware são categorias de software, não o nome específico dessa fraude.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CERT.br — Recomendações sobre phishing e pharming",
+        "url": "https://www.cartilha.cert.br/docs/notificacoes/"
+      },
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2524869",
@@ -189,7 +421,29 @@
       "e": "FastTrack."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. O cenário descrito — o usuário digita ou tenta acessar um endereço legítimo e é redirecionado sem perceber para uma página falsa — caracteriza especificamente pharming, frequentemente por manipulação de DNS. A alternativa C parece ser a pretendida, mas está grafada “Phising” e corresponde a phishing; como “pharming” não aparece nas opções, há provável erro material e nenhuma alternativa está tecnicamente exata.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CERT.br — Recomendações sobre phishing e pharming",
+        "url": "https://www.cartilha.cert.br/docs/notificacoes/"
+      },
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "O conceito definido é pharming (redirecionamento para página falsa), mas a opção C está grafada Phising/phishing e não há alternativa pharming. Recomenda-se corrigir a opção ou anular."
   },
   {
     "id": "2549491",
@@ -204,7 +458,28 @@
       "d": "WhatsApp."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Avira é um software de segurança com função antivírus/antimalware. LibreOffice é uma suíte de produtividade e WhatsApp é um aplicativo de mensagens; “Asure” não corresponde, no contexto apresentado, a uma solução antivírus conhecida. A alternativa correta é C.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1971193",
@@ -220,7 +495,28 @@
       "e": "dormência."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Na classificação didática das fases de um vírus, propagação é o período em que ele se replica e infecta outros arquivos ou sistemas. Dormência é a fase inativa; ativação é o disparo de sua execução; ação/carga corresponde ao comportamento malicioso realizado.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CERT.br — Recomendações sobre phishing e pharming",
+        "url": "https://www.cartilha.cert.br/docs/notificacoes/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1808389",
@@ -236,7 +532,28 @@
       "e": "Broadsheeet."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Kaspersky é uma solução antivírus. Media Player é reprodutor de mídia; adware é uma categoria de software que exibe anúncios; as demais opções não representam um antivírus no contexto da questão. Portanto, C.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1980912",
@@ -252,7 +569,28 @@
       "e": "requer mídias físicas, tais como pendrive ou DVD, para ser realizado."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Há diferentes métodos de backup, como completo, incremental e diferencial, que variam conforme os dados copiados em cada execução. Backup não impede infecção por malware, não depende exclusivamente do Windows e pode ser armazenado em mídias físicas ou em serviços remotos/nuvem.",
+    "references": [
+      {
+        "label": "IBM — O que é backup e restauração?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      },
+      {
+        "label": "ENISA — Technical Implementation Guidance, backup and recovery tests",
+        "url": "https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4382095",
@@ -268,7 +606,28 @@
       "e": "Padronização dos formatos de arquivos digitais."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Testes regulares de restauração verificam se as cópias estão íntegras e se os procedimentos permitem recuperar os dados dentro do prazo necessário. Atualização de sistemas, monitoramento de rede e controle de acesso são controles importantes, mas não substituem a validação da recuperação dos backups.",
+    "references": [
+      {
+        "label": "ENISA — Technical Implementation Guidance, backup and recovery tests",
+        "url": "https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      },
+      {
+        "label": "IBM — O que é backup e restauração?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4313834",
@@ -284,7 +643,28 @@
       "e": "Ambos são conceitos externos à tríade CIA; criptografia de chave pública é apenas para confidencialidade."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Autenticidade permite verificar a origem/identidade associada à mensagem; não repúdio oferece evidência para que o signatário não negue facilmente a autoria. Assinaturas digitais usam criptografia assimétrica — assinatura com chave privada e verificação com chave pública — e dão suporte à autenticidade, integridade e não repúdio, não à confidencialidade por si só.",
+    "references": [
+      {
+        "label": "NIST — Digital Signature Standard (FIPS 186-5)",
+        "url": "https://csrc.nist.gov/pubs/fips/186-5/final"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Digital Signature",
+        "url": "https://csrc.nist.gov/glossary/term/digital_signature"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4313838",
@@ -300,7 +680,28 @@
       "e": "Não há diferença significativa, são termos intercambiáveis para o mesmo tipo de malware."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Rootkit é uma categoria de malware voltada a ocultar componentes ou manter acesso privilegiado; bootkit compromete componentes do processo de inicialização, como o bootloader ou firmware, podendo atuar antes do carregamento completo do sistema operacional. Por essa posição precoce, bootkits tendem a ser especialmente persistentes e difíceis de detectar. A alternativa A expressa a distinção pretendida, embora simplifique a variedade técnica dos rootkits.",
+    "references": [
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4313831",
@@ -315,8 +716,30 @@
       "d": "Quando a coluna de pesquisa está à esquerda da coluna de retorno.",
       "e": "Quando a tabela de dados possui mais de colunas."
     },
-    "answer": "D",
-    "source": "Informática.pdf"
+    "answer": "A",
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. O PROCV pesquisa na primeira coluna da matriz e retorna valores de colunas à direita; não faz busca nativa para a esquerda. ÍNDICE com CORRESP permite localizar a chave em uma coluna à direita da coluna que contém o valor de retorno e devolver um valor à esquerda. Portanto, a situação descrita é a alternativa A, e não D. **Gabarito corrigido de D para A.**",
+    "references": [
+      {
+        "label": "Microsoft Support — INDEX, MATCH e limitações do PROCV",
+        "url": "https://support.microsoft.com/en-gb/excel/look-up-values-with-vlookup-index-or-match"
+      },
+      {
+        "label": "Microsoft Support — Função CORRESP (MATCH)",
+        "url": "https://support.microsoft.com/en-us/excel/functions/match-function"
+      },
+      {
+        "label": "Microsoft Support — Referências relativas, absolutas e mistas",
+        "url": "https://support.microsoft.com/en-us/excel/get-started/overview-of-formulas-in-excel"
+      },
+      {
+        "label": "Microsoft Support — Função SOMA",
+        "url": "https://support.microsoft.com/en-us/excel/learn-more-about-sum"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Gabarito original D corrigido para A: ÍNDICE+CORRESP permite retorno à esquerda da coluna de pesquisa; PROCV só retorna à direita. Ver documentação oficial Microsoft."
   },
   {
     "id": "4426691",
@@ -332,7 +755,28 @@
       "e": "I, apenas."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A afirmativa I está errada: “primazia, vulnerabilidade e sustentabilidade” não é a tríade clássica de gestão de riscos em segurança da informação. As afirmativas II e III estão corretas, pois controles técnicos precisam ser acompanhados por cultura, conscientização e treinamento contra engenharia social e phishing. Logo, II e III apenas.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4514224",
@@ -348,7 +792,28 @@
       "e": "Renomear periodicamente o arquivo principal, porque a mudança do nome impede exclusão simultânea das cópias."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Sincronização não equivale a backup: a exclusão ou corrupção pode ser replicada entre dispositivos e nuvem. Para recuperar versões anteriores, é necessário backup versionado, com retenção adequada e armazenamento independente da origem, idealmente protegido contra alteração ou exclusão pelo mesmo incidente.",
+    "references": [
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      },
+      {
+        "label": "IBM — O que é backup e restauração?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "ENISA — Technical Implementation Guidance, backup and recovery tests",
+        "url": "https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4422689",
@@ -364,7 +829,28 @@
       "e": "I, apenas."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. A afirmativa II é correta: reduzir o intervalo entre cópias tende a reduzir a quantidade máxima de dados perdidos entre o último backup e a falha (RPO). A I é falsa porque a periodicidade deve variar conforme criticidade e risco de cada sistema; a III é falsa porque backups completos frequentes não são sempre a estratégia mais eficiente em custo, tempo e armazenamento.",
+    "references": [
+      {
+        "label": "ENISA — Technical Implementation Guidance, backup and recovery tests",
+        "url": "https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf"
+      },
+      {
+        "label": "CISA — StopRansomware Guide: backups",
+        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
+      },
+      {
+        "label": "IBM — O que é backup e restauração?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4390299",
@@ -380,7 +866,28 @@
       "e": "PROCV"
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A função SOMA adiciona valores numéricos de células ou intervalos. Para somar B2 até B10, a fórmula é =SOMA(B2:B10) na versão em português do Excel. MÉDIA calcula média, CONT.NÚM conta células numéricas, SE testa uma condição e PROCV pesquisa em uma tabela.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função SOMA",
+        "url": "https://support.microsoft.com/en-us/excel/learn-more-about-sum"
+      },
+      {
+        "label": "Microsoft Support — Referências relativas, absolutas e mistas",
+        "url": "https://support.microsoft.com/en-us/excel/get-started/overview-of-formulas-in-excel"
+      },
+      {
+        "label": "Microsoft Support — INDEX, MATCH e limitações do PROCV",
+        "url": "https://support.microsoft.com/en-gb/excel/look-up-values-with-vlookup-index-or-match"
+      },
+      {
+        "label": "Microsoft Support — Função CORRESP (MATCH)",
+        "url": "https://support.microsoft.com/en-us/excel/functions/match-function"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4313793",
@@ -396,7 +903,28 @@
       "e": "Vetor: Interceptação de tráfego; Vulnerabilidade: Criptografia fraca; Identificação: Verificação de certificados SSL/TLS."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Spear phishing é phishing direcionado a uma pessoa ou organização, explorando informações contextuais e confiança. Domínios homógrafos usam caracteres visualmente semelhantes para imitar um endereço legítimo. A defesa inclui conferir cuidadosamente o domínio real, remetente e cabeçalhos, além de desconfiar de pedidos urgentes ou inesperados.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CERT.br — Recomendações sobre phishing e pharming",
+        "url": "https://www.cartilha.cert.br/docs/notificacoes/"
+      },
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4389949",
@@ -412,7 +940,28 @@
       "e": "win+shift+s"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Win + Shift + S abre a ferramenta de recorte para selecionar uma região da tela e copiar a captura para a área de transferência. Win + E abre o Explorador de Arquivos; Alt + Tab alterna janelas; Win + R abre Executar; Ctrl + Shift + Esc abre o Gerenciador de Tarefas.",
+    "references": [
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas do Windows",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — Usar reconhecimento de fala no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/use-voice-recognition-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4381357",
@@ -428,7 +977,28 @@
       "e": "ransomwares"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Worm (verme) é malware capaz de se replicar e se propagar autonomamente entre sistemas, frequentemente explorando vulnerabilidades de rede ou software, sem exigir que o usuário execute manualmente cada cópia. Vírus normalmente depende de hospedeiro/arquivo; trojan disfarça sua finalidade; spyware coleta dados; ransomware extorque a vítima.",
+    "references": [
+      {
+        "label": "CISA — Malware Tip Card",
+        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "CERT.br — Recomendações sobre phishing e pharming",
+        "url": "https://www.cartilha.cert.br/docs/notificacoes/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4389946",
@@ -444,7 +1014,28 @@
       "e": "$A$1:$A$10"
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A referência $A1 fixa a coluna A (sinal $ antes da letra), mas deixa a linha relativa. Ao copiar a fórmula para outra linha, o número da linha pode mudar; ao copiar para outra coluna, a coluna permanece A. A$1 fixa a linha, e $A$1 fixa coluna e linha.",
+    "references": [
+      {
+        "label": "Microsoft Support — Referências relativas, absolutas e mistas",
+        "url": "https://support.microsoft.com/en-us/excel/get-started/overview-of-formulas-in-excel"
+      },
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas do Windows",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — INDEX, MATCH e limitações do PROCV",
+        "url": "https://support.microsoft.com/en-gb/excel/look-up-values-with-vlookup-index-or-match"
+      },
+      {
+        "label": "Microsoft Support — Função SOMA",
+        "url": "https://support.microsoft.com/en-us/excel/learn-more-about-sum"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4377988",
@@ -460,7 +1051,28 @@
       "e": "I, II, III e IV."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. As quatro afirmativas estão corretas. Confidencialidade restringe o acesso a pessoas autorizadas; integridade protege contra alteração indevida; disponibilidade assegura acesso quando necessário. Autenticidade e não repúdio são propriedades importantes, mas não fazem parte da tríade clássica CIA (confidencialidade, integridade e disponibilidade).",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Digital Signature",
+        "url": "https://csrc.nist.gov/glossary/term/digital_signature"
+      },
+      {
+        "label": "NIST — Digital Signature Standard (FIPS 186-5)",
+        "url": "https://csrc.nist.gov/pubs/fips/186-5/final"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4377968",
@@ -476,7 +1088,28 @@
       "e": "Pressionar Win + E, acessando o Gerenciador de Tarefas no Explorador de Arquivos."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Ctrl + Shift + Esc abre diretamente o Gerenciador de Tarefas. Ctrl + Alt + Del abre a tela de segurança com opções adicionais, mas não encerra processos automaticamente; Alt + Tab alterna entre aplicativos; Win + D mostra a área de trabalho; Win + E abre o Explorador de Arquivos.",
+    "references": [
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas do Windows",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — Usar reconhecimento de fala no Windows",
+        "url": "https://support.microsoft.com/en-us/windows/experience/use-voice-recognition-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+      },
+      {
+        "label": "NIST CSRC — Glossary: Malware",
+        "url": "https://csrc.nist.gov/glossary/term/malware"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4156924",
