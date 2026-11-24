@@ -2657,7 +2657,28 @@
       "e": "atualizar regularmente as quantidades de estoque disponíveis."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — confirmar os resultados obtidos com o inventário contábil.** O inventário anual confronta a existência física e os registros patrimoniais/contábeis, permitindo confirmar quantidades e valores do acervo na data de referência e identificar divergências.\n\n- **A) Evitar quebras de estoque — incorreta:** é objetivo do planejamento e do controle de ressuprimento, não a finalidade principal do inventário anual.\n- **B) Correta:** o levantamento físico permite conciliar e confirmar os registros.\n- **C) Planejar estoque de segurança — incorreta:** estoque de segurança é calculado a partir de demanda e prazo de reposição.\n- **D) Avaliar perdas — possível resultado, mas não a finalidade principal:** perdas podem ser identificadas no inventário, porém o objetivo central é verificar e reconciliar o saldo.\n- **E) Atualizar regularmente as quantidades — incorreta como resposta:** é mais associado ao controle contínuo/rotativo do que ao inventário anual.\n\n**Dica:** inventário anual comprova a quantidade e o valor dos bens em determinada data; o rotativo permite acompanhar divergências ao longo do exercício.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1742569",
@@ -2674,7 +2695,28 @@
       "e": "não se requer um período determinado, já que ocorre continuamente."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: A.** A alternativa A descreve o inventário periódico como uma contagem concentrada em um período de encerramento, usada para atualizar os controles e produzir informações financeiras mais confiáveis.\n\n- **A) Correta segundo o gabarito:** indica a apuração em um período de referência para atualização dos controles e demonstrativos.\n- **B) Também descreve uma prática de contagem periódica:** contagens em intervalos pré-definidos podem ser chamadas de inventário periódico em sentido amplo; por isso, a alternativa é próxima do conceito.\n- **C) Incorreta:** descreve um sistema de controle permanente/contínuo, com atualização automatizada.\n- **D) Incorreta:** atualização a cada entrada ou saída é característica de registro permanente.\n- **E) Incorreta:** descreve controle contínuo, não periódico.\n\n**Ressalva:** a questão não diferencia com clareza o sistema de inventário periódico da contagem física programada em intervalos. A alternativa B também é plausível em terminologia ampla. Mantive A, que é o gabarito do banco, mas a questão merece conferência da nomenclatura adotada pela banca.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1473246",
@@ -2691,7 +2733,28 @@
       "e": "de transferência de responsabilidade."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — eventual.** A Instrução Normativa SEDAP nº 205/1988 define o inventário eventual como aquele realizado em qualquer época, por iniciativa do dirigente da unidade gestora ou do órgão fiscalizador.\n\n- **A) Inicial — incorreta:** ocorre quando uma unidade gestora é criada.\n- **B) Eventual — correta:** pode ser realizado a qualquer momento, conforme necessidade ou iniciativa de fiscalização.\n- **C) Extinção ou transformação — incorreta:** ocorre quando a unidade gestora é extinta ou transformada.\n- **D) Anual — incorreta:** comprova os bens existentes em 31 de dezembro de cada exercício.\n- **E) Transferência de responsabilidade — incorreta:** ocorre quando muda o dirigente/responsável pela unidade.\n\n**Dica:** eventual = a qualquer época; anual = encerramento do exercício; inicial = criação da unidade.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2784979",
@@ -2708,7 +2771,28 @@
       "e": "graduai."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — eventual.** A descrição corresponde literalmente ao inventário eventual previsto na IN SEDAP nº 205/1988: pode ser realizado em qualquer época por iniciativa do dirigente da unidade gestora ou do órgão fiscalizador.\n\n- **A) Anual — incorreta:** é realizado para comprovar a quantidade e o valor dos bens em 31 de dezembro.\n- **B) Geral — incorreta:** descreve abrangência, não a hipótese de realização por iniciativa do dirigente/fiscalizador.\n- **C) Inicial — incorreta:** ocorre na criação da unidade gestora.\n- **D) Eventual — correta:** pode ocorrer em qualquer momento.\n- **E) Gradual — incorreta:** não é a categoria normativa indicada.\n\n**Dica:** memorize os cinco tipos da IN 205/1988: anual, inicial, transferência de responsabilidade, extinção/transformação e eventual.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1153262",
@@ -2724,7 +2808,28 @@
       "d": "Cartão de inventário."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — Cut-off.** O cut-off registra o marco das últimas movimentações documentais antes da contagem, como notas fiscais de entrada, requisições e devoluções. Esse corte ajuda a determinar quais entradas e saídas devem compor o saldo inventariado.\n\n- **A) Cut-off — correta:** estabelece o ponto de corte e documenta os últimos movimentos antes da contagem.\n- **B) Convocação — incorreta:** é o chamamento dos participantes.\n- **C) Arrumação física — incorreta:** organiza os materiais e os locais para facilitar a contagem.\n- **D) Cartão de inventário — incorreta:** é instrumento usado para registrar os dados da contagem, não o marco documental de corte.\n\n**Dica:** cut-off = identificar e registrar as últimas movimentações antes do inventário, evitando omissões e duplicidades.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "914816",
@@ -2741,7 +2846,28 @@
       "e": "cíclico, contábil e orçamentário."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — periódico, permanente e cíclico.** A alternativa apresenta modalidades usadas em classificações didáticas de inventário físico e controle de estoques.\n\n- **A) Correta:** reúne periódico, permanente e cíclico.\n- **B) Incorreta:** contábil e coletivo não compõem essa classificação usual.\n- **C) Incorreta:** mensal e trimestral indicam frequência possível, não categorias gerais equivalentes; “gerencial” é finalidade/uso.\n- **D) Incorreta:** simples e composto não são a classificação apresentada.\n- **E) Incorreta:** contábil e orçamentário não são modalidades de inventário físico nessa tipologia.\n\n**Nota:** a terminologia pode variar entre autores e sistemas. Inventário cíclico/rotativo é uma forma de contagem contínua e seletiva; inventário permanente também pode designar o sistema de registro atualizado a cada movimentação.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2785141",
@@ -2758,7 +2884,28 @@
       "e": "Contagem contínua, inventário contínuo, contagem contínua"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — contagem cíclica, inventário cíclico, contagem cíclica.** O texto descreve contagens físicas programadas e recorrentes, nas quais cada item é contado conforme calendário, com frequência maior para itens mais relevantes.\n\n- **A) Incorreta:** “geográfica” não é a denominação da técnica descrita.\n- **B) Incorreta:** “estratégica” e “analítico” não identificam esse método de contagem.\n- **C) Correta:** contagem cíclica/inventário cíclico descreve contagens recorrentes por programação.\n- **D) Incorreta:** os termos não correspondem ao conceito apresentado.\n- **E) Incorreta:** contagem contínua pode ser expressão próxima, mas a denominação específica pedida pelo texto é cíclica.\n\n**Dica:** no inventário cíclico, os itens são contados em frequências definidas; itens de maior valor ou criticidade podem receber maior frequência.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "844366",
@@ -2775,7 +2922,28 @@
       "e": "pedidos de requisições de materiais deverão ter sido faturados e contabilizados."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — todos os documentos de entradas e saídas devem estar lançados até a data do inventário.** Para que a comparação entre o saldo físico e o saldo registrado seja confiável, os documentos que representam movimentações precisam estar atualizados até o marco de corte.\n\n- **A) Correta:** entradas e saídas devem estar registradas, com cut-off definido.\n- **B) Incorreta:** pagamento a fornecedores não interfere diretamente na contagem física.\n- **C) Incorreta:** não é necessário que todos os pedidos de compra e venda estejam entregues; é necessário registrar corretamente o que foi efetivamente recebido ou expedido.\n- **D) Incorreta:** compatibilidade com orçamento não substitui o registro das movimentações físicas.\n- **E) Incorreta:** faturamento e contabilização de todas as requisições não é a condição geral; o essencial é registrar entradas e saídas efetivamente ocorridas.\n\n**Dica:** antes de contar, atualize os registros e defina o cut-off das movimentações.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "828908",
@@ -2792,7 +2960,28 @@
       "e": "registro."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — inventário físico.** A IN SEDAP nº 205/1988 define o inventário físico como instrumento de controle que permite verificar saldos de estoque e a situação dos materiais, inclusive para saneamento dos estoques.\n\n- **A) Inventário físico — correta:** permite identificar itens inativos, obsoletos, danificados, faltantes ou excedentes.\n- **B) Estoque virtual — incorreta:** é uma representação sistêmica dos saldos, não o levantamento físico.\n- **C) Tombamento — incorreta:** identifica e registra bens permanentes individualmente.\n- **D) Alienação — incorreta:** é a transferência da propriedade do bem, por venda, permuta ou doação.\n- **E) Registro — incorreta:** é o lançamento documental, não o procedimento de levantamento e saneamento.\n\n**Dica:** inventário físico também serve para sanear o estoque, identificando materiais sem utilidade, danificados ou obsoletos.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "814518",
@@ -2809,7 +2998,28 @@
       "e": "I."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — I e II.** As fases descritas são levantamento, arrolamento e avaliação. As duas primeiras afirmações estão corretas; a terceira erra ao afirmar que o custo não é considerado nos critérios de avaliação.\n\n- **I — verdadeira:** levantamento coleta dados dos elementos patrimoniais, com identificação, agrupamento e mensuração.\n- **II — verdadeira:** arrolamento registra características e quantidades. Pode ser sintético (resumido) ou analítico (individualizado).\n- **III — falsa:** a avaliação atribui valor aos elementos patrimoniais e os critérios podem considerar custo, valor de aquisição, valor de mercado ou outros critérios normativos aplicáveis. Portanto, é incorreto afirmar que o custo não é considerado.\n\n- **A) I e II — correta.**\n- **B) II — incorreta:** I também é verdadeira.\n- **C) II e III — incorreta:** III é falsa.\n- **D) I e III — incorreta:** III é falsa.\n- **E) I — incorreta:** II também é verdadeira.\n\n**Dica:** levantamento = coleta/identificação; arrolamento = relação dos bens; avaliação = atribuição de valor.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1021400",
