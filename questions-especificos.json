@@ -11382,7 +11382,28 @@
       "e": "alienação."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. Tombamento é o procedimento de identificação individual e registro do material permanente no cadastro patrimonial, normalmente com atribuição de número patrimonial e inclusão de dados de descrição, localização e responsabilidade. Movimentação e transferência dizem respeito ao deslocamento ou mudança de unidade responsável; desfazimento e alienação são formas de saída do acervo.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1030455",
@@ -11399,7 +11420,28 @@
       "e": "o planejamento, organização e controle, cabendo ao chefe do setor, entre outras funções, cumprir as normas internas e a legislação vigente no que se refere ao controle contábil, isentando-se da responsabilidade do controle extracontábil."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. A gestão patrimonial acompanha o bem ao longo de seu ciclo de vida: identificação da necessidade e do fornecedor, aquisição e recebimento, registro e incorporação, uso, conservação e manutenção e, quando cabível, desfazimento ou alienação. A alternativa A é a única que apresenta essa sequência de forma abrangente. A letra D descreve investimento em bens, mas não define a gestão patrimonial como processo.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "786336",
@@ -11416,7 +11458,28 @@
       "e": "Verificação de disponibilidade orçamentária, quantificação e solicitação do bem e armazenamento."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. A administração dos recursos patrimoniais acompanha o bem desde a identificação do fornecedor e aquisição até o recebimento, conservação, manutenção e eventual alienação. As demais alternativas omitem etapas relevantes ou misturam atividades de compras, estoque e contratação sem apresentar o ciclo patrimonial completo.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "519743",
@@ -11433,7 +11496,28 @@
       "e": "os bens públicos, por abranger itens corpóreos (móveis e imóveis), devem ser gerenciados em função do desinteresse público."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. A alternativa A descreve corretamente etapas usuais da gestão patrimonial: recebimento e aceite, tombamento, incorporação ou escrituração, movimentação e desfazimento/baixa. A definição citada da NBC T 16.2 abrange bens e direitos tangíveis e intangíveis e obrigações relacionados à prestação de serviços públicos ou à exploração econômica; as demais alternativas restringem indevidamente o patrimônio ou negam sua relevância. Observação: a NBC T 16.2 é referência histórica; a contabilidade pública atual deve ser lida em conjunto com as NBC TSP vigentes e o MCASP.",
+    "references": [
+      {
+        "label": "NBC T 16.2 — Patrimônio e Sistemas Contábeis",
+        "url": "https://www.fazenda.mg.gov.br/export/sites/fazenda/governo/contadoria_geral/legislacao/tipolegisl/nbct1602.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "519218",
@@ -11450,7 +11534,28 @@
       "e": "o setor de controle é dispensado da responsabilidade de manter arquivado cópia das Notas Fiscais dos Bens incorporados; Termo de Registro de Bens e Cópia do Empenho, visto que essa responsabilidade está a cargo do agente patrimonial e da unidade administrativa a qual o bem pertence."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. A unidade de patrimônio deve manter a documentação comprobatória da gestão dos bens, incluindo termos de responsabilidade, termos de movimentação e laudos ou relatórios de avaliação e baixa. As demais opções contêm falhas: inventário exige conferência física, a baixa não se formaliza por telefone ou e-mail isolado, e os documentos fiscais e de incorporação precisam integrar o processo de controle.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "519208",
@@ -11467,7 +11572,28 @@
       "e": "O levantamento geral dos bens móveis e imóveis terá por base o inventário sintético de todo o conjunto da administração pública, sem levar em consideração as especificidades de cada unidade administrativa."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. A incorporação agrega bens ao patrimônio, por exemplo por aquisição, doação ou transferência; a desincorporação retira bens do acervo por cessão, alienação ou outras hipóteses formalmente reconhecidas, como extravio ou dano. A alternativa C diferencia corretamente os dois movimentos. Inventário não se limita a bens de consumo, e cessão ou transferência exigem formalização e observância das regras aplicáveis.",
+    "references": [
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — alienação, cessão, transferência e destinação de bens móveis (norma citada na questão)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "Decreto nº 12.785/2025 — regras atuais de movimentação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12785.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "519219",
@@ -11484,7 +11610,28 @@
       "e": "ter conhecimento dos princípios básicos para a gestão de estoques na administração pública, visto que eles estão interligados ao planejamento e controle, sendo eles: programação; aquisição; estocagem; distribuição e venda."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. O agente responsável pela guarda deve comunicar ao setor de patrimônio ocorrências que afetem a identificação, existência, conservação ou segurança dos bens, como plaqueta caída, furto, extravio e dano. O registro e a comunicação tempestiva permitem atualizar o cadastro, instaurar apuração quando necessária e providenciar manutenção ou baixa regular. Não cabe ocultar ocorrências nem restringir a comunicação apenas a furto e extravio.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "519209",
@@ -11501,7 +11648,28 @@
       "e": "Conscientizar os funcionários para a importância, cuidado, zelo e organização dos Bens Patrimoniais."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. A alternativa B é a exceção porque o agente patrimonial não deve se limitar a acompanhar doações e deixar toda a rotina administrativa e o uso do sistema para a coordenação central. O agente atua em cooperação com a unidade de patrimônio, acompanha recebimentos e transferências, orienta usuários e contribui para guarda, zelo e atualização das informações dos bens sob sua responsabilidade.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Portal de Patrimônio do Espírito Santo — Patrimônio mobiliário e procedimentos",
+        "url": "https://portaldepatrimonio.es.gov.br/gemob/patrimonio-mobiliario"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "519217",
@@ -11518,7 +11686,28 @@
       "e": "o correto dimensionamento das necessidades permite a otimização do investimento promovendo o excesso do uso de recursos subutilizados ou inviabilizando plena capacidade das instalações."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. Entre as atribuições do responsável patrimonial estão emitir ou apoiar a emissão de termos de responsabilidade, zelar pela conservação e uso adequado dos bens e propor providências quanto a itens inservíveis, obsoletos ou danificados. A alternativa B contradiz o dever de zelo; C descreve de modo impreciso a conferência; D atribui o controle de estoque exclusivamente a um único agente; e E fala em promover excesso e subutilização, o oposto da boa gestão.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "519221",
@@ -11535,7 +11724,28 @@
       "e": "quando for realizada Ordem de Compra para aquisição de algum bem patrimonial, deve, também, ser encaminhado ao Setor de Patrimônio uma cópia desse documento, para que seja realizada a conferência na saída do bem. No caso do servidor responsável pelo recebimento dos bens, este deverá assinar a Nota Fiscal confirmando que o bem patrimonial foi recebido, enviando, posteriormente, a Nota Fiscal para o Secretário Municipal."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. O registro patrimonial individualiza o bem por número sequencial e reúne dados necessários à sua caracterização, classificação contábil, localização e identificação dos responsáveis pela guarda. A alternativa B corresponde a essa função cadastral. A letra A apresenta risco grave ao sugerir armazenamento inadequado de inflamáveis; D afirma maximizar impactos ambientais, quando a gestão deve reduzi-los; e E confunde o fluxo documental de recebimento e encaminhamento fiscal.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2635734",
@@ -11552,7 +11762,28 @@
       "e": "I e II e III."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. Estão corretas III e IV. O inventário identifica a existência física dos bens e permite confrontar o acervo com os registros e valores; o termo de movimentação documenta deslocamentos temporários ou definitivos entre unidades. A ficha cadastral não é simplesmente o documento de identificação por unidade e servidor descrito em I; a etiqueta, por sua vez, identifica fisicamente o bem, mas não substitui o cadastro financeiro e de localização indicado em II.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "Portal de Patrimônio do Espírito Santo — Patrimônio mobiliário e procedimentos",
+        "url": "https://portaldepatrimonio.es.gov.br/gemob/patrimonio-mobiliario"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "177636",
@@ -11569,7 +11800,28 @@
       "e": "Inventário, tombamento, registro, guarda, controle, movimentação, preservação, baixa e incorporação."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. A alternativa E reúne atividades típicas da gestão patrimonial: inventário, tombamento, registro, guarda, controle, movimentação, preservação, baixa e incorporação. As demais incluem práticas estranhas ou incompatíveis com a finalidade pública, como uso pessoal, emprego político ou destinação ao mercado como rotina de gestão.",
+    "references": [
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1424168",
@@ -11586,7 +11838,28 @@
       "e": "Patrimônio é o conjunto de capitais investidos pelos sócios em uma empresa."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. Entre as opções, A é a resposta pretendida em sentido simplificado: patrimônio é o conjunto de elementos que uma entidade possui e controla. Tecnicamente, porém, a definição contábil é mais ampla: patrimônio compreende bens, direitos e obrigações, e não apenas aquilo que a empresa possui. Como nenhuma alternativa apresenta essa formulação completa, a questão é imprecisa; A é a mais próxima, mas não deve ser tomada como definição contábil rigorosa.",
+    "references": [
+      {
+        "label": "NBC T 16.2 — Patrimônio e Sistemas Contábeis",
+        "url": "https://www.fazenda.mg.gov.br/export/sites/fazenda/governo/contadoria_geral/legislacao/tipolegisl/nbct1602.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2635727",
@@ -11603,7 +11876,28 @@
       "e": "Comodato."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. Baixa é o procedimento administrativo e contábil que exclui o bem do acervo patrimonial e promove a retirada do respectivo valor dos registros do ativo, após a ocorrência e a autorização formal que justifiquem a saída. Recolhimento é a retirada física para depósito ou avaliação; cessão transfere a posse por prazo determinado; alienação é uma modalidade de transferência de propriedade, que exige os registros de baixa correspondentes.",
+    "references": [
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "Decreto nº 12.785/2025 — regras atuais de movimentação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12785.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "265328",
@@ -11620,7 +11914,28 @@
       "e": "Antieconômico"
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. Bem ocioso é aquele que permanece em perfeitas condições de uso, mas não está sendo aproveitado pela unidade. Não se confunde com recuperável, que exige reparo economicamente justificável; antieconômico, cuja manutenção é onerosa ou rendimento precário; nem irrecuperável, que não pode ser utilizado ou não compensa recuperar. Essa classificação orienta o reaproveitamento e a destinação.",
+    "references": [
+      {
+        "label": "Decreto nº 9.373/2018 — alienação, cessão, transferência e destinação de bens móveis (norma citada na questão)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "Decreto nº 12.785/2025 — regras atuais de movimentação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12785.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4000691",
@@ -11637,7 +11952,28 @@
       "e": "As afirmativas I e II são verdadeiras, mas a II não justifica a I."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. As duas assertivas são verdadeiras: o recebimento exige conferência quantitativa e qualitativa e a armazenagem deve organizar os materiais conforme características, rotatividade e condições ambientais. Entretanto, a assertiva II não justifica a I: ela descreve uma etapa posterior e distinta do ciclo logístico, não a razão pela qual o recebimento deve conferir a conformidade da entrega. Portanto, ambas são verdadeiras, mas II não é justificativa de I.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais: recebimento e armazenagem",
+        "url": "https://bibliotecadigital.enap.gov.br/bitstream/1/2259/2/Gest%C3%A3o%20Materiais%20-%204%20aulas.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3741735",
@@ -11654,7 +11990,28 @@
       "e": "apenas a catalogação inicial dos produtos, dispensando controle de distribuição e conservação posteriores."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. O controle de materiais abrange o recebimento, a armazenagem, a distribuição, a conservação e o acompanhamento dos níveis de estoque. Essas atividades asseguram que os itens estejam disponíveis quando necessários, preservados e registrados. As demais alternativas reduzem o processo a uma única etapa e dispensam indevidamente controles físicos e operacionais.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais: recebimento e armazenagem",
+        "url": "https://bibliotecadigital.enap.gov.br/bitstream/1/2259/2/Gest%C3%A3o%20Materiais%20-%204%20aulas.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3542299",
@@ -11671,7 +12028,28 @@
       "e": "Adotar modelos de previsão de demanda baseados exclusivamente em dados históricos, ignorando as mudanças nas necessidades e nas políticas públicas."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. A gestão eficiente procura equilibrar disponibilidade e custo total: manter materiais suficientes para atender aos serviços, sem excesso que gere armazenagem, perdas e obsolescência nem falta que provoque ruptura e interrupção. Comprar grandes lotes ou maximizar estoques sem considerar demanda e custo contraria esse objetivo. A previsão também deve combinar histórico, contexto e mudanças de necessidade.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais: recebimento e armazenagem",
+        "url": "https://bibliotecadigital.enap.gov.br/bitstream/1/2259/2/Gest%C3%A3o%20Materiais%20-%204%20aulas.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3550098",
@@ -11688,7 +12066,28 @@
       "e": "A previsão de consumo pode ser realizada de forma imprecisa, sem considerar o histórico de uso dos materiais, desde que a demanda seja estimada com base em suposições."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. A previsão de consumo deve partir de registros históricos, mas também considerar demanda estimada, sazonalidade, mudanças de atividade e prazos de reposição. Esses dados apoiam o planejamento das aquisições e o dimensionamento do estoque. Embora o agente de contratação não substitua a área técnica ou o almoxarifado, deve considerar a estimativa de consumo no planejamento da contratação e na definição da quantidade.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais: recebimento e armazenagem",
+        "url": "https://bibliotecadigital.enap.gov.br/bitstream/1/2259/2/Gest%C3%A3o%20Materiais%20-%204%20aulas.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3639303",
@@ -11705,7 +12104,28 @@
       "e": "um mês."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. Pelo critério de durabilidade da Portaria STN nº 448/2002, considera-se material de consumo aquele que, em uso normal, perde ou tem reduzidas suas condições de funcionamento no prazo máximo de dois anos. A regra deve ser aplicada em conjunto com os demais critérios de classificação, como fragilidade, perecibilidade, incorporabilidade e transformabilidade.",
+    "references": [
+      {
+        "label": "Portaria STN nº 448/2002 — classificação de material de consumo e permanente",
+        "url": "https://www.compraspara.pa.gov.br/sites/default/files/Portaria%20448%202002.pdf"
+      },
+      {
+        "label": "FNDE — classificação de material de consumo e permanente",
+        "url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pdde/emprego-dos-recursos"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2997872",
@@ -11722,7 +12142,28 @@
       "e": "negligenciar a probabilidade de quebra dos equipamentos, revendo a composição de seus componentes."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. A administração de suprimentos busca otimizar os recursos institucionais e assegurar nível adequado de serviço ao cidadão, equilibrando disponibilidade, qualidade, prazo e custo. Reduzir espaço a qualquer preço, comprar sem considerar o estoque existente ou aceitar materiais de qualidade questionável prejudica a continuidade e a eficiência dos serviços.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais: recebimento e armazenagem",
+        "url": "https://bibliotecadigital.enap.gov.br/bitstream/1/2259/2/Gest%C3%A3o%20Materiais%20-%204%20aulas.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "682909",
@@ -11739,7 +12180,28 @@
       "e": "10 anos."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. A Portaria STN nº 448/2002 define material permanente como aquele que, em uso corrente, não perde sua identidade física e/ou tem durabilidade superior a dois anos. O prazo solicitado é, portanto, dois anos. A classificação não depende apenas do prazo: também devem ser considerados os critérios excludentes previstos na norma.",
+    "references": [
+      {
+        "label": "Portaria STN nº 448/2002 — classificação de material de consumo e permanente",
+        "url": "https://www.compraspara.pa.gov.br/sites/default/files/Portaria%20448%202002.pdf"
+      },
+      {
+        "label": "FNDE — classificação de material de consumo e permanente",
+        "url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pdde/emprego-dos-recursos"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "260226",
@@ -11756,7 +12218,28 @@
       "e": "a atividade ou função administrativa que compreende trocar dinheiro por mercadoria."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. Administração de materiais no setor público compreende ações integradas para assegurar aquisição, registro, controle, emprego, movimentação e destinação dos materiais. A alternativa A apresenta esse conjunto de funções. B define genericamente material; C descreve controle social; D se refere ao processo de obtenção de um bem; e E reduz a aquisição à troca de dinheiro por mercadoria.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais: recebimento e armazenagem",
+        "url": "https://bibliotecadigital.enap.gov.br/bitstream/1/2259/2/Gest%C3%A3o%20Materiais%20-%204%20aulas.pdf"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "533440",
@@ -11773,7 +12256,28 @@
       "e": "5 anos."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. A referência usual para material permanente na administração pública é durabilidade superior a dois anos, associada à preservação da identidade física e aos demais critérios de classificação. Assim, a alternativa B é correta. O prazo não deve ser analisado isoladamente: fragilidade, perecibilidade, incorporabilidade e transformabilidade também podem levar à classificação como material de consumo.",
+    "references": [
+      {
+        "label": "Portaria STN nº 448/2002 — classificação de material de consumo e permanente",
+        "url": "https://www.compraspara.pa.gov.br/sites/default/files/Portaria%20448%202002.pdf"
+      },
+      {
+        "label": "FNDE — classificação de material de consumo e permanente",
+        "url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pdde/emprego-dos-recursos"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "260231",
@@ -11790,7 +12294,28 @@
       "e": "contábil e econômico."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. O material permanente deve ser incorporado aos controles patrimoniais e contábeis para que sua existência, localização, responsabilidade e valor estejam refletidos nos registros administrativos e nas demonstrações. Por isso, a alternativa correta é registro patrimonial e contábil. O tombamento identifica o bem no cadastro, enquanto a escrituração contábil reconhece o ativo conforme as normas aplicáveis.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — controle e contabilização do patrimônio público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320compilado.htm"
+      },
+      {
+        "label": "MAPA — Manual de gestão patrimonial para bens móveis, imóveis e intangíveis (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6236"
+      },
+      {
+        "label": "FUNAI — Manual de Gestão Patrimonial de Bens Móveis e Imóveis",
+        "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/Manual_Gestao_Patrimonial_Bens_Moveis_Imoveis.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "177638",
@@ -11807,7 +12332,28 @@
       "e": "O sistema permite um controle maior e em tempo real das compras feitas, além de possibilitar a aquisição do mesmo produto, porém com especificações diferentes."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. Um sistema integrado de materiais, patrimônio e serviços padroniza catálogos e especificações, integra as etapas de solicitação e compra e permite acompanhar processos e informações de forma mais tempestiva. Isso melhora o controle, reduz duplicidades e facilita a comparação de demandas. Não garante automaticamente vantagem sobre fornecedores nem assegura qualidade por si só; esses resultados dependem de especificações e fiscalização adequadas.",
+    "references": [
+      {
+        "label": "Compras.gov.br — SIASG e sistemas de compras governamentais",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/compras"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3036234",
@@ -11824,7 +12370,28 @@
       "e": "a cessão dos bens não considerados inservíveis será admitida, excepcionalmente, mediante justificativa da autoridade competente."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. Considerando o Decreto nº 9.373/2018 citado no enunciado, a cessão de bens não considerados inservíveis era admitida excepcionalmente, mediante justificativa da autoridade competente (art. 4º, parágrafo único). A alternativa B é incorreta porque o art. 6º previa reaproveitamento por transferência para bens ociosos e recuperáveis, não para antieconômicos; a comissão era composta por no mínimo três servidores, e não no máximo. Atualização normativa: o Decreto nº 9.373/2018 foi revogado pelo Decreto nº 12.785/2025, de modo que a resposta segue a norma histórica expressamente indicada na questão.",
+    "references": [
+      {
+        "label": "Decreto nº 9.373/2018 — alienação, cessão, transferência e destinação de bens móveis (norma citada na questão)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "Decreto nº 12.785/2025 — regras atuais de movimentação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12785.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "314519",
@@ -11841,7 +12408,25 @@
       "e": "voltada a garantir direitos e acesso cumprindo legalidade."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. A logística pública não se limita à compra, armazenagem ou entrega de produtos: é atividade instrumental para assegurar a prestação dos serviços e a efetivação de direitos, observando legalidade, eficiência e interesse público. A alternativa E expressa essa finalidade. A letra D reduz a logística à área-meio e à sua estrutura administrativa, sem contemplar sua contribuição para o acesso do cidadão aos serviços.",
+    "references": [
+      {},
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4012490",
@@ -11858,7 +12443,28 @@
       "e": "ambiente eletrônico utilizado apenas para armazenamento e arquivamento de documentos administrativos relacionados às compras públicas."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. O Comprasnet, hoje associado ao ecossistema Compras.gov.br/SIASG, é uma plataforma tecnológica que apoia atividades administrativas de compras e serviços comuns aos órgãos públicos federais. O SIASG integra divulgação de licitações, emissão de empenhos, registro de contratos, catalogação de materiais e serviços e cadastro de fornecedores. Não é apenas um repositório de editais, sistema contábil ou órgão de auditoria.",
+    "references": [
+      {
+        "label": "Compras.gov.br — SIASG e sistemas de compras governamentais",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/compras"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — recebimento, armazenagem e controle de materiais",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3601243",
@@ -11875,7 +12481,25 @@
       "e": "Processo licitatório."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. Como regra, a Administração seleciona o fornecedor por processo licitatório, com observância da igualdade, competição, julgamento objetivo e demais princípios legais. A ressalva 'salvo disposição legal em contrário' contempla hipóteses de contratação direta — dispensa ou inexigibilidade — previstas na legislação. Assim, a regra geral indicada entre as alternativas é o processo licitatório.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "Compras.gov.br — SIASG e sistemas de compras governamentais",
+        "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/compras"
+      },
+      {}
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3542304",
