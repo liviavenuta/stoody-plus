@@ -14783,7 +14783,29 @@
       "d": "Trata-se dos Níveis Institucionais das Organizações."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. A figura citada como fonte Chiavenato (2014) é associada ao modelo das quatro funções administrativas — planejamento, organização, direção e controle —, portanto a alternativa A é a resposta esperada. **Ressalva:** a imagem não está incorporada ao registro textual desta questão; por isso, não é possível confirmar visualmente se o diagrama original realmente apresenta as quatro funções. O gabarito foi mantido, mas recomenda-se conferir a imagem da prova antes de considerar a questão definitivamente validada.",
+    "references": [
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      },
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A imagem referenciada no enunciado não consta do registro JSON. O gabarito A é plausível pela referência a Chiavenato e ao modelo das quatro funções, mas deve ser confirmado com a imagem original."
   },
   {
     "id": "996958",
@@ -14800,7 +14822,28 @@
       "e": "Processo que define padrões; monitora e avalia o desempenho e, quando necessário, institui ações corretivas; verifica se os resultados planejados estão sendo alcançados por meio das operações executadas. ((VIEIRA, 2014)"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. Planejamento antecede a ação e envolve refletir sobre a missão institucional, definir objetivos, elaborar planos e programar atividades. A alternativa A descreve direção/execução; B e E descrevem controle; D descreve organização. Assim, a definição correta de planejamento é a alternativa C.",
+    "references": [
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      },
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1219198",
@@ -14817,7 +14860,28 @@
       "e": "nível instrumental."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. Na classificação dos níveis de direção, o nível global corresponde à direção da organização como um todo; o departamental dirige unidades ou departamentos; e o operacional orienta grupos de pessoas e tarefas na execução cotidiana. Como o enunciado menciona grupos de pessoas ou tarefas, a resposta é nível operacional, alternativa C.",
+    "references": [
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      },
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1034336",
@@ -14834,7 +14898,28 @@
       "e": "controle."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. Contratação pode ser uma atividade de gestão de pessoas ou de obtenção de recursos humanos, mas não é uma das quatro funções administrativas clássicas. O processo administrativo é composto por planejamento, organização, direção e controle. Logo, a exceção é contratação, alternativa B.",
+    "references": [
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      },
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "970753",
@@ -14851,7 +14936,28 @@
       "e": "O planejamento nas escolas começa sempre do zero a cada ano. Não importando dados e resultados do ano anterior."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. A gestão educacional democrática busca a transformação social por meio da participação coletiva da comunidade escolar. A LDB determina a gestão democrática do ensino público e prevê participação dos profissionais da educação na elaboração do projeto pedagógico e da comunidade escolar e local em conselhos. As demais alternativas são incompatíveis com planejamento contínuo, participação e gestão democrática.",
+    "references": [
+      {
+        "label": "Lei nº 9.394/1996 (LDB), texto compilado — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394compilado.htm"
+      },
+      {
+        "label": "MEC / Conselho Nacional de Educação — Panorama da efetivação da gestão democrática",
+        "url": "https://portal.mec.gov.br/index.php?Itemid=30192&alias=26111-produto1-panorama-nacional-efetivacao-gestao-democratica-edu-basica-pdf&option=com_docman&view=download"
+      },
+      {
+        "label": "Constituição Federal, art. 206 — TSE",
+        "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2786087",
@@ -14868,7 +14974,28 @@
       "e": "controle."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: E. Controle monitora as atividades e o desempenho para verificar se a organização permanece alinhada aos objetivos, comparando resultados com padrões e promovendo ações corretivas diante de desvios. Planejamento define objetivos e meios; organização distribui recursos e responsabilidades; direção orienta pessoas. Portanto, a função descrita é controle.",
+    "references": [
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      },
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "982813",
@@ -14885,7 +15012,28 @@
       "e": "I,II,III e IV estão corretas."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: A. As afirmativas I e II estão corretas: direção orienta o comportamento das pessoas para os objetivos, e planejamento determina antecipadamente o que fazer e quais objetivos alcançar. A III atribui à organização a verificação do alcance dos objetivos, que é função de controle. A IV atribui ao controle o agrupamento de atividades, que é função de organização. Logo, somente I e II estão corretas.",
+    "references": [
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      },
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1045206",
@@ -14902,7 +15050,28 @@
       "e": "Pessoas."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: C. Direção é a função que põe a organização em movimento, conduzindo e mobilizando as pessoas para executar os planos. Inclui liderança, comunicação, motivação, orientação e supervisão. Planejamento define o curso de ação, organização estrutura recursos e controle acompanha resultados; quem dá vida à execução é a direção.",
+    "references": [
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      },
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "718158",
@@ -14919,7 +15088,29 @@
       "e": "Controlar."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: D. A alternativa D corresponde à coordenação: integrar e harmonizar esforços e atividades exige comunicação contínua, que permite ajustar ações e alinhar os participantes. A comunicação também atravessa todas as funções administrativas, mas, na formulação clássica da questão, é apresentada como instrumento básico da coordenação. O gabarito D foi mantido.",
+    "references": [
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      },
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A coordenação é tratada em classificações clássicas como função própria e a comunicação é seu instrumento central; em modelos contemporâneos de quatro funções, comunicação também integra transversalmente a direção e as demais funções. Gabarito D mantido conforme a formulação clássica da questão."
   },
   {
     "id": "827891",
@@ -14936,6 +15127,27 @@
       "e": "análise das alternativas de ação."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Alternativa correta: B. Uma das fases do controle é adotar ação corretiva quando a comparação entre desempenho e padrão revela desvios. As alternativas A, C e D pertencem ao planejamento (premissas, escolha de cursos de ação e definição de objetivos); a análise das alternativas também integra a decisão e o planejamento. Assim, a resposta é B.",
+    "references": [
+      {
+        "label": "Chiavenato — Teoria Geral da Administração, processo administrativo",
+        "url": "https://arquivos.ufrrj.br/arquivos/20230910997da137705844420d56a785e/Chiavenato_TGA_Abordagem_Neoclassica.pdf"
+      },
+      {
+        "label": "MEC / Rede e-Tec Brasil — Aula 11: O Processo Administrativo",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      },
+      {
+        "label": "SciELO — Análise das abordagens sobre as funções do administrador",
+        "url": "https://www.scielo.br/j/rae/a/9dmVkRzcm9LZTHGNTSysB7c/?lang=pt"
+      },
+      {
+        "label": "SciELO — As funções do administrador: pesquisa-piloto no Rio de Janeiro",
+        "url": "https://www.scielo.br/j/rae/a/jY8mb7gm7BrCcP5H7zFGccL/?lang=pt"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   }
 ]
