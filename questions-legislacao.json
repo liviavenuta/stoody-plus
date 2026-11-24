@@ -4041,7 +4041,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 4º, prevê suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma e gradação previstas em lei. A Constituição prevê suspensão, não cassação, dos direitos políticos.",
+    "explanation": "O art. 37, § 4º, prevê a suspensão dos direitos políticos como uma das consequências possíveis dos atos de improbidade administrativa, além de perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma da lei.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4067,7 +4067,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Enquanto não editada lei específica, o STF determinou a aplicação, no que couber, da Lei nº 7.783/1989 ao direito de greve dos servidores civis. Policiais civis exercem atividade de segurança pública e não podem exercer greve, conforme entendimento do STF. Em regra, os dias parados podem ser descontados, salvo acordo de compensação ou hipótese em que a greve decorra de conduta ilícita do Poder Público.",
+    "explanation": "Como regra, servidores civis podem exercer o direito de greve nos termos aplicáveis, inclusive mediante aplicação analógica da Lei nº 7.783/1989 enquanto não houver regulamentação específica. Policiais civis e demais servidores que atuam diretamente na segurança pública não podem exercer greve, conforme entendimento do STF. Em regra, os dias parados podem ser descontados, salvo acordo de compensação ou circunstâncias excepcionais reconhecidas pela jurisprudência.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4076,6 +4076,10 @@
       {
         "label": "STF — Jurisprudência",
         "url": "https://portal.stf.jus.br/jurisprudencia/"
+      },
+      {
+        "label": "Planalto — Lei nº 7.783/1989 (Direito de Greve)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l7783.HTM"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4097,7 +4101,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 38, III, permite ao servidor eleito vereador exercer simultaneamente o cargo público e o mandato, se houver compatibilidade de horários, recebendo as vantagens do cargo de origem sem prejuízo da remuneração eletiva. A regra alcança servidores da Administração indireta.",
+    "explanation": "O servidor público eleito vereador, havendo compatibilidade de horários, pode exercer simultaneamente o mandato e o cargo público e receber as duas remunerações, conforme art. 38, III. Se não houver compatibilidade, será afastado e poderá optar pela remuneração.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4123,7 +4127,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, XIX, determina que autarquia seja criada por lei específica e que a instituição de empresa pública, sociedade de economia mista e fundação seja autorizada por lei específica. No caso da fundação, lei complementar define suas áreas de atuação.",
+    "explanation": "O art. 37, XIX, estabelece que autarquia é criada por lei específica; a instituição de empresa pública, sociedade de economia mista e fundação é autorizada por lei específica. No caso da fundação, lei complementar define suas áreas de atuação. As demais alternativas contrariam regras sobre acréscimos, acumulação e promoção pessoal.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4148,7 +4152,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 1º, exige que a publicidade institucional tenha caráter educativo, informativo ou de orientação social e proíbe nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores.",
+    "explanation": "O art. 37, § 1º, determina que a publicidade institucional tenha caráter educativo, informativo ou de orientação social e proíbe nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4174,7 +4178,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O servidor investido em mandato federal, estadual ou distrital deve afastar-se do cargo, emprego ou função, sem opção remuneratória prevista no art. 38, I. A opção pela remuneração de origem ou do mandato é expressamente prevista para quem assume mandato de Prefeito (inciso II).",
+    "explanation": "O servidor investido em mandato eletivo federal, estadual ou distrital deve afastar-se do cargo, emprego ou função (art. 38, I). Nessa hipótese, não há a opção remuneratória prevista para Prefeito e, em certas condições, para Vereador.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4200,7 +4204,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "As assertivas I e II estão corretas: o art. 37, I, admite acesso de estrangeiros na forma da lei, e o inciso III prevê concurso com validade de até dois anos, prorrogável uma vez por igual período. III está incorreta porque a Constituição prevê lei específica, não lei complementar, para o direito de greve. IV está incorreta porque funções de confiança são exercidas exclusivamente por servidores efetivos, não apenas preferencialmente.",
+    "explanation": "As assertivas I e II estão corretas: o art. 37, I, admite acesso de brasileiros e, na forma da lei, estrangeiros; e o inciso III prevê concurso válido por até dois anos, prorrogável uma vez por igual período. A III está errada porque a Constituição fala em lei específica, não lei complementar. A IV está errada porque funções de confiança são exercidas exclusivamente por servidores efetivos, não preferencialmente.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4226,7 +4230,7 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, IV, assegura prioridade de convocação aos aprovados em concurso anterior, durante o prazo improrrogável previsto no edital, sobre novos concursados para assumir cargo ou emprego na carreira. Empregados públicos também precisam de concurso, e cargos em comissão podem ser preenchidos por pessoas externas, nos termos da lei.",
+    "explanation": "O art. 37, IV, garante prioridade de convocação aos aprovados em concurso anterior, durante o prazo improrrogável previsto no edital, sobre novos concursados para assumir cargo ou emprego na carreira. A regra também deve ser lida em conjunto com o prazo de validade do concurso, de até dois anos, prorrogável uma vez por igual período.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4252,7 +4256,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "“Motivo” é elemento do ato administrativo, não princípio expresso no art. 37, caput. Legalidade, impessoalidade, publicidade e eficiência integram a lista constitucional.",
+    "explanation": "“Motivo” é elemento do ato administrativo, não princípio expresso no art. 37. Legalidade, impessoalidade, moralidade, publicidade e eficiência são os princípios enumerados no caput.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4278,7 +4282,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, caput, estabelece os princípios expressos da legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+    "explanation": "A alternativa B reproduz os cinco princípios expressos no art. 37, caput: legalidade, impessoalidade, moralidade, publicidade e eficiência.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4304,7 +4308,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A publicidade está ligada à transparência e ao conhecimento social dos atos administrativos. Contudo, a redação da alternativa D é excessivamente absoluta: o sigilo não se limita à segurança nacional, podendo abranger, por exemplo, informações pessoais protegidas por lei. D é a resposta pretendida, mas deve ser lida com essa ressalva.",
+    "explanation": "A publicidade está ligada à transparência e ao conhecimento dos atos administrativos pela sociedade, permitindo controle social. O sigilo é excepcional e depende de fundamento constitucional ou legal, não se limitando apenas a casos de segurança nacional.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4331,7 +4335,7 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Promover candidato ou autoridade por meio da posição funcional e do acesso ao cidadão viola a impessoalidade, pois a atuação administrativa deve servir ao interesse público, sem favorecimento político ou pessoal.",
+    "explanation": "Utilizar a condição de servidor para promover candidato favorecido por autoridade responsável pela lotação viola a impessoalidade, pois a atuação administrativa deve ser orientada ao interesse público e não pode servir a favorecimentos político-partidários.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4357,7 +4361,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Impessoalidade é um dos cinco princípios expressos no art. 37, caput. Imperatividade é atributo de determinados atos administrativos; competência, motivo e objeto são elementos do ato.",
+    "explanation": "Impessoalidade é um dos princípios expressos no art. 37, caput. Imperatividade, competência, motivo e objeto são conceitos ligados aos atos administrativos, não princípios expressos nesse dispositivo.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4383,11 +4387,15 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, V, determina que cargos em comissão se destinem apenas às atribuições de direção, chefia e assessoramento. Assim, podem existir nas estruturas das Polícias Civil e Militar, desde que suas atribuições correspondam efetivamente a essas funções e sejam criados por lei de iniciativa competente.",
+    "explanation": "O art. 37, V, determina que cargos em comissão se destinem apenas às atribuições de direção, chefia e assessoramento. A criação por lei, isoladamente, não legitima cargos comissionados para atividades técnicas, operacionais ou burocráticas. A regra vale também para estruturas policiais, observadas as atribuições constitucionais e legais.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "STF — Jurisprudência",
+        "url": "https://portal.stf.jus.br/jurisprudencia/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4409,7 +4417,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A questão emprega “efetividade” para indicar a obtenção concreta do resultado esperado pelo usuário do serviço público. O atendimento cordial, sem solução da demanda, não alcança a efetividade pretendida. Ressalva: efetividade não integra a lista expressa do art. 37, caput; o item cobra conceito administrativo mais amplo.",
+    "explanation": "A efetividade, no sentido de alcançar resultados concretos e resolver as necessidades do cidadão, é o aspecto central do enunciado. O atendimento cordial, sem solução do problema, não concretiza o resultado esperado do serviço público. Observação: efetividade não integra a lista literal dos cinco princípios do art. 37; relaciona-se à eficiência e à avaliação dos resultados.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4436,15 +4444,15 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A Câmara Municipal, embora não tenha personalidade jurídica plena, possui personalidade judiciária para defender suas prerrogativas e funções institucionais. Se o Executivo interferir indevidamente em sua organização interna, a Câmara pode ajuizar ação para proteger sua autonomia institucional. A criação de departamento dentro da Câmara é desconcentração; a fundação, pessoa jurídica distinta, decorre de descentralização.",
+    "explanation": "A criação de departamento dentro da própria Câmara é desconcentração, pois distribui competências internamente. A criação de fundação com personalidade jurídica própria é descentralização. Embora a Câmara Municipal não tenha personalidade jurídica plena, possui personalidade judiciária para defender em juízo suas prerrogativas e funções institucionais; por isso, a alternativa E é a adequada.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       },
       {
-        "label": "STJ — Súmula 525",
-        "url": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=525"
+        "label": "STF — Jurisprudência",
+        "url": "https://portal.stf.jus.br/jurisprudencia/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4466,7 +4474,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A impessoalidade se relaciona diretamente à vedação ao nepotismo, pois impede favorecimentos baseados em parentesco e exige critérios objetivos para o exercício de funções públicas, conforme a Súmula Vinculante nº 13 do STF.",
+    "explanation": "A impessoalidade impede favorecimento de parentes e outras escolhas baseadas em vínculos pessoais, sendo um dos fundamentos constitucionais da vedação ao nepotismo, conforme a Súmula Vinculante nº 13 do STF.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4496,7 +4504,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O nepotismo viola principalmente o princípio da impessoalidade, pois substitui critérios objetivos de mérito por favorecimento de parentes. A vedação também se fundamenta na moralidade administrativa e na igualdade.",
+    "explanation": "O nepotismo substitui critérios objetivos e meritórios por vínculos pessoais ou familiares, violando especialmente a impessoalidade e também a moralidade administrativa. A alternativa B identifica o princípio central.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4526,11 +4534,15 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A Constituição permite a acumulação remunerada de dois cargos de professor, desde que haja compatibilidade de horários e seja observado o teto remuneratório (art. 37, XVI, a).",
+    "explanation": "A Constituição permite a acumulação remunerada de dois cargos de professor, desde que haja compatibilidade de horários e seja observado o teto constitucional (art. 37, XVI, a). A EC nº 138/2025 ampliou outra hipótese, relativa a um cargo de professor com outro de qualquer natureza.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Planalto — Emenda Constitucional nº 138/2025",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc138.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4552,7 +4564,7 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O princípio da eficiência, incluído expressamente no art. 37 pela EC nº 19/1998, orienta a Administração à produtividade, qualidade, presteza, economicidade e obtenção de resultados satisfatórios.",
+    "explanation": "O princípio da eficiência, incluído no art. 37 pela EC nº 19/1998, exige produtividade, qualidade, presteza e resultados adequados, com utilização responsável dos recursos públicos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4578,7 +4590,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, I, prevê que cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos legais e aos estrangeiros, na forma da lei. Concurso pode ter validade de até dois anos, greve é direito dos servidores civis nos termos de lei específica e contratação temporária depende de hipótese legal.",
+    "explanation": "O art. 37, I, estabelece que cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos legais e aos estrangeiros, na forma da lei. Concurso tem validade de até dois anos; greve é assegurada aos servidores civis nos termos de lei específica; e contratação temporária depende de lei e necessidade temporária de excepcional interesse público.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4630,7 +4642,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A publicidade assegura o direito de informação, transparência estatal e controle social, conectando-se ao princípio democrático. A alternativa C expressa essa dimensão do princípio.",
+    "explanation": "A publicidade se relaciona ao direito de informação, ao dever de transparência estatal e ao controle social da Administração. Não é absoluta: pode haver sigilo nos casos constitucional e legalmente protegidos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4656,7 +4668,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A Constituição permite publicidade de obra pública com caráter informativo, educativo ou de orientação social, mas proíbe nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores (art. 37, § 1º).",
+    "explanation": "A Constituição permite publicidade institucional de obras públicas, desde que tenha caráter educativo, informativo ou de orientação social e não contenha nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores (art. 37, § 1º).",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4682,7 +4694,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O servidor eleito vereador pode manter o cargo efetivo se houver compatibilidade de horários, recebendo as vantagens do cargo sem prejuízo da remuneração do mandato eletivo, conforme art. 38, III.",
+    "explanation": "O servidor eleito vereador pode continuar no cargo efetivo se houver compatibilidade de horários, recebendo as vantagens do cargo sem prejuízo da remuneração do mandato eletivo, conforme art. 38, III. Sem compatibilidade, será afastado e poderá optar pela remuneração.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
