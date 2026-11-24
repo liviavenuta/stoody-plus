@@ -4588,43 +4588,6 @@
     "explanationReviewed": "2026-11-24"
   },
   {
-    "id": "2600585",
-    "number": 125,
-    "subject": "Informática",
-    "topic": "Informática > Microsoft Excel > Suítes ou Pacotes de Escritório > Microsoft Office",
-    "stem": "A imagem abaixo faz referência ao ícone “Inserir Gráfico de Linhas ou de Áreas”, no MS-Excel. Ele tem como recomendação, ser utilizado para:",
-    "options": {
-      "a": "realçar diferentes tipos de informação.",
-      "b": "mostrar proporções de um todo.",
-      "c": "mostrar tendências ao longo do tempo (anos, meses e dias) ou categorias.",
-      "d": "mostrar o relacionamento entre conjuntos de valores.",
-      "e": "mostrar análises estatísticas dos dados."
-    },
-    "answer": "C",
-    "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. O enunciado depende de uma imagem de ícone que não está incorporada ao registro da questão. A descrição das opções sugere gráfico de linhas/áreas, usado para mostrar tendências ao longo do tempo, mas, como a imagem é parte explícita do item e pode ser necessária para identificar o comando, esta questão será retirada na limpeza geral das questões dependentes de imagem.",
-    "references": [
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
-        "url": "https://support.microsoft.com/pt-br/excel"
-      },
-      {
-        "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/"
-      },
-      {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
-      }
-    ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
-  },
-  {
     "id": "2223300",
     "number": 126,
     "subject": "Informática",
