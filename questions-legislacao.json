@@ -402,7 +402,7 @@
     "explanation": "Alternativa correta: D. A Emenda Constitucional nº 138/2025 alterou o art. 37, XVI, b, para permitir a acumulação remunerada de um cargo de professor com outro de qualquer natureza, desde que haja compatibilidade de horários e seja observado o teto constitucional. Assim, Catarina pode acumular seu cargo de professora com outro cargo de professor; Daniel, por sua vez, pode acumular o cargo administrativo atual com um cargo de professor, pois a nova redação não exige mais que o segundo cargo seja técnico ou científico. A alternativa D é compatível com a redação constitucional vigente.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal, art. 37",
+        "label": "Planalto — Constituição Federal, art. 37, XVI e XVII",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       },
       {
@@ -412,7 +412,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "A resposta foi conferida à luz da EC nº 138/2025, vigente desde sua publicação em 22/12/2025. Materiais ou gabaritos anteriores a essa alteração podem considerar incorreta a acumulação de cargo administrativo com cargo de professor."
+    "reviewNote": "Gabarito D confirmado conforme a EC nº 138/2025, publicada no DOU de 22/12/2025. A alínea b do art. 37, XVI, passou a permitir um cargo de professor com outro de qualquer natureza, observadas compatibilidade de horários e teto constitucional. A alteração é posterior à elaboração de muitos bancos de questões; materiais antigos podem divergir."
   },
   {
     "id": "4273318",
@@ -1351,7 +1351,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão ambígua: A e B são verdadeiras. Autarquias são pessoas jurídicas de direito público e são criadas por lei específica. Recomenda-se anulação ou reformulação para que haja apenas uma alternativa correta."
+    "reviewNote": "Questão sem resposta única: A é verdadeira porque autarquias são criadas diretamente por lei específica (CF, art. 37, XIX); B também é verdadeira porque autarquias são pessoas jurídicas de direito público. Manter A como provável gabarito da banca não elimina a duplicidade. Recomenda-se anulação ou reescrita."
   },
   {
     "id": "2885946",
@@ -1587,13 +1587,21 @@
     "explanation": "A alternativa C expressa a regra geral do art. 37, II, da Constituição: a investidura em cargo ou emprego público depende de aprovação prévia em concurso, ressalvadas as exceções constitucionais, como cargos em comissão. Atenção: o enunciado cita a Lei Orgânica e o Estatuto de Ouro Preto do Oeste/RO; a conferência integral dessa legislação municipal exige consulta às versões locais vigentes, não substituídas pela regra constitucional geral.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37, II",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Câmara Municipal de Ouro Preto do Oeste — Lei Municipal nº 1.030/2004 e alterações",
+        "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/251"
+      },
+      {
+        "label": "Câmara Municipal de Ouro Preto do Oeste — Lei Municipal nº 3.721/2026",
+        "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/4031"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão depende de legislação municipal específica (Lei Orgânica e Estatuto de Ouro Preto do Oeste/RO). A resposta C coincide com a regra constitucional geral, mas precisa ser cotejada com os diplomas locais citados."
+    "reviewNote": "A alternativa C é compatível com a regra constitucional geral do concurso público (CF, art. 37, II), mas o enunciado invoca legislação municipal específica. O regime jurídico local é a Lei Municipal nº 1.030/2004, com alterações posteriores, inclusive as Leis nº 3.702/2026 e nº 3.721/2026. Sem cotejo do texto consolidado e da Lei Orgânica, não se deve afirmar que a resposta foi integralmente validada à luz de todos os diplomas locais."
   },
   {
     "id": "3327799",
@@ -1911,17 +1919,13 @@
     "explanation": "O art. 37, XVII, estende a proibição de acumulação a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias e sociedades controladas direta ou indiretamente pelo poder público. A EC nº 138/2025 atualizou a exceção relativa a cargo de professor, permitindo sua acumulação com outro de qualquer natureza, se houver compatibilidade de horários.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37, XVII",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
-      },
-      {
-        "label": "Planalto — Emenda Constitucional nº 138/2025",
-        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc138.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "As alternativas C e D são praticamente idênticas e ambas parecem reproduzir a regra do art. 37, XVII; a diferença é essencialmente de pontuação. Questão com duplicidade de resposta, recomendada revisão/anulação."
+    "reviewNote": "Duplicidade textual: C e D reproduzem o art. 37, XVII, da Constituição, com diferença apenas de pontuação. Ambas são corretas; não há como sustentar D como única resposta. Recomenda-se anulação ou correção de uma das alternativas."
   },
   {
     "id": "2934417",
@@ -1968,13 +1972,13 @@
     "explanation": "O art. 37, III, prevê concurso com validade de até dois anos, prorrogável uma vez por igual período. Contudo, a alternativa E também reproduz a regra do art. 37, X, sobre revisão geral anual na mesma data e sem distinção de índices. Assim, há mais de uma alternativa constitucionalmente correta.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37, III e X",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão com dupla resposta: B corresponde ao art. 37, III, e E corresponde ao art. 37, X. Recomenda-se anulação ou reformulação."
+    "reviewNote": "Questão com duas respostas corretas: B reproduz o art. 37, III (validade do concurso); E reproduz o art. 37, X (revisão geral anual). Recomenda-se anulação ou reformulação."
   },
   {
     "id": "2904831",
@@ -2290,16 +2294,16 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A questão remete a entendimentos do Tribunal de Contas do Estado de São Paulo sobre subsídios de vereadores. O gabarito considera vedados tanto o pagamento por sessões extraordinárias quanto a concessão de verbas de gabinete como vantagem pessoal ao parlamentar. Como o item depende de súmulas e precedentes específicos do TCE-SP e da legislação municipal, recomenda-se conferir a referência normativa original antes de usar a questão como orientação geral.",
+    "explanation": "A alternativa C está correta. A Súmula nº 52 do Tribunal de Contas do Estado de São Paulo veda o pagamento de sessões extraordinárias ou verbas de gabinete a vereadores. Atenção à atualização da referência: a antiga Súmula nº 45, que tratava também de 13º salário, foi cancelada; a orientação específica atualmente vigente sobre esses dois benefícios consta da Súmula nº 52.",
     "references": [
       {
-        "label": "Tribunal de Contas do Estado de São Paulo — Jurisprudência e súmulas",
-        "url": "https://www.tce.sp.gov.br/jurisprudencia"
+        "label": "TCE-SP — Boletim de Jurisprudência, Súmula nº 52 e histórico da Súmula nº 45",
+        "url": "https://www.tce.sp.gov.br/boletim-de-jurisprudencia/sumulas"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão dependente de orientação específica do TCE-SP; validar o enunciado contra a súmula/precedente citado pela banca e a legislação local."
+    "reviewNote": "Gabarito C confirmado pela Súmula nº 52 vigente do TCE-SP. Não citar a Súmula nº 45 como fundamento atual: ela foi cancelada em 2019. A Súmula nº 52 veda precisamente os dois pagamentos descritos no enunciado."
   },
   {
     "id": "2440472",
@@ -2401,13 +2405,13 @@
     "explanation": "O cargo em comissão declarado em lei como de livre nomeação e exoneração é hipótese constitucional de provimento sem concurso público. Contudo, a contratação temporária para necessidade temporária de excepcional interesse público, prevista no art. 37, IX, também é hipótese de contratação sem concurso. Portanto, B e C são juridicamente corretas, embora C trate de cargo público em comissão.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37, II e IX",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão com mais de uma resposta possível: B (contratação temporária, art. 37, IX) e C (cargo em comissão, art. 37, II). Recomenda-se revisão/anulação."
+    "reviewNote": "Questão com duas hipóteses constitucionais de contratação/provimento sem concurso: B (contratação temporária para necessidade temporária de excepcional interesse público, art. 37, IX) e C (cargo em comissão, art. 37, II). Como o comando pede uma hipótese e não diferencia a natureza jurídica, ambas são corretas. Recomenda-se anulação ou reformulação."
   },
   {
     "id": "2488952",
@@ -2477,20 +2481,24 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A questão envolve a regra de transição do art. 11 da EC nº 20/1998: quem já havia reingressado no serviço público por concurso antes da publicação da emenda pode estar abrangido pela exceção à vedação de acumular proventos e remuneração, mas a hipótese exige análise da data de ingresso, do regime previdenciário e das regras de aposentadoria aplicáveis. A narrativa indica ingresso no segundo cargo em janeiro de 1998, antes da EC 20/1998; por isso, o gabarito B deve ser reavaliado à luz da regra de transição antes de ser mantido.",
+    "explanation": "A alternativa B é a correta. Ana já recebia proventos de aposentadoria do primeiro cargo quando ingressou, em 1998, no segundo cargo. O art. 11 da EC nº 20/1998 preservou, em caráter excepcional, a percepção de um provento com a remuneração de cargo em que o servidor tenha ingressado no serviço público antes da publicação da emenda, mas vedou mais de uma aposentadoria pelo regime do art. 40 nessa hipótese. A jurisprudência do STF interpreta essa regra restritivamente: ela não autoriza, neste caso, a percepção simultânea de duas aposentadorias decorrentes de cargos que não eram acumuláveis. Assim, deverá optar por um dos proventos.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
-        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        "label": "Planalto — Emenda Constitucional nº 20/1998, art. 11",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc20.htm"
       },
       {
-        "label": "STF — Jurisprudência",
-        "url": "https://portal.stf.jus.br/jurisprudencia/"
+        "label": "STF — Tema 921, art. 11 da EC 20/1998 e vedação à acumulação de duas aposentadorias",
+        "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=6580400"
+      },
+      {
+        "label": "STF — Tema 627, acumulação de benefícios decorrentes de cargos constitucionalmente acumuláveis",
+        "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo1080.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão exige análise da regra de transição do art. 11 da EC 20/1998. A data de ingresso no segundo cargo (janeiro de 1998) antecede a emenda; revisar o gabarito B à luz do direito adquirido/regra de transição antes de manter."
+    "reviewNote": "Gabarito B confirmado para os fatos narrados: o art. 11 da EC 20/1998 não autoriza duas aposentadorias nessa hipótese; a exceção preserva, em termos restritos, um provento com a remuneração de cargo no qual houve ingresso antes da emenda. O STF veda mais de uma aposentadoria quando os cargos não eram constitucionalmente acumuláveis. A exceção do Tema 627 para benefícios derivados de cargos acumuláveis não se ajusta, em princípio, à combinação descrita (auxiliar de serviços gerais e professor, antes da EC 138/2025)."
   },
   {
     "id": "2633078",
@@ -3044,16 +3052,16 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A participação do usuário e a oferta de informações sobre saúde são compatíveis com o art. 37, § 3º, e com o princípio da eficiência. A identificação institucional do órgão pode ser legítima; já o slogan promocional da gestão pode caracterizar promoção institucional/pessoal vedada pelo art. 37, § 1º. A alternativa C é a que melhor distingue esses elementos.",
+    "explanation": "A alternativa C parece ser a resposta pretendida quanto à distinção entre identificação institucional e slogan de gestão: a identificação oficial do órgão pode ser legítima, enquanto mensagem que promova a gestão pode contrariar o art. 37, § 1º. Contudo, há imprecisão jurídica na alternativa: a vedação constitucional é formulada em termos de impessoalidade e proibição de promoção pessoal, não como regra automática de violação ao princípio da moralidade. A validade do slogan depende do contexto concreto. O item deve ser tratado como questão discutível, não como formulação tecnicamente perfeita.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37, caput e § 1º",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito corrigido de A para C: o logotipo oficial de identificação institucional pode ser legítimo; o slogan de gestão pode caracterizar promoção institucional vedada pelo art. 37, § 1º. A avaliação depende do contexto visual e do uso concreto."
+    "reviewNote": "C é a alternativa pretendida, mas não é tecnicamente exata: o art. 37, § 1º, veda publicidade que caracterize promoção pessoal e exige caráter educativo, informativo ou de orientação social. O princípio diretamente relacionado é a impessoalidade; a alternativa atribui a vedação à moralidade. Recomenda-se revisão do enunciado/alternativa e não tratar o gabarito como incontroverso."
   },
   {
     "id": "2732218",
@@ -3588,13 +3596,13 @@
     "explanation": "O princípio da eficiência orienta a Administração e seus agentes a atuar com qualidade, segurança e adequada utilização dos recursos públicos. Uma campanha de segurança da informação deve envolver os servidores, sem prejuízo de orientações aos usuários externos.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "O enunciado não identifica um dever constitucional específico de campanha de segurança de TI. B parece ser a resposta pretendida por generalização dos deveres funcionais, mas o item é pouco preciso e merece revisão."
+    "reviewNote": "Não foi identificada no art. 37 da Constituição uma regra que determine, por si só, a quem deve ser atribuída uma campanha municipal de segurança de TI. B é a resposta provavelmente pretendida por envolver todos os servidores no cumprimento de deveres funcionais, mas a extensão a todos indistintamente depende de política interna, normas de segurança da informação e atribuições funcionais. Item insuficientemente fundamentado para ser validado apenas pelo art. 37."
   },
   {
     "id": "2998866",
@@ -4308,16 +4316,24 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A publicidade está ligada à transparência e ao conhecimento dos atos administrativos pela sociedade, permitindo controle social. O sigilo é excepcional e depende de fundamento constitucional ou legal, não se limitando apenas a casos de segurança nacional.",
+    "explanation": "A alternativa D é a mais próxima do conceito de publicidade, pois a regra é a transparência e a divulgação dos atos administrativos. Entretanto, sua parte final está incorreta ao afirmar que o sigilo só é permitido em casos de segurança nacional. A Constituição e a legislação admitem outras hipóteses de restrição de acesso, como proteção da intimidade e de dados pessoais, além de informações legalmente classificadas. Portanto, D expressa a regra geral, mas contém ressalva excessivamente restritiva.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 5º, X, XXXIII e art. 37",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Planalto — Lei nº 12.527/2011 (Lei de Acesso à Informação)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "Planalto — Lei nº 13.709/2018 (Lei Geral de Proteção de Dados)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "A alternativa D é a pretendida, mas a afirmação de que o sigilo só é permitido por segurança nacional é ampla demais; há outras hipóteses legais de sigilo e proteção de dados pessoais."
+    "reviewNote": "D é a alternativa provavelmente pretendida, mas contém erro material: o sigilo não se limita à segurança nacional. Há outras hipóteses constitucionais e legais, inclusive proteção da intimidade, vida privada e dados pessoais. Nenhuma alternativa formula de modo inteiramente correto o princípio da publicidade; recomenda-se reformulação."
   },
   {
     "id": "2433646",
@@ -4417,16 +4433,16 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A efetividade, no sentido de alcançar resultados concretos e resolver as necessidades do cidadão, é o aspecto central do enunciado. O atendimento cordial, sem solução do problema, não concretiza o resultado esperado do serviço público. Observação: efetividade não integra a lista literal dos cinco princípios do art. 37; relaciona-se à eficiência e à avaliação dos resultados.",
+    "explanation": "A alternativa D é a resposta conceitual provavelmente pretendida, pois o caso descreve ausência de resultado concreto na prestação do serviço. Contudo, efetividade não integra o rol expresso dos princípios do caput do art. 37 da Constituição. O princípio constitucional expresso mais diretamente relacionado à qualidade e aos resultados da atuação administrativa é a eficiência, mas essa opção não foi oferecida. O item mistura categorias doutrinárias e não apresenta resposta constitucional rigorosamente adequada.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37, caput",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "A alternativa D é a resposta conceitual pretendida, mas efetividade não é princípio expresso no art. 37. O enunciado mistura princípios constitucionais com qualidade/resultados da prestação do serviço."
+    "reviewNote": "D é a resposta conceitual pretendida, mas efetividade não é princípio expresso no art. 37. Eficiência seria a referência constitucional mais apropriada e não consta das alternativas. Recomenda-se anulação ou substituição da alternativa D por eficiência, conforme o objetivo didático."
   },
   {
     "id": "1742589",
@@ -5302,13 +5318,13 @@
     "explanation": "O art. 37, III, prevê prazo de validade de concurso de até dois anos, prorrogável uma vez por igual período. Atenção: a alternativa C também reproduz, em essência, o art. 37, X, que assegura revisão geral anual na mesma data e sem distinção de índices. Assim, o item tem duas alternativas constitucionalmente corretas e deve ser revisto/anulado.",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37, III e X",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão com dupla resposta: C corresponde ao art. 37, X, e D ao art. 37, III. Recomenda-se revisão/anulação."
+    "reviewNote": "Questão com duas respostas corretas: C reproduz o art. 37, X (revisão geral anual na mesma data e sem distinção de índices); D reproduz o art. 37, III (validade do concurso de até dois anos, prorrogável uma vez por igual período). Recomenda-se anulação ou reformulação."
   },
   {
     "id": "1473226",
