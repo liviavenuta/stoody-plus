@@ -2235,7 +2235,28 @@
       "e": "V–V–V"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Adware, cavalo de Troia e spyware são todos tipos de malware. Adware exibe publicidade; o cavalo de Troia se disfarça de software legítimo para induzir sua instalação; spyware monitora atividades ou coleta informações. Portanto, as três afirmações são verdadeiras.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3250839",
@@ -2251,7 +2272,28 @@
       "e": "% (percentual)."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. O operador de intervalo no Excel é dois-pontos (:). Para referenciar uma coluna inteira, por exemplo, usa-se B:B; para um intervalo dentro dela, B1:B100. O cifrão fixa referências absolutas, o asterisco multiplica, o e comercial concatena texto e o percentual representa porcentagem.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3452140",
@@ -2267,7 +2309,28 @@
       "e": "Macro."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Macro é uma sequência de comandos ou ações que pode ser gravada ou programada e executada posteriormente por um comando, automatizando tarefas repetitivas em aplicativos do Office. Loop, função, procedimento e modelo são conceitos diferentes.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3325215",
@@ -2283,7 +2346,28 @@
       "e": "Esc + F6"
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Shift combinado com uma tecla de direção amplia a seleção de texto ou de itens, conforme o contexto. Em documentos, seleciona caracteres/linhas; no Explorador ou na área de trabalho, pode selecionar itens adjacentes. F3 pesquisa; Alt+Del e Esc+F6 não são atalhos gerais para essa finalidade.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3325220",
@@ -2299,7 +2383,28 @@
       "e": "converter um número de série em um mês."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. DIAS360 calcula o número de dias entre duas datas considerando um ano convencional de 360 dias, dividido em doze meses de 30 dias. É útil em cálculos financeiros que adotam essa convenção; não converte datas em número de série nem soma meses.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função DIAS360",
+        "url": "https://support.microsoft.com/pt-br/excel/functions/days360-function"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3632092",
@@ -2315,7 +2420,28 @@
       "e": "grupos personalizados."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. No menu Iniciar do Windows 10, os atalhos em forma de mosaicos eram chamados de blocos dinâmicos (Live Tiles), que podiam exibir informações atualizadas de determinados aplicativos. A nomenclatura é própria da interface do Windows 10 e não deve ser generalizada para o menu Iniciar do Windows 11.",
+    "references": [
+      {
+        "label": "Microsoft Support — Personalizar o menu Iniciar do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atualização do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/windows-update"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3204067",
@@ -2331,7 +2457,28 @@
       "e": "Tecla do logotipo do Windows + L"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Windows + L bloqueia imediatamente o computador e leva à tela de bloqueio, exigindo autenticação para retomar a sessão. As outras combinações têm funções distintas, como abrir a barra de jogos ou recursos de acessibilidade.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3433661",
@@ -2347,7 +2494,28 @@
       "e": "apenas, I."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. I e III estão corretas: a Cortana oferecia interação por voz no Windows 10, e o sistema oferece múltiplas áreas de trabalho virtuais. A II é falsa como regra geral: em instalações modernas do Windows 10, F8 costuma estar desabilitado no arranque rápido; o Modo de Segurança é acessado pelas opções avançadas de inicialização/recuperação ou por msconfig.",
+    "references": [
+      {
+        "label": "Microsoft Support — Cortana no Windows",
+        "url": "https://support.microsoft.com/en-us/topic/cortana-in-windows-10"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atualização do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/windows-update"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3296249",
@@ -2363,7 +2531,28 @@
       "e": "retornar o número de áreas em uma referência."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. INDIRETO interpreta uma cadeia de texto como uma referência de célula ou intervalo e retorna essa referência. Por exemplo, se A1 contém o texto B2, =INDIRETO(A1) retorna o valor referenciado em B2. As demais opções descrevem outras funções lógicas ou de referência.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função INDIRETO",
+        "url": "https://support.microsoft.com/pt-br/excel/functions/indirect-function"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3449646",
@@ -2379,7 +2568,28 @@
       "e": "Função FIXO."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. SUBSTITUIR troca um texto específico por outro dentro de uma cadeia, permitindo indicar qual ocorrência substituir. DIREITA extrai caracteres do fim; LOCALIZAR encontra a posição de um texto; REPT repete texto; FIXO formata número como texto. A alternativa B é correta.",
+    "references": [
+      {
+        "label": "Microsoft Support — Função SUBSTITUIR",
+        "url": "https://support.microsoft.com/pt-br/excel/functions/substitute-function"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3632137",
@@ -2395,7 +2605,28 @@
       "e": "Bixby."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A assistente pessoal integrada ao Windows 10 era a Cortana. Siri pertence ao ecossistema Apple, Alexa é da Amazon, Google Assistente é do Google e Bixby é da Samsung. A disponibilidade e os recursos da Cortana variaram por região e versão.",
+    "references": [
+      {
+        "label": "Microsoft Support — Cortana no Windows",
+        "url": "https://support.microsoft.com/en-us/topic/cortana-in-windows-10"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Atualização do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/windows-update"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3322482",
@@ -2411,7 +2642,28 @@
       "e": "I, apenas."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Biometria permite autenticar uma pessoa por características físicas ou comportamentais, e assinatura digital permite verificar a autoria/origem e a integridade de um documento assinado. Logo, II e V são exemplos relacionados à autenticidade. Backup protege recuperação; criptografia protege sobretudo confidencialidade; firewall controla tráfego.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3322487",
@@ -2427,7 +2679,28 @@
       "e": "Tecla do logotipo do Windows + M."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Windows + L bloqueia o dispositivo e permite que outra pessoa entre com outra conta, conforme as permissões e configurações do equipamento. É o atalho indicado para bloquear ou trocar de usuário a partir da tela de bloqueio.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3296250",
@@ -2443,7 +2716,28 @@
       "e": "dados."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Correspondências é uma guia do Microsoft Word, não do Excel 2016. Página Inicial, Inserir, Fórmulas e Dados são guias usuais do Excel. Portanto, a exceção é A.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3325224",
@@ -2459,7 +2753,28 @@
       "e": "Adware."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Cavalo de Troia é malware que se apresenta como programa legítimo ou útil, mas oculta uma função maliciosa. Screenlogger registra atividades da tela; backdoor oferece acesso oculto; hijacker altera configurações/redirecionamentos; adware exibe publicidade.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3181932",
@@ -2474,7 +2789,28 @@
       "d": "Colar o item selecionado."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Alt + Tab alterna entre janelas ou aplicativos abertos. Mantendo Alt pressionada e tocando Tab, o usuário percorre as janelas disponíveis. Não bloqueia o computador nem executa operações de edição como desfazer ou colar.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3034232",
@@ -2490,7 +2826,28 @@
       "e": "Tecla Windows + Shift + M."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Ctrl + Esc abre o menu Iniciar, assim como a tecla do logotipo do Windows. Windows + I abre Configurações; Alt + Tab alterna aplicativos; as demais opções não correspondem ao comando solicitado.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "Microsoft Support — Personalizar o menu Iniciar do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2864918",
@@ -2505,7 +2862,28 @@
       "d": "abrir o “Executar”."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Windows + R abre a caixa de diálogo Executar, na qual o usuário pode digitar o nome de um programa, pasta, documento ou recurso para abri-lo. Não é o atalho para bloqueio, gravação de tela ou menu de acesso rápido.",
+    "references": [
+      {
+        "label": "Microsoft Learn — Combinações de teclas predefinidas",
+        "url": "https://learn.microsoft.com/pt-br/windows/configuration/keyboard-filter/predefined-key-combinations"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2955785",
@@ -2521,7 +2899,28 @@
       "e": "espelhado."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Backup completo copia todo o conjunto de dados selecionado para outro local. Em geral, consome mais espaço e pode levar mais tempo para ser criado; a restauração costuma ser mais simples por depender de um conjunto completo, ao contrário de cadeias incrementais.",
+    "references": [
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CISA — Ransomware Guide (PDF)",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2832929",
@@ -2537,7 +2936,28 @@
       "e": "disponibilidade, disponibilidade e confidencialidade."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. A associação pretendida é: nobreak — disponibilidade, pois mantém energia temporária; firewall — disponibilidade, pois pode bloquear tráfego malicioso e reduzir interrupções, além de contribuir para outros objetivos de segurança; criptografia — confidencialidade, pois torna os dados ininteligíveis sem a chave apropriada. A alternativa E apresenta essa sequência.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2956040",
@@ -2553,7 +2973,28 @@
       "e": "Utilizar um gerador de energia"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. No-break (UPS) fornece energia temporária quando há queda de energia e pode condicionar/proteger a alimentação contra variações, permitindo salvar o trabalho e desligar o equipamento com segurança. Filtro de linha e estabilizador têm proteção mais limitada; gerador exige infraestrutura e tempo de acionamento.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3222228",
@@ -2569,7 +3010,28 @@
       "e": "V, V, F, F."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. A sequência é F–V–V–F. Segurança física é importante para proteger equipamentos e dados; phishing busca enganar pessoas para obter informações; vírus pode replicar-se e infectar outros arquivos/sistemas; antimalware sozinho não basta, pois segurança depende de atualizações, backups, firewall, controle de acesso e comportamento seguro.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2864920",
@@ -2584,7 +3046,28 @@
       "d": "Integridade."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Nobreak contribui para disponibilidade ao manter o equipamento energizado durante interrupções curtas de fornecimento, dando tempo para continuar temporariamente ou desligar com segurança. Não é mecanismo primário de confidencialidade, autenticidade ou integridade.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "IBM — O que é backup e recuperação?",
+        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2696420",
@@ -2600,7 +3083,28 @@
       "e": "garantir que a informação tenha disponibilidade."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Integridade busca preservar a exatidão e a completude da informação, impedindo ou detectando alterações não autorizadas. A alternativa B expressa esse objetivo. Autenticidade verifica origem; não repúdio oferece evidências de autoria; controle de acesso restringe uso; disponibilidade garante acesso quando necessário.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3034224",
@@ -2616,7 +3120,28 @@
       "e": "bloquear usuários fora de seu sistema ou negar acesso aos dados, por meio da criptografia, até que um resgate seja pago."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Ransomware bloqueia o acesso a sistemas ou dados, frequentemente criptografando arquivos, e exige pagamento para tentar restaurar o acesso. Monitoramento e roubo de dados caracterizam spyware; controle remoto pode envolver trojan/backdoor; captura de tela e cliques é comportamento de screenlogger; anúncios são adware.",
+    "references": [
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CISA — Ransomware Guide (PDF)",
+        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2955784",
@@ -2632,7 +3157,28 @@
       "e": "Criptografia"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Criptografia protege a confidencialidade ao transformar dados em conteúdo ilegível para quem não possui a chave adequada. Certificados digitais e biometria apoiam autenticação; firewall filtra tráfego; nobreak fornece energia e disponibilidade.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2931526",
@@ -2648,7 +3194,28 @@
       "e": "Microsoft Imagine"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Kaspersky é uma marca de soluções antivírus/segurança. Oracle Database é um sistema de gerenciamento de banco de dados; CodeSandbox é um ambiente de desenvolvimento; Sublime Text é editor de código; Microsoft Imagine foi um programa de acesso a ferramentas de desenvolvimento.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2864398",
@@ -2663,7 +3230,26 @@
       "d": "236."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. O gabarito provavelmente se refere ao limite clássico MAX_PATH de 260 caracteres para o caminho completo em determinadas APIs/configurações legadas do Windows. **Ressalva importante:** o enunciado fala em nome de arquivo, que não é a mesma coisa que caminho completo; o componente de nome tem limite distinto (tipicamente 255 caracteres por componente, sujeito ao sistema de arquivos). Recomenda-se corrigir o enunciado para “caminho completo” ou revisar o gabarito.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {},
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "O gabarito B (260) refere-se ao limite clássico do caminho completo MAX_PATH, não ao nome isolado do arquivo. Recomenda-se ajustar o enunciado para 'caminho completo' ou rever a resposta."
   },
   {
     "id": "3221138",
@@ -2679,7 +3265,28 @@
       "e": "Spyware"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Worm (verme) é malware capaz de se replicar e se espalhar autonomamente entre máquinas, muitas vezes explorando vulnerabilidades de rede ou software. Firewall é um controle de tráfego, antivírus é uma ferramenta de defesa, backup é cópia de segurança e spyware monitora informações.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2955783",
@@ -2695,7 +3302,28 @@
       "e": "converte um preço em moeda expresso como uma fração em um preço em moeda expresso como um número decimal."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. CONVERTER realiza conversão entre unidades de medida, por exemplo, de metros para pés ou de gramas para libras, conforme os códigos de unidade aceitos pelo Excel. Não converte decimais em binário nem executa operações específicas de números complexos ou moedas.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2931597",
