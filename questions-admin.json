@@ -3915,7 +3915,28 @@
       "e": "ao atributo do Ato administrativo, Forma."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — princípio da legalidade.** O enunciado reproduz a distinção clássica entre a liberdade dos particulares e a atuação administrativa: em regra, o particular pode fazer o que a lei não proíbe; a Administração só pode agir com fundamento no ordenamento e dentro das competências que lhe foram atribuídas.\n\n- **A) Forma — incorreta:** forma é elemento/requisito do ato administrativo, não o princípio descrito.\n- **B) Competência — incorreta:** competência é o conjunto de atribuições legalmente conferidas a órgão ou agente; não é a ideia central do texto.\n- **C) Legalidade — correta:** vincula a Administração à lei e ao Direito.\n- **D) Isonomia — incorreta:** isonomia é igualdade de tratamento, não elemento do ato administrativo na classificação usual.\n- **E) Forma como atributo — incorreta:** forma não é atributo do ato; é elemento/requisito.\n\n**Dica:** a frase “à Administração só é permitido fazer o que a lei autoriza” é a formulação clássica da legalidade administrativa.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2356859",
@@ -3932,7 +3953,28 @@
       "e": "os princípios, assim como as regras, são espécie de norma jurídica que não permite calibragem ou modulação na intensidade da sua aplicação ao caso concreto."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A.** O nepotismo no preenchimento de cargos e funções públicas encontra limite nos princípios constitucionais, especialmente moralidade e impessoalidade. A Súmula Vinculante 13 do STF veda, nas hipóteses que descreve, a nomeação de parentes até o terceiro grau para cargos em comissão, de confiança ou funções gratificadas, inclusive mediante designações recíprocas.\n\n- **A) Correta:** nepotismo afronta a moralidade administrativa e também a impessoalidade.\n- **B) Incorreta:** o princípio não é “confidencialidade”. A publicidade é a regra, com proteção de dados pessoais e sigilos legalmente previstos.\n- **C) Incorreta:** legalidade não elimina a discricionariedade legítima; a escolha administrativa existe dentro dos limites legais e deve respeitar os princípios.\n- **D) Incorreta:** a eficiência foi incluída expressamente no art. 37 pela EC 19/1998, não constava do texto original de 1988.\n- **E) Incorreta:** princípios são normas jurídicas e podem exigir ponderação e harmonização no caso concreto; não se aplicam todos sempre com intensidade idêntica.\n\n**Atenção:** a incidência da SV 13 em cargos de natureza política possui tratamento jurisprudencial específico, com análise de fraude, nepotismo cruzado e manifesta falta de razoabilidade. Isso não transforma o nepotismo em prática livre.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2327776",
@@ -3949,7 +3991,28 @@
       "e": "Impessoalidade."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — eficiência.** Lentidão injustificada, omissão, desperdício de recursos e falta de planejamento comprometem a qualidade e os resultados da atividade administrativa. Esses problemas contrariam a eficiência, princípio expresso no art. 37, caput, da Constituição.\n\n- **A) Legalidade — incorreta:** relaciona-se à conformidade com a lei e o ordenamento.\n- **B) Moralidade — incorreta:** exige probidade, boa-fé e padrões éticos.\n- **C) Eficiência — correta:** envolve planejamento, produtividade, qualidade, desempenho e uso racional dos recursos.\n- **D) Publicidade — incorreta:** trata de transparência e divulgação dos atos.\n- **E) Impessoalidade — incorreta:** veda favorecimentos e perseguições e exige atuação objetiva.\n\n**Dica:** desperdício, baixa produtividade, demora injustificada e má organização são sinais típicos de problema de eficiência.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2217523",
@@ -3964,7 +4027,28 @@
       "e": "eficiência."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — publicidade.** O enunciado descreve transparência e acesso às informações administrativas, elementos centrais do princípio da publicidade. A Lei nº 12.527/2011 regulamenta o direito de acesso à informação e estabelece a publicidade como regra e o sigilo como exceção.\n\n- **A) Legalidade — incorreta:** exige atuação conforme a lei e o Direito.\n- **B) Moralidade — incorreta:** exige probidade e padrões éticos.\n- **C) Publicidade — correta:** permite conhecimento e controle social da atividade estatal.\n- **D) Impessoalidade — incorreta:** veda favorecimentos e perseguições.\n- **E) Eficiência — incorreta:** relaciona-se a qualidade e resultados.\n\n**Ressalva importante:** a frase “todos os atos e todas as informações” é ampla demais. Há informações pessoais e hipóteses de sigilo protegidas pela Constituição e pela LAI. Publicidade não significa acesso irrestrito a qualquer dado armazenado pelo Estado.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2484799",
@@ -3981,7 +4065,28 @@
       "e": "assemelha-se a moral comum."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito cadastrado: D — “não juridicização”.** **Atenção: há forte indício de erro ou problema de redação no item/gabarito.** A moralidade administrativa é um princípio jurídico constitucional (art. 37, caput), que exige padrões éticos, probidade e boa-fé. Portanto, não é correto defini-la como “não juridicização”; ao contrário, a Constituição juridiciza a exigência de moralidade na Administração.\n\n- **A) Economicidade e custo-benefício — incorreta:** aproxima-se da eficiência/economicidade, não define moralidade.\n- **B) Atos assegurados em lei — incorreta:** descreve legalidade.\n- **C) Publicidade em nome do servidor — incorreta:** além de não definir moralidade, a promoção pessoal em publicidade institucional é vedada pelo art. 37, § 1º.\n- **D) “Não juridicização” — gabarito cadastrado, mas conceitualmente inadequado:** o termo não corresponde à definição reconhecida de moralidade administrativa e contradiz seu caráter de princípio jurídico.\n- **E) Assemelha-se à moral comum — alternativa imprecisa:** moralidade administrativa dialoga com valores éticos da moral comum, mas é juridicamente qualificada e não se confunde integralmente com a moral privada.\n\n**Conclusão da revisão:** não recomendo memorizar D como definição correta. O gabarito foi preservado no banco, mas a questão deve ser marcada para conferência com a fonte original/ banca. A moralidade administrativa é juridicizada e exigível juridicamente.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2217524",
@@ -3998,7 +4103,28 @@
       "e": "economicidade."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — eficiência.** A afirmação combina manutenção e ampliação da qualidade dos serviços com controle dos gastos. O princípio da eficiência exige bons resultados, qualidade na prestação e uso racional dos recursos públicos.\n\n- **A) Impessoalidade — incorreta:** trata de atuação objetiva, sem favorecimento ou perseguição.\n- **B) Eficiência — correta:** relaciona qualidade do serviço, desempenho e gestão adequada dos recursos.\n- **C) Moralidade — incorreta:** exige padrões éticos, probidade e boa-fé.\n- **D) Eficácia — incorreta:** refere-se ao alcance de objetivos; não é o termo usado pelo art. 37 para o princípio expresso.\n- **E) Economicidade — incorreta como resposta esperada:** é critério relevante de gestão e controle do gasto, mas o enunciado abrange também qualidade e prestação do serviço, conteúdo mais amplo da eficiência.\n\n**Dica:** eficiência é mais abrangente que simplesmente economizar: considera qualidade, resultado e recursos.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2217533",
@@ -4015,7 +4141,28 @@
       "e": "urbanidade."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — impessoalidade.** A vedação de discriminação entre usuários dos serviços públicos significa que a Administração deve prestar o serviço de modo objetivo, sem favorecimentos ou perseguições pessoais. Isso se relaciona diretamente à impessoalidade e à igualdade de tratamento dos usuários em condições equivalentes.\n\n- **A) Universalidade — incorreta como resposta pretendida:** refere-se à amplitude de acesso do serviço, não é a denominação específica apontada pelo enunciado.\n- **B) Segurança — incorreta:** relaciona-se à prestação segura e à proteção dos usuários.\n- **C) Impessoalidade — correta:** veda discriminações arbitrárias entre usuários.\n- **D) Adaptabilidade — incorreta:** diz respeito à atualização e adequação do serviço às necessidades sociais e tecnológicas.\n- **E) Urbanidade — incorreta:** relaciona-se ao tratamento respeitoso e cortês dispensado ao usuário.\n\n**Nota:** a igualdade de acesso também pode ser descrita pela universalidade, mas a expressão “vedação de discriminação” e a estrutura das alternativas apontam para impessoalidade, conforme o gabarito.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2122936",
@@ -4032,7 +4179,28 @@
       "e": "eficácia."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — eficácia.** A questão pede a alternativa que não corresponde a um dos cinco princípios expressos no caput do art. 37 da Constituição: legalidade, impessoalidade, moralidade, publicidade e eficiência.\n\n- **A) Moralidade — integra o rol:** exige conduta ética e proba.\n- **B) Publicidade — integra o rol:** garante transparência, ressalvado o sigilo legal.\n- **C) Impessoalidade — integra o rol:** exige objetividade e veda favorecimentos.\n- **D) Legalidade — integra o rol:** vincula a Administração ao ordenamento.\n- **E) Eficácia — correta como exceção:** é conceito relevante na gestão, mas não substitui “eficiência” no texto constitucional.\n\n**Dica:** em questões que pedem os princípios expressos, use a redação literal do LIMPE.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4121344",
@@ -4049,7 +4217,28 @@
       "e": "estatal."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D — público.** A finalidade geral da Administração Pública é atender ao interesse público, concretizando as competências estatais e as necessidades coletivas. O interesse público não se confunde com a vontade particular do governante, do agente ou de um grupo privado.\n\n- **A) Governamental — incorreta:** o interesse público não se reduz aos objetivos políticos de um governo.\n- **B) Patrimonial — incorreta:** a Administração não tem como finalidade central a defesa de patrimônio privado ou patrimonialismo.\n- **C) Privado — incorreta:** interesses privados podem ser protegidos pelo Estado nos termos da lei, mas não definem a finalidade geral da Administração.\n- **D) Público — correta:** corresponde à finalidade coletiva e constitucional da atividade administrativa.\n- **E) Estatal — incorreta como resposta:** “estatal” descreve aquilo que pertence ao Estado, mas não expressa tão precisamente a finalidade de atender ao interesse público.\n\n**Dica:** o interesse público orienta a atividade administrativa, sempre dentro da Constituição, da lei e dos direitos fundamentais.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1211904",
@@ -4064,7 +4253,28 @@
       "e": "Em nome da transparência, um jornalista de uma rede privada de notícias solicita dados relativos a um processo judicial em trânsito a um escrevente. O escrevente se recusa a dar estes dados, mencionando o segredo de justiça, e o jornalista lhe acusa de estar descumprindo com a Lei de Acesso à Informação"
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — recusa de fornecer dados protegidos por segredo de justiça.** A alternativa E é a única em que a conduta descrita não representa, por si só, desrespeito aos princípios administrativos. O acesso à informação é regra, mas não afasta o sigilo judicial nem autoriza a divulgação de dados legalmente protegidos. A LAI prevê restrições legais, e a Constituição protege a intimidade e a vida privada.\n\n- **A) Incorreta como conduta regular:** apressar o processo de um amigo, deixando outras pessoas em situação equivalente aguardarem, caracteriza favorecimento e viola a impessoalidade.\n- **B) Incorreta como conduta regular:** nomear cunhado para trabalhar no próprio gabinete pode configurar nepotismo e violar moralidade e impessoalidade. A qualificação profissional, isoladamente, não afasta a análise da vedação; a natureza do cargo e as circunstâncias concretas importam.\n- **C) Incorreta como conduta regular:** reduzir gastos sacrificando deliberadamente produtividade e qualidade do serviço pode contrariar a eficiência. A redução de despesas não é ilegítima por si só, mas deve ser avaliada à luz dos resultados e do interesse público.\n- **D) Incorreta como conduta regular:** direcionar edital com especificações que só um produto atende, sem justificativa técnica legítima, restringe a competição e viola a isonomia, a impessoalidade e as regras de licitação.\n- **E) Correta:** a recusa fundamentada em segredo de justiça legalmente estabelecido protege informação restrita e não constitui violação da publicidade ou da LAI.\n\n**Ressalva:** a questão não fornece todos os detalhes do cargo do cunhado nem da licitação. A análise da alternativa B depende da natureza do posto e da relação funcional, mas a simples alegação de competência profissional não elimina eventual nepotismo.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 5º e art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 13 e jurisprudência selecionada",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1227"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1207846",
