@@ -1527,7 +1527,28 @@
       "e": "Administração Financeira"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — Administração de Materiais.** A lista reúne funções típicas da área: manutenção de estoques, processamento de pedidos, compras, programação, embalagem, armazenagem, manuseio e transporte.\n\n- **A) Coordenação — incorreta:** é uma função gerencial genérica, não o nome da área descrita.\n- **B) Planejamento — incorreta:** é uma atividade importante, mas não abrange sozinha todas as operações listadas.\n- **C) Administração de Materiais — correta:** integra aquisição, estoque, armazenagem, movimentação e distribuição.\n- **D) Administração de Recursos Humanos — incorreta:** trata da gestão de pessoas.\n- **E) Administração Financeira — incorreta:** cuida de recursos financeiros, orçamento e fluxo de caixa.\n\n**Dica:** quando o enunciado enumera compras, estoques, armazenagem e transporte, a área é Administração de Materiais.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3780629",
@@ -1544,7 +1565,28 @@
       "e": "permitida, incentivada e difundida pela administração de materiais, não podendo caracterizar estoque de segurança e tampouco implicar gastos suplementares com transporte e armazenagem."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A.** O empréstimo interno de materiais entre unidades da mesma organização pode ser uma medida de contingência para evitar desabastecimento ou perdas, mas deve ser autorizado e documentado para manter rastreabilidade, controle de responsabilidade e atualização dos registros.\n\n- **A) Correta:** exige autorização da unidade envolvida e documentação do movimento.\n- **B) Incorreta:** a movimentação interna autorizada não é automaticamente desvio ou sonegação fiscal.\n- **C) Incorreta:** a ausência de documentação enfraquece o controle e a rastreabilidade.\n- **D) Incorreta:** não depende genericamente de autorização da Receita Federal; é operação interna sujeita às regras patrimoniais e administrativas aplicáveis.\n- **E) Incorreta:** embora possa ser útil, o empréstimo não é irrestrito e pode gerar custos de transporte e armazenagem.\n\n**Dica:** movimentação interna também deve deixar trilha documental: origem, destino, item, quantidade, responsáveis e prazo/condições de devolução quando houver.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3205629",
@@ -1561,7 +1603,28 @@
       "e": "Administração Orçamentária."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — Administração de Materiais.** A função descrita é garantir abastecimento contínuo dos itens necessários à fabricação, articulando as necessidades de vendas e produção. Essa coordenação é uma das finalidades centrais da Administração de Materiais.\n\n- **A) Controle do Estoque — incorreta como resposta mais abrangente:** é parte do sistema, mas não abrange sozinho a integração entre vendas, produção, compras e abastecimento.\n- **B) Gestão da Matéria-prima — incorreta:** restringe a função a um tipo de insumo.\n- **C) Controle Logístico — incorreta:** é conceito próximo, mas a nomenclatura específica do enunciado aponta para Administração de Materiais.\n- **D) Administração de Materiais — correta:** integra planejamento, suprimento, compras, estoques e disponibilidade para produção.\n- **E) Administração Orçamentária — incorreta:** cuida do planejamento e controle orçamentário.\n\n**Dica:** abastecimento contínuo e integração com programação de produção são funções sistêmicas da Administração de Materiais.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3804212",
@@ -1578,7 +1641,28 @@
       "e": "Manutenção preventiva."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — inventário patrimonial.** O cenário exige conferir a existência física dos bens, localizar cada item, verificar seu estado de conservação e confrontar essas informações com os registros patrimoniais. Esse conjunto de procedimentos caracteriza o inventário patrimonial.\n\n- **A) Gestão de risco patrimonial — incorreta:** identifica e trata riscos, mas não substitui a contagem e conferência física descritas.\n- **B) Conciliação contábil — incorreta:** compara registros contábeis, mas não necessariamente verifica localização e estado físico de cada bem.\n- **C) Inventário patrimonial — correta:** verifica existência, localização, estado e correspondência com os registros.\n- **D) Planejamento de compras — incorreta:** trata de aquisições futuras.\n- **E) Manutenção preventiva — incorreta:** busca evitar falhas e deterioração, não realizar o levantamento patrimonial.\n\n**Dica:** inventário patrimonial é a fotografia física e documental dos bens em determinada data.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3769306",
@@ -1595,7 +1679,28 @@
       "e": "Todas as partes."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — todas as partes estão corretas.** O inventário físico é um procedimento de controle que pode ser executado por pessoal do almoxarifado, permite verificar quantidade, integridade, conservação, localização e eventuais perdas, e pode ser periódico, rotativo ou motivado por solicitação de auditoria.\n\n- **1ª parte — correta:** a equipe responsável pode realizar a coleta física dos dados dos itens armazenados.\n- **2ª parte — correta:** o inventário permite verificar integridade, conservação, endereçamento e possíveis perdas.\n- **3ª parte — correta:** pode ocorrer por programação interna (periódico ou rotativo) ou por demanda de auditoria.\n- **A), B), C) e D) — incorretas:** deixam de reconhecer uma ou mais partes verdadeiras.\n- **E) Todas as partes — correta.**\n\n**Dica:** inventário não é apenas contagem: também apoia conferência de localização, conservação, rastreabilidade e identificação de divergências.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3352840",
@@ -1612,7 +1717,28 @@
       "e": "mitiga a detecção de materiais danificados ou com prazo de validade expirado."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — permite detectar rapidamente discrepâncias entre estoque físico e contábil.** A contagem cíclica distribui a conferência dos itens ao longo do tempo, em ciclos planejados, sem depender de uma única contagem geral.\n\n- **A) Incorreta:** a contagem pode priorizar itens críticos ou de maior valor, e não concentrar esforços em áreas menos críticas.\n- **B) Correta:** a frequência de contagens permite identificar divergências em tempo menor e corrigir causas.\n- **C) Incorreta:** a contagem cíclica tende a reduzir a necessidade de paralisações amplas, embora demande organização e mão de obra.\n- **D) Incorreta:** não prioriza necessariamente itens de menor valor; critérios ABC podem direcionar frequência maior aos itens mais relevantes.\n- **E) Incorreta:** a contagem pode ajudar a identificar itens danificados ou vencidos, não mitigar sua detecção.\n\n**Dica:** inventário cíclico = pequenas contagens frequentes; inventário geral = contagem abrangente concentrada.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3641147",
@@ -1629,7 +1755,28 @@
       "e": "O inventário físico verifica a conformidade entre os registros e os materiais existentes, identifica divergências e fortalece o controle patrimonial."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — verificar conformidade entre registros e materiais existentes.** O inventário físico confronta o estoque real com os registros do sistema, identificando diferenças, faltas, sobras, erros de localização e outras inconsistências.\n\n- **A) Incorreta:** inventário não substitui registros eletrônicos; ele os confere e subsidia ajustes documentados.\n- **B) Incorreta:** organização visual pode ser efeito de uma arrumação, mas não define o objetivo do inventário.\n- **C) Incorreta:** inventário físico não se limita a auditoria externa nem à validação fiscal/financeira.\n- **D) Incorreta:** pode ser especialmente útil para perecíveis, mas não se restringe a eles.\n- **E) Correta:** compara existência física e registros, detecta divergências e fortalece o controle.\n\n**Dica:** inventário = confronto entre físico e registrado, com análise e regularização das diferenças.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3446717",
@@ -1645,7 +1792,28 @@
       "d": "As afirmativas I e II são verdadeiras, mas II não é uma justificativa da I."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — as duas afirmações são verdadeiras, e II justifica I.** Inventários periódicos ajudam a manter a precisão dos registros e a prevenir perdas porque permitem identificar diferenças entre o saldo registrado e a quantidade física, possibilitando investigar e corrigir as causas.\n\n- **I — verdadeira:** inventários regulares são instrumentos de controle e acuracidade do estoque.\n- **II — verdadeira:** a comparação entre registros e existência física revela divergências e orienta medidas corretivas.\n- **Relação — correta:** II explica por que inventários periódicos contribuem para a precisão e prevenção de perdas.\n- **A) Incorreta:** as afirmações não são falsas.\n- **B) Incorreta:** II também é verdadeira.\n- **C) Correta:** ambas verdadeiras e II justifica I.\n- **D) Incorreta:** há relação justificadora entre as duas.\n\n**Dica:** a finalidade do inventário não é apenas contar; é identificar causas de divergências e melhorar a confiabilidade dos registros.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3446738",
@@ -1661,7 +1829,28 @@
       "d": "III e IV, apenas."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — I, II, III e IV.** As quatro afirmações descrevem características e etapas do inventário físico e da conciliação entre registros e quantidades reais.\n\n- **I — verdadeira:** o inventário compara a quantidade física com os registros, permitindo apurar divergências.\n- **II — verdadeira no modelo descrito:** inventário geral abrange o conjunto dos itens em uma operação concentrada, frequentemente no encerramento do exercício. Pode exigir interrupção ou restrição temporária de movimentações para assegurar a confiabilidade da contagem.\n- **III — verdadeira:** abrangência, agilidade, confiabilidade, eficiência e consistência são requisitos de um processo de inventário bem executado.\n- **IV — verdadeira:** após a contagem, as diferenças devem ser analisadas, justificadas e reconciliadas, com os ajustes cabíveis e documentados.\n- **A) I, II, III e IV — correta.**\n- **B), C) e D) — incorretas:** deixam de considerar uma ou mais afirmações válidas.\n\n**Ressalva:** a necessidade de paralisação total depende do método e dos controles adotados; a organização pode estabelecer corte de movimentações ou procedimentos de controle durante a contagem. A ideia central é evitar que entradas e saídas distorçam o levantamento.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3627116",
@@ -1677,7 +1866,28 @@
       "d": "I. Inventário Anual II. Inventário de Transferência de Responsabilidade III. Inventário Eventual."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — I: inventário anual; II: transferência de responsabilidade; III: eventual.** Cada situação corresponde a um tipo de inventário patrimonial.\n\n- **I — Inventário anual:** levantamento realizado no encerramento do exercício, considerando as movimentações ocorridas durante o ano.\n- **II — Inventário de transferência de responsabilidade:** ocorre quando há mudança de chefia ou do responsável pela carga patrimonial, para registrar a situação dos bens transferidos.\n- **III — Inventário eventual:** realizado fora do calendário regular, por iniciativa ou determinação do dirigente, conforme a necessidade.\n- **A), B) e C) — incorretas:** trocam os tipos associados às situações.\n- **D) Correta:** anual; transferência de responsabilidade; eventual.\n\n**Dica:** fechamento do exercício = anual; troca de responsável = transferência; necessidade fora do calendário = eventual.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Fiocruz/ENSP — Serviço de Gestão Patrimonial",
+        "url": "https://vddig.ensp.fiocruz.br/servico-de-gestao-patrimonial/o-que-fazemos"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3362304",
