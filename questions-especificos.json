@@ -14,7 +14,28 @@
       "e": "Dá-se o nome de inventário físico à catalogação, simplificação, especificação, normalização, padronização e codificação de todos os materiais que compõem o estoque da organização."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — inventário.** Inventário é o levantamento físico ou a contagem dos materiais existentes, para comparar as quantidades reais com os registros do sistema ou das fichas de estoque. Essa conferência permite identificar divergências, perdas, sobras e erros de registro.\n\n- **A) Incorreta:** o sistema de duas gavetas é um método simples de reposição: uma gaveta atende ao consumo e a outra funciona como reserva para o período de ressuprimento. A descrição apresentada se aproxima de revisão periódica.\n- **B) Incorreta:** UEPS/LIFO significa “último que entra, primeiro que sai”. A alternativa descreve PEPS/FIFO, em que sai primeiro o lote mais antigo.\n- **C) Correta:** descreve a contagem física e a confrontação com os registros.\n- **D) Incorreta:** a verificação da existência física corresponde ao inventário; classificação organiza os materiais segundo critérios e atributos.\n- **E) Incorreta:** catalogação, simplificação, especificação, normalização, padronização e codificação são atividades de classificação de materiais, não inventário físico.\n\n**Dica:** inventário = conferir fisicamente; classificação = organizar e identificar os itens; PEPS = primeiro que entra, primeiro que sai; UEPS = último que entra, primeiro que sai.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3446709",
@@ -30,7 +51,28 @@
       "d": "4, 3, 1, 2."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — 2, 1, 3, 4.** A correspondência entre os problemas e as diretrizes é:\n\n1. **Materiais críticos sem prioridade → 2:** criar classificação hierárquica que destaque itens indispensáveis.\n2. **Códigos duplicados → 1:** padronizar a codificação e adotar código único.\n3. **Itens obsoletos → 3:** revisar continuamente e retirar materiais sem utilidade do estoque, observando os procedimentos de baixa/destinação.\n4. **Classificações diferentes entre setores → 4:** integrar sistemas e padronizar critérios.\n\n- **A) 1, 2, 4, 3 — incorreta:** não corresponde aos problemas descritos.\n- **B) 2, 1, 3, 4 — correta.**\n- **C) 3, 4, 3, 1 — incorreta:** repete o número 3 e não associa corretamente os problemas.\n- **D) 4, 3, 1, 2 — incorreta:** apresenta associações trocadas.\n\n**Dica:** classificação hierárquica prioriza criticidade; codificação única elimina duplicidades; saneamento remove obsoletos; integração harmoniza dados entre setores.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3716742",
@@ -46,7 +88,28 @@
       "d": "I e II, apenas."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — I, II, III e IV.** As quatro afirmações são compatíveis com a administração de materiais e com o planejamento logístico no setor público.\n\n- **I — verdadeira:** a logística busca disponibilizar bens e serviços adequados, no tempo e nas condições necessários, com custo total racional e atendimento ao usuário. A economicidade é um critério relevante, sem significar escolher sempre o menor preço isoladamente.\n- **II — verdadeira:** investimentos públicos em infraestrutura exigem planejamento responsável, racionalidade e transparência para priorizar necessidades e evitar desperdícios.\n- **III — verdadeira:** o planejamento público precisa considerar demandas coletivas heterogêneas e complexas, presentes e futuras.\n- **IV — verdadeira:** planos públicos bem elaborados também podem melhorar previsibilidade e orientar decisões de investimento, além de apoiar a formulação de políticas públicas.\n\n- **A) I, II, III e IV — correta.**\n- **B), C) e D) — incorretas:** deixam de considerar afirmações que são compatíveis com a função do planejamento e da logística pública.\n\n**Dica:** administração de materiais no setor público integra abastecimento, planejamento, custo, qualidade e atendimento das necessidades institucionais e coletivas.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3080408",
@@ -63,7 +126,28 @@
       "e": "Os materiais estocados há menos tempo devem ser fornecidos em primeiro lugar, com a finalidade de evitar o envelhecimento do estoque."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — os materiais estocados há menos tempo devem ser fornecidos primeiro.** A questão pede a exceção. Em regra, para materiais sujeitos a envelhecimento ou validade, aplica-se PEPS/FIFO: primeiro que entra, primeiro que sai. A alternativa E inverte a lógica e propõe retirar primeiro os itens mais novos, deixando os antigos no estoque.\n\n- **A) Correta como boa prática:** etiquetas voltadas para o acesso facilitam identificação e conferência.\n- **B) Correta como boa prática:** manter embalagens originais ajuda a proteger e identificar o material, abrindo-as conforme a necessidade.\n- **C) Correta como boa prática:** corredores, saídas e equipamentos de emergência devem permanecer desobstruídos.\n- **D) Correta como boa prática:** itens de alta movimentação devem ficar em locais acessíveis e próximos da expedição.\n- **E) Incorreta — resposta da questão:** prioriza os itens mais novos e aumenta o risco de envelhecimento dos lotes antigos.\n\n**Atenção:** para produtos com prazo de validade, pode ser mais adequado FEFO (vence primeiro, sai primeiro), que considera a data de vencimento, não apenas a ordem de entrada.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3085759",
@@ -79,7 +163,28 @@
       "d": "4, 3, 2, 1."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — 4, 3, 2, 1.** A sequência relaciona as descrições às funções da administração de materiais:\n\n1. **Gerenciamento do trânsito de materiais → 4, Transporte.**\n2. **Controle das disponibilidades e necessidades de materiais para a produção → 3, Estoques.**\n3. **Identificação de fornecedores, negociação e compra → 2, Aquisição.**\n4. **Local de guarda e conservação → 1, Almoxarifado.**\n\n- **A) 1, 2, 4, 3 — incorreta:** não corresponde às definições.\n- **B) 2, 1, 3, 4 — incorreta:** troca as funções de transporte e almoxarifado.\n- **C) 3, 4, 1, 2 — incorreta:** apresenta ordem incompatível com as descrições.\n- **D) 4, 3, 2, 1 — correta.**\n\n**Dica:** transporte movimenta; estoque controla disponibilidade; aquisição compra; almoxarifado guarda e conserva.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3309984",
@@ -96,7 +201,28 @@
       "e": "Aquisição, estoque e almoxarifado."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — compras, estoques e logística de distribuição.** A administração de materiais abrange o fluxo de suprimentos desde a aquisição até a armazenagem, o controle de estoques e a distribuição para os usuários ou para a produção. A alternativa C apresenta o conjunto mais abrangente entre as opções.\n\n- **A) Receita, custo e lucro — incorreta:** são categorias financeiras, não as principais atividades da gestão de materiais.\n- **B) Centro de distribuição, vendas e entrega — incorreta:** mistura estruturas e atividades comerciais, sem contemplar compras e controle de estoque.\n- **C) Compras, estoques e logística de distribuição — correta:** contempla aquisição, controle e movimentação/entrega dos materiais.\n- **D) Almoxarifado, estoque e armazenagem — incorreta:** reúne atividades importantes, mas não inclui a aquisição e a distribuição de forma abrangente.\n- **E) Aquisição, estoque e almoxarifado — incorreta como resposta pretendida:** também lista funções relevantes, mas é menos completa que C por não explicitar a logística de distribuição.\n\n**Dica:** pense no ciclo completo: comprar, receber, armazenar, controlar e distribuir.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2869869",
@@ -112,7 +238,28 @@
       "d": "4, 2, 3, 1."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — 4, 2, 3, 1.** A associação correta é:\n\n1. **Trânsito de materiais entre fornecedores, organização e clientes → 4, Transporte e distribuição.**\n2. **Identificação de fornecedores, negociação e compra → 2, Aquisição.**\n3. **Acompanhamento das políticas e disponibilidades de materiais → 3, Estoque.**\n4. **Local onde os materiais são guardados → 1, Almoxarifado.**\n\n- **A) 1, 4, 2, 3 — incorreta:** não corresponde à ordem das definições.\n- **B) 2, 3, 1, 4 — incorreta:** troca as funções.\n- **C) 3, 1, 4, 2 — incorreta:** não corresponde às descrições.\n- **D) 4, 2, 3, 1 — correta.**\n\n**Dica:** distribuição movimenta; aquisição negocia e compra; estoque controla; almoxarifado guarda.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3093942",
@@ -129,7 +276,28 @@
       "e": "F • F • V • V • F"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: C — V, F, V, V, V.** A questão avalia o ciclo de materiais, a função da armazenagem, o PEPS, os custos de armazenagem e a classificação ABC.\n\n- **1ª afirmação — verdadeira segundo o gabarito:** apresenta um ciclo operacional de materiais que começa na necessidade do usuário e inclui análise, reposição, recebimento, armazenamento e distribuição.\n- **2ª afirmação — falsa segundo o gabarito:** a descrição de entrega no ponto certo, menor custo e menor prazo aproxima-se do objetivo logístico de distribuição/serviço ao usuário. A armazenagem, em sentido mais específico, concentra-se na guarda, conservação, organização e disponibilização dos materiais. A fronteira conceitual é discutível, pois a armazenagem integrada à logística também contribui para atender o usuário no local e tempo adequados.\n- **3ª afirmação — verdadeira:** o PEPS depende de organização física e identificação adequadas dos lotes para que os itens mais antigos sejam retirados primeiro.\n- **4ª afirmação — verdadeira segundo a classificação adotada na questão:** custos de armazenagem podem envolver componentes fixos e variáveis, como instalações/equipamentos e gastos associados à movimentação e ao volume armazenado.\n- **5ª afirmação — verdadeira:** a classificação ABC ordena os itens conforme sua relevância econômica, normalmente pelo valor de consumo (quantidade consumida × custo unitário) em determinado período.\n\n- **C) V–F–V–V–V — gabarito cadastrado.**\n- **A), B), D) e E) — incorretas:** não apresentam a sequência indicada.\n\n**Ressalva:** a segunda afirmação pode ser interpretada como objetivo da logística de armazenagem em sentido amplo, e não apenas da guarda física. Mantive o gabarito C e explicitei a distinção conceitual, pois a redação não é totalmente inequívoca.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3785764",
@@ -146,7 +314,28 @@
       "e": "São corretas as afirmativas 1, 2, 3 e 4."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — todas as afirmativas estão corretas.** A administração de materiais integra o planejamento das necessidades, o abastecimento, as compras, o armazenamento e a gestão dos estoques, articulando-se com o planejamento da produção.\n\n- **1 — verdadeira:** a função inclui suprir matérias-primas e demais materiais necessários.\n- **2 — verdadeira:** as necessidades de materiais devem estar alinhadas aos planos de produção.\n- **3 — verdadeira:** compras é atividade central do processo de abastecimento.\n- **4 — verdadeira:** armazenagem e controle de estoques integram a administração de materiais.\n\n- **A), B), C) e D) — incorretas:** excluem pelo menos uma atividade que faz parte do escopo da área.\n- **E) Correta:** todas as quatro afirmativas estão corretas.\n\n**Dica:** administração de materiais conecta suprimento, compras, estoque, armazenagem e atendimento das necessidades de produção/serviço.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2548836",
@@ -163,7 +352,28 @@
       "e": "manter um alto estoque de matéria-prima para garantir uma eventual produção sazonal."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — organizar e controlar compras, almoxarifado, estoque e utilização dos materiais.** A gestão eficiente de materiais busca assegurar que os recursos estejam disponíveis na quantidade, qualidade, momento e local necessários, evitando tanto falta quanto excesso e desperdício.\n\n- **A) Incorreta:** restringe o objetivo a vendas, compras de material processado e registros, sem contemplar o controle integrado do fluxo.\n- **B) Correta:** abrange compras, almoxarifado, estoque e uso dos materiais.\n- **C) Incorreta:** redimensionar custos fixos não representa o objetivo geral da gestão de materiais.\n- **D) Incorreta:** concentra-se em recebimento de produtos de maior demanda e baixo custo, sem cobrir o ciclo completo.\n- **E) Incorreta:** manter estoque alto indiscriminadamente eleva custos e riscos de obsolescência; o objetivo é dimensionar o estoque conforme a demanda e o nível de serviço desejado.\n\n**Dica:** gestão eficiente não é estocar o máximo possível, mas manter o nível adequado para atender a demanda com custo total racional.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili (2013)",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão de Operações e Logística I",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/401424/1/Gestao%20de%20Operacoes%20e%20Logistica%20I%203ed%20WEB.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3256688",
