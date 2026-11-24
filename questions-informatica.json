@@ -341,34 +341,21 @@
     "options": {
       "a": "janela de Backup.",
       "b": "versionamento.",
-      "c": "tipo de dados.",
+      "c": "cor do papel de parede usado na interface do programa de backup.",
       "d": "tempo estimado para o processo de restauração do backup.",
       "e": "capacidade de armazenamento necessária."
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. A questão pede o item que não seria fundamental em um plano de backup, mas a alternativa C (tipo de dados) também é relevante: a natureza, criticidade e volume dos dados influenciam frequência, retenção, método e prioridade de restauração. Janela, versionamento, tempo de restauração e capacidade também são elementos de planejamento. O enunciado não oferece uma exceção tecnicamente inequívoca; o gabarito C foi preservado apenas para rastreabilidade, com recomendação de revisão/anulação.",
+    "explanation": "A alternativa C é a resposta. A cor do papel de parede da interface não influencia a estratégia de cópia, retenção ou restauração. Já janela de backup, versionamento, natureza e criticidade dos dados, tempo de restauração e capacidade de armazenamento são fatores relevantes para planejar o processo.",
     "references": [
       {
-        "label": "IBM — O que é backup e restauração?",
-        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
-      },
-      {
-        "label": "CISA — StopRansomware Guide: backups",
-        "url": "https://media.defense.gov/2023/May/23/2003227891/-1/-1/1/CSI-StopRansomware-Guide.PDF"
-      },
-      {
-        "label": "ENISA — Technical Implementation Guidance, backup and recovery tests",
-        "url": "https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf"
-      },
-      {
         "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
+        "url": "https://cartilha.cert.br/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão possivelmente sem alternativa correta: tipo/natureza dos dados é elemento relevante de qualquer plano de backup. Recomenda-se revisar o gabarito C ou anular."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1776090",
@@ -412,38 +399,25 @@
     "number": 12,
     "subject": "Informática",
     "topic": "Tecnologia da Informação > Ataques e Golpes > Segurança da Informação > Ataques e Golpes > Informática > Internet > Segurança da Informação > Ataques e Golpes",
-    "stem": "Um computador foi atacado por um vírus que engana o usuário, fazendo-o ser encaminhado a um website falso, quando se acessa a internet, com intenção de capturar seus dados nesse website falso. Esse tipo de vírus ou ataque é identificado como:",
+    "stem": "Um usuário tenta acessar um endereço legítimo, mas é redirecionado sem perceber para um site falso, com o objetivo de capturar seus dados. Esse tipo de ataque é conhecido como:",
     "options": {
       "a": "AirCrack New.",
       "b": "Keylloger.",
-      "c": "Phising.",
+      "c": "Pharming.",
       "d": "Denial of Service.",
       "e": "FastTrack."
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. O cenário descrito — o usuário digita ou tenta acessar um endereço legítimo e é redirecionado sem perceber para uma página falsa — caracteriza especificamente pharming, frequentemente por manipulação de DNS. A alternativa C parece ser a pretendida, mas está grafada “Phising” e corresponde a phishing; como “pharming” não aparece nas opções, há provável erro material e nenhuma alternativa está tecnicamente exata.",
+    "explanation": "A alternativa C é a correta. Pharming é o redirecionamento da vítima para um site fraudulento, frequentemente por manipulação de DNS ou de configurações de rede. Phishing, por sua vez, costuma usar mensagens ou páginas falsas para induzir a vítima a fornecer dados, sem necessariamente manipular o redirecionamento do endereço.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf"
-      },
-      {
-        "label": "CERT.br — Recomendações sobre phishing e pharming",
-        "url": "https://www.cartilha.cert.br/docs/notificacoes/"
-      },
-      {
-        "label": "CISA — Malware Tip Card",
-        "url": "https://www.cisa.gov/sites/default/files/publications/Malware_1.pdf"
-      },
-      {
-        "label": "NIST CSRC — Glossary: Malware",
-        "url": "https://csrc.nist.gov/glossary/term/malware"
+        "url": "https://cartilha.cert.br/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "O conceito definido é pharming (redirecionamento para página falsa), mas a opção C está grafada Phising/phishing e não há alternativa pharming. Recomenda-se corrigir a opção ou anular."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2549491",
@@ -721,25 +695,13 @@
     "explanation": "Alternativa correta: A. O PROCV pesquisa na primeira coluna da matriz e retorna valores de colunas à direita; não faz busca nativa para a esquerda. ÍNDICE com CORRESP permite localizar a chave em uma coluna à direita da coluna que contém o valor de retorno e devolver um valor à esquerda. Portanto, a situação descrita é a alternativa A, e não D. **Gabarito corrigido de D para A.**",
     "references": [
       {
-        "label": "Microsoft Support — INDEX, MATCH e limitações do PROCV",
-        "url": "https://support.microsoft.com/en-gb/excel/look-up-values-with-vlookup-index-or-match"
-      },
-      {
-        "label": "Microsoft Support — Função CORRESP (MATCH)",
-        "url": "https://support.microsoft.com/en-us/excel/functions/match-function"
-      },
-      {
-        "label": "Microsoft Support — Referências relativas, absolutas e mistas",
-        "url": "https://support.microsoft.com/en-us/excel/get-started/overview-of-formulas-in-excel"
-      },
-      {
-        "label": "Microsoft Support — Função SOMA",
-        "url": "https://support.microsoft.com/en-us/excel/learn-more-about-sum"
+        "label": "Microsoft Support — Usar funções para localizar dados em tabelas",
+        "url": "https://support.microsoft.com/pt-br/excel/use-excel-built-in-functions-to-find-data-in-a-table-or-a-range-of-cells"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito original D corrigido para A: ÍNDICE+CORRESP permite retorno à esquerda da coluna de pesquisa; PROCV só retorna à direita. Ver documentação oficial Microsoft."
+    "reviewNote": "Gabarito corrigido de D para A: ÍNDICE+CORRESP permite localizar o valor em uma coluna e retornar dados de outra coluna, inclusive à esquerda; o PROCV tradicional retorna a partir da primeira coluna da matriz para a direita."
   },
   {
     "id": "4426691",
@@ -2188,38 +2150,25 @@
     "number": 60,
     "subject": "Informática",
     "topic": "Informática > Ferramentas de Proteção > Segurança da Informação > Firewall > VPN",
-    "stem": "Avalie as seguintes práticas como Verdadeiras (V) ou Falsas (F) em relação à prevenção de infecções por malware, considerando a complexidade e eficácia das medidas: I- Utilizar um firewall como única medida de proteção; II- Criar planilhas no Excel com macros habilitadas para automação de tarefas; III- Desativar as atualizações automáticas do sistema operacional para ter controle total; IV- Utilizar uma VPN (Rede Privada Virtual) para navegação segura; V- Configurar restrições de acesso baseadas em MAC address como camada adicional de segurança. Indique a alternativa correta:",
+    "stem": "Avalie as práticas a seguir quanto à prevenção de infecções por malware e à segurança da rede. I — Utilizar um firewall como única medida de proteção. II — Manter macros habilitadas em documentos recebidos de remetentes desconhecidos. III — Desativar as atualizações automáticas do sistema operacional. IV — Utilizar uma VPN para proteger o tráfego em redes públicas, reconhecendo que ela não substitui medidas antimalware. V — Configurar restrições de acesso baseadas em endereço MAC como camada adicional de controle de rede. Indique a sequência correta (V ou F):",
     "options": {
       "a": "F, V, F, V, F;",
       "b": "V, F, F, V, F;",
-      "c": "F, V, F, V, V;",
+      "c": "F, F, F, V, V.",
       "d": "V, V, V, F, V;",
       "e": "F, F, V, V, F."
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. O gabarito C parece ser o pretendido: I é falsa porque firewall isolado não basta; III é falsa porque desativar atualizações aumenta a exposição; e V pode funcionar como camada suplementar de controle de acesso, embora filtragem por MAC seja contornável. **Há, porém, problema técnico na questão:** VPN não impede malware por si só, e habilitar macros sem controles pode elevar o risco. A afirmação II não descreve necessariamente uma medida de prevenção; recomenda-se revisar o item e o gabarito.",
+    "explanation": "A sequência correta é F, F, F, V, V (alternativa C). I é falsa: firewall isolado não basta. II é falsa: habilitar macros de origem desconhecida aumenta o risco. III é falsa: desativar atualizações deixa vulnerabilidades sem correção. IV é verdadeira: VPN pode proteger o tráfego em redes públicas, mas não impede, por si só, infecção por malware. V é verdadeira como camada suplementar de controle de acesso, embora filtragem por MAC possa ser contornada e não substitua autenticação robusta.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
-      },
-      {
-        "label": "CERT.br — Fascículos de segurança, códigos maliciosos e proteção",
-        "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
-        "label": "CISA — StopRansomware Guide",
-        "url": "https://www.cisa.gov/sites/default/files/2023-10/StopRansomware-Guide-508C-v3_1.pdf"
-      },
-      {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão tecnicamente ambígua: VPN não impede malware por si só e macros habilitadas não são, por si, medida preventiva. O gabarito C foi mantido como provável intenção, mas recomenda-se revisão/anulação."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3322495",
@@ -3222,7 +3171,7 @@
     "number": 88,
     "subject": "Informática",
     "topic": "Informática > Sistemas Operacionais > Gerenciamento de Arquivos e Pastas > Windows 10 > Windows",
-    "stem": "Até quantos caracteres pode ter o nome de um arquivo no sistema operacional Windows 10?",
+    "stem": "Em aplicações do Windows que seguem o limite clássico MAX_PATH, sem habilitar suporte a caminhos longos, qual é o limite tradicional de caracteres para o caminho completo de um arquivo?",
     "options": {
       "a": "150.",
       "b": "260.",
@@ -3231,25 +3180,15 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. O gabarito provavelmente se refere ao limite clássico MAX_PATH de 260 caracteres para o caminho completo em determinadas APIs/configurações legadas do Windows. **Ressalva importante:** o enunciado fala em nome de arquivo, que não é a mesma coisa que caminho completo; o componente de nome tem limite distinto (tipicamente 255 caracteres por componente, sujeito ao sistema de arquivos). Recomenda-se corrigir o enunciado para “caminho completo” ou revisar o gabarito.",
+    "explanation": "A alternativa B (260 caracteres) corresponde ao limite clássico MAX_PATH para o caminho completo em aplicações e APIs legadas do Windows. Esse limite não deve ser confundido com o tamanho máximo do nome isolado do arquivo; versões e configurações atuais podem permitir caminhos longos quando o sistema e os aplicativos oferecem suporte.",
     "references": [
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
-      },
-      {},
-      {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/"
+        "label": "Microsoft Learn — Naming Files, Paths, and Namespaces",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "O gabarito B (260) refere-se ao limite clássico do caminho completo MAX_PATH, não ao nome isolado do arquivo. Recomenda-se ajustar o enunciado para 'caminho completo' ou rever a resposta."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3221138",
@@ -3589,38 +3528,25 @@
     "number": 98,
     "subject": "Informática",
     "topic": "Informática > Internet > Tipos de Malwares (ameaças e pragas virtuais) > Extensões de arquivos > Segurança da Informação > Conceitos básicos em Informática > Malwares (ameaças e pragas virtuais)",
-    "stem": "A extensão de arquivo abaixo mais utilizada pelos vírus para se instalarem é:",
+    "stem": "No Microsoft Word, qual das extensões abaixo identifica um documento habilitado para macros?",
     "options": {
       "a": ".PDF",
       "b": ".AWS",
       "c": ".JPEG",
       "d": ".EXEC",
-      "e": ".DOCX"
+      "e": ".DOCM"
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Gabarito originalmente cadastrado: E (não validado). Entre as opções, .DOCX é a única extensão comum de documento do Office, mas não é, por si só, executável nem habilitada para macros. Vírus e outros malwares podem ser distribuídos por diversos vetores, como executáveis, documentos com macros (por exemplo, .DOCM), arquivos compactados e exploração de vulnerabilidades. Não existe uma extensão única universalmente “mais utilizada”. Portanto, nenhuma alternativa está tecnicamente bem fundamentada; recomenda-se anular ou reescrever o item.",
+    "explanation": "A alternativa E (.DOCM) é a correta. O formato DOCM é utilizado para documentos do Word que podem armazenar macros VBA. O formato DOCX, por padrão, não armazena macros VBA. A extensão, isoladamente, não prova que um arquivo seja malicioso; é necessário avaliar origem, conteúdo e comportamento.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
-      },
-      {
-        "label": "CERT.br — Fascículos da Cartilha de Segurança",
-        "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
-        "label": "Microsoft — Como se proteger contra malware",
-        "url": "https://www.microsoft.com/pt-br/security/business/security-101/what-is-malware"
-      },
-      {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito E mantido apenas para preservar o registro original, não validado como correto. Enunciado sem critério verificável e extensão DOCX não é formato executável nem habilitado para macros por padrão. Recomenda-se anulação ou reescrita com vetor específico."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2601735",
@@ -3923,7 +3849,7 @@
     "number": 107,
     "subject": "Informática",
     "topic": "Informática > Teclas de Atalhos > Conceitos Avançados > Windows > Janelas > Windows 10 > Sistemas Operacionais > Principais Funcionalidades",
-    "stem": "No Windows 10, qual comando ativa a opção “Aero Flip”, que permite a alternância das janelas na área de trabalho, organizando-as de acordo com a preferência de uso?",
+    "stem": "No Windows 10, qual atalho exibe miniaturas de todos os aplicativos abertos e mantém essa visualização na tela para navegação pelo teclado?",
     "options": {
       "a": "Ctrl + Alt + Tab.",
       "b": "Win + Home.",
@@ -3933,28 +3859,15 @@
     },
     "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Gabarito originalmente cadastrado: A. Ctrl + Alt + Tab mantém a visualização das miniaturas de aplicativos aberta para navegação por teclado. Contudo, o enunciado usa “Aero Flip” de modo impreciso: a expressão é associada historicamente ao Flip 3D do Windows Vista/7, enquanto no Windows 10 Windows + Tab abre a Visão de Tarefas. Assim, A é compatível com alternância de aplicativos, mas o termo usado no enunciado não identifica esse comando com precisão; recomenda-se corrigir a terminologia.",
+    "explanation": "A alternativa A (Ctrl + Alt + Tab) exibe as miniaturas dos aplicativos abertos e mantém o alternador visível para navegação por teclado. O termo “Aero Flip” foi retirado porque é historicamente associado a recursos de versões anteriores do Windows; no Windows 10, Win + Tab abre a Visão de Tarefas.",
     "references": [
       {
         "label": "Microsoft Support — Atalhos de teclado no Windows",
         "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
-      },
-      {
-        "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/"
-      },
-      {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito A é compatível com o alternador de aplicativos Ctrl+Alt+Tab, mas o termo “Aero Flip” é ambíguo/historicamente associado ao Flip 3D do Vista/7. No Windows 10, Win+Tab abre a Visão de Tarefas. Corrigir enunciado para “alternar entre aplicativos abertos”."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2533665",
@@ -3964,35 +3877,26 @@
     "stem": "O software Microsoft Office Excel possui funções capazes de realizar cálculos conforme os valores passados para determinada fórmula padrão. Considerando suas versões superiores a 2007, assinale a alternativa correspondente à função MÉDIA.",
     "options": {
       "a": "Retorna a média (aritmética) de todas as células em um intervalo que satisfazem um determinado critério",
-      "b": "Retorna a média dos argumentos, inclusive números, texto e valores lógicos",
+      "b": "Retorna a média aritmética dos argumentos numéricos, ignorando texto, valores lógicos e células vazias em referências.",
       "c": "Retorna a média (aritmética) de todas as células que satisfazem vários critérios",
       "d": "Retorna a média dos desvios absolutos dos pontos de dados em relação à média",
       "e": "Retorna a tangente hiperbólica inversa de um número"
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Não há alternativa tecnicamente correta para a função MÉDIA. MÉDIA calcula a média aritmética dos argumentos numéricos e, em referências, ignora texto e valores lógicos. A opção B descreve MÉDIAA (AVERAGEA), que considera também texto e valores lógicos; A descreve MÉDIASE; C descreve MÉDIASES; D descreve DESV.MÉDIO. O gabarito B está incorreto para a pergunta formulada. Recomenda-se anular o item ou substituir a opção B pela definição correta de MÉDIA.",
+    "explanation": "A alternativa B descreve a função MÉDIA. Ela calcula a média aritmética dos argumentos numéricos; em intervalos ou referências, ignora texto, valores lógicos e células vazias, mas inclui zeros. A descrição anterior correspondia à função MÉDIAA, que considera também texto e valores lógicos em determinadas formas de argumento.",
     "references": [
       {
         "label": "Microsoft Support — Função MÉDIA",
-        "url": "https://support.microsoft.com/pt-br/excel/average-function"
+        "url": "https://support.microsoft.com/pt-br/excel/functions/average-function"
       },
       {
         "label": "Microsoft Support — Função MÉDIAA",
-        "url": "https://support.microsoft.com/en-us/excel/averagea-function"
-      },
-      {
-        "label": "Microsoft Support — Funções do Excel (referência)",
-        "url": "https://support.microsoft.com/pt-br/excel"
-      },
-      {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
+        "url": "https://support.microsoft.com/pt-br/excel/functions/averagea-function"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito originalmente cadastrado B não corresponde à função MÉDIA; descreve MÉDIAA (AVERAGEA). Não há alternativa correta. Recomenda-se anulação ou correção das opções."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2617465",
@@ -4446,7 +4350,7 @@
     "topic": "Informática > Sistemas Operacionais > Windows 10 > Windows",
     "stem": "Considerando o Windows 10, é INCORRETO afirmar que:",
     "options": {
-      "a": "possui sistema operacional monolítico.",
+      "a": "possui arquitetura híbrida baseada na família Windows NT.",
       "b": "é um software livre.",
       "c": "executa diversas tarefas simultaneamente.",
       "d": "possui capacidade de operar com várias contas/sessões de usuários.",
@@ -4454,7 +4358,7 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. A afirmação incorreta é que o Windows 10 seria software livre. O Windows é um sistema operacional proprietário, distribuído sob licença da Microsoft. Ele oferece multitarefa, múltiplas contas/sessões e escalonamento de processos. A classificação do núcleo como monolítico é discutível e, em materiais técnicos, o Windows NT costuma ser descrito como arquitetura híbrida; isso não altera a resposta B.",
+    "explanation": "A alternativa B é a incorreta, pois o Windows 10 é um sistema operacional proprietário, não software livre. A arquitetura Windows NT é comumente descrita como híbrida. O sistema oferece multitarefa, múltiplas contas e escalonamento de processos.",
     "references": [
       {
         "label": "Microsoft Support — Fim do suporte ao Windows 10",
@@ -4474,8 +4378,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A alternativa B é inequivocamente incorreta: Windows 10 é proprietário. A descrição do núcleo como monolítico é imprecisa, pois Windows NT costuma ser classificado como híbrido; considerar a distinção na correção didática."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2488947",
@@ -4556,7 +4459,7 @@
     "number": 124,
     "subject": "Informática",
     "topic": "Informática > Ferramentas de Proteção > Segurança da Informação > Certificado Digital",
-    "stem": "Ao enviar/receber documentos precisamos ter a certeza da origem e para obter uma “assinatura” confiável podemos utilizar:",
+    "stem": "Qual recurso eletrônico associa a identidade de um titular a uma chave pública e permite verificar a autenticidade de assinaturas digitais em documentos?",
     "options": {
       "a": "criptografia.",
       "b": "certificado digital.",
@@ -4566,7 +4469,7 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. O certificado digital associa uma identidade a uma chave pública e pode ser utilizado em processos de assinatura digital, ajudando a verificar autoria e integridade de documentos. Tecnicamente, certificado digital e assinatura digital não são a mesma coisa: o certificado identifica/vincula a chave; a assinatura é produzida criptograficamente com a chave privada.",
+    "explanation": "A alternativa B é a correta. O certificado digital vincula uma identidade a uma chave pública e permite que terceiros verifiquem assinaturas digitais. Certificado e assinatura não são a mesma coisa: a assinatura é produzida criptograficamente com a chave privada; o certificado permite validar a identidade associada à chave.",
     "references": [
       {
         "label": "CERT.br — Verificar integridade e assinaturas digitais",
@@ -4586,8 +4489,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Certificado digital não é sinônimo de assinatura digital: o certificado vincula identidade e chave pública, enquanto a assinatura é gerada criptograficamente. B é a melhor opção dada a formulação do item."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2223300",
@@ -4668,7 +4570,7 @@
     "number": 128,
     "subject": "Informática",
     "topic": "Informática > Backup > Procedimentos de Backup (becape ou cópia de segurança)",
-    "stem": "Backup é uma ação de segurança para proteção de informações. Através dele, cópias de arquivos e pastas existentes em um computador são feitas. Sendo assim, analise e responda. I- Dropbox. II- PureSync. III- Avast. IV- McAfee. V- OneDrive. São consideradas ferramentas de backup:",
+    "stem": "Quais ferramentas podem armazenar cópias sincronizadas de arquivos e integrar uma estratégia de backup, desde que configuradas com recursos adequados de versionamento e recuperação?",
     "options": {
       "a": "I e IV.",
       "b": "II e V.",
@@ -4678,7 +4580,7 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. Dropbox, PureSync e OneDrive podem ser usados para sincronizar ou manter cópias de arquivos; Avast e McAfee são soluções de segurança/antivírus, não ferramentas de backup. Assim, I, II e V correspondem à alternativa C. Ressalva: sincronização em nuvem não substitui, por si só, uma estratégia de backup independente com versões e recuperação.",
+    "explanation": "A alternativa C é a pretendida: Dropbox, PureSync e OneDrive podem integrar uma estratégia de cópias de arquivos. Ressalva importante: sincronização não equivale automaticamente a backup independente; exclusões e alterações podem ser propagadas. Uma estratégia adequada deve prever versões, retenção e recuperação.",
     "references": [
       {
         "label": "Microsoft Support — Escolher uma solução de backup no Windows",
@@ -4698,8 +4600,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Dropbox e OneDrive oferecem sincronização/armazenamento em nuvem e podem integrar estratégias de cópia; sincronização isolada não equivale a backup independente. C é a resposta pretendida."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2865835",
@@ -4965,7 +4866,7 @@
     "number": 136,
     "subject": "Informática",
     "topic": "Informática > Vírus > Extensões de arquivos > Vírus",
-    "stem": "A maior probabilidade da existência de um vírus é na seguinte extensão:",
+    "stem": "Entre as extensões abaixo, qual identifica tipicamente um arquivo executável do Windows?",
     "options": {
       "a": ".pdf",
       "b": ".txt",
@@ -4975,7 +4876,7 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. Entre as extensões listadas, .EXE identifica um arquivo executável do Windows e, por isso, é um tipo de arquivo frequentemente usado para distribuir malware. Ressalva: a extensão, sozinha, não prova que um arquivo seja malicioso; documentos, scripts e arquivos compactados também podem servir como vetores.",
+    "explanation": "A alternativa C (.EXE) é a correta: essa extensão identifica um arquivo executável do Windows. Isso não significa que todo arquivo EXE seja malicioso nem que outros formatos não possam distribuir malware; a extensão, sozinha, não determina a segurança do arquivo.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -4995,8 +4896,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": ".EXE é executável, mas a extensão não é suficiente para identificar malware. O enunciado deveria perguntar qual extensão corresponde a executável, em vez de afirmar probabilidade universal."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1969729",
@@ -5114,7 +5014,7 @@
     "number": 140,
     "subject": "Informática",
     "topic": "Informática > Equipamentos de Redes > Redes de Computadores > Firewall > Segurança da Informação > Firewall > Ferramentas de Proteção",
-    "stem": "Redes de computadores conectadas à internet são alvos de invasões por parte de hackers. A ferramenta para permitir o acesso à rede apenas por endereços autorizados é:",
+    "stem": "Qual ferramenta de segurança de rede pode permitir ou bloquear tráfego de entrada e saída conforme regras que incluam endereços IP autorizados?",
     "options": {
       "a": "Criptografia.",
       "b": "Firewall.",
@@ -5124,7 +5024,7 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Firewall aplica regras para permitir ou bloquear tráfego de rede, podendo restringir conexões por endereço IP, porta, protocolo ou outros critérios. Criptografia protege o conteúdo; certificado digital autentica identidades; antivírus detecta malware; modem fornece conectividade.",
+    "explanation": "A alternativa B é a correta. Um firewall filtra o tráfego de rede com base em regras, que podem considerar endereços IP, portas, protocolos e outros critérios. Criptografia protege dados, certificado digital identifica titulares e antivírus detecta códigos maliciosos.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -5144,8 +5044,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Firewall pode aplicar regras por IP, mas o enunciado deveria especificar filtragem de tráfego por endereço para distinguir o recurso de ACLs e controles de rede."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1241940",
@@ -5411,7 +5310,7 @@
     "number": 148,
     "subject": "Informática",
     "topic": "Informática > Segurança da Informação > Antivírus > Firewall > Criptografia e Criptoanálise > Certificado Digital",
-    "stem": "Um arquivo eletrônico, que funciona como assinatura digital e que nos identifica e autentica, em transações digitais, é chamado:",
+    "stem": "Qual recurso eletrônico vincula a identidade de uma pessoa ou organização a uma chave pública, permitindo autenticação e validação de assinaturas digitais?",
     "options": {
       "a": "Criptografia.",
       "b": "Firewall.",
@@ -5421,7 +5320,7 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: D. Certificado digital é um registro eletrônico que vincula uma identidade a uma chave pública e pode ser usado para autenticação e assinatura digital em transações eletrônicas. A assinatura digital é a operação criptográfica feita com a chave privada; o certificado permite validar a identidade associada à chave.",
+    "explanation": "A alternativa D é a correta. O certificado digital associa a identidade do titular a uma chave pública. A assinatura digital é gerada com a chave privada correspondente; o certificado possibilita verificar a identidade vinculada à chave e validar a assinatura.",
     "references": [
       {
         "label": "CERT.br — Verificar integridade e assinaturas digitais",
@@ -5441,8 +5340,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "O certificado digital não é a assinatura em si; ele associa identidade à chave pública e permite validar assinaturas. D é a opção mais adequada, com ressalva terminológica."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1283388",
@@ -5452,14 +5350,14 @@
     "stem": "A instalação em que Zé Vitor trabalha possui um servidor que se encarrega de barrar a entrada de vírus na rede. Esse servidor é chamado de:",
     "options": {
       "a": "Antivirus.",
-      "b": "Windows Defender.",
+      "b": "Editor de texto.",
       "c": "Switch.",
       "d": "Firewall.",
       "e": "Spyware."
     },
     "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: A. O enunciado descreve um servidor ou solução antivírus/antimalware que detecta e bloqueia códigos maliciosos. Firewall controla o tráfego de rede e pode reduzir a exposição a ameaças, mas não é sinônimo de antivírus. O gabarito foi corrigido de D (Firewall) para A (Antivírus).",
+    "explanation": "A alternativa A é a correta: uma solução antivírus/antimalware detecta e bloqueia códigos maliciosos. Firewall filtra tráfego de rede, enquanto um editor de texto não executa função de proteção antimalware. O Windows Defender é também uma solução de segurança da Microsoft, razão pela qual foi retirado como distrator para evitar duplicidade com “Antivírus”.",
     "references": [
       {
         "label": "Microsoft — Microsoft Defender Antivirus",
@@ -5479,8 +5377,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito corrigido de D para A: o enunciado descreve servidor antivírus/antimalware que detecta e bloqueia vírus. Firewall filtra tráfego de rede e não executa essa função específica."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1283377",
@@ -5787,13 +5684,13 @@
     "options": {
       "a": "HD.",
       "b": "Programa de Back-up.",
-      "c": "Vírus.",
+      "c": "Malware do tipo cavalo de Troia.",
       "d": "Programa de correio.",
       "e": "Viewer."
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. O gabarito cadastrado é C, mas há imprecisão conceitual: Trojan (cavalo de Troia) é uma categoria de malware que se disfarça de software legítimo; não é tecnicamente sinônimo de vírus, pois não precisa se autorreplicar ou infectar arquivos hospedeiros. Como não há alternativa “malware”, recomenda-se revisar/anular o item.",
+    "explanation": "A alternativa C é a correta. Trojan, ou cavalo de Troia, é um tipo de malware que se apresenta como programa legítimo ou útil para induzir a execução. Não é sinônimo técnico de vírus: diferentemente do vírus clássico, não precisa infectar arquivos nem se autorreplicar.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -5813,8 +5710,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Trojan é malware, mas não é tecnicamente sinônimo de vírus. Nenhuma alternativa descreve com precisão a categoria; recomenda-se revisão/anulação."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1742100",
@@ -6156,7 +6052,7 @@
     "topic": "Informática > Microsoft Excel",
     "stem": "Considere a seguinte planilha feita através do software MS Excel 2013, em português, (sendo l linha e c coluna) l/c F G H 1 4 20 2 2 16 8 10 A execução da fórmula: “=MÉDIA(F1:G2)” é igual ao valor:",
     "options": {
-      "a": "12",
+      "a": "10,5",
       "b": "11",
       "c": "10",
       "d": "9",
@@ -6164,7 +6060,7 @@
     },
     "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: A. Pela disposição textual apresentada, o intervalo F1:G2 contém quatro valores: 4, 20, 2 e 16. A média é (4+20+2+16)/4 = 10,5. **Ressalva:** o resultado exato é 10,5 e nenhuma alternativa o apresenta; A (12) não é correto. A transcrição/alternativas parecem conter erro; recomenda-se revisão ou anulação.",
+    "explanation": "A alternativa A é a correta após correção da opção para 10,5. O intervalo F1:G2 contém os valores 4, 20, 2 e 16; logo, a média é (4 + 20 + 2 + 16) ÷ 4 = 10,5.",
     "references": [
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
@@ -6184,8 +6080,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Com os valores transcritos, a média de F1:G2 é 10,5, valor ausente nas alternativas. Gabarito A (12) não confere; revisar ou anular."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1415645",
@@ -6816,7 +6711,7 @@
     "number": 192,
     "subject": "Informática",
     "topic": "Informática > Fórmulas e Funções > Editor de Planilhas Eletrônicas > Microsoft Excel > EXCEL 2013 > Microsoft Office > Suítes ou Pacotes de Escritório > Versões do Excel",
-    "stem": "Considere a seguinte representação de uma planilha do MS Excel 2013, em português, (no qual l é linha e n coluna): I/n C D 4 10 18 5 12 19 6 23 21 7 56 18 8 12 15 A execução da fórmula =SOMA(SOMASE(C4:C8;\">23\");SOMASE(D4:D8;\" <19\")) produz como resultado o valor:",
+    "stem": "Considere a seguinte representação de uma planilha do MS Excel 2013, em português, (no qual l é linha e n coluna): I/n C D 4 10 18 5 12 19 6 23 21 7 56 18 8 12 15 A execução da fórmula =SOMA(SOMASE(C4:C8;\">23\");SOMASE(D4:D8;\"<19\")) produz como resultado o valor:",
     "options": {
       "a": "34",
       "b": "89",
@@ -6826,14 +6721,13 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta pretendida: D. A primeira SOMASE soma os valores de C4:C8 maiores que 23: somente 56. A segunda soma em D4:D8 os valores inferiores a 19: 18+18+15=51. O total é 56+51=107. Observação: o critério aparece no enunciado com um espaço antes de “<19”; convém removê-lo na apresentação para evitar dúvida de interpretação.",
+    "explanation": "A primeira função SOMASE soma em C4:C8 os valores maiores que 23: apenas 56. A segunda soma em D4:D8 os valores menores que 19: 18 + 18 + 15 = 51. O resultado total é 107, alternativa D. O espaço inicial no critério foi removido para deixar a comparação inequívoca.",
     "references": [
       {
         "label": "Microsoft Support — Funções do Excel",
         "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       }
     ],
-    "reviewNote": "O critério deve ser escrito sem espaço inicial, como \"<19\", para deixar inequívoca a comparação pretendida.",
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24"
   },
@@ -6842,7 +6736,7 @@
     "number": 193,
     "subject": "Informática",
     "topic": "Informática > Editor de Planilhas Eletrônicas > Microsoft Excel > Fórmulas e Funções > Suítes ou Pacotes de Escritório > Microsoft Office > EXCEL 2013",
-    "stem": "Na célula B4 de uma planilha MS Excel 2013, em português, foi inserido um valor do tipo data igual a 10/08/2016. Na célula F5, dessa mesma planilha, foi inserida a fórmula: “=DATA(ANO(B4);MÊS(B4)+1:DIA(B4))” O resultado da execução dessa fórmula fornece a(o):",
+    "stem": "Na célula B4 de uma planilha MS Excel 2013, em português, foi inserido um valor do tipo data igual a 10/08/2016. Na célula F5, dessa mesma planilha, foi inserida a fórmula: “=DATA(ANO(B4);MÊS(B4)+1;DIA(B4))” O resultado da execução dessa fórmula fornece a(o):",
     "options": {
       "a": "mesmo dia do mês seguinte do ano de 1900.",
       "b": "dia imediatamente anterior a essa data.",
@@ -6852,14 +6746,13 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Gabarito pretendido: D. A intenção aparente é construir uma data com o mesmo dia do mês seguinte: DATA(ANO(B4);MÊS(B4)+1;DIA(B4)). Porém, o enunciado transcrito apresenta dois-pontos (:) entre o segundo e o terceiro argumentos, em vez do separador de argumentos (;). Assim, a fórmula, exatamente como escrita, é inválida no Excel em português. A alternativa D só é correta após corrigir esse provável erro de digitação.",
+    "explanation": "A alternativa D é a correta após corrigir o separador de argumentos da fórmula. A expressão DATA(ANO(B4);MÊS(B4)+1;DIA(B4)) mantém o ano e o dia e avança um mês, produzindo o mesmo dia do mês seguinte (com ajuste automático quando necessário).",
     "references": [
       {
         "label": "Microsoft Support — Funções do Excel",
         "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       }
     ],
-    "reviewNote": "Questão com erro de sintaxe no enunciado: substituir “MÊS(B4)+1:DIA(B4)” por “MÊS(B4)+1;DIA(B4)”. Sem a correção, não há resultado válido.",
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24"
   },
@@ -6868,7 +6761,7 @@
     "number": 194,
     "subject": "Informática",
     "topic": "Informática > Antivírus > Ferramentas de Proteção > Segurança da Informação",
-    "stem": "Para manter um computador livre de vírus, o procedimento mais recomendado é:",
+    "stem": "Para reduzir de forma contínua o risco de infecção por diversos tipos de malware em um computador, qual medida geral é mais recomendada?",
     "options": {
       "a": "fazer uma cópia física de segurança do disco removível.",
       "b": "instalar e rodar um antivírus.",
@@ -6878,7 +6771,7 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa pretendida: B. Manter um antivírus/antimalware instalado, ativo e atualizado é uma medida geral de proteção contra códigos maliciosos. A alternativa C (examinar uma mídia removível antes de utilizá-la) também é uma boa prática complementar; por isso, a expressão “mais recomendado” deixa alguma margem de ambiguidade, embora B seja a medida mais abrangente.",
+    "explanation": "A alternativa B é a correta: manter uma solução antivírus/antimalware ativa e atualizada é uma medida geral de proteção contínua. Examinar mídias removíveis antes de usá-las, alternativa C, também é uma boa prática, mas é uma medida pontual e complementar, não substitui a proteção contínua.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -6889,7 +6782,6 @@
         "url": "https://csrc.nist.gov/glossary"
       }
     ],
-    "reviewNote": "A alternativa C também descreve uma prática válida de segurança. B é a resposta mais abrangente, mas recomenda-se reformular o enunciado para eliminar a ambiguidade.",
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24"
   },
@@ -6977,7 +6869,7 @@
     "number": 198,
     "subject": "Informática",
     "topic": "Informática > Conceitos Básicos de Segurança da Informação (Princípios/Requisitos/Pilares) > Segurança da Informação",
-    "stem": "Para aumentar o nível de segurança das informações armazenadas em um computador, recomenda-se:",
+    "stem": "Ao utilizar um computador de terceiros, qual medida pode reduzir os rastros locais deixados pela sessão de navegação após seu encerramento?",
     "options": {
       "a": "utilizar níveis de permissão na web baixo.",
       "b": "priorizar a execução de códigos móveis.",
@@ -6987,7 +6879,7 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa pretendida: C. A navegação privada/anônima pode reduzir os vestígios locais da sessão em um computador de terceiros, como histórico e cookies temporários após o encerramento. Ela não torna o usuário anônimo na internet, não impede monitoramento pela rede e não apaga arquivos baixados; portanto, é apenas uma precaução limitada. As demais alternativas sugerem práticas inseguras.",
+    "explanation": "A alternativa C é a correta. A navegação privada pode reduzir o armazenamento local de histórico e cookies da sessão após o encerramento. Ela não torna o usuário anônimo para sites, provedores ou administradores da rede e não impede monitoramento externo; trata-se apenas de uma medida limitada para reduzir rastros no dispositivo compartilhado.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -6998,7 +6890,6 @@
         "url": "https://csrc.nist.gov/glossary"
       }
     ],
-    "reviewNote": "A navegação privada não garante anonimato nem proteção integral dos dados; a questão deve ser interpretada como redução de rastros locais em equipamento de terceiros.",
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24"
   },
@@ -7010,21 +6901,20 @@
     "stem": "No MS Office Excel 2003, instalação padrão, português, existem vários operadores que podem ser usados nas fórmulas. Eles especificam o tipo de cálculo que se deseja efetuar e são representados por símbolos do teclado. Com relação a esses operadores, assinale a afirmativa correta.",
     "options": {
       "a": "O símbolo! (ponto de exclamação) é usado para concatenação de textos.",
-      "b": "O símbolo: (dois pontos) produz uma referência para todas as células entre duas referências, incluindo as duas referências.",
+      "b": "O símbolo : (dois pontos) é usado para dividir o conteúdo de uma célula pelo conteúdo de outra.",
       "c": "O símbolo & (E comercial) é usado para referenciar uma célula que se encontra em outra planilha.",
       "d": "O símbolo ^ (acento circunflexo) é usado para divisão.",
       "e": "O símbolo * (asterisco) está associado à multiplicação."
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "A questão apresenta duas afirmações corretas. A alternativa B está correta: o operador de dois-pontos (:) representa um intervalo entre duas referências, incluindo as células extremas. A alternativa E também está correta: o asterisco (*) representa multiplicação. Portanto, embora o gabarito registrado seja E, a questão é ambígua e admite também B.",
+    "explanation": "A alternativa E é a correta: o asterisco (*) representa multiplicação em fórmulas do Excel. A alternativa B foi corrigida para uma afirmação falsa: o operador de dois-pontos (:) identifica um intervalo de células entre duas referências, não uma divisão. O ponto de exclamação (!) é usado em referências a planilhas, e o E comercial (&) concatena textos.",
     "references": [
       {
         "label": "Microsoft Support — Funções do Excel",
         "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       }
     ],
-    "reviewNote": "Questão com dupla resposta correta (B e E). Recomenda-se anulação ou revisão das alternativas; não manter E como resposta única sem ressalva.",
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24"
   },
