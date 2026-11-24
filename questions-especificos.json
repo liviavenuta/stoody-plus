@@ -12499,28 +12499,29 @@
   {
     "id": "3214072",
     "number": 336,
-    "subject": "336) O cartucho de tinta da impressora da escola com que o secretário de escola Edmilson trabalha acabou. Preocupado em entregar relatório que lhe havia sido",
-    "topic": "336) O cartucho de tinta da impressora da escola com que o secretário de escola Edmilson trabalha acabou. Preocupado em entregar relatório que lhe havia sido",
+    "subject": "Administração de Recursos Materiais",
+    "topic": "Compras no Setor Público",
     "exam": "Administração de Recursos Materiais - Compras no Setor Público",
-    "stem": "De acordo com o art. 312 do Código Penal, qual das condutas abaixo caracteriza peculato?",
+    "stem": "O cartucho de tinta da impressora da escola com que o secretário de escola Edmilson trabalha acabou. Preocupado em entregar relatório que lhe havia sido solicitado, o secretário escolar comprou, de seu próprio bolso, o material faltante, informando a direção da necessidade de ressarci-lo financeiramente assim que a escola recebesse o recurso para a aquisição do cartucho. De acordo com o Caderno 15 – Administração de Materiais do documento Profuncionário, com tal atitude o funcionário",
     "options": {
-      "a": "Comprar, com recursos próprios, material de expediente para a escola e solicitar reembolso, sem apropriar-se de bem público.",
-      "b": "Deixar de comunicar à direção a necessidade de reposição de material de expediente.",
-      "c": "Utilizar equipamento público para executar tarefa institucional autorizada.",
-      "d": "Solicitar previamente autorização para aquisição de material necessário ao serviço.",
-      "e": "Apropriar-se de dinheiro, valor ou bem móvel público de que tenha posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio."
+      "a": "agiu corretamente, preservando a necessidade de cumprimento de seu dever, necessitando ser ressarcido, visto não ser sua obrigação comprar material.",
+      "b": "cometeu um erro, pois deveria ter informado antecipadamente a direção para que ela pudesse planejar o ressarcimento do valor para o funcionário.",
+      "c": "atuou assertivamente, pois resolveu a situação imediata, indicando à direção a necessidade de ressarci-lo quando possível.",
+      "d": "cometeu um erro; em situações como essa, cabe à direção adquirir, com seus recursos próprios, material necessário ao desenvolvimento do trabalho.",
+      "e": "incorreu em crime de peculato, uma vez que, neste caso, há uma confusão entre a coisa pública e a privada, comprometendo a transparência e a boa gestão da primeira."
     },
     "answer": "E",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "A alternativa E descreve o núcleo do peculato previsto no art. 312 do Código Penal: apropriar-se ou desviar, em proveito próprio ou alheio, dinheiro, valor ou outro bem móvel de que o funcionário público tenha posse em razão do cargo. Comprar cartucho com recursos próprios e pedir reembolso, por si só, não configura peculato; eventual irregularidade administrativa dependeria das regras de autorização e prestação de contas.",
+    "explanation": "O PDF original apresenta o caso de compra de cartucho com recursos pessoais e pedido de ressarcimento. O gabarito ao final do caderno indica E. Entretanto, a justificativa da alternativa E — peculato — não decorre claramente dos fatos narrados: o enunciado não descreve apropriação ou desvio, em proveito próprio ou alheio, de dinheiro, valor ou bem móvel público que estivesse na posse do funcionário em razão do cargo. Assim, a chave E deve ser preservada como gabarito publicado na fonte, mas permanece juridicamente questionável e não deve ser tratada como definitivamente validada sem conferência do material-base Profuncionário e de eventual gabarito oficial da banca.",
     "references": [
       {
         "label": "Planalto — Código Penal, art. 312",
         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
       }
     ],
-    "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationStatus": "pendente_validacao_gabarito",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Enunciado e cinco alternativas restaurados conforme PDF original. O gabarito do caderno é E, mas a classificação como peculato parece incompatível com os fatos narrados (compra feita com dinheiro particular e pedido de reembolso). Manter E como chave publicada, porém deixar pendente validação jurídica; não afirmar que o cenário configura peculato sem elementos adicionais."
   },
   {
     "id": "3184827",
@@ -13163,10 +13164,10 @@
   {
     "id": "3821468",
     "number": 355,
-    "subject": "355) O quadro a seguir apresenta o processo de gestão do desempenho e suas atividades.",
-    "topic": "355) O quadro a seguir apresenta o processo de gestão do desempenho e suas atividades.",
+    "subject": "Administração Geral e Pública",
+    "topic": "Processo Organizacional e Funções Administrativas",
     "exam": "Administração Geral e Pública - Processo Organizacional e Funções Administrativas",
-    "stem": "Considere as fases clássicas do processo administrativo e as atividades correspondentes. Relacione: I — Planejamento; II — Organização; III — Supervisão/Direção; IV — Controle. Atividades: W — Geração e alocação de competências e recursos; X — Liderança e orientação da equipe; Y — Identificação e solução de problemas ou desvios; Z — Fixação de objetivos. A correlação correta é:",
+    "stem": "O quadro a seguir apresenta o processo de gestão do desempenho e suas atividades. Coluna — Fase do Processo: I — Planejamento; II — Organização; III — Supervisão; IV — Controle. Coluna — Atividade: W — Geração de competências; X — Liderança; Y — Soluções de problemas; Z — Fixação de objetivos. A correlação correta entre as colunas está expressa na alternativa:",
     "options": {
       "a": "I - Z - II- W - III- X - IV- Y.",
       "b": "I - Z - II- Y - III- X - IV- W.",
@@ -13176,7 +13177,7 @@
     },
     "answer": "A",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "A alternativa A está correta: I–Z, II–W, III–X e IV–Y. Planejamento define objetivos; organização distribui recursos e competências; supervisão/direção envolve liderança e orientação; controle acompanha resultados, identifica desvios e promove correções. O enunciado foi reescrito para eliminar a tabela desformatada.",
+    "explanation": "O gabarito do PDF é A. A associação é I–Z (planejamento — fixação de objetivos), II–W (organização — geração de competências), III–X (supervisão — liderança) e IV–Y (controle — soluções de problemas). A tabela e a terminologia foram restauradas conforme o enunciado original.",
     "references": [
       {
         "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
@@ -13196,7 +13197,8 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Conferido no PDF original, questão 355, e no gabarito do caderno: alternativa A. O stem foi restaurado para refletir as duas colunas e os rótulos originais; removida a paráfrase que ampliava as descrições das atividades."
   },
   {
     "id": "3637633",
@@ -13846,20 +13848,20 @@
   {
     "id": "2440709",
     "number": 373,
-    "subject": "373) As rotinas administrativas são responsáveis por etapas de fluxo da empresa. São exemplos de atividades administrativas:",
-    "topic": "373) As rotinas administrativas são responsáveis por etapas de fluxo da empresa. São exemplos de atividades administrativas:",
+    "subject": "Administração Geral e Pública",
+    "topic": "Processo Organizacional e Funções Administrativas",
     "exam": "Administração Geral e Pública - Processo Organizacional e Funções Administrativas",
     "stem": "As rotinas administrativas são responsáveis por etapas de fluxo da empresa. São exemplos de atividades administrativas: I. a emissão de notas fiscais e recibos para os clientes. II. o controle da entrada e saída dos materiais. III. a realização de pagamentos aos fornecedores. IV. a fiscalização dos funcionários em relação às tarefas. É CORRETO o que se afirma em:",
     "options": {
       "a": "I, III e IV.",
       "b": "I, II e III.",
       "c": "III e IV.",
-      "d": "a formulação das estratégias institucionais de longo prazo e a definição dos objetivos gerais da organização.",
+      "d": "II e III.",
       "e": "I e IV."
     },
     "answer": "B",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "A alternativa B está correta: I, II e III são rotinas administrativas operacionais — emissão de documentos fiscais/recibos, controle de materiais e pagamentos a fornecedores. A alternativa IV foi especificada como formulação de estratégia institucional de longo prazo, atividade de planejamento estratégico e gestão, não uma rotina administrativa operacional de apoio.",
+    "explanation": "O gabarito do PDF é B (I, II e III). A questão considera como rotinas administrativas a emissão de notas fiscais e recibos, o controle da entrada e saída de materiais e os pagamentos a fornecedores. A afirmativa IV trata da fiscalização dos funcionários quanto à execução das tarefas, atividade de supervisão/controle de pessoas, que não integra o conjunto indicado pela chave do caderno. A alternativa D foi restaurada conforme o PDF original: “II e III.”",
     "references": [
       {
         "label": "IFRN — Rotinas e procedimentos administrativos",
@@ -13879,7 +13881,8 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Conferido no PDF original, questão 373, e no gabarito do caderno: alternativa B. Corrigida a alternativa D, que havia sido substituída indevidamente por uma frase sobre estratégia de longo prazo. A redação da afirmativa IV foi mantida como no original."
   },
   {
     "id": "2466179",
@@ -14755,10 +14758,10 @@
   {
     "id": "718158",
     "number": 399,
-    "subject": "399) A comunicação é instrumento para todas as funções do administrador. Assinale a alternativa que apresenta a função da administração que utiliza a comunicação",
-    "topic": "399) A comunicação é instrumento para todas as funções do administrador. Assinale a alternativa que apresenta a função da administração que utiliza a comunicação",
+    "subject": "Administração Geral e Pública",
+    "topic": "Processo Organizacional e Funções Administrativas",
     "exam": "Administração Geral e Pública - Processo Organizacional e Funções Administrativas",
-    "stem": "Na classificação clássica das funções administrativas que distingue planejar, organizar, comandar, coordenar e controlar, qual função utiliza a comunicação como instrumento básico para integrar e harmonizar os esforços dos participantes?",
+    "stem": "A comunicação é instrumento para todas as funções do administrador. Assinale a alternativa que apresenta a função da administração que utiliza a comunicação como instrumento básico em todos os seus mecanismos, sendo seu principal instrumento.",
     "options": {
       "a": "Planejar.",
       "b": "Organizar.",
@@ -14768,7 +14771,7 @@
     },
     "answer": "D",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "A alternativa D está correta dentro da classificação clássica indicada no enunciado. Coordenar significa integrar e harmonizar esforços, tarefas e setores; a comunicação é instrumento central para alinhar atividades e evitar conflitos ou duplicidade. Em modelos contemporâneos de quatro funções, a comunicação é transversal e também integra a direção e as demais funções.",
+    "explanation": "O gabarito do PDF é D (Coordenar). Na formulação original da questão, a coordenação é a função cujo instrumento básico é a comunicação, usada para integrar e harmonizar os esforços dos participantes. A resposta é específica à classificação de funções administrativas adotada pelo enunciado.",
     "references": [
       {
         "label": "SciELO — Análise das abordagens sobre as funções do administrador",
@@ -14788,7 +14791,8 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Conferido no PDF original, questão 399, e no gabarito do caderno: alternativa D. O enunciado foi restaurado para a formulação original; a justificativa foi delimitada à classificação usada pela questão."
   },
   {
     "id": "827891",
