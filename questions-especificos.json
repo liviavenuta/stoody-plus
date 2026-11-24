@@ -2278,7 +2278,28 @@
       "e": "A cultura por controle de estoques é lembrada todos os dias."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — necessidade de interromper as atividades produtivas.** A questão pede a alternativa incorreta sobre inventário cíclico. Uma vantagem desse método é justamente permitir contagens distribuídas ao longo do ano, sem exigir a paralisação geral das operações.\n\n- **A) Correta como exceção:** não é característica necessária do inventário rotativo; a contagem pode ocorrer com a operação em andamento e movimentações controladas.\n- **B) Característica verdadeira:** o custo é distribuído ao longo do exercício, em vez de concentrado em uma grande operação.\n- **C) Característica verdadeira:** diferenças podem ser corrigidas em pequenos ajustes sucessivos.\n- **D) Característica possível:** muitas organizações mantêm equipe ou responsáveis treinados para executar as contagens.\n- **E) Característica verdadeira:** a rotina fortalece a cultura de controle permanente dos estoques.\n\n**Dica:** inventário rotativo busca controle contínuo com menor impacto operacional; inventário geral costuma concentrar a contagem em uma operação ampla.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2492405",
@@ -2295,7 +2316,28 @@
       "e": "Quanto à forma de execução, se classifica em portas fechadas, quando o inventário é executado sem que se permitam saídas ou entradas de material durante o período de contagem, salvo em casos emergenciais."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — organograma.** A alternativa A confunde organograma com cronograma. A descrição das fases e etapas de execução da contagem corresponde a um cronograma ou roteiro de atividades, não a um organograma.\n\n- **A) Incorreta — resposta da questão:** organograma representa a estrutura organizacional, cargos e relações hierárquicas.\n- **B) Correta:** inventário geral considera todos os itens do estoque em determinado momento.\n- **C) Correta:** inventário parcial abrange apenas determinados itens.\n- **D) Correta:** inventário rotativo/cíclico conta grupos de itens em períodos definidos, de modo que todo o estoque seja coberto ao longo do ciclo.\n- **E) Correta:** portas fechadas impede entradas e saídas durante a contagem, salvo situações excepcionais controladas.\n\n**Dica:** organograma = estrutura e hierarquia; cronograma = etapas e prazos.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2358465",
@@ -2312,7 +2354,28 @@
       "e": "1."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: C — 20 trabalhadores.** O cálculo parte da quantidade total de unidades a contar e da capacidade individual por minuto.\n\n1. Quantidade total: (100.000) itens × (20) unidades por item = (2.000.000) unidades.\n2. Tempo disponível por trabalhador: 2 dias × 8 horas × 60 minutos = (960) minutos.\n3. Capacidade individual: (100) unidades/minuto × (960) minutos = (96.000) unidades.\n4. Trabalhadores: (2.000.000 ÷ 96.000 ≈ 20,83).\n\n- **A) 42 — incorreta:** acima do resultado calculado.\n- **B) 31 — incorreta:** acima do resultado calculado.\n- **C) 20 — gabarito cadastrado:** é a opção indicada pelo banco.\n- **D) 11 — incorreta:** não cobre a quantidade dentro do prazo.\n- **E) 1 — incorreta:** capacidade insuficiente.\n\n**Ressalva matemática:** arredondando 20,83 para garantir que toda a contagem seja concluída no prazo, o resultado operacional deveria ser **21 trabalhadores**, não 20. Como não há opção 21, o gabarito C parece usar arredondamento para baixo ou conter erro. Mantive C no campo original, mas recomendo revisar a questão/gabarito.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2131124",
@@ -2329,7 +2392,28 @@
       "e": "Cut Off."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — Cut Off.** Cut off é o procedimento que estabelece o marco temporal de corte das movimentações de entrada e saída durante o inventário. Ele permite saber quais movimentos pertencem ao período contado e evita que alterações simultâneas distorçam a comparação entre físico e registros.\n\n- **A) Registro do custo — incorreta:** trata da valoração, não do corte das movimentações.\n- **B) Coluna de entradas — incorreta:** é parte de um registro, não o procedimento de corte.\n- **C) Coluna de saídas — incorreta:** também é registro de movimentação, não o marco de interrupção.\n- **D) Código dos itens — incorreta:** identifica o material.\n- **E) Cut Off — correta:** define o momento de corte e controle das entradas e saídas.\n\n**Dica:** antes da contagem, estabeleça o cut off e registre as últimas entradas e saídas para evitar dupla contagem ou omissões.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2483691",
@@ -2346,7 +2430,28 @@
       "e": "Durabilidade"
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — durabilidade.** A questão trata de propriedades dos materiais e aponta durabilidade como propriedade relacionada ao comportamento do material diante do uso e de agentes externos, como tempo, ambiente e desgaste.\n\n- **A) Procedência — incorreta:** indica origem ou fornecedor do material.\n- **B) Preço — incorreta:** é atributo econômico/comercial.\n- **C) Fácil manuseio — incorreta:** é característica operacional de manuseabilidade.\n- **D) Síntese — incorreta:** não corresponde à propriedade material indicada no contexto.\n- **E) Durabilidade — correta segundo o gabarito:** expressa a capacidade de manter características e funcionalidade ao longo do tempo e sob condições de uso.\n\n**Dica:** durabilidade é uma característica importante tanto para especificação quanto para a classificação de materiais permanentes e de consumo.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2183672",
@@ -2363,7 +2468,28 @@
       "e": "10."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: D — 17 funcionários.** A questão exige estimar o volume de unidades que será contado, a produtividade por funcionário e o tempo disponível no exercício. O enunciado informa que a contagem ocorre a cada quatro meses e apresenta percentuais de itens por classe, além da quantidade média de unidades por item.\n\n**Conferência dos volumes por ciclo de quatro meses:**\n- Classe A: 200.000 itens × 40% × 10 unidades = 800.000 unidades.\n- Classe B: 300.000 itens × 60% × 20 unidades = 3.600.000 unidades.\n- Classe C: 500.000 itens × 100% × 50 unidades = 25.000.000 unidades.\n- Total por ciclo: 29.400.000 unidades.\n\nCom produtividade de 5 unidades por minuto, seriam necessárias 5.880.000 minutos de trabalho por ciclo. Considerando quatro meses de 120 dias e operação contínua de 24 horas por dia, o tempo disponível por funcionário seria 172.800 minutos, resultando em aproximadamente 34 funcionários para concluir um ciclo nesse período.\n\n**Ressalva crítica:** esse cálculo não corresponde à alternativa D (17). A resposta D pode resultar de premissas diferentes não explicitadas no enunciado, como outra interpretação dos percentuais, produtividade ou jornada. Além disso, 24 horas por dia não significa necessariamente que cada funcionário trabalhe continuamente; seria preciso informar a jornada individual e o número de turnos. Mantive o gabarito cadastrado, mas esta questão requer revisão do cálculo e das premissas antes de ser usada como questão objetiva confiável.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2095175",
@@ -2379,7 +2505,28 @@
       "d": "Físico de transferência de responsabilidade: pode ser realizado em qualquer época do ano por iniciativa do dirigente da unidade gestora ou do órgão fiscalizador."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — inventário físico anual.** A Instrução Normativa SEDAP nº 205/1988 define o inventário anual como aquele destinado a comprovar a quantidade e o valor dos bens patrimoniais de cada unidade gestora existentes em 31 de dezembro, considerando o inventário anterior e as variações ocorridas no exercício.\n\n- **A) Incorreta:** a descrição de inventário anterior e variações do exercício corresponde ao anual, não ao inicial.\n- **B) Incorreta:** extinção ou transformação ocorre quando a unidade gestora é extinta ou transformada; mudança de dirigente caracteriza transferência de responsabilidade.\n- **C) Correta:** reproduz a definição normativa do inventário anual.\n- **D) Incorreta:** a descrição corresponde ao inventário eventual, que pode ocorrer em qualquer época por iniciativa do dirigente ou do órgão fiscalizador.\n\n**Dica:** anual = posição de 31 de dezembro; inicial = criação da unidade; transferência = mudança de dirigente; extinção/transformação = encerramento ou alteração da unidade; eventual = quando necessário.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2311751",
@@ -2396,7 +2543,28 @@
       "e": "cadastramento"
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — inventário físico.** O inventário físico é instrumento de controle que confronta os saldos registrados com a existência real de materiais em almoxarifados e depósitos, permitindo verificar a exatidão dos registros físicos e contábeis.\n\n- **A) Estocagem — incorreta:** é a guarda e organização dos materiais.\n- **B) Recebimento — incorreta:** é a entrada do material e a conferência inicial.\n- **C) Retenção fiscal — incorreta:** não corresponde ao procedimento de controle descrito.\n- **D) Inventário físico — correta:** permite auditoria periódica dos saldos e identificação de divergências.\n- **E) Cadastramento — incorreta:** registra e identifica itens, mas não substitui a contagem física.\n\n**Dica:** auditoria permanente de saldos físicos e contábeis se apoia em inventários e conciliações regulares.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2483328",
@@ -2413,7 +2581,28 @@
       "e": "Apenas os bens móveis e os itens perecíveis devem ser inventariados"
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — descrição do bem e número de tombamento.** O inventário patrimonial deve permitir a perfeita identificação de cada bem, incluindo descrição padronizada e número de registro/tombamento, além de valor, estado de conservação e outros dados relevantes.\n\n- **A) Correta:** descrição e número de tombamento são elementos típicos do registro patrimonial.\n- **B) Incorreta:** bens fora de uso não devem ser simplesmente excluídos; devem constar do controle até a destinação/baixa formal.\n- **C) Incorreta:** o art. 96 da Lei nº 4.320/1964 determina o levantamento geral dos bens móveis e imóveis, sem estabelecer periodicidade de dez anos.\n- **D) Incorreta:** o inventário patrimonial não se limita a materiais em uso; deve abranger os bens sob responsabilidade da instituição.\n- **E) Incorreta:** não se limita a bens móveis e perecíveis; também contempla os demais bens patrimoniais, inclusive imóveis conforme o sistema de controle.\n\n**Dica:** tombamento e descrição individualizada permitem identificar, localizar e responsabilizar pela guarda do bem.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2131119",
@@ -2430,7 +2619,28 @@
       "e": "de backlog."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — periódico.** A questão descreve uma contagem física ampla realizada com uma força-tarefa, em curto período, com muitos contadores dedicados. Essa é a lógica do inventário periódico/geral, concentrado em uma data ou janela específica.\n\n- **A) Periódico — correta segundo o gabarito:** contagem concentrada em período definido, frequentemente com equipe dedicada.\n- **B) Rotativo — incorreta:** conta grupos menores de itens em datas distribuídas ao longo do ano, sem exigir grande força-tarefa simultânea.\n- **C) Inativo — incorreta:** não é tipo de inventário.\n- **D) Obsoleto — incorreta:** caracteriza material ultrapassado, não método de inventário.\n- **E) Backlog — incorreta:** refere-se a trabalho acumulado ou pendente, não a modalidade de inventário.\n\n**Dica:** força-tarefa e contagem ampla em pouco tempo indicam inventário geral/periódico; contagens parciais ao longo do ano indicam inventário rotativo.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCE-RO — Resolução nº 364/2022, Manual de Gestão da Logística",
+        "url": "https://tcero.tc.br/tribunal/legislacao/arquivos/Res-364-2022.pdf"
+      },
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2444067",
