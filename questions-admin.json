@@ -1814,7 +1814,20 @@
       "e": "Eficiência."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — Pessoalidade.**\n\nO art. 37, caput, da Constituição Federal enumera cinco princípios expressos que orientam a Administração Pública direta e indireta de todos os Poderes e entes federativos: **legalidade, impessoalidade, moralidade, publicidade e eficiência**. A alternativa A traz “pessoalidade”, que não integra esse rol. Na realidade, a Administração deve atuar com **impessoalidade**, sem favorecimentos, perseguições ou promoção pessoal de agentes públicos.\n\n**Por que as outras estão corretas:** B) moralidade exige atuação ética, honesta e de boa-fé; C) legalidade submete a atuação administrativa à lei e ao Direito; D) publicidade exige transparência e divulgação dos atos, ressalvadas hipóteses legítimas de sigilo; E) eficiência exige boa utilização dos recursos e prestação adequada dos serviços.\n\n**Dica de prova:** memorize o mnemônico LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência. “Pessoalidade” é justamente o oposto da diretriz impessoal.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3490792",
@@ -1831,7 +1844,20 @@
       "e": "Lucratividade."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — Lucratividade.**\n\nA questão pede a característica que não corresponde a um princípio fundamental da Administração Pública. Legalidade, impessoalidade, moralidade e publicidade são quatro dos cinco princípios expressos no art. 37, caput, da Constituição; o quinto é eficiência. **Lucratividade não integra o rol constitucional** e não é finalidade geral da Administração Pública: o foco é atender ao interesse público, observando a ordem jurídica.\n\n**Análise das alternativas:** A) legalidade: a Administração atua conforme a lei e o Direito; B) impessoalidade: impede favorecimentos e perseguições; C) moralidade: impõe padrões éticos e de boa-fé; D) publicidade: assegura transparência, respeitadas as exceções legais; E) lucratividade: não é princípio constitucional administrativo. A busca por eficiência e sustentabilidade econômica em certas atividades não transforma a obtenção de lucro em princípio geral da Administração.\n\n**Dica:** não confunda eficiência (obter bons resultados com uso adequado dos recursos) com lucratividade (obter lucro financeiro).",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3490724",
@@ -1848,7 +1874,20 @@
       "e": "Lealdade, publicidade, efetividade, integralidade e legalidade."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — Legalidade, impessoalidade, moralidade, publicidade e eficiência.**\n\nA alternativa A reproduz exatamente o conjunto de princípios expressos no caput do art. 37 da Constituição Federal, conhecido pelo mnemônico **LIMPE**. A redação atual inclui eficiência, acrescentada pela Emenda Constitucional nº 19/1998.\n\n**Por que as demais estão erradas:** B) mistura princípios e valores relevantes, como segurança jurídica e equidade, mas não apresenta o rol constitucional; C) contém eficiência e impessoalidade, mas substitui legalidade e moralidade por efetividade e eficácia; D) inclui segurança jurídica e lealdade, mas omite parte do rol; E) também mistura valores e conceitos que não substituem os cinco princípios expressos.\n\n**Atenção:** o art. 37 não esgota todos os princípios aplicáveis à Administração. Há outros reconhecidos pela Constituição, pela legislação e pela doutrina; a pergunta, porém, cobra especificamente os princípios expressos no caput.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3637910",
@@ -1865,7 +1904,20 @@
       "e": "Os princípios constitucionais explícitos no caput do artigo 37 da Constituição brasileira de 1988 são os princípios da legalidade, impessoalidade, moralidade, publicidade e razoabilidade."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C.**\n\nA alternativa C reproduz o art. 37, § 1º, da Constituição Federal: a publicidade institucional deve ter caráter educativo, informativo ou de orientação social e não pode conter nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores. A regra concretiza especialmente a **impessoalidade**, além de limitar o uso da comunicação custeada pelo poder público.\n\n**Por que as outras estão erradas:** A) erra ao chamar a supremacia do interesse público de princípio explícito no caput e ao afirmar que seriam vedadas cláusulas de alteração ou rescisão unilateral; tais prerrogativas podem existir nos contratos administrativos, nos limites legais. B) exigências de concurso sem base legal afrontam diretamente a legalidade e a vinculação ao edital, além de poderem comprometer isonomia e moralidade; não é a melhor afirmação diante da alternativa C, que reproduz literalmente a Constituição. D) os princípios do art. 37 alcançam expressamente a Administração direta **e indireta**. E) o quinto princípio é eficiência, não razoabilidade.\n\n**Dica:** publicidade institucional não é propaganda pessoal. O conteúdo e a finalidade da divulgação devem servir à população.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2961649",
@@ -1882,7 +1934,24 @@
       "e": "1 - 3 - 2 - 4."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D — sequência 2 - 4 - 1 - 3.**\n\nA associação correta é: **2. Impessoalidade** — servir a todos sem favorecimento ou aversão pessoal/partidária; **4. Publicidade** — transparência e conhecimento dos atos administrativos; **1. Legalidade** — submissão da Administração à lei, protegendo o cidadão contra atuações arbitrárias; **3. Moralidade** — atuação ética, leal e de boa-fé, sem desvio para interesse próprio. Portanto, a sequência é 2–4–1–3, alternativa D.\n\n**Por que as demais sequências estão erradas:** A, B, C e E trocam ao menos uma dessas correspondências. O ponto decisivo é identificar as expressões-chave: “sem aversão pessoal” indica impessoalidade; “transparência” indica publicidade; “subordinação à lei” indica legalidade; “ética, lealdade e boa-fé” indica moralidade.\n\n**Nota editorial:** a alternativa A contém texto de impressão de página anexado ao final da opção. Isso parece ser resíduo de extração do arquivo-fonte, não parte da resposta. O conteúdo essencial da sequência deve ser considerado sem esse trecho.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal, art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2961780",
@@ -1899,7 +1968,24 @@
       "e": "Autonomia."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito indicado: E — Autonomia.**\n\nA questão procura uma característica que não representa princípio orientador da gestão de pessoas no serviço público. A Administração deve observar legalidade, impessoalidade e eficiência, entre outros princípios. “Autonomia”, no sentido genérico apresentado na alternativa E, não integra o rol de princípios expressos do art. 37 nem constitui, por si só, princípio geral que substitua aqueles deveres.\n\n**Análise das alternativas:** A) legalidade é obrigatória também nos atos de gestão de pessoal; B) impessoalidade impede decisões baseadas em preferências pessoais; C) hierarquia é uma característica estrutural e um poder típico da organização administrativa, que permite coordenação, orientação e fiscalização; D) eficiência exige gestão adequada de pessoas e recursos; E) autonomia pode existir em graus e contextos específicos, mas não é princípio geral que autorize afastar os deveres legais e constitucionais.\n\n**Ressalva de formulação:** a questão usa “princípio aplicável à gestão de pessoas” de forma ampla. Hierarquia é normalmente classificada como poder/elemento de organização administrativa, e não como princípio expresso do art. 37. O gabarito E é compatível com a leitura de que autonomia não é princípio geral da gestão pública, mas a redação poderia ser mais precisa.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal, art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2962348",
@@ -1916,7 +2002,24 @@
       "e": "apenas I."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — apenas II e III.**\n\nI é **falsa**. A discricionariedade permite escolher, dentro dos limites legais, entre alternativas legítimas segundo conveniência e oportunidade. Isso não torna a escolha imune ao controle judicial: o Judiciário pode examinar competência, finalidade, forma, motivo, objeto nos limites legais, proporcionalidade, razoabilidade e eventual abuso. O que não lhe cabe, em regra, é substituir a Administração na avaliação legítima do mérito administrativo.\n\nII é **verdadeira**. O poder hierárquico organiza a estrutura administrativa, distribui funções, estabelece relações de subordinação e permite orientação e fiscalização dos atos dos subordinados, nos limites da lei.\n\nIII é **verdadeira**. Eficiência é princípio expresso no art. 37, caput, e exige atuação orientada a resultados e uso adequado dos recursos públicos.\n\nLogo, somente II e III estão corretas: alternativa C.\n\n**Por que as outras estão erradas:** A e E incluem a proposição I; B também considera I correta; D exclui a proposição III. Todas divergem da avaliação acima.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal, art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2960278",
@@ -1933,7 +2036,24 @@
       "e": "Princípio da moralidade."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — princípio da eficiência.**\n\nO fragmento descreve o dever de desempenhar as atribuições com presteza, perfeição e rendimento, buscando resultados positivos e atendimento satisfatório das necessidades coletivas. Essas ideias correspondem ao **princípio da eficiência**, incorporado expressamente ao art. 37, caput, pela EC nº 19/1998.\n\n**Por que as outras estão erradas:** A) impessoalidade exige atuação sem favorecimento, perseguição ou promoção pessoal; C) legalidade exige conformidade com a lei e o Direito; D) publicidade se relaciona à transparência e divulgação dos atos, ressalvado o sigilo legítimo; E) moralidade exige padrões éticos, probidade e boa-fé.\n\n**Dica de prova:** expressões como “presteza”, “rendimento”, “qualidade”, “resultado” e “melhor utilização dos recursos” costumam apontar para eficiência. Eficiência, contudo, não autoriza descumprir a lei: os princípios devem ser observados conjuntamente.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal, art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3447464",
@@ -1950,7 +2070,24 @@
       "e": "motivação."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — legalidade.**\n\nNo Direito Administrativo, o princípio da legalidade significa que a Administração Pública está vinculada à lei e ao ordenamento jurídico. Diferentemente do particular, que em regra pode fazer tudo o que a lei não proíbe, o agente público somente pode agir quando houver fundamento jurídico e dentro das competências e limites estabelecidos.\n\n**Por que as outras estão erradas:** A) impessoalidade exige neutralidade e igualdade de tratamento, sem favorecimentos; C) autonomia da vontade não rege a atuação administrativa como liberdade geral para escolher qualquer conduta; D) eficiência exige bons resultados e uso adequado dos recursos; E) motivação exige explicitar os pressupostos de fato e de direito de decisões nos casos previstos e conforme o regime aplicável.\n\n**Dica:** quando o enunciado disser que a Administração “só pode fazer o que a lei permite”, a resposta clássica é legalidade administrativa.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal, art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2894919",
@@ -1967,7 +2104,24 @@
       "e": "Segurança Jurídica."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — moralidade.**\n\nA afirmação diz que a Administração deve obedecer não apenas à lei, mas também a padrões éticos. Isso descreve o **princípio da moralidade administrativa**, previsto expressamente no art. 37, caput, da Constituição. O agente público deve atuar com probidade, lealdade, boa-fé e decoro; um ato pode ser juridicamente questionável não apenas por contrariar uma regra específica, mas também por violar os padrões éticos que vinculam a função pública.\n\n**Por que as outras estão erradas:** A) eficiência trata de desempenho e resultados; B) supremacia do interesse público é princípio reconhecido na doutrina, mas não é o foco da exigência de padrões éticos; D) motivação diz respeito à exposição dos fundamentos de fato e de direito da decisão; E) segurança jurídica protege estabilidade, previsibilidade e confiança legítima.\n\n**Nota editorial:** a alternativa A contém metadados de impressão anexados ao texto. Esse resíduo não altera o conteúdo da alternativa nem o gabarito.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (STF)",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      },
+      {
+        "label": "Constituição Federal — texto oficial (Planalto)",
+        "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — processo administrativo federal, art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3382637",
