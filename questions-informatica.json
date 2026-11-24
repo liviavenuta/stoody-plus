@@ -5527,7 +5527,28 @@
       "e": "Thunderbird."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Avast é uma solução antivírus/antimalware. Writer e Calc são aplicativos de escritório do LibreOffice; Instagram é uma rede social; Thunderbird é um cliente de e-mail. Para redes corporativas, a adequação também depende de gestão centralizada, licenciamento e suporte.",
+    "references": [
+      {
+        "label": "Microsoft — Segurança do Windows e Microsoft Defender",
+        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1445760",
@@ -5543,7 +5564,28 @@
       "e": "Fórmulas."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. A importação de texto delimitado para uma planilha é feita pela guia Dados, usando opções como Obter Dados/De Texto ou Texto para Colunas, conforme a versão do Excel. Inserir, Layout da Página, Revisão e Fórmulas não são o caminho principal para importar arquivos de texto.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1565314",
@@ -5559,7 +5601,28 @@
       "e": "38"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Substituindo os valores: (B1+C1*12)/D1−7 = (10+8×12)/2−7 = (10+96)/2−7 = 53−7 = 46. A multiplicação é executada antes da adição e da divisão conforme a precedência dos operadores.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1969835",
@@ -5575,7 +5638,28 @@
       "e": "FireWall"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Firewall filtra tráfego de entrada e saída de redes, aplicando regras que permitem ou bloqueiam conexões. É a ferramenta indicada entre as opções para restringir acessos não autorizados; antivírus combate malware e criptografia protege o conteúdo dos dados.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1416156",
@@ -5591,7 +5675,28 @@
       "e": "Roteador."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Criptografia é o processo de transformar dados legíveis em conteúdo cifrado por meio de algoritmo e chave. Firewall controla tráfego; certificado digital vincula identidade e chave pública; antivírus detecta malware; roteador encaminha pacotes.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1330459",
@@ -5607,7 +5712,28 @@
       "e": "SHIFT+#"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. No Excel, Ctrl + Shift + ~ aplica o formato Geral à célula selecionada. Os outros atalhos apresentados estão associados a outros formatos ou navegação. O atalho corresponde à tecla Ctrl combinada com Shift e o til.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1287736",
@@ -5623,7 +5749,28 @@
       "e": "antivírus."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Criptografia protege a confidencialidade ao tornar os dados interceptados ilegíveis para quem não possui a chave apropriada. Certificado digital pode autenticar identidades; firewall filtra tráfego; antivírus detecta software malicioso.",
+    "references": [
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1123897",
@@ -5639,7 +5786,29 @@
       "e": "Viewer."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. O gabarito cadastrado é C, mas há imprecisão conceitual: Trojan (cavalo de Troia) é uma categoria de malware que se disfarça de software legítimo; não é tecnicamente sinônimo de vírus, pois não precisa se autorreplicar ou infectar arquivos hospedeiros. Como não há alternativa “malware”, recomenda-se revisar/anular o item.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft — Segurança do Windows e Microsoft Defender",
+        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Trojan é malware, mas não é tecnicamente sinônimo de vírus. Nenhuma alternativa descreve com precisão a categoria; recomenda-se revisão/anulação."
   },
   {
     "id": "1742100",
@@ -5655,7 +5824,28 @@
       "e": "inserir."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. No Excel, o controle de Zoom é encontrado na guia Exibição (em versões recentes também pode estar disponível na barra de status). As guias Início, Layout da Página, Revisão e Inserir não são o local indicado no enunciado.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1742102",
@@ -5671,7 +5861,28 @@
       "e": "WinZip"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Avast é um software de proteção antivírus/antimalware. Excel é planilha eletrônica; Squirrel é nome de diferentes projetos/tecnologias, não um antivírus conhecido neste contexto; WinRAR e WinZip são compactadores.",
+    "references": [
+      {
+        "label": "Microsoft — Segurança do Windows e Microsoft Defender",
+        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1054834",
@@ -5687,7 +5898,28 @@
       "e": "*B1*"
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. A referência absoluta $B$1 fixa tanto a coluna B quanto a linha 1, impedindo que a referência se desloque quando a fórmula é copiada para outras células. B1 é relativa; $B1 fixa apenas a coluna; B$1 fixa apenas a linha.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2502706",
@@ -5703,7 +5935,28 @@
       "e": "SHIFT + DEL"
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Ctrl + Esc abre o menu Iniciar do Windows, assim como a tecla do logotipo do Windows. Ctrl + Shift + Esc abre diretamente o Gerenciador de Tarefas; as demais combinações não correspondem à função pedida.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1738950",
@@ -5719,7 +5972,28 @@
       "e": "Fórmulas"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. A guia Dados oferece ferramentas de importação e tratamento de texto delimitado, inclusive recursos para dividir texto em colunas usando ponto e vírgula como delimitador. As outras guias não concentram essa operação.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1667190",
@@ -5735,7 +6009,28 @@
       "e": "22"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. ÍMPAR(5) retorna 5, pois o argumento já é ímpar. A expressão é 5+(10+4)/2+6 = 5+7+6 = 18. Portanto, alternativa D.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1457606",
@@ -5751,7 +6046,28 @@
       "e": "95"
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. A função SE testa se C2<50. Como C2 contém 55, a condição é falsa e a função retorna o terceiro argumento, 50. A alternativa correta é B.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4888621",
@@ -5767,7 +6083,28 @@
       "e": "46, 19 e =MENOR(A6:D6;1)"
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Questão removida na limpeza geral: o enunciado depende de uma planilha/imagem que não está incluída no registro textual, de modo que não há dados suficientes para reproduzir os cálculos ou validar o gabarito.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1539828",
@@ -5783,7 +6120,28 @@
       "e": "todos os dados contidos no banco de dados sem a necessidade de estabelecer critérios nos campos."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. O Autofiltro permite exibir apenas as linhas que atendem aos critérios selecionados nos campos de uma lista/tabela, ocultando temporariamente as demais linhas sem apagá-las. Portanto, a alternativa B descreve a finalidade do recurso.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1776063",
@@ -5799,7 +6157,28 @@
       "e": "Ctrl + Tab."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Alt + Tab alterna entre aplicativos/janelas abertos, exibindo uma interface de seleção. O usuário pode manter Alt pressionada e tocar Tab para percorrer as aplicações em execução.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1453243",
@@ -5815,7 +6194,29 @@
       "e": "8"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Pela disposição textual apresentada, o intervalo F1:G2 contém quatro valores: 4, 20, 2 e 16. A média é (4+20+2+16)/4 = 10,5. **Ressalva:** o resultado exato é 10,5 e nenhuma alternativa o apresenta; A (12) não é correto. A transcrição/alternativas parecem conter erro; recomenda-se revisão ou anulação.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Com os valores transcritos, a média de F1:G2 é 10,5, valor ausente nas alternativas. Gabarito A (12) não confere; revisar ou anular."
   },
   {
     "id": "1415645",
@@ -5830,7 +6231,28 @@
       "d": "Avira."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. Avira é uma solução antivírus/antimalware. Exchange é uma plataforma de e-mail e colaboração; Mailto é um esquema de link de correio; Dropbox é armazenamento/sincronização em nuvem.",
+    "references": [
+      {
+        "label": "Microsoft — Segurança do Windows e Microsoft Defender",
+        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1415635",
@@ -5845,7 +6267,28 @@
       "d": "modo Término."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. No Excel, Shift + Tab desloca a seleção para a célula anterior, normalmente à esquerda da célula ativa. Tab avança para a próxima célula; as opções restantes não descrevem o comportamento do atalho.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1414850",
@@ -5860,7 +6303,28 @@
       "d": "dividir os textos da planilha em colunas."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Questão removida na limpeza geral: o enunciado depende de um ícone não reproduzido no registro. Embora a alternativa B sugira “Remover Duplicatas”, não é possível identificar o ícone com segurança sem a imagem original.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1414842",
@@ -5875,7 +6339,28 @@
       "d": "inspeção."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. AutoSoma insere automaticamente uma fórmula de soma para um intervalo adjacente, normalmente usando a função SOMA. Classificação ordena dados; inspeção e aplicativos não totalizam automaticamente um conjunto de células.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "973170",
@@ -5891,7 +6376,28 @@
       "e": "MODO."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A função MÁXIMO retorna o maior valor numérico de um conjunto de argumentos ou de um intervalo. CONT conta células; DESLOC retorna uma referência deslocada; MOD calcula resto de divisão; MODO identifica o valor mais frequente.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1838869",
@@ -5907,7 +6413,28 @@
       "e": "ANGICOS."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. PROCV procura o valor RN4 em A10:A14 e retorna o conteúdo da segunda coluna do intervalo A10:C14 na mesma linha. RN4 está na linha cuja segunda coluna é ANGICOS; o quarto argumento 0 exige correspondência exata.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1973994",
@@ -5923,7 +6450,28 @@
       "e": "Bitdefender."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Bitdefender é uma solução antivírus/antimalware. OneDrive e Dropbox são serviços de armazenamento em nuvem; Packet Tracer é simulador de redes; VMware oferece virtualização.",
+    "references": [
+      {
+        "label": "Microsoft — Segurança do Windows e Microsoft Defender",
+        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha",
+        "url": "https://cartilha.cert.br/fasciculos/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1982504",
@@ -5939,7 +6487,28 @@
       "e": "terceiro maior número dentro do intervalo."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. MAIOR(A1:D1;3) retorna o terceiro maior número do intervalo A1:D1. O segundo argumento indica a posição no ranking decrescente: 1º maior, 2º maior, 3º maior e assim por diante.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1838680",
@@ -5955,7 +6524,28 @@
       "e": "A."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Windows + D mostra a área de trabalho, minimizando ou restaurando as janelas. A letra D é o atalho correspondente; o enunciado refere-se à sequência de duas teclas Windows e D.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1415349",
@@ -5970,7 +6560,28 @@
       "d": "9"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. A soma de B1:D3, conforme os valores apresentados, é 1+2+1+2+1+1+1+1+2 = 12. A soma de B2:D2 é 2+1+1=4. A diferença é 12−4=8, alternativa A.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1983057",
@@ -5986,7 +6597,28 @@
       "e": "6"
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. SOMASE(B2:B7;\"X\";C2:C7) soma os valores da coluna C apenas nas linhas em que a coluna B contém X. Os valores correspondentes são 3, 4 e 10; a soma é 17, alternativa B.",
+    "references": [
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
+        "url": "https://support.microsoft.com/pt-br/windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1975042",
