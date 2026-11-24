@@ -13,7 +13,16 @@
       "e": "A atendente disse que eu deveria abrir um chamado."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O enunciado original apresenta uma ordem ou solicitação (“Abra um chamado”). Na transposição para o discurso indireto, a oração subordinada costuma ir ao imperfeito do subjuntivo: “A atendente disse que eu abrisse um chamado”. A alternativa B preserva o valor de ordem relatada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4382033",
@@ -29,7 +38,16 @@
       "e": "V–F–F"
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A sequência é V–F–V. A narração organiza acontecimentos em progressão temporal; a descrição caracteriza seres, objetos, espaços ou estados, não se definindo pela sucessão de ações; a exposição informa e explica conceitos com organização lógica.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4426602",
@@ -45,7 +63,17 @@
       "e": "30% da amostra apresentaram variações significativas."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A alternativa C está correta: o núcleo do sujeito é “conjunto”, por isso o verbo fica no singular (“foi revogado”). Contudo, a alternativa E também pode ser aceita: em expressões percentuais, o verbo pode concordar com a porcentagem ou com o substantivo que a especifica (“30% da amostra apresentaram variações”). O item tem potencial de dupla resposta.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A alternativa E também admite concordância válida com o numeral percentual. Recomenda-se revisar o gabarito ou reformular o item para eliminar a dupla possibilidade."
   },
   {
     "id": "4389929",
@@ -61,7 +89,16 @@
       "e": "enumeração, pois lista itens independentes e não relacionados que apenas ocupam o lugar de tópico no parágrafo."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A expressão retomada por “uma coisa” é explicada ou especificada na sequência do texto, detalhando o conteúdo do pensamento do narrador. A alternativa A identifica essa relação explicativa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4382036",
@@ -77,7 +114,16 @@
       "e": "Conector explicativo: embora; operador argumentativo de inclusão: apenas; advérbio de modo neutro: plenamente."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Embora” introduz oração subordinada concessiva; “apenas” restringe o alcance da afirmação, funcionando como operador argumentativo; “plenamente” intensifica o grau em que os dados sustentam a conclusão.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3985535",
@@ -93,7 +139,16 @@
       "e": "O sujeito é indeterminado, por isso o verbo está no plural."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “Faltavam coragem e argumentos ao orador”, o sujeito é composto e está posposto ao verbo (“coragem e argumentos”). O verbo vai ao plural para concordar com os dois núcleos do sujeito.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4378771",
@@ -109,7 +164,16 @@
       "e": "Maria vai à pé para o trabalho."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A crase ocorre em “à praia”, pois há a preposição exigida pelo verbo ir (ir a) e o artigo feminino que acompanha “praia”. Não ocorre antes de palavra masculina (“a cavalo”), de pronome pessoal (“a ele”) nem em “a pé”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3747198",
@@ -125,7 +189,16 @@
       "e": "Estávamos frente à frente no tribunal."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Nunca vou a festas juninas” não apresenta crase porque “festas” está no plural e o “a” é apenas preposição, sem artigo definido plural. “Às vezes” exige crase; “à terra” pode exigir artigo conforme o sentido; e não há crase em “frente a frente”. A alternativa C é a opção inequívoca.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4079460",
@@ -141,7 +214,17 @@
       "e": "Não sei, se devo ir ou não."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A alternativa B está correta: “meu amigo” é aposto explicativo e deve ficar isolado por vírgulas. Atenção: a alternativa D (“Estudei muito, portanto passei na prova”) também pode ser considerada correta, pois a conjunção conclusiva intercalada entre orações coordenadas pode ser precedida por vírgula. O item admite discussão e pode ter dupla resposta.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A alternativa D também admite pontuação normativa com vírgula antes da conjunção conclusiva “portanto”. Recomenda-se revisão/anulação por possível dupla resposta."
   },
   {
     "id": "4157328",
@@ -157,7 +240,16 @@
       "e": "Polissemia implícita."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A reprodução de versos de Camões em uma crônica contemporânea estabelece diálogo explícito com uma obra anterior. Esse procedimento é intertextualidade explícita, pois o texto-fonte é reconhecível e citado.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4078487",
@@ -173,7 +265,16 @@
       "e": "Expositiva."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho apresenta uma afirmação geral sobre problemas urbanos, sem personagens ou sequência de ações. Entre as opções, predomina o modo expositivo, que apresenta informações e ideias de forma objetiva.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3449498",
@@ -189,7 +290,16 @@
       "e": "otimista."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto apresenta a inteligência artificial como fenômeno que pode trazer benefícios e oportunidades, destacando percepções positivas e a expectativa de auxílio no cotidiano. Por isso, o tom predominante é otimista, embora mencione preocupações e riscos.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4771987",
@@ -205,7 +315,16 @@
       "e": "há menas pessoas na outra sala."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “ela está meio triste”, “meio” funciona como advérbio de intensidade equivalente a “um pouco” e, por isso, permanece invariável. As demais opções apresentam problemas de concordância: “quites”, “bastantes problemas”, “alerta” (invariável nesse uso) e “menos pessoas”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3278096",
@@ -221,7 +340,16 @@
       "e": "predomínio de discurso direto."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto apresenta predominância de verbos e referências em terceira pessoa, com exposição de dados e avaliação da situação do país. Não predomina discurso direto nem linguagem coloquial.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3198627",
@@ -237,7 +365,17 @@
       "e": "é um relato subjetivo de experiências individuais, com caráter filosófico, com intuito de transmitir um ensinamento."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto parte de lembranças pessoais e situações cotidianas da infância para construir uma reflexão que pode ser reconhecida coletivamente. A narrativa individual funciona como ponto de partida para uma experiência humana mais ampla. A alternativa D é a mais adequada, embora a opção E também descreva aspectos presentes no texto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A alternativa E também é defensável, pois o texto é subjetivo e reflexivo, com caráter filosófico. D é a resposta pretendida pela estrutura narrativa que parte do individual para o coletivo; avaliar possível ambiguidade."
   },
   {
     "id": "3281817",
@@ -253,7 +391,16 @@
       "e": "\"Maria comprou um livro. Ela leu ele rapidamente.\"."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “Ela leu ele rapidamente”, o pronome “ele” é usado como objeto direto de “leu”, construção evitada pela norma-padrão formal nesse contexto. A forma recomendada é “Ela o leu rapidamente” ou “Ela leu o livro rapidamente”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3281850",
@@ -268,8 +415,17 @@
       "d": "apenas II;",
       "e": "I, II e III."
     },
-    "answer": "B",
-    "source": "Português.pdf"
+    "answer": "E",
+    "source": "Português.pdf",
+    "explanation": "As três proposições são aceitáveis. I: “à senhora” ocorre pela preposição exigida e pelo artigo feminino. II: após “até”, a crase pode ser facultativa (“até a igreja” ou “até à igreja”). III: usa-se crase em indicação de horário determinado (“às 8 horas”). Portanto, I, II e III.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3198861",
@@ -285,7 +441,16 @@
       "e": "Injunção."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto apresenta uma tese sobre os efeitos sociais de um reality show e desenvolve argumentos e exemplos para sustentar uma interpretação sobre comportamento contemporâneo. Predomina a dissertação argumentativa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3322232",
@@ -301,7 +466,17 @@
       "e": "Obediente às regras."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A banca provavelmente pretende “ansioso de novidades” como regência inadequada, preferindo “ansioso por novidades”. Entretanto, dicionários registram construções com “ansioso de” em determinados sentidos; por isso, a alternativa B não é inequivocamente incorreta sem contexto adicional. O item merece revisão.",
+    "references": [
+      {
+        "label": "Academia Brasileira de Letras — Vocabulário Ortográfico da Língua Portuguesa",
+        "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "“Ansioso de” pode ocorrer em usos registrados; sem contexto, não é seguro afirmar que B é categoricamente incorreta. Recomenda-se revisão da questão."
   },
   {
     "id": "3320641",
@@ -317,7 +492,16 @@
       "e": "compreender a complexidade do idioma falado no país."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho afirma que a análise linguística é importante para compreender a complexidade do português falado no Brasil, considerando sua diversidade e transformação contínua. A alternativa E retoma diretamente essa finalidade.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3631990",
@@ -333,7 +517,16 @@
       "e": "Ele aprendia à medida que estudava."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A crase antes de pronome possessivo feminino singular pode ser facultativa quando o artigo também é facultativo: “à sua casa” ou “a sua casa”. Nas demais expressões, o acento é obrigatório ou não se aplica.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3647941",
@@ -349,7 +542,16 @@
       "e": "I – a; II – à; III – pela"
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A regência adequada é “aversão às injustiças” (aversão a + as), “acesso à internet” (acesso a + a) e “apreço por arte moderna”. A sequência corresponde à alternativa D.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3433242",
@@ -365,7 +567,17 @@
       "e": "\"Eles aspiram um bom resultado no exame.\""
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A construção “informou aos pacientes sobre os riscos” está adequada: informar alguém sobre algo. Entretanto, B (“precisa de atenção e carinho”) e D (“gosta dos colegas”) também estão corretas na norma-padrão. Portanto, a questão não apresenta resposta única.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "As alternativas B, C e D são gramaticalmente corretas quanto à regência. Questão com múltiplas respostas válidas; recomenda-se anulação/reformulação."
   },
   {
     "id": "3875299",
@@ -381,17 +593,16 @@
       "e": "o cantor agradou ao público."
     },
     "answer": "E",
-    "source": "Português.pdf"
-  },
-  {
-    "id": "3449462",
-    "number": 25,
-    "subject": "Língua Portuguesa",
-    "topic": "Língua Portuguesa",
-    "stem": "Leia o texto a seguir e responda às questões de 1 a 10. Silvio Santos: o dono do auditório Silvio Santos vai ser sempre lembrado como referência na história da TV mundial. Como apresentador, passou por todas as fases da TV brasileira Artigo de Cláudio Ferreira, jornalista e estudioso de televisão* Todas as reverências são poucas para homenagear Silvio Santos. Mesmo quem o considerava brega, ultrapassado, muitas vezes inconveniente tem que reconhecer: ele foi um empreendedor nato, desafiou vários padrões da televisão brasileira e pode ser considerado, sem medo, sinônimo do gênero programa de auditório. Como apresentador, passou por todas as fases da TV brasileira: em preto e branco ou em cores, ao vivo ou gravado, com poucos ou muitos recursos tecnológicos. Ele era sempre a atração principal, dividindo os holofotes seja com artistas conhecidos, seja com os calouros anônimos ou as “colegas de trabalho”. Paletós com padronagens estranhas, o microfone pendurado no peito, o cacoete da língua nos lábios. Nosso amigo íntimo. Como empresário de TV, não descansou até conseguir montar sua rede de emissoras e lutou pela liderança de audiência — na maior parte do tempo, ficou com a vice ou o terceiro lugar. Era conhecido pela interferência direta na programação, o que provocava uma inconstância de horários de exibição e a retirada repentina de programas do ar. Mas deixava claro: quem mandava era ele. Consolidou o programa de auditório como atração televisiva. A fórmula certeira — carisma do apresentador + atrações variadas + plateia animada — foi exaustivamente copiada e assimilada. Chegou a ficar 12 horas no ar aos domingos, tornando-se, junto com a missa e a macarronada, parte do cardápio do fim de semana. Quem era criança a partir dos anos 1960 com certeza tem lembranças dos vários programas que Silvio Santos apresentou ao longo da carreira gigantesca. A narração sempre exagerada, o desfile de artistas populares, o jeito espontâneo — muitas vezes, até demais —, são muitas as características da presença do apresentador na TV. Tanto que o Rei dos Domingos povoa a internet com memes, que já existiam antes de serem batizados com essa expressão. Mesmo antes da TV fechada e dos streamings, muita gente já torcia o nariz para os exageros da TV aberta. E Silvio Santos era sinônimo de exagero: a cobertura jornalística da morte dele, que ocupou a programação de várias emissoras [...], destacou cenas hilárias, com o apresentador montando um burro no palco, caindo n’água ou escorregando num tapete. Era essa a mágica. O mesmo homem de bilhões de reais parecia o tiozão do pavê, aquele que dá vexame no fim da festa de casamento. Ao mesmo tempo em que exaltava o tamanho dos estúdios do SBT às margens da Via Anhanguera, em São Paulo, ele falava com o público como se estivesse dentro da casa das pessoas. Arriscou-se na política, sempre foi alinhado aos governos conservadores, colocou no ar, durante alguns anos, a Semana do Presidente, programete que resumia os feitos dos presidentes da República. Por outro lado, sempre abriu espaço para os artistas LGBTQIA + nos seus programas, o que só veio a acontecer em outras emissoras muito tempo depois. Incoerente total. Sei que muita gente agora vai dizer que “nunca assistiu Silvio Santos”. Humm. Desconfie. Que atire a primeira pedra quem não tentou adivinhar as melodias ocultas do Qual é a Música. Ou os mais jovens, que, no fim do domingo, completaram mentalmente alguma palavra do Roda a Roda Jequiti. Fora os da minha geração, que se lembram, com certeza, do Boa Noite, Cinderela, da infância, ou da Porta da Esperança, da juventude. Silvio Santos vai ser sempre lembrado como referência na história da TV mundial: o dono de emissora que cultivou no brasileiro o gosto por novelas mexicanas mesmo diante de uma produção nacional de qualidade reconhecida ou o multiempresário que, a partir da TV, fez negócios de sucesso, como a Telessena e os perfumes da Jequiti, que arrebatam até os artistas das concorrentes. Eu tenho um arsenal de lembranças, outro de críticas, mas, como estudioso de televisão, seria injusto deixar de reconhecer o valor de SS. Os acadêmicos já se debruçaram sobre essa história, há livros publicados sobre o fenômeno, registrando a grande herança de Silvio Santos: a capacidade de se comunicar com o público. Que me perdoem os influenciadores do presente, mas, nisso, ele era o mestre maior. FERREIRA, Cláudio. Silvio Santos: o dono do auditório. Correio Braziliense, 18 de agosto de",
-    "options": {},
-    "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O verbo “agradar”, no sentido de satisfazer ou causar agrado, rege a preposição “a”: “o cantor agradou ao público”. Na norma-padrão tradicional, diz-se “cheguei a casa”, “esqueceu-se do fato” e “aspira ao cargo” (no sentido de desejar).",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3327862",
