@@ -3535,7 +3535,28 @@
       "e": "Legalidade."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — impessoalidade.** A citação expressa a chamada teoria do órgão: a atuação praticada pelo agente, no exercício de suas atribuições, é imputada à pessoa jurídica ou ao órgão estatal, e não tratada como manifestação de vontade privada do funcionário. A ideia se relaciona à impessoalidade porque o agente atua em nome da instituição e para a finalidade pública.\n\n- **A) Publicidade — incorreta:** trata da transparência e divulgação dos atos.\n- **B) Impessoalidade — correta:** a atuação estatal não pode ser apropriada pelo agente como ato pessoal; deve permanecer vinculada à instituição e à finalidade pública.\n- **C) Eficiência — incorreta:** refere-se à qualidade dos resultados e ao uso adequado dos recursos.\n- **D) Moralidade — incorreta:** exige probidade, boa-fé e padrões éticos.\n- **E) Legalidade — incorreta:** exige conformidade com a lei e o ordenamento.\n\n**Dica:** imputação do ato à pessoa jurídica, vedação à promoção pessoal e atuação em nome do Estado são temas associados à impessoalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2446765",
@@ -3552,7 +3573,28 @@
       "e": "Nenhum dos dois princípios descritos encontra-se disciplinado no art.37 da Constituição Federal."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — o princípio da impessoalidade está descrito no item I.** O item I afirma que a Administração deve tratar os administrados sem discriminações benéficas ou prejudiciais e menciona o concurso público como instrumento de objetividade e igualdade no acesso aos cargos. Isso corresponde à impessoalidade. O item II descreve principalmente a eficiência administrativa, com referências a qualidade, redução de burocracia, produtividade e prevenção de desperdícios.\n\n- **A) Correta:** o item I descreve a impessoalidade.\n- **B) Incorreta:** o item II não define legalidade; embora mencione critérios legais, seu núcleo é eficiência e qualidade dos resultados.\n- **C) Incorreta:** o item I não descreve moralidade, mas tratamento impessoal e sem discriminações arbitrárias.\n- **D) Incorreta:** os dois princípios centrais descritos — impessoalidade e eficiência — estão expressos no art. 37, caput.\n- **E) Incorreta:** ambos constam expressamente do art. 37.\n\n**Dica:** concurso público se conecta à igualdade e impessoalidade; qualidade, produtividade, otimização de recursos e redução de desperdícios apontam para eficiência.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2455512",
@@ -3569,7 +3611,28 @@
       "e": "eficácia."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — eficácia.** A questão pede a exceção ao rol literal do art. 37, caput, da Constituição, que enumera legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). “Eficácia” não aparece como um dos cinco princípios expressos nesse dispositivo.\n\n- **A) Legalidade — integra o rol:** a Administração atua subordinada à Constituição e às normas jurídicas.\n- **B) Impessoalidade — integra o rol:** exige objetividade e veda favorecimentos e perseguições.\n- **C) Moralidade — integra o rol:** impõe padrões éticos e de probidade.\n- **D) Publicidade — integra o rol:** assegura transparência e divulgação, ressalvadas hipóteses de sigilo.\n- **E) Eficácia — correta como exceção:** é conceito relevante na gestão pública, mas não substitui “eficiência” na redação do art. 37.\n\n**Atenção:** eficácia e eficiência são conceitos relacionados, mas não sinônimos perfeitos. Em questão de literalidade constitucional, memorize a palavra exata: eficiência.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2218002",
@@ -3586,7 +3649,28 @@
       "e": "A Administração Pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, transparência e eficiência."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B.** A alternativa reproduz corretamente a redação do art. 37, caput, da Constituição Federal: legalidade, impessoalidade, moralidade, publicidade e eficiência.\n\n- **A) Incorreta:** troca “impessoalidade” por “pessoalidade”, que é justamente o oposto da exigência constitucional.\n- **B) Correta:** reproduz os cinco princípios expressos.\n- **C) Incorreta:** “discricionariedade” não substitui moralidade; discricionariedade é uma margem de escolha juridicamente limitada, não princípio do rol.\n- **D) Incorreta:** “veracidade” não substitui publicidade.\n- **E) Incorreta:** “transparência” é dimensão importante da publicidade, mas não é a palavra usada no rol constitucional.\n\n**Dica:** quando o enunciado reproduz o caput do art. 37, confira os cinco termos sem trocar sinônimos ou conceitos próximos.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2453279",
@@ -3603,7 +3687,28 @@
       "e": "Exige que a Administração Pública seja organizada em permanente atenção aos padrões modernos de gestão, no fito de vencer o peso burocrático."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — organização administrativa orientada por padrões modernos de gestão.** A eficiência exige que a Administração e seus agentes busquem desempenho adequado, qualidade, produtividade e bons resultados, combatendo desperdícios e disfunções burocráticas.\n\n- **A) Incorreta:** igualdade de tratamento em situações equivalentes corresponde principalmente à impessoalidade/isonomia.\n- **B) Incorreta:** impedir promoção pessoal do administrador corresponde à impessoalidade, reforçada pelo art. 37, § 1º.\n- **C) Incorreta:** afastar condutas contrárias à ética e à probidade corresponde à moralidade.\n- **D) Incorreta:** descreve hipóteses de restrição de publicidade processual para proteção da intimidade, tema ligado à publicidade e às garantias processuais, não à eficiência.\n- **E) Correta:** a Administração deve organizar-se e atuar com atenção a padrões de gestão que melhorem o desempenho e reduzam entraves burocráticos desnecessários.\n\n**Dica:** eficiência envolve tanto a atuação do agente quanto a organização, estruturação e disciplina da própria Administração.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2217246",
@@ -3620,7 +3725,28 @@
       "e": "legalidade, impessoalidade, motivação, publicidade e finalidade."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D — legalidade, impessoalidade, moralidade, publicidade e eficiência.** Essa é a lista expressa no caput do art. 37 da Constituição Federal, aplicável à Administração direta e indireta de todos os Poderes e entes federativos.\n\n- **A) Incorreta:** “veracidade” não integra o rol; o termo constitucional é publicidade.\n- **B) Incorreta:** supremacia do interesse público e motivação são princípios reconhecidos na doutrina e no regime administrativo, mas não substituem impessoalidade e publicidade no rol literal do caput.\n- **C) Incorreta:** também substitui impessoalidade por supremacia do interesse público.\n- **D) Correta:** reproduz integralmente os cinco princípios expressos.\n- **E) Incorreta:** motivação e finalidade são relevantes, mas não substituem moralidade e eficiência no texto do art. 37.\n\n**Dica:** diferencie o rol constitucional expresso de outros princípios reconhecidos pelo Direito Administrativo.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1860560",
@@ -3637,7 +3763,28 @@
       "e": "Em função do princípio da publicidade, todos os atos administrativos devem ter o seu conteúdo veiculado no Diário Oficial do respectivo ente federativo."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito indicado: B — legalidade em sentido amplo, interpretada em conjunto com os princípios constitucionais.** A alternativa expressa uma compreensão contemporânea da legalidade administrativa, frequentemente descrita pela doutrina como juridicidade: a Administração deve observar não apenas a lei em sentido estrito, mas todo o ordenamento, inclusive a Constituição e os direitos fundamentais. Isso não autoriza agir contra a lei nem inventar competências; exige interpretar e exercer as competências de modo compatível com as normas e princípios constitucionais.\n\n- **A) Incorreta:** a vedação ao nepotismo alcança cargos em comissão e funções de confiança nos termos da SV 13, mas a jurisprudência do STF tem distinguido, em regra, cargos políticos de primeiro escalão, admitindo controle em situações de fraude, troca de favores ou manifesta falta de qualificação/idoneidade. Portanto, afirmar que a vedação se estende automaticamente a todos os cargos políticos é excessivo.\n- **B) Correta segundo a noção de legalidade/juridicidade:** a atuação administrativa deve ser compreendida à luz de todo o sistema constitucional, inclusive dos direitos fundamentais, não apenas como execução mecânica de comandos legais isolados.\n- **C) Incorreta:** eficiência não pode ser avaliada exclusivamente pelo aspecto econômico; qualidade, finalidade pública, legalidade e direitos dos administrados também importam.\n- **D) Incorreta:** a impessoalidade e o art. 37, § 1º, vedam publicidade institucional que promova a imagem do gestor.\n- **E) Incorreta:** publicidade é a regra, mas não significa que todo ato tenha obrigatoriamente seu conteúdo integral publicado no Diário Oficial; há diferentes meios de divulgação e hipóteses legais de sigilo ou proteção de dados.\n\n**Ressalva:** a alternativa B usa formulação ampla (“embora não esteja estritamente autorizada por lei”). Ela só é defensável se entendida como atuação fundada no ordenamento constitucional e dentro das competências existentes — não como liberdade para a Administração agir sem base jurídica. O STF também reconhece distinções jurisprudenciais no tema do nepotismo político, com análise de circunstâncias concretas.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2452765",
@@ -3654,7 +3801,28 @@
       "e": "objeto."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — moralidade.** A moralidade está expressamente prevista no art. 37, caput, e orienta a atuação administrativa por padrões de probidade, boa-fé, lealdade e decoro.\n\n- **A) Moralidade — correta:** é princípio fundamental da Administração Pública.\n- **B) Imperatividade — incorreta:** é atributo de determinados atos administrativos, relacionado à imposição unilateral de obrigações, não princípio geral do art. 37.\n- **C) Finalidade — incorreta:** é princípio reconhecido no Direito Administrativo e também elemento do ato administrativo em classificações tradicionais, mas não é a resposta esperada quando se pede um dos princípios expressos e básicos do rol constitucional.\n- **D) Forma — incorreta:** é elemento/requisito do ato administrativo.\n- **E) Objeto — incorreta:** também é elemento do ato administrativo.\n\n**Dica:** moralidade integra o LIMPE; imperatividade é atributo do ato; forma e objeto são elementos do ato administrativo.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2446796",
@@ -3671,7 +3839,28 @@
       "e": "Juridicidade."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito indicado: A — legalidade.** O enunciado afirma que a Administração deve atuar de acordo com a lei e com as finalidades previstas no Direito, podendo fazer apenas o que lhe é permitido. Essa é a formulação tradicional do princípio da legalidade administrativa.\n\n- **A) Legalidade — correta segundo a redação da questão:** submete a atuação administrativa à lei e ao ordenamento.\n- **B) Tipicidade — incorreta:** relaciona-se à necessidade de correspondência entre conduta e tipo jurídico, com destaque no direito sancionador.\n- **C) Moralidade — incorreta:** exige padrões éticos, probidade e boa-fé.\n- **D) Competência — incorreta:** define a parcela de atribuições conferida a cada órgão ou agente; não é o princípio geral descrito.\n- **E) Juridicidade — conceito próximo, mas não é a resposta esperada:** expressa a submissão da Administração a todo o ordenamento, incluindo princípios e Constituição. O texto da questão usa a formulação clássica de legalidade.\n\n**Nota conceitual:** na doutrina contemporânea, legalidade é frequentemente compreendida em sentido amplo ou como juridicidade. Isso não torna a alternativa E correta nesta questão, que pede a denominação tradicional expressamente associada à fórmula apresentada.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2453133",
@@ -3688,7 +3877,28 @@
       "e": "em sua essência, diz respeito à necessidade de o Estado agir de modo imparcial perante terceiros, não podendo beneficiar nem causar danos a pessoas específicas, mas sempre buscando chegar à comunidade ou um grupo amplo de cidadãos."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D — legalidade.** A alternativa descreve a submissão da Administração às normas constitucionais e legais e afirma que ela só pode fazer aquilo que o ordenamento autoriza. Esse é o conteúdo clássico do princípio da legalidade administrativa.\n\n- **A) Incorreta:** descreve moralidade, pois menciona boa-fé, lealdade e probidade.\n- **B) Incorreta:** descreve publicidade, que assegura divulgação oficial e transparência.\n- **C) Incorreta:** descreve eficiência, relacionada a rendimento funcional e qualidade dos resultados.\n- **D) Correta:** expressa a legalidade administrativa.\n- **E) Incorreta:** descreve impessoalidade, que exige atuação imparcial e sem favorecimentos ou perseguições.\n\n**Dica:** associe cada descrição ao seu núcleo: lei = legalidade; ética = moralidade; divulgação = publicidade; rendimento = eficiência; imparcialidade = impessoalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "STF — jurisprudência selecionada sobre a Súmula Vinculante 13 e cargos políticos",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1229"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2447986",
