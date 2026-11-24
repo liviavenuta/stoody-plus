@@ -10250,7 +10250,28 @@
       "e": "Planejamento do suprimento de recursos."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: D. A centralização das compras agrega demandas, aumenta o volume negociado e amplia o poder de barganha perante fornecedores. Contratos especiais, qualidade assegurada e relacionamento de longo prazo são instrumentos de alavancagem do poder de compra. A alternativa A trata de prioridade de atendimento, B e E de reposição/planejamento e C não nomeia adequadamente a estratégia descrita.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "142500",
@@ -10267,7 +10288,28 @@
       "e": "I, II, III e IV."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito informado no arquivo: C. Revisão técnica: o conteúdo das assertivas aponta para I, II e IV, portanto a alternativa B. A assertiva III é incorreta por caracterizar a compra organizacional como pessoal. Recomenda-se corrigir o gabarito para B ou revisar a transcrição das assertivas antes de publicar.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3886759",
@@ -10284,7 +10326,28 @@
       "e": "Movimentação"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: C. Empenho é estágio da execução da despesa pública, que reserva dotação orçamentária para uma obrigação, e não etapa do ciclo de vida físico-patrimonial do bem. Aquisição, movimentação, inventário e baixa são procedimentos associados à gestão do ativo. Assim, C é a exceção. A distinção evita confundir o ciclo orçamentário-financeiro com o controle patrimonial.",
+    "references": [
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3951434",
@@ -10300,7 +10363,28 @@
       "d": "Antieconômico."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: D. Bem antieconômico ainda pode funcionar, mas apresenta rendimento precário ou manutenção onerosa em razão do uso prolongado ou desgaste. Bem ocioso está em condições de uso, mas não é aproveitado; irrecuperável não pode ser utilizado nem compensa recuperar; bom está em condições normais. O enunciado descreve precisamente a condição antieconômica.",
+    "references": [
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3926048",
@@ -10317,7 +10401,28 @@
       "e": "Vincular o objeto físico ao seu registro numérico e contábil no sistema, permitindo a individualização do bem e o controle de seu histórico e localização."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: E. A etiqueta patrimonial associa o objeto físico a um identificador único no cadastro, permitindo localizar, inventariar, movimentar e consultar seu histórico. Ela não impede fisicamente transferências, não atualiza dados por satélite, não calcula depreciação e não substitui o termo de responsabilidade. A identificação é instrumento de rastreabilidade, não mecanismo autônomo de gestão.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3815132",
@@ -10334,7 +10439,28 @@
       "e": "Insumo operacional com características perecíveis e prazo de validade determinado pelo fabricante original."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: D. A alternativa D expressa a noção usual de material permanente: item que, em regra, mantém identidade física e possui durabilidade superior a dois anos, observados os critérios normativos de classificação. Atenção: valor unitário significativo, isoladamente, não é critério universal nem suficiente; a classificação deve considerar durabilidade, fragilidade, perecibilidade, incorporabilidade e transformabilidade. As demais alternativas descrevem materiais de consumo ou descartáveis.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Portaria STN nº 448/2002 — classificação de despesas e material de consumo",
+        "url": "https://www.gov.br/tesouronacional/pt-br"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3921335",
@@ -10351,7 +10477,28 @@
       "e": "Entre os principais objetivos do almoxarifado estão: fazer a conciliação físico/contábil dos bens patrimoniais; identificar as causas das discrepâncias; propor ações preventivas; e proceder aos ajustes físico e contábil."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: B. Diante de extravio ou perda sem causa e autoria conhecidas, a Administração deve instaurar procedimento apuratório — sindicância ou instrumento equivalente previsto nas normas do órgão — para esclarecer os fatos e eventual responsabilidade. A alternativa C mistura etapas de inventário patrimonial com atribuição de valor, e D confunde baixa com distribuição/atribuição de responsabilidade. A e E também definem incorretamente sequência patrimonial e funções do almoxarifado.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3550095",
@@ -10368,7 +10515,28 @@
       "e": "O registro patrimonial de bens móveis deve ocorrer somente após a sua completa depreciação, conforme previsão do MCASP."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: C. Bens permanentes adquiridos devem ser incorporados e registrados no sistema patrimonial, com identificação, classificação e atribuição de responsabilidade. O agente de contratação não substitui a unidade de patrimônio nem é, por regra, o responsável por executar inventários; pode, contudo, considerar no planejamento os requisitos de identificação, recebimento e incorporação. Doação também exige formalização e registro, e o bem não espera a depreciação para ser registrado.",
+    "references": [
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3626125",
@@ -10385,7 +10553,28 @@
       "e": "Manter os bens registrados no controle patrimonial de acordo com sua data de aquisição, independentemente de estarem em uso ou apresentarem condições de obsolescência."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: C. O inventário confronta a existência e a localização física dos bens com os registros, identifica itens não localizados ou não cadastrados e permite registrar o estado de conservação e necessidades de manutenção. Não se limita a lançar aquisições ou atualizar valores contábeis. A finalidade central é assegurar correspondência entre acervo físico e cadastro patrimonial, subsidiando ajustes e providências.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3618043",
@@ -10402,7 +10591,28 @@
       "e": "I, II e III."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: B. Apenas a assertiva III está correta. Bem recuperável é aquele cuja recuperação é possível e cujo custo não ultrapassa 50% do valor de mercado, conforme o critério normativo citado. A I descreve, em essência, bem irrecuperável, não antieconômico; a II descreve bem antieconômico, não irrecuperável. Por isso, a sequência correta é somente III. A distinção entre antieconômico e irrecuperável é decisiva para a destinação.",
+    "references": [
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3637619",
@@ -10419,7 +10629,28 @@
       "e": "não há uma necessidade específica para se tomar direcionada ao bem do acervo."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: B. O bem deve estar individualizado e registrado no sistema patrimonial, com localização e unidade responsável atualizadas. A transferência física entre setores não elimina o vínculo patrimonial nem justifica baixa; deve ser formalizada conforme o fluxo interno, com atualização cadastral e dos termos de responsabilidade. Controles informais e numerações locais paralelas prejudicam a rastreabilidade.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3445142",
@@ -10435,7 +10666,28 @@
       "d": "II e III, apenas."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: D. A afirmativa I está errada: tombamento é a identificação e incorporação cadastral do bem, não sua retirada do acervo; a saída é tratada por baixa. II descreve corretamente o controle durante a permanência do bem na instituição. III também está correta, pois o inventário confronta registros e existência física e aponta conservação, manutenção e saneamento. Logo, II e III apenas.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3335704",
@@ -10451,7 +10703,28 @@
       "d": "Implementar um sistema de inventário patrimonial informatizado, que automatiza o registro e o rastreamento de todos os bens do órgão."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: D. Um sistema informatizado de inventário e gestão patrimonial permite cadastro padronizado, identificação individual, histórico de movimentações, localização e acompanhamento de responsáveis. Auditorias anuais são úteis, mas isoladamente não corrigem a ausência estrutural de registros; reduzir aquisições ou depreciar rapidamente não resolve o problema de rastreabilidade. A implantação deve ser acompanhada de saneamento cadastral e inventários físicos.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3741737",
@@ -10468,7 +10741,28 @@
       "e": "apenas a conservação física dos bens, dispensando registro formal e controle de movimentação."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: A. O controle patrimonial é contínuo e abrange registro, tombamento, inventário, conservação, movimentação e baixa dos bens permanentes. As demais alternativas reduzem indevidamente o controle a uma única atividade ou dispensam etapas essenciais. O inventário periódico é apenas uma das ferramentas de verificação, não substitui o registro e o acompanhamento cotidiano.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3375890",
@@ -10484,7 +10778,28 @@
       "d": "Retorno de investimento."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: B. Endowment é a expressão usada para fundo patrimonial: conjunto de recursos privados doados, constituído e gerido segundo a Lei nº 13.800/2019, com o objetivo de gerar receitas e apoiar instituições e causas de interesse público no longo prazo. Financiamento coletivo é modalidade de captação; incentivo fiscal é benefício tributário; retorno de investimento é resultado financeiro, não a denominação do fundo.",
+    "references": [
+      {
+        "label": "Lei nº 13.800/2019 — fundos patrimoniais",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13800.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3635752",
@@ -10501,7 +10816,28 @@
       "e": "F • F • V • V"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: C. A sequência correta é V–F–V–V. A ausência de identificação e registro exige regularização; bens inservíveis não precisam permanecer indefinidamente como ativos em uso, pois sua baixa e destinação devem seguir o procedimento aplicável; a comissão pode propor a baixa e a destinação adequada; e o inventário anual contribui para a confiabilidade dos registros físicos e contábeis. A baixa depende de processo formal, não de simples exclusão informal.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3085438",
@@ -10518,7 +10854,28 @@
       "e": "Patrimônio público."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: E. Patrimônio público é o conjunto de bens e direitos pertencentes às pessoas jurídicas de direito público, afetados ao atendimento das finalidades estatais e das necessidades coletivas. Administração e organização pública designam estruturas ou atividades; serviço público é a atividade prestada à coletividade. O enunciado descreve o acervo patrimonial estatal.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2896659",
@@ -10535,7 +10892,28 @@
       "e": "no comodato, há empréstimo de um bem entre instituições públicas."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: B. A doação é forma de transferência gratuita de propriedade e pode ter por objeto bens móveis ou imóveis, observadas as exigências legais e formais próprias de cada espécie. Cessão e comodato, em regra, envolvem transferência de uso ou posse sem transferência de propriedade; permuta envolve troca de bens, não necessariamente aquisição remunerada com recursos orçamentários. A fabricação própria pode gerar incorporação patrimonial quando atendidos os critérios contábeis.",
+    "references": [
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2981968",
@@ -10552,7 +10930,28 @@
       "e": "Redução dos gastos com publicidade."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: D. A manutenção preventiva e periódica reduz falhas, prolonga a vida útil, melhora disponibilidade e segurança e evita custos maiores com reparos emergenciais e substituição prematura. Treinamento pode apoiar o uso correto, mas a medida diretamente relacionada à conservação e à eficiência operacional dos equipamentos é a manutenção regular.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3256692",
@@ -10567,7 +10966,28 @@
       "e": "Regular, ocioso, recuperável, antieconômico e irrecuperável."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: E. Regular, ocioso, recuperável, antieconômico e irrecuperável são categorias de classificação dos bens móveis segundo sua situação e possibilidade de aproveitamento/destinação. As alternativas A a C listam fases ou ocorrências de gestão patrimonial, não categorias de estado do bem. A terminologia deve ser aplicada conforme o regulamento pertinente ao órgão.",
+    "references": [
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2896660",
@@ -10584,7 +11004,28 @@
       "e": "cessão."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: A. Se o bem é irrecuperável e sua alienação é impossível ou inconveniente, a Administração deve providenciar destinação final ambientalmente adequada, observando as normas ambientais e os procedimentos de desfazimento. Doação, permuta ou venda pressupõem que exista destinação juridicamente e materialmente viável; não são a resposta quando o enunciado afasta a conveniência ou possibilidade de alienação.",
+    "references": [
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "Lei nº 12.305/2010 — Política Nacional de Resíduos Sólidos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2358422",
@@ -10601,7 +11042,28 @@
       "e": "1 – semoventes; 2 – como dinheiro ou títulos de liquidez imediata; 3 – materiais; 4 – como móveis e utensílios, máquinas, veículo; e 5 – tangíveis."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: A. A alternativa A completa a classificação: bens de capital são empregados na produção de outros bens ou serviços, como máquinas, equipamentos e instalações; bens de consumo duráveis mantêm utilidade por período prolongado, como geladeiras, televisores e automóveis; os não duráveis são consumidos ou perdem utilidade em prazo menor. As demais alternativas associam exemplos a categorias incompatíveis, como bens fungíveis, numerários ou semoventes.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      },
+      {
+        "label": "Portaria STN nº 448/2002 — classificação de despesas e material de consumo",
+        "url": "https://www.gov.br/tesouronacional/pt-br"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1717861",
@@ -10618,7 +11080,28 @@
       "e": "bens materiais, bens tangíveis e materiais circulantes."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: C. A alternativa C reúne bens imóveis, materiais permanentes e instalações, categorias de elementos tangíveis sujeitos à gestão patrimonial. A alternativa B inclui materiais de consumo, que são controlados como estoque e não como bens permanentes; D usa categorias operacionais/estratégicas, não uma classificação patrimonial equivalente. A gestão patrimonial exige identificar e controlar os ativos tangíveis de acordo com sua natureza.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1012484",
@@ -10635,7 +11118,28 @@
       "e": "Bem industrial."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: B. O fotocopiador é um bem móvel, pois pode ser deslocado sem alteração de sua substância e não integra o solo. O fato gerador de sua entrada no patrimônio ser uma doação não altera sua natureza física: 'doado' descreve a origem da incorporação, enquanto 'móvel' é o gênero patrimonial solicitado. Após o recebimento, deve ser avaliado, registrado e identificado.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1151630",
@@ -10651,7 +11155,28 @@
       "d": "Em recursos humanos."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: A. Segurança patrimonial é o conjunto de atividades voltadas à prevenção e redução de perdas de bens, instalações e demais ativos. Segurança do trabalho protege a saúde e a integridade dos trabalhadores; segurança institucional é expressão mais ampla e não corresponde à denominação específica apresentada no enunciado. A resposta acompanha a terminologia da política citada.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1243925",
@@ -10668,7 +11193,28 @@
       "e": "I, II, III, IV, V e VI."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: D. Estão corretas I, IV, V e VI. Durabilidade, incorporabilidade, transformabilidade e finalidade são critérios reconhecidos para caracterizar material de consumo. As assertivas II e III trocam os conceitos: perecibilidade diz respeito à alteração ou deterioração por fatores físicos/químicos; fragilidade refere-se à estrutura quebradiça, deformável ou danificável. Por isso, a combinação correta é a alternativa D.",
+    "references": [
+      {
+        "label": "Portaria STN nº 448/2002 — classificação de despesas e material de consumo",
+        "url": "https://www.gov.br/tesouronacional/pt-br"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1012483",
@@ -10685,7 +11231,28 @@
       "e": "Transformação física."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: C. A transferência é a ocorrência patrimonial utilizada quando a responsabilidade por um bem passa de uma unidade organizacional para outra dentro da mesma entidade, com atualização dos registros de localização e responsável. Não há nova aquisição, alienação ou transformação física do objeto. A movimentação deve ser documentada para preservar a rastreabilidade.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "910891",
@@ -10702,7 +11269,28 @@
       "e": "o correto gerenciamento do estoque de produtos acabados."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: A. A organização dos materiais de escritório permite armazená-los, localizá-los e distribuí-los adequadamente, reduzindo perdas e desperdícios e assegurando sua utilização conforme a necessidade. As demais alternativas tratam de tributos, folha de pagamento, gestão de pessoas ou estoque de produtos acabados, assuntos que não correspondem ao objetivo direto descrito.",
+    "references": [
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "CNMP — orientações sobre almoxarifado e patrimônio",
+        "url": "https://www.cnmp.mp.br/portal/institucional/731-institucional/comissoes-institucional/comissao-de-controle-administrativo-e-financeiro/ordenador-de-despesas/gestao-de-recursos-fisicos/4050-almoxarifado-e-patrimonio"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "812913",
@@ -10719,7 +11307,28 @@
       "e": "Auditoria Contábil."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: D. A análise patrimonial, no contexto da questão, avalia a necessidade e a adequação dos bens a adquirir, evitando compras desnecessárias ou incompatíveis com as atividades. Auditoria contábil e avaliação contábil têm escopos distintos, voltados à verificação ou mensuração dos registros; análise financeira examina recursos e capacidade de pagamento. A nomenclatura pode variar entre organizações, mas D é a opção que corresponde ao enunciado.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Lei nº 14.133/2021 — Licitações e Contratos",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "label": "TCU — Licitações e Contratos",
+        "url": "https://licitacoesecontratos.tcu.gov.br/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1151628",
@@ -10735,7 +11344,28 @@
       "d": "Perda total."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "Gabarito indicado: A. A doação é fato gerador de incorporação patrimonial porque transfere gratuitamente um bem à entidade pública, mediante aceitação e formalização, avaliação quando cabível e registro contábil/patrimonial. Sinistro e perda total normalmente podem levar à baixa ou reconhecimento de perda; alienação representa saída do patrimônio, não incorporação.",
+    "references": [
+      {
+        "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — gestão de materiais",
+        "url": "https://www.gov.br/patrimonio/pt-br/central-de-conteudo/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Decreto nº 9.373/2018 — classificação e destinação de bens móveis",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9373.htm"
+      },
+      {
+        "label": "Lei nº 4.320/1964 — normas gerais de direito financeiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "691873",
