@@ -2138,7 +2138,20 @@
       "e": "Eficiência."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D — Publicidade.**\n\nO princípio da publicidade determina a transparência da atuação administrativa, permitindo que a sociedade conheça os atos do poder público e exerça controle sobre eles. O art. 37, caput, da Constituição Federal inclui a publicidade entre os princípios expressos da Administração Pública.\n\n**Por que as outras estão erradas:** A) legalidade exige atuação conforme a lei e o ordenamento jurídico; B) impessoalidade impede favorecimentos e perseguições; C) moralidade exige conduta ética e proba; E) eficiência exige bom desempenho e uso adequado dos recursos. Embora todos sejam princípios administrativos, o que se relaciona diretamente à transparência e divulgação dos atos é publicidade.\n\n**Atenção:** publicidade não significa divulgação irrestrita de qualquer informação. A Constituição e a legislação admitem sigilo em hipóteses justificadas, como proteção da intimidade e da segurança da sociedade e do Estado.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei de Acesso à Informação — Lei nº 12.527/2011",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3383152",
@@ -2155,7 +2168,20 @@
       "e": "Lucratividade."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — Lucratividade.**\n\nA lucratividade não integra o rol dos princípios expressos no art. 37, caput, da Constituição. Esse rol é formado por legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). A Administração Pública existe para atender ao interesse público, e não para perseguir lucro como finalidade geral.\n\n**Análise das alternativas:** A) legalidade: atuação vinculada à lei e ao Direito; B) impessoalidade: tratamento sem favorecimentos ou perseguições; C) eficiência: busca de resultados e boa utilização dos recursos; D) publicidade: transparência dos atos, respeitadas as exceções legais; E) lucratividade: não é princípio básico constitucional da Administração.\n\n**Dica de prova:** eficiência não é sinônimo de lucratividade. Um serviço público pode ser eficiente mesmo sem gerar lucro financeiro, desde que atenda adequadamente à finalidade pública e utilize bem os recursos.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — arts. 2º e 53 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3489946",
@@ -2171,7 +2197,20 @@
       "d": "tipicidade."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — Publicidade.**\n\nO art. 37, caput, da Constituição Federal estabelece os princípios que orientam a Administração Pública direta e indireta: legalidade, impessoalidade, moralidade, publicidade e eficiência. Entre as alternativas apresentadas, publicidade é a única que corresponde a um desses princípios.\n\n**Por que as demais não são a resposta:** A) executoriedade é atributo associado a determinados atos administrativos, não princípio do rol do art. 37; C) motivo é elemento do ato administrativo; D) tipicidade é atributo dos atos administrativos, relacionado à correspondência com figuras previstas no ordenamento. Esses conceitos pertencem ao Direito Administrativo, mas não são os princípios expressos cobrados na questão.\n\n**Dica:** diferencie princípios administrativos dos atributos e elementos dos atos administrativos. Publicidade integra o LIMPE; motivo é elemento do ato; executoriedade e tipicidade são atributos.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2961781",
@@ -2188,7 +2227,20 @@
       "e": "Igualdade."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: D — Impessoalidade.**\n\nA impessoalidade exige que a Administração atue com objetividade e finalidade pública, sem favorecer ou prejudicar pessoas por razões pessoais. Também se relaciona à igualdade de tratamento entre administrados que estejam em situações equivalentes e à vedação de promoção pessoal de agentes públicos.\n\n**Por que as outras estão erradas:** A) legalidade diz respeito à conformidade da atuação administrativa com o ordenamento jurídico; B) moralidade exige ética e probidade; C) publicidade trata da transparência e divulgação dos atos; E) igualdade é um valor e princípio jurídico relevante, mas a alternativa que corresponde diretamente à imparcialidade e à vedação de favorecimento descritas no enunciado é impessoalidade.\n\n**Dica:** quando o enunciado destacar ausência de favorecimento, perseguição, preferência pessoal ou promoção individual, pense em impessoalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Constituição Federal — art. 5º, caput (igualdade)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2962393",
@@ -2205,7 +2257,20 @@
       "e": "Publicidade."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — Eficiência.**\n\nA descrição “presteza, perfeição e rendimento funcional” corresponde à formulação clássica do princípio da eficiência. Esse princípio foi incluído expressamente no art. 37, caput, pela Emenda Constitucional nº 19/1998. Exige que a Administração busque qualidade, bons resultados e adequada utilização dos recursos públicos.\n\n**Por que as outras estão erradas:** A) legalidade exige atuação conforme a lei; C) moralidade impõe padrões éticos e probidade; D) impessoalidade impede favorecimentos e perseguições; E) publicidade assegura transparência. Nenhum desses conceitos corresponde tão diretamente a rendimento e qualidade do desempenho quanto eficiência.\n\n**Atenção:** eficiência não autoriza descumprir a lei nem sacrificar direitos. O resultado deve ser buscado dentro dos limites jurídicos.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — arts. 2º e 53 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2967296",
@@ -2222,7 +2287,20 @@
       "e": "Apenas I e II."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — apenas I e II.**\n\nI é **verdadeira**. A legalidade impede atuação administrativa arbitrária: o agente deve agir com fundamento jurídico e dentro de suas competências. Pode existir discricionariedade, mas ela é limitada pela lei e não equivale a liberdade absoluta.\n\nII é **verdadeira**. A impessoalidade exige critérios objetivos e veda favorecimento ou perseguição pessoal, inclusive na prestação de serviços públicos de saúde.\n\nIII é **falsa**, conforme a classificação tradicional cobrada pela questão. A Constituição enumera expressamente legalidade, impessoalidade, moralidade, publicidade e eficiência. **Eficácia** é conceito importante para avaliação de políticas e resultados, mas não aparece no art. 37 como princípio expresso autônomo. A avaliação de desempenho em saúde não transforma, por si só, eficácia em princípio constitucional expresso.\n\nPortanto, estão corretas I e II: alternativa E.\n\n**Cuidado com a terminologia:** eficiência, eficácia e efetividade são conceitos relacionados, mas não idênticos. A questão cobra o rol de princípios constitucionais, e não a importância de avaliar resultados em políticas públicas.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — princípios do processo administrativo, art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3489947",
@@ -2238,7 +2316,20 @@
       "d": "moralidade."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — Impessoalidade.**\n\nO enunciado descreve uma atuação estatal imparcial, sem favorecimento ou prejuízo dirigido a pessoas específicas e orientada à finalidade pública. Essa é a ideia central do princípio da impessoalidade, previsto no art. 37, caput, da Constituição Federal.\n\n**Por que as outras estão erradas:** B) publicidade trata da transparência dos atos; C) autoexecutoriedade é atributo de determinados atos administrativos, que permite sua execução direta em situações admitidas pelo ordenamento; D) moralidade exige padrões éticos, probidade e boa-fé. Embora a moralidade também limite a conduta do agente, a imparcialidade e a vedação de favorecimento descritas apontam especificamente para impessoalidade.\n\n**Dica:** “sem favorecer ou prejudicar pessoas” é uma pista clássica para identificar impessoalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — arts. 2º e 53 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2961878",
@@ -2255,7 +2346,20 @@
       "e": "Princípio da justiça."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito indicado: D — Princípio da igualdade.**\n\nA alternativa D é a que melhor corresponde ao enunciado: igualdade perante a lei e proteção equivalente dos direitos individuais e coletivos. O princípio da igualdade impede discriminações arbitrárias e exige tratamento isonômico, consideradas as diferenças juridicamente relevantes.\n\n**Análise das alternativas:** A) legalidade exige que a Administração observe o ordenamento jurídico e é uma garantia essencial dos administrados; B) supremacia do interesse público trata da prevalência do interesse coletivo nos limites constitucionais e legais; C) eficiência relaciona-se ao desempenho e à qualidade dos serviços; D) igualdade é a alternativa que corresponde diretamente ao tratamento isonômico mencionado; E) justiça é um valor amplo, mas não identifica com a mesma precisão o princípio descrito.\n\n**Ressalva:** o enunciado reúne acesso à justiça e proteção legal, temas que também se relacionam à inafastabilidade da jurisdição e ao devido processo legal. Como essas opções não aparecem, igualdade é a melhor resposta disponível, mas a redação é ampla e poderia ser mais precisa.",
+    "references": [
+      {
+        "label": "Constituição Federal — art. 5º, caput e XXXV",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2882875",
@@ -2272,7 +2376,20 @@
       "e": "Asseguridade."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — Impessoalidade.**\n\nImpessoalidade é um dos princípios expressos no art. 37, caput, da Constituição Federal. Ela orienta a Administração a agir segundo a finalidade pública e critérios objetivos, sem favorecimentos, perseguições ou promoção pessoal.\n\n**Por que as outras estão erradas:** B) prioridade pode ser um critério legal em situações específicas, mas não é princípio geral do rol constitucional; C) interatividade não integra esse rol; D) culpabilidade é conceito ligado à responsabilização, especialmente no Direito Penal e sancionador; E) asseguridade não é princípio do art. 37.\n\n**Dica:** memorize LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência. A alternativa A é a única que pertence a esse conjunto.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — arts. 2º e 53 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3272766",
@@ -2289,7 +2406,24 @@
       "e": "A decisão deve ser mantida, desde que nenhum prejuízo significativo tenha sido causado."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C.**\n\nA Administração deve exercer autotutela e rever seus próprios atos quando identificar ilegalidade. A Lei nº 9.784/1999, art. 53, determina que a Administração deve anular seus atos quando eivados de vício de legalidade, respeitados os limites legais. A Súmula 473 do STF também reconhece o poder-dever de anulação dos atos ilegais, sem prejuízo do controle judicial.\n\n**Por que as outras estão erradas:** A) boa intenção ou benefício pretendido não torna legal um ato praticado sem fundamento jurídico; B) a revisão de ato administrativo ilegal não depende, como regra, de aprovação do Poder Legislativo; D) boa-fé, isoladamente, não impede a anulação, embora possa ter relevância na análise dos efeitos e da proteção da confiança; E) a ausência de prejuízo significativo não transforma um ato ilegal em válido.\n\n**Atenção:** a alternativa C diz “possivelmente anulada”. A providência adequada depende da confirmação do vício e da análise das regras aplicáveis, inclusive decadência, segurança jurídica e eventual possibilidade de convalidação quando admitida. Não se deve confundir anulação de ato ilegal com revogação de ato válido por conveniência e oportunidade.",
+    "references": [
+      {
+        "label": "Lei nº 9.784/1999 — arts. 2º e 53 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Súmula 473 do Supremo Tribunal Federal",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602"
+      },
+      {
+        "label": "Constituição Federal de 1988 — art. 37 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3447357",
