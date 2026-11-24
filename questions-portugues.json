@@ -2329,16 +2329,6 @@
     "explanationReviewed": "2026-11-24"
   },
   {
-    "id": "2278528",
-    "number": 101,
-    "subject": "Língua Portuguesa",
-    "topic": "Língua Portuguesa",
-    "stem": "TEXTO PARA AS QUESTÕES 01 a 03. Reaprender a estar no mundo Volta às atividades sociais e ao trabalho precisam incluir cuidados com a saúde física, autoconhecimento, diálogo e empatia... Claudio Lottenberg 9 de dezembro de 2021... No estágio em que nos encontramos da pandemia de Covid-19 no Brasil, com uma parcela expressiva – mais de 60% – de sua população completamente imunizada, já é possível, ainda com alguns cuidados e medidas protetivas como uso de máscara e higienização constante das mãos, falar em alguma volta à normalidade. Com isso, avançam os planos para o retorno ao trabalho presencial ou em formatos híbridos. Mas no dia 11 de novembro a pandemia completou 20 meses, um período longo e que exigiu demais de todos em termos emocionais. Simplesmente voltar ao que éramos antes será muito difícil, assumindo que seja possível. Será preciso um reaprendizado. Algumas pessoas comentam, em tom de brincadeira, que já não sabem mais como viver em sociedade – que desaprenderam como se comportar em público. Por mais que seja mesmo brincadeira, isso não está tão longe assim da realidade. Aristóteles disse que o homem é um animal que vive em sociedade – mas talvez isso seja algo que tenha de ser adquirido, não um traço de algum modo inato. Listas, receitas, métodos, programas e recomendações de como nos reinserirmos no mundo circulam em abundância. Esses conteúdos são importantes, pensando que casos de ansiedade e depressão tiveram forte crescimento ao longo da pandemia – de 27,6% para a primeira e de 25,6%, para a segunda, segundo pesquisa publicada na revista científica The Lancet no mês passado. Mais do que em qualquer outro momento de nossas vidas, cuidar da saúde, tão atingida pelas consequências da crise sanitária, se faz necessário nesse caminho de volta à normalidade. Seja qual for a fórmula a se seguir, nela não poderá faltar ao menos: – Cuidado com a saúde física: o bem-estar físico não está desconectado da saúde mental. Ao praticar exercícios e estimular a liberação de dopamina e serotonina, estamos nutrindo nosso corpo com substâncias que elevam o prazer, a autoestima e ajudam a equilibrar as emoções. Aqui vale encontrar a atividade que mais combina com seu estilo, como uma caminhada pela manhã, yoga, práticas meditativas, natação e até uma dança de salão. Enquanto você cuida da sua saúde mental, o corpo também agradece. Com 150 minutos de exercício por semana é possível diminuir o risco de doenças como o diabetes. - Autoconhecimento: conhecer a si mesmo faz muito sentido quando falamos sobre saúde mental. Compreender o que gostamos de fazer, e isso inclui o trabalho, ao qual dedicamos grande parte do tempo de nossas vidas. Reconhecer nossos limites e se dar direito ao descanso e ao lazer. – Diálogo e empatia: as pessoas que estão retomando suas rotinas agora podem voltar com muitas sequelas desse período de isolamento. Mais do que nunca será preciso olhar para o capital humano e acolher aqueles que podem ter sofrido perda de familiares ou de amigos, ou estar com sequelas da doença, com problemas para dormir, ou que de outra forma estejam abaladas. Tudo isso lembrando que a pandemia não acabou e que ainda é preciso continuar com as medidas de proteção individuais e coletivas..... Claudio Lottenberg é mestre e doutor em oftalmologia pela Escola Paulista de Medicina (Unifesp). É presidente do conselho do Hospital Albert Einstein e do Instituto Coalizão Saúde.... (LOTTENBERG, Claudio. Reaprender a estar no mundo. Forbes Brasil, 09 de dezembro de",
-    "options": {},
-    "answer": "D",
-    "source": "Português.pdf"
-  },
-  {
     "id": "2499009",
     "number": 102,
     "subject": "Língua Portuguesa",
@@ -2352,7 +2342,16 @@
       "e": "I, III, IV."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Estão corretas I, II e IV. “Seu” retoma “passado”; “delas” retoma “lições de vida”. Na primeira estrofe, “mas” introduz oposição. No penúltimo verso, “e” liga orações coordenadas, com valor aditivo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2286531",
@@ -2368,7 +2367,16 @@
       "e": "A guarda oficial do presidente ia à cavalo."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “É à curiosidade ... que devo minha dedicação”, o verbo “dever” estabelece a relação “dever algo a alguém/a algo”; a preposição “a” combina-se com o artigo feminino “a”, formando crase. Não há crase antes de “nenhuma”, de pronome de tratamento sem artigo ou de palavra masculina.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1271631",
@@ -2384,7 +2392,16 @@
       "e": "não obstante."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "No trecho, “mesmo sábia” tem valor concessivo, equivalente a “embora seja sábia” ou “ainda que sábia”. “Contanto que” introduz condição, alterando o sentido; por isso, é a única substituição inadequada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1271535",
@@ -2400,7 +2417,16 @@
       "e": "um pleonasmo estilisticamente indispensável."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “A mim, contaram-me o seguinte”, o pronome tônico “a mim” e o pronome átono “me” retomam a mesma pessoa. A repetição é um pleonasmo expressivo, utilizado para dar ênfase e reforçar o envolvimento do narrador.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1243022",
@@ -2416,7 +2442,17 @@
       "e": "Frente à frente, no canto do luxuoso salão de festas, os velhos amigos se observavam. Um deles pensava no que dizer para remediar a situação, para tentar convencer seu sócio a desistir de sua empreitada fadada a fracassar. O outro, por sua vez, pensava em como acalmar os presságios agourentos de seu velho companheiro. Demorou até que um deles falasse qualquer coisa."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A alternativa B contém discurso indireto na pergunta subordinada “perguntou quem é que poderia saber do dia de amanhã”, que relata a pergunta sem reproduzi-la diretamente. Observação: a alternativa C também contém relato de pensamento (“sabia que...”), o que pode ser interpretado como discurso indireto; o item merece revisão.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A alternativa C também pode ser entendida como discurso indireto de pensamento (“sabia que...”). B é a resposta provavelmente pretendida pela pergunta indireta, mas há ambiguidade."
   },
   {
     "id": "1760191",
@@ -2432,7 +2468,16 @@
       "e": "os textos 2 e 3 são predominantemente injuntivos já que, enquanto textos literários, ordenam o leitor nos procedimentos literários."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto 2 apresenta definição e explicação do conceito de licença poética, com predominância expositiva. O texto 3 acompanha a experiência e a reflexão de uma personagem, com sequência de acontecimentos, predominando a narração.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1241885",
@@ -2448,7 +2493,16 @@
       "e": "O verbo está flexionado no plural concordando com o sujeito composto “A imensa quantidade de crimes cometidos contra as mulheres” E “os altos índices de feminicídio”."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O sujeito é composto: “A imensa quantidade de crimes cometidos contra as mulheres” e “os altos índices de feminicídio”. Como há dois núcleos coordenados, o verbo “apresentam” fica no plural.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1241607",
@@ -2464,7 +2518,16 @@
       "e": "“...não posso dia 21 (...) fica para a próxima.”"
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A autora dirige-se diretamente ao leitor ao usar o imperativo “aproveite a promoção”, em uma interpelação explícita e bem-humorada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2502467",
@@ -2480,7 +2543,17 @@
       "e": "as vezes."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O item solicita uma substituição para “ao pé da letra”, expressão que significa literalmente ou sem sentido figurado. Nenhuma alternativa reproduz esse sentido de modo exato: “às claras” significa abertamente, e as demais também não são equivalentes. O gabarito D não é semanticamente adequado.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Nenhuma opção é sinônimo exato de “ao pé da letra” (literalmente). O gabarito D (“às claras”) significa abertamente e não preserva o sentido. Questão deve ser anulada/reformulada."
   },
   {
     "id": "1242192",
@@ -2496,7 +2569,16 @@
       "e": "o verbo “iam” (ir), sendo intransitivo, exige preposição ‘a’ como complemento indicando lugar, que se soma ao artigo o qual acompanha o substantivo ‘casa’."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “iam à casa de praia”, o verbo “ir” rege a preposição “a”, e “casa” vem especificada por “de praia”, admitindo o artigo feminino. A combinação da preposição com o artigo produz a crase.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1264402",
@@ -2512,7 +2594,16 @@
       "e": "o título nada esclarece sobre o teor do texto."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O título “A elegância do conteúdo” antecipa o tema central da crônica: a valorização da cultura, do conhecimento e da formação intelectual, em contraste com a aparência ou o poder econômico. Assim, não é correto afirmar que o título nada esclarece sobre o teor do texto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1272448",
@@ -2528,7 +2619,16 @@
       "e": "quanto à tese, o texto mostra-se objetivo, lógico e coerente: a tese apresentada na introdução é confirmada na conclusão."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto não é predominantemente expositivo: o autor defende uma tese sobre a presença de impulsos homicidas na linguagem e nos hábitos cotidianos, apoiando-a com exemplos. Portanto, a afirmação de que predominam traços de dissertação expositiva é a incorreta.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1246538",
@@ -2544,7 +2644,16 @@
       "e": "a falta de moradia."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O “silêncio” representa a invisibilidade e a marginalização de autores africanos que escrevem em línguas com menor circulação internacional, especialmente o português. A alternativa A expressa essa falta de visibilidade.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1223939",
@@ -2560,7 +2669,16 @@
       "e": "Concordância nominal"
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A relação entre “nocivos” e seu complemento é de regência nominal: o adjetivo exige complemento introduzido por preposição (“nocivo a”). O item trata da regência de um nome, não da concordância verbal ou nominal.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1270496",
@@ -2576,7 +2694,16 @@
       "e": "Naquela casa confia-se em todos, sem exceção."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “Naquela casa confia-se em todos”, o verbo fica no singular porque a partícula “se” indetermina o sujeito quando o verbo é transitivo indireto e vem acompanhado de preposição (“em”). As demais alternativas apresentam problemas de concordância.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1726794",
@@ -2592,7 +2719,16 @@
       "e": "“A princípio foi ela surda e muda” (4º §) / No início foi a disputa silenciosa, sem palavras."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A alternativa B altera o sentido: “portanto” introduz conclusão; “porquanto” introduz causa ou explicação. As demais reescritas preservam, em linhas gerais, o sentido original.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1223931",
@@ -2608,7 +2744,16 @@
       "e": "Defende a sustentabilidade as pessoas as quais possuem informação."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“A maioria dos habitantes da Terra não se sente responsável” apresenta concordância adequada com o núcleo singular “maioria”. As demais alternativas trazem erros: “houve danos”, “faz 10 anos”, “35% das pessoas fazem” e “defendem a sustentabilidade as pessoas”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2315047",
@@ -2624,7 +2769,16 @@
       "e": "Na época éramos moradores na Av. Rio Branco."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Na norma-padrão, a expressão é “chute a gol” (ou “chutar a gol”), e não “chute em gol”. As demais construções apresentam regências aceitas no padrão formal.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2315016",
@@ -2640,7 +2794,16 @@
       "e": "Noventa por cento das vítimas sobreviveram."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “ouvia-se claramente os gritos”, o sujeito paciente é “os gritos”, plural; com partícula apassivadora, o verbo deve concordar: “ouviam-se claramente os gritos”. Por isso, a alternativa C não obedece à concordância padrão.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2502426",
@@ -2656,7 +2819,16 @@
       "e": "os problemas infantis são curados com o convívio com animais."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto afirma que estudos observaram redução da permanência hospitalar e benefícios associados à interação com animais. Não afirma que qualquer animal serve, que o cortisol aumenta ou que doenças infantis sejam curadas por esse convívio.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2257915",
@@ -2672,7 +2844,16 @@
       "e": "Injuntivo"
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho caracteriza os meirinhos, o local de encontro e o contexto social da época, com detalhes sobre pessoas, funções e ambiente. Predomina a tipologia descritiva.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1448440",
@@ -2688,7 +2869,16 @@
       "e": "A família delega à escola a educação nutricional. / A família a delega."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Na frase “As mudanças na nutrição brasileira alcançaram importantes progressos”, o objeto direto masculino plural pode ser retomado pelo pronome “-nos”: “alcançaram-nos”. As demais opções apresentam problemas de colocação ou de regência pronominal.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1448427",
@@ -2704,7 +2894,16 @@
       "e": "No Brasil, a fome, a desnutrição e a obesidade são graves problemas sociais."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto defende a alimentação saudável como parte da aprendizagem e do desenvolvimento integral, destacando o papel da escola, da família e dos profissionais de alimentação. A alternativa E apresenta problemas sociais relevantes, mas não justifica diretamente o título “A alimentação como extensão da aprendizagem”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1445639",
