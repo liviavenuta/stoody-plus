@@ -4211,7 +4211,28 @@
       "e": "a devolução de material."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — comunicação de irregularidade.** Quando o material recebido apresenta divergências quantitativas ou qualitativas, o almoxarife deve comunicar formalmente ao fornecedor os motivos da devolução. A comunicação de irregularidade registra a não conformidade e fundamenta as providências de substituição, complementação ou devolução.\n\n- **A) Correta:** documenta a irregularidade encontrada no material entregue.\n- **B) Registro de ocorrências de processo — incorreta:** pode registrar falhas internas, mas não é o documento específico indicado para comunicar a irregularidade ao fornecedor.\n- **C) Relatório técnico de inspeção — incorreta:** pode apoiar a análise técnica, mas não substitui a comunicação formal de irregularidade.\n- **D) Ficha de controle de estoque — incorreta:** registra saldos e movimentações.\n- **E) Devolução de material — incorreta:** é a operação física/administrativa, não o documento que explica os motivos da devolução.\n\n**Dica:** divergência na entrega deve ser registrada e comunicada formalmente, com indicação de quantidade, especificação e motivo da recusa.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2237890",
@@ -4228,7 +4249,28 @@
       "e": "É o armazenamento que se deixa próximo à saída do almoxarifado materiais que são movimentados com menor frequência."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — materiais de maior frequência próximos à saída.** O armazenamento por frequência posiciona os itens de maior giro em locais de acesso mais rápido, reduzindo deslocamentos e tempo de separação.\n\n- **A) Incorreta:** voltagem não define armazenamento por frequência.\n- **B) Incorreta:** agrupar por voltagem é critério de compatibilidade/segurança, não de frequência de movimentação.\n- **C) Incorreta:** descreve seleção de materiais de alto giro, mas não explica a lógica de posicionamento no layout.\n- **D) Correta:** itens mais movimentados ficam próximos à saída/expedição para facilitar acesso e reduzir percurso.\n- **E) Incorreta:** itens de baixa frequência não devem ocupar as posições mais acessíveis quando o critério é giro.\n\n**Dica:** alta frequência/alto giro = posições próximas da área de atendimento ou expedição; baixo giro = posições menos privilegiadas.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3885711",
@@ -4245,7 +4287,28 @@
       "e": "Movimentação."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — armazenagem.** Armazenagem é a parte da logística responsável pela guarda temporária, conservação e disponibilização de materiais, produtos acabados, matérias-primas e componentes até o momento de sua utilização ou expedição.\n\n- **A) Amostragem — incorreta:** é seleção de uma parte de um conjunto para análise.\n- **B) Armazenagem — correta:** corresponde à guarda temporária e conservação dos produtos.\n- **C) Consolidação de cargas — incorreta:** reúne volumes de diferentes origens ou pedidos para formar cargas maiores.\n- **D) Distribuição — incorreta:** trata do encaminhamento dos produtos aos destinos.\n- **E) Movimentação — incorreta:** envolve deslocamento físico dos materiais dentro ou fora do armazém.\n\n**Dica:** armazenagem guarda; movimentação desloca; distribuição entrega.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3641123",
@@ -4260,7 +4323,28 @@
       "e": "A estrutura do almoxarifado é voltada para o suporte logístico, com ênfase na movimentação de cargas e na organização física dos produtos, sem contemplar atividades de inventário."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C.** O almoxarifado não é apenas o espaço físico onde os materiais ficam guardados. É também um conjunto de processos de recebimento, registro, controle de estoque, inventário, armazenagem e reposição.\n\n- **A) Incorreta:** o almoxarifado não se limita à centralização física; o controle e a reposição integram sua gestão.\n- **B) Incorreta:** a função não se restringe a bens patrimoniais permanentes; também abrange materiais de consumo.\n- **C) Correta:** reúne espaço e processos de gestão, controle e movimentação dos materiais.\n- **D) Incorreta:** a integração com sistemas e controles é necessária para rastreabilidade e acuracidade.\n- **E) Incorreta:** inventário é parte relevante do controle do almoxarifado, não pode ser excluído.\n\n**Dica:** almoxarifado é estrutura física + processos de gestão e controle.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3446722",
@@ -4276,7 +4360,28 @@
       "d": "Troca de registos digitais por registros físicos em planilhas preenchidas manualmente, para melhorar a rastreabilidade ao eliminar a dependência de sistemas digitais e a possibilidade de erros tecnológicos."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — substituir registros digitais por planilhas físicas manuais.** A questão pede a medida incorreta. A rastreabilidade de medicamentos exige registros completos, confiáveis e acessíveis ao longo da cadeia. A substituição generalizada de registros digitais por controles manuais tende a reduzir integração, velocidade de atualização e capacidade de auditoria, sem eliminar erros.\n\n- **A) Correta como medida:** sensores IoT podem monitorar temperatura e umidade em tempo real, desde que calibrados e integrados aos registros.\n- **B) Correta:** auditorias e treinamento ajudam a identificar causas e prevenir recorrências.\n- **C) Correta:** sistema integrado registra lotes, movimentações, responsáveis e etapas logísticas.\n- **D) Incorreta — resposta:** trocar registros digitais por planilhas manuais não fortalece a rastreabilidade; controles digitais bem implementados permitem trilhas de auditoria e integração.\n\n**Dica:** rastreabilidade depende de dados íntegros, identificadores de lote, registro de movimentações, responsáveis e condições de armazenamento/transporte.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3446719",
@@ -4292,7 +4397,28 @@
       "d": "Implementação de um sistema automatizado de monitoramento de temperatura e umidade; revisão do plano de inspeções de segurança; e capacitação dos responsáveis pela rastreabilidade."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D.** A alternativa propõe ações corretivas diretamente relacionadas às três não conformidades: monitorar temperatura e umidade, formalizar inspeções de segurança e capacitar responsáveis pela rastreabilidade.\n\n- **A) Incorreta:** revisar relatórios antigos sem alterar processos não corrige as causas das falhas identificadas.\n- **B) Incorreta:** reduzir auditorias diminui a capacidade de detectar problemas e não corrige ausência de controles.\n- **C) Incorreta:** auditorias externas esporádicas podem complementar o controle, mas terceirizar toda a análise não substitui a responsabilidade interna e as correções permanentes.\n- **D) Correta:** automação do monitoramento, revisão do plano de inspeções e capacitação atacam diretamente as causas das não conformidades.\n\n**Dica:** ação corretiva deve tratar a causa do problema, definir responsáveis, registrar evidências e acompanhar a eficácia da medida.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3641054",
@@ -4309,7 +4435,28 @@
       "e": "São corretas as afirmativas 1, 2 e 3."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — as três afirmativas estão corretas.** O almoxarife deve atuar com impessoalidade no relacionamento com usuários e fornecedores, gerir rotinas administrativas do setor e orientar a equipe para assegurar procedimentos adequados.\n\n- **1 — verdadeira:** impessoalidade exige tratamento objetivo, sem favorecimentos ou perseguições.\n- **2 — verdadeira:** a gestão administrativa do almoxarifado inclui registros, controles, recebimento, armazenagem, distribuição e inventário.\n- **3 — verdadeira:** treinamento e suporte à equipe contribuem para padronização, segurança e qualidade das operações, conforme a estrutura e as atribuições do cargo.\n- **A), B), C) e D) — incorretas:** deixam de reconhecer uma ou mais responsabilidades apresentadas.\n- **E) Correta:** as três afirmativas estão de acordo com as responsabilidades descritas.\n\n**Dica:** além do controle físico, o almoxarife precisa orientar pessoas, manter registros e tratar usuários e fornecedores com imparcialidade.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3366836",
@@ -4326,7 +4473,28 @@
       "e": "5 – 3 – 4 – 2 – 1."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — 4 – 3 – 5 – 1 – 2.** A associação correta das atividades de armazenagem é:\n\n1. **Material realocado para área temporária de abastecimento → 4, Reposição.**\n2. **Picking/separação dos pedidos → 3, Seleção de encomendas.**\n3. **Carregamento do veículo e documentação → 5, Embarque.**\n4. **Descarga, aceitação física, conferência e documentação → 1, Recepção.**\n5. **Retenção dos produtos para uso ou expedição futura → 2, Armazenamento.**\n\n- **A), B), C) e E) — incorretas:** apresentam associações em ordem diferente.\n- **D) 4–3–5–1–2 — correta.**\n\n**Dica:** recepção = entrada e conferência; armazenamento = guarda; seleção = picking; reposição = abastecimento da área de picking; embarque = carregamento e expedição.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3583562",
@@ -4343,7 +4511,28 @@
       "e": "os materiais perigosos devem ser armazenados de forma segregada, na parte mais alta das prateleiras."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — o peso armazenado não pode exceder a capacidade de carga calculada para o piso.** A segurança da armazenagem exige respeitar os limites estruturais do piso, das estantes e dos equipamentos, evitando sobrecarga e acidentes.\n\n- **A) Incorreta:** portas e corredores devem permanecer desobstruídos, especialmente rotas de fuga e acesso a equipamentos de emergência.\n- **B) Incorreta:** 0,25 cm é uma distância irreal e não corresponde a afastamento seguro; as distâncias devem seguir normas técnicas e orientações do local.\n- **C) Correta:** a carga armazenada deve respeitar a capacidade estrutural do piso.\n- **D) Incorreta:** áreas de circulação e movimentação devem ser demarcadas e sinalizadas.\n- **E) Incorreta:** materiais perigosos devem ser segregados conforme compatibilidade e risco, não simplesmente colocados na parte mais alta das prateleiras.\n\n**Dica:** segurança de armazenagem envolve capacidade de carga, estabilidade de empilhamento, corredores livres, sinalização e segregação de materiais incompatíveis.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3788990",
@@ -4360,7 +4549,28 @@
       "e": "Guardar os materiais em locais secos, limpos e organizados, protegidos da umidade, luz solar direta e do acesso de pessoas não autorizadas."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — guardar em locais secos, limpos e organizados, protegidos da umidade, luz solar direta e acesso não autorizado.** Essas medidas preservam a integridade dos materiais, facilitam a localização e reduzem perdas, danos e uso indevido.\n\n- **A) Incorreta:** materiais não utilizados em 30 dias não devem ser descartados automaticamente; é necessário avaliar necessidade, validade, estado e política de estoque.\n- **B) Incorreta:** saídas sem registro comprometem o controle e a rastreabilidade.\n- **C) Incorreta:** proximidade de janelas pode expor materiais à luz solar, calor e umidade.\n- **D) Incorreta:** misturar materiais sem critério dificulta identificação, conservação e segurança.\n- **E) Correta:** ambiente limpo, seco, organizado e com acesso controlado é condição básica de conservação.\n\n**Dica:** boas práticas incluem endereçamento, identificação, limpeza, controle de acesso, proteção contra umidade/calor e registro das movimentações.",
+    "references": [
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "IN SEDAP nº 205/1988 — Portal de Compras do Governo Federal",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "ANVISA — RDC nº 430/2020, boas práticas de distribuição, armazenagem e transporte de medicamentos",
+        "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9434&cod_modulo=310&numeroAto=00000430&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2020"
+      },
+      {
+        "label": "Ministério da Saúde — Assistência farmacêutica na atenção básica: instruções técnicas",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/assistencia_farmaceutica_atencao_basica_instrucoes_tecnicas.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3583570",
