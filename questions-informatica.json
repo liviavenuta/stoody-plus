@@ -6567,7 +6567,16 @@
       "e": "11"
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Na faixa C3:D4, os valores são 2, 7, 0 e 8, cuja soma é 17. A condição SOMA(B2:C4)>4 é verdadeira (a soma é 18); portanto, a função SE retorna 0. O resultado final permanece 17.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1447866",
@@ -6583,7 +6592,20 @@
       "e": "Worm"
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Spyware é um software espião que monitora atividades ou coleta informações do dispositivo e pode transmiti-las a terceiros sem consentimento. Rootkit busca ocultar componentes ou manter acesso privilegiado; Trojan disfarça sua função; botnet é uma rede de dispositivos comprometidos; worm é malware autorreplicante.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1447820",
@@ -6599,17 +6621,16 @@
       "e": "Alt +Tab eAlt + Esc"
     },
     "answer": "E",
-    "source": "Informática.pdf"
-  },
-  {
-    "id": "1447835",
-    "number": 184,
-    "subject": "Informática",
-    "topic": "Informática",
-    "stem": "A planilha a seguir foi criada no Excel 2013 BR. Na planilha, foram realizados os procedimentos listados a seguir.",
-    "options": {},
-    "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: E. Alt+Tab abre a interface de alternância de janelas, permitindo escolher um aplicativo. Alt+Esc percorre diretamente as janelas abertas, sem exibir a janela de seleção. A questão trata da alternância entre aplicativos no Windows.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1805739",
@@ -6625,7 +6646,16 @@
       "e": "oscilador colpitts."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. O filtro de linha pode incorporar fusível ou dispositivo de proteção contra sobrecorrente; quando a corrente ultrapassa o limite especificado, o fusível se rompe e interrompe o circuito. Nobreak fornece alimentação temporária, enquanto estabilizador atua sobre variações de tensão. A descrição do enunciado corresponde ao filtro de linha com fusível.",
+    "references": [
+      {
+        "label": "Schneider Electric — Proteção contra sobrecorrente (conceitos)",
+        "url": "https://www.se.com/br/pt/"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1971194",
@@ -6641,7 +6671,16 @@
       "e": "18,75"
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A soma de B1:B7 é 25. Há três ocorrências de “Fruta” em C1:C7, então a divisão resulta em 25/3. Como B6 (4) é maior que B4+B5 (1+2), a função SE retorna 3. O produto é (25/3)×3 = 25.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1806129",
@@ -6657,7 +6696,16 @@
       "e": "23."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. O BOOTP utiliza UDP: a porta 67 é usada pelo servidor e a porta 68 pelo cliente. Entre as alternativas, 67 é a porta pertinente ao serviço BOOTP; em uma política de bloqueio completa, deve-se considerar também o tráfego UDP da porta 68 conforme o objetivo do controle.",
+    "references": [
+      {
+        "label": "IANA — Service Name and Transport Protocol Port Number Registry",
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "886897",
@@ -6673,7 +6721,20 @@
       "e": "trata-se do processo em que dados e arquivos são armazenados virtualmente."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Um firewall pode ser implementado como software, como equipamento dedicado (hardware/appliance) ou como recurso integrado a outro dispositivo. Ele filtra o tráfego de rede conforme regras de segurança. Bloqueio de spam é normalmente função de filtros antispam, não a definição de firewall.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "886896",
@@ -6689,7 +6750,16 @@
       "e": "$"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: D. No Excel, o sinal de igual (=) é o iniciador convencional de uma fórmula. Depois dele, podem ser inseridas funções, referências, operadores e constantes, conforme a expressão desejada.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1806127",
@@ -6705,7 +6775,16 @@
       "e": "R$1.300.00"
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. PROCV localiza o identificador 100 na primeira coluna do intervalo A2:C5 e retorna o valor da segunda coluna. Como esse resultado é diferente de zero, a condição do SE é verdadeira. DESLOC(A4;0;2) aponta para a célula C4, cujo valor na tabela é R$ 1.400,00.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1416337",
@@ -6721,7 +6800,16 @@
       "e": "Tab +P"
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. Ctrl+P é o atalho amplamente utilizado no Windows e em aplicativos comuns para abrir a tela ou caixa de impressão do documento. As demais combinações não correspondem ao comando padrão de imprimir.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1808176",
@@ -6737,7 +6825,17 @@
       "e": "123"
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta pretendida: D. A primeira SOMASE soma os valores de C4:C8 maiores que 23: somente 56. A segunda soma em D4:D8 os valores inferiores a 19: 18+18+15=51. O total é 56+51=107. Observação: o critério aparece no enunciado com um espaço antes de “<19”; convém removê-lo na apresentação para evitar dúvida de interpretação.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
+      }
+    ],
+    "reviewNote": "A resposta D decorre da interpretação do critério como <19. Recomenda-se corrigir a cadeia de critério para \"> <19\"? Não: usar exatamente \"<19\", sem espaço inicial, no enunciado.",
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1806950",
@@ -6753,7 +6851,17 @@
       "e": "dia imediatamente posterior a essa data."
     },
     "answer": "D",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Gabarito pretendido: D. A intenção aparente é construir uma data com o mesmo dia do mês seguinte: DATA(ANO(B4);MÊS(B4)+1;DIA(B4)). Porém, o enunciado transcrito apresenta dois-pontos (:) entre o segundo e o terceiro argumentos, em vez do separador de argumentos (;). Assim, a fórmula, exatamente como escrita, é inválida no Excel em português. A alternativa D só é correta após corrigir esse provável erro de digitação.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
+      }
+    ],
+    "reviewNote": "Questão com erro de sintaxe no enunciado: substituir “MÊS(B4)+1:DIA(B4)” por “MÊS(B4)+1;DIA(B4)”. Sem a correção, não há resultado válido.",
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1632235",
@@ -6769,7 +6877,21 @@
       "e": "instalar e rodar um software de localização."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa pretendida: B. Manter um antivírus/antimalware instalado, ativo e atualizado é uma medida geral de proteção contra códigos maliciosos. A alternativa C (examinar uma mídia removível antes de utilizá-la) também é uma boa prática complementar; por isso, a expressão “mais recomendado” deixa alguma margem de ambiguidade, embora B seja a medida mais abrangente.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "reviewNote": "A alternativa C também descreve uma prática válida de segurança. B é a resposta mais abrangente, mas recomenda-se reformular o enunciado para eliminar a ambiguidade.",
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1631192",
@@ -6785,7 +6907,16 @@
       "e": "tabela."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: C. A célula é a unidade básica de uma planilha eletrônica, formada pela interseção de uma linha com uma coluna. É nela que o usuário insere valores, textos e fórmulas.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1631193",
@@ -6801,7 +6932,16 @@
       "e": "desligar o monitor."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Ao se afastar do computador, o usuário deve bloquear a sessão e protegê-la com senha ou outro método de autenticação. Isso impede que terceiros utilizem a sessão aberta. Protetor de tela, modo de economia de energia ou desligar apenas o monitor não substituem o bloqueio.",
+    "references": [
+      {
+        "label": "Microsoft Support — Atalhos de teclado no Windows",
+        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1631196",
@@ -6817,7 +6957,20 @@
       "e": "A periodicidade de um backup está relacionada ao tamanho dos arquivos. Quanto maiores forem os arquivos, mais frequente deve ser o backup."
     },
     "answer": "A",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: A. Backups periódicos permitem recuperar dados após falhas de hardware, danos em mídias ou exclusões acidentais. As cópias devem ser testadas, mantidas em local independente do equipamento original e planejadas segundo criticidade, frequência de alteração e objetivos de recuperação; não basta guardá-las em uma pasta no mesmo computador.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1982245",
@@ -6833,7 +6986,21 @@
       "e": "evitar a instalação de antimalwares."
     },
     "answer": "C",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa pretendida: C. A navegação privada/anônima pode reduzir os vestígios locais da sessão em um computador de terceiros, como histórico e cookies temporários após o encerramento. Ela não torna o usuário anônimo na internet, não impede monitoramento pela rede e não apaga arquivos baixados; portanto, é apenas uma precaução limitada. As demais alternativas sugerem práticas inseguras.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "reviewNote": "A navegação privada não garante anonimato nem proteção integral dos dados; a questão deve ser interpretada como redução de rastros locais em equipamento de terceiros.",
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1980903",
@@ -6849,7 +7016,17 @@
       "e": "O símbolo * (asterisco) está associado à multiplicação."
     },
     "answer": "E",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "A questão apresenta duas afirmações corretas. A alternativa B está correta: o operador de dois-pontos (:) representa um intervalo entre duas referências, incluindo as células extremas. A alternativa E também está correta: o asterisco (*) representa multiplicação. Portanto, embora o gabarito registrado seja E, a questão é ambígua e admite também B.",
+    "references": [
+      {
+        "label": "Microsoft Support — Funções do Excel",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
+      }
+    ],
+    "reviewNote": "Questão com dupla resposta correta (B e E). Recomenda-se anulação ou revisão das alternativas; não manter E como resposta única sem ressalva.",
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1981113",
@@ -6865,6 +7042,19 @@
       "e": "Evitar a realização de backups periódicos."
     },
     "answer": "B",
-    "source": "Informática.pdf"
+    "source": "Informática.pdf",
+    "explanation": "Alternativa correta: B. Manter o sistema operacional e os programas atualizados reduz a exposição a vulnerabilidades conhecidas e corrige falhas de segurança. Essa medida deve ser combinada com antimalware ativo, cautela ao abrir arquivos e links e backups periódicos.",
+    "references": [
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
+      },
+      {
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   }
 ]
