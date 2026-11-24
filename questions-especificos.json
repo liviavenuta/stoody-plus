@@ -12221,7 +12221,6 @@
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
     "explanation": "Alternativa correta: E. A logística pública não se limita à compra, armazenagem ou entrega de produtos: é atividade instrumental para assegurar a prestação dos serviços e a efetivação de direitos, observando legalidade, eficiência e interesse público. A alternativa E expressa essa finalidade. A letra D reduz a logística à área-meio e à sua estrutura administrativa, sem contemplar sua contribuição para o acesso do cidadão aos serviços.",
     "references": [
-      {},
       {
         "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
         "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
@@ -12305,8 +12304,7 @@
       {
         "label": "Compras.gov.br — SIASG e sistemas de compras governamentais",
         "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/compras"
-      },
-      {}
+      }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24"
@@ -12733,7 +12731,6 @@
         "label": "MCASP — Manual de Contabilidade Aplicada ao Setor Público",
         "url": "https://www.tesourotransparente.gov.br/publicacoes/manual-de-contabilidade-aplicada-ao-setor-publico-mcasp"
       },
-      {},
       {
         "label": "IN SEDAP nº 205/1988 — gestão de materiais",
         "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
