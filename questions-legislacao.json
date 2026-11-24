@@ -2468,24 +2468,24 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A alternativa B é a correta. Ana já recebia proventos de aposentadoria do primeiro cargo quando ingressou, em 1998, no segundo cargo. O art. 11 da EC nº 20/1998 preservou, em caráter excepcional, a percepção de um provento com a remuneração de cargo em que o servidor tenha ingressado no serviço público antes da publicação da emenda, mas vedou mais de uma aposentadoria pelo regime do art. 40 nessa hipótese. A jurisprudência do STF interpreta essa regra restritivamente: ela não autoriza, neste caso, a percepção simultânea de duas aposentadorias decorrentes de cargos que não eram acumuláveis. Assim, deverá optar por um dos proventos.",
+    "explanation": "A alternativa B é a resposta correta para a hipótese descrita. Ana já estava aposentada quando reingressou por concurso no serviço público, em janeiro de 1998. O art. 11 da EC nº 20/1998 preservou, em caráter excepcional, a percepção de um provento com a remuneração do cargo no qual houve reingresso antes da emenda, mas vedou a percepção de mais de uma aposentadoria pelo regime do art. 40 nessa situação. O STF, no Tema 921, reafirmou a interpretação restritiva dessa regra e a impossibilidade de acumular mais de uma aposentadoria nessa hipótese. O Tema 627 afasta essa vedação quando os cargos de origem são constitucionalmente acumuláveis; porém, no quadro narrado, o cargo de auxiliar de serviços gerais e o de professor não se enquadravam, à época do ingresso em 1998, em hipótese constitucional de acumulação. Assim, Ana deverá optar por um dos proventos.",
     "references": [
       {
         "label": "Planalto — Emenda Constitucional nº 20/1998, art. 11",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc20.htm"
       },
       {
-        "label": "STF — Tema 921, art. 11 da EC 20/1998 e vedação à acumulação de duas aposentadorias",
+        "label": "STF — Tema 921, ARE 848.993: art. 11 da EC 20/1998 e acumulação",
         "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=6580400"
       },
       {
-        "label": "STF — Tema 627, acumulação de benefícios decorrentes de cargos constitucionalmente acumuláveis",
+        "label": "STF — Tema 627, RE 658.999: cargos constitucionalmente acumuláveis",
         "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo1080.htm"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito B confirmado para os fatos narrados: o art. 11 da EC 20/1998 não autoriza duas aposentadorias nessa hipótese; a exceção preserva, em termos restritos, um provento com a remuneração de cargo no qual houve ingresso antes da emenda. O STF veda mais de uma aposentadoria quando os cargos não eram constitucionalmente acumuláveis. A exceção do Tema 627 para benefícios derivados de cargos acumuláveis não se ajusta, em princípio, à combinação descrita (auxiliar de serviços gerais e professor, antes da EC 138/2025)."
+    "reviewNote": "Gabarito B mantido. O Tema 921 do STF trata diretamente da interpretação restritiva do art. 11 da EC 20/1998 e da vedação de mais de uma aposentadoria nessa situação. O Tema 627 excepciona cargos constitucionalmente acumuláveis; a acumulação originária entre auxiliar de serviços gerais e professor não se enquadrava nas hipóteses constitucionais vigentes em janeiro de 1998."
   },
   {
     "id": "2633078",
