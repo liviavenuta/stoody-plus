@@ -4798,15 +4798,27 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Nas hipóteses constitucionais de acumulação lícita, o teto remuneratório é aplicado separadamente a cada vínculo, e não à soma das remunerações, conforme entendimento do STF em repercussão geral. As demais alternativas contrariam teses do STF sobre posse tardia, candidato aprovado fora das vagas e remarcação de teste físico para gestante.",
+    "explanation": "A alternativa A está correta. Nas hipóteses em que a Constituição autoriza a acumulação de cargos, empregos ou funções, o teto remuneratório incide separadamente sobre cada vínculo, e não sobre a soma das remunerações (STF, Temas 377 e 384). As demais alternativas contrariam teses do STF: a posse determinada judicialmente não gera, em regra, indenização retroativa, salvo arbitrariedade flagrante (Tema 671); o surgimento de novas vagas ou a abertura de novo concurso não assegura automaticamente nomeação a candidato fora das vagas, salvo preterição arbitrária e imotivada (Tema 784); e a candidata grávida tem direito à remarcação do teste de aptidão física, mesmo sem previsão editalícia (Tema 973).",
     "references": [
       {
-        "label": "Planalto — Constituição Federal de 1988",
+        "label": "Planalto — Constituição Federal, art. 37, XI e XVI",
         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
       },
       {
-        "label": "STF — Jurisprudência",
-        "url": "https://portal.stf.jus.br/jurisprudencia/"
+        "label": "STF — Tema 377, RE 612.975: teto remuneratório em vínculos acumuláveis",
+        "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=3874667&numeroProcesso=612975&numeroTema=377"
+      },
+      {
+        "label": "STF — Tema 671, RE 724.347: indenização por posse decorrente de decisão judicial",
+        "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=4336454&numeroProcesso=724347&numeroTema=671"
+      },
+      {
+        "label": "STF — Tema 784, RE 837.311: direito à nomeação de candidato fora das vagas",
+        "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=4634356&numeroProcesso=837311&numeroTema=784"
+      },
+      {
+        "label": "STF — Tema 973, RE 1.058.333: remarcação de teste físico para candidata grávida",
+        "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=5220068&numeroProcesso=1058333&numeroTema=973"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
