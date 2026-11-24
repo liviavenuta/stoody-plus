@@ -618,7 +618,16 @@
       "e": "Não tenho preconceito aos estrangeiros."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Consciente” rege a preposição “de”: consciente do risco. As demais opções apresentam regências inadequadas na norma-padrão ou formas menos recomendadas: apaixonada por, aptidão para, útil para/a aprendizagem e preconceito contra.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3208456",
@@ -634,7 +643,16 @@
       "e": "III, IV, V."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Estão corretas I, IV e V. Em I, os travessões isolam uma explicação e o ponto e vírgula separa orações relacionadas. Em IV, as aspas podem indicar ironia. Em V, os parênteses isolam uma informação acessória. II apresenta uso inadequado de maiúscula após ponto e vírgula; III usa parênteses sem necessidade clara.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3431128",
@@ -650,7 +668,16 @@
       "e": "Não, eu não quero namorar com ele."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O verbo “namorar”, no padrão solicitado pelo enunciado, é transitivo direto: quem namora, namora alguém. Portanto, não exige a preposição “com”: “Pedro namora Maria”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3449489",
@@ -666,7 +693,16 @@
       "e": "na aplicação de silogismos."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto utiliza percentuais e comparações de diferentes grupos e expectativas para construir o argumento sobre a percepção dos brasileiros em relação à inteligência artificial. A estratégia destacada é o contraste de dados estatísticos.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3563841",
@@ -682,7 +718,16 @@
       "e": "introduzir novos argumentos para enriquecer o debate."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A conclusão de um texto dissertativo deve retomar a tese e sintetizar ou reforçar os argumentos centrais, sem simplesmente repetir o desenvolvimento nem introduzir uma nova linha argumentativa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3647952",
@@ -698,7 +743,16 @@
       "e": "\"Sem esses elementos\" faz referência a \"país\", comprometendo a clareza e coesão do texto."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O pronome “Ela” retoma o substantivo “educação”, evitando repetição e mantendo a referência entre as frases. “Sem esses elementos” retoma os investimentos em infraestrutura e capacitação de professores.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3561905",
@@ -714,7 +768,16 @@
       "e": "expor um conceito teórico com argumentos detalhados."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto injuntivo tem como finalidade orientar o leitor a realizar uma ação, apresentando instruções, comandos, recomendações ou procedimentos.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3181645",
@@ -730,7 +793,16 @@
       "e": "As constelações no firmamento formam um manto noturno que cobre o céu."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A ideia central é a sensação de pequenez do observador diante da vastidão do universo. A imagem das constelações como bordados celestiais contribui para essa percepção, mas não é o foco principal.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3322291",
@@ -746,7 +818,16 @@
       "e": "Universidades."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Segurança digital” não é palavra-chave do texto, que trata do uso de inteligência artificial para identificar possíveis criadouros do Aedes aegypti, de pesquisa científica e da participação de universidades.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3875253",
@@ -762,7 +843,16 @@
       "e": "a felicidade pode estar mais próxima do que imaginamos."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O poema apresenta alguém que procura os óculos sem perceber que eles estão sobre o próprio nariz. A comparação sugere que a felicidade pode estar próxima, mas não ser percebida por quem a procura em lugares distantes.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3561914",
@@ -778,17 +868,16 @@
       "e": "utilizar uma conclusão genérica que sintetize os pontos secundários discutidos no texto."
     },
     "answer": "A",
-    "source": "Português.pdf"
-  },
-  {
-    "id": "3231952",
-    "number": 37,
-    "subject": "Língua Portuguesa",
-    "topic": "Língua Portuguesa",
-    "stem": "TEXTO PARA AS QUESTÕES DE 01 A 10. Os guaranis e a fundação de São Paulo Tenho ouvido muitas memórias guaranis, especialmente sobre a cidade de São Paulo Txai Suruí | 15.mar.2024 Que a história foi contada pelo outro lado e que nós sofremos um apagamento histórico vocês já sabem, por isso falo tanto da importância das nossas narrativas e de recontar essa história. E a memória é essencial para todos nós, sociedade indígena e não indígena. [Ela] é condutora para entendermos o presente e construirmos o futuro que queremos. Por isso sempre atento às histórias que são recontadas pelos mais velhos e por outros povos de Abya Yala. Ultimamente, por causa do meu amado, ando ouvindo muitas memórias guaranis, especialmente de São Paulo. O Pátio do Colégio é um local emblemático e de grande importância histórica para a cidade de São Paulo e para o Brasil como um todo. Ele marca o local onde os jesuítas José de Anchieta e Manuel da Nóbrega fundaram o colégio que viria a ser o ponto inicial da cidade, em 25 de janeiro de 1554. Originalmente criado como um núcleo de educação religiosa e de CONVERÇÃO/CONVERSÃO dos indígenas ao catolicismo, o Pátio do Colégio desempenhou papel central no processo da colonização portuguesa no Brasil e nas dinâmicas de interações com os povos indígenas, particularmente os guaranis. Os jesuítas buscavam CATEQUIZAR/CATEQUISAR os guaranis, ensinando-[lhes] a língua portuguesa e a religião católica, e com eles aprendiam habilidades em agricultura e artesanato. Mas essa interação não foi isenta de violência e exploração. Na verdade, houve um complexo panorama de relações, que inclui resistência, ADAPTAÇÃO/ADAPITAÇÃO e, infelizmente, muito abuso. Os jesuítas [os] organizavam em aldeias, conhecidas como \"reduções\", onde os guaranis deveriam seguir as regras e os modos de vida europeus. Essa abordagem missionária resultou na perda de aspectos significativos das culturas indígenas, incluindo crenças, línguas e maneiras tradicionais de vida. Além disso, os europeus trouxeram doenças contra as quais os guaranis não tinham imunidade, provocando drástica redução populacional. Enquanto isso, no âmbito da colonização mais ampla, os guaranis enfrentavam outras formas severas de exploração. Muitos foram mortos e muitos foram capturados nas expedições chamadas \"bandeiras\", organizadas por colonos de origem portuguesa para escravizá-los. É essencial reconhecer que a fundação de São Paulo, representada simbolicamente pelo Pátio do Colégio, marca não apenas o início de uma cidade, mas também uma era de encontros culturais complexos que têm implicações até hoje. O legado dos guaranis e a violência que eles sofreram e sofrem é uma parte integral da história de São Paulo e do Brasil que precisa estar na memória, para a história, a reparação e a justiça. Txai Suruí - Coordenadora da Associação de Defesa Etnoambiental - Kanindé e do Movimento da Juventude Indígena de Rondônia SURUÍ, Txai. Os guaranis e a fundação de São Paulo. Folha de São Paulo, 15 de março de",
-    "options": {},
-    "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Exemplos específicos e estudos relacionados ao tema fortalecem a argumentação, dão concretude à tese e ajudam a estabelecer relações claras entre políticas ambientais, áreas verdes e saúde urbana.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3204030",
@@ -804,7 +893,16 @@
       "e": "incorreta, pois o tópico principal na frase se refere à Academia e o termo deveria estar no feminino."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O adjetivo “diverso” concorda com “quadro”, núcleo masculino singular da expressão “quadro de eleitores”. “Eleitores” funciona como complemento nominal e não determina a concordância do adjetivo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3204405",
@@ -820,7 +918,16 @@
       "e": "III, IV, V."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A sequência correta é I, IV e V. Em I, os travessões isolam uma explicação; em IV, as aspas podem marcar ironia; em V, os parênteses acrescentam uma informação explicativa. A frase II apresenta maiúscula inadequada após ponto e vírgula.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3204008",
@@ -836,7 +943,16 @@
       "e": "os membros, quase todos, da AMPAS são elegíveis para votação do Oscar."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A alternativa A resume a ideia central do texto: a Academia vem adotando medidas para tornar seu quadro de eleitores mais diverso. As demais opções apresentam informações secundárias ou alteram o sentido do texto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3181911",
@@ -851,7 +967,16 @@
       "d": "“violação”."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Muito” funciona como advérbio de intensidade em “muito abordada” e, nessa função, é invariável. Não sofre flexão de gênero ou número, mesmo que o substantivo a que se refere seja alterado.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3181634",
@@ -867,7 +992,16 @@
       "e": "Ele tinha três opções para o jantar; peixe, frango ou salada."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “Eu sou do Espírito Santo; ela, do Mato Grosso do Sul”, o ponto e vírgula separa orações coordenadas com estrutura semelhante, e a vírgula marca a elipse do verbo “é” na segunda oração.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2699956",
@@ -883,7 +1017,16 @@
       "e": "envolver o leitor, indicando procedimentos a serem observados."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A crônica apresenta a perspectiva pessoal do autor sobre a experiência de atender pessoas presas e sobre o que essa convivência lhe ensinou. Predomina a exposição de uma opinião e reflexão subjetiva.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3305900",
@@ -899,7 +1042,16 @@
       "e": "descritivo."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho apresenta dados de pesquisas, números, definições e exemplos para informar o leitor sobre os efeitos do consumo de alimentos ultraprocessados. Predomina a tipologia expositiva.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2863983",
@@ -914,7 +1066,16 @@
       "d": "onisciente."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O narrador participa do texto e relata suas próprias reflexões, empregando a primeira pessoa (“vou tomar aulas”, “meu protesto”). Trata-se de narrador-personagem em primeira pessoa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3034216",
@@ -930,7 +1091,16 @@
       "e": "Devem existirem impactos sociais relevantes e redução do desemprego entre jovens."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O verbo “haver”, no sentido de existir, é impessoal e permanece na terceira pessoa do singular. Por isso, a forma correta é “Pode haver impactos sociais relevantes”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2700013",
@@ -946,7 +1116,16 @@
       "e": "Concordância numeral e concordância atlética."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Os dois processos sintáticos fundamentais de concordância são a concordância nominal, entre nomes e seus determinantes, e a concordância verbal, entre o verbo e o sujeito.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3305898",
@@ -962,7 +1141,16 @@
       "e": "“ações”"
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A palavra “máscara” é polissêmica no contexto: pode designar o objeto físico usado sobre o rosto e, figuradamente, uma aparência ou disfarce que oculta intenções ou comportamentos. O texto explora esse duplo sentido.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3006240",
@@ -978,7 +1166,16 @@
       "e": "“... avisei-lhe do horário da fisioterapia”."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Proíbo-o de sair sem autorização” está de acordo com a regência de proibir alguém de fazer algo. As demais construções apresentam problemas no padrão formal, como “ninguém o ajudava”, “ir à escola”, “lembrei-me de seus conselhos” e “avisei-o do horário”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3034188",
@@ -994,7 +1191,16 @@
       "e": "[...] uma grande oportunidade para a valorização da formação profissional dos jovens e, logo, para o desenvolvimento inclusivo do país [...]."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho original usa “portanto”, que expressa conclusão ou consequência. Substituí-lo por “contudo” introduz oposição/contraste, alterando a relação lógica entre a valorização da formação profissional e o desenvolvimento inclusivo. As opções “por isso”, “então”, “por conseguinte” e “logo” preservam o sentido conclusivo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2699991",
