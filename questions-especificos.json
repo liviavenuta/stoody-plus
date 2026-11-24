@@ -768,7 +768,28 @@
       "e": "realização equivocada da avaliação das 5 Forças de Porter quando deveria ter implementado a Matriz BTG."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — falha na execução de funções básicas do almoxarifado.** O problema descrito é a incapacidade de manter materiais disponíveis na quantidade e no momento necessários. O almoxarifado participa do recebimento, guarda, conservação, controle e fornecimento dos materiais requisitados.\n\n- **A) Análise 360º — incorreta:** ferramenta de avaliação de negócio, sem relação direta com o controle físico de materiais.\n- **B) SWOT — incorreta:** analisa forças e fraquezas internas; não resolve diretamente a falha de abastecimento descrita.\n- **C) Funções do almoxarifado — correta:** controle inadequado de estoque e disponibilidade compromete o atendimento das requisições.\n- **D) SWOT — incorreta:** oportunidades e ameaças são fatores externos e não explicam a falha operacional específica.\n- **E) Cinco Forças de Porter/BTG — incorreta:** ferramentas estratégicas sem relação direta com reposição e controle do estoque.\n\n**Dica:** falta de material no momento da necessidade costuma indicar falha de planejamento, ressuprimento ou controle de estoque/almoxarifado.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1225007",
@@ -785,7 +806,28 @@
       "e": "Normalização de material."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: B — inspeção de suprimentos.** A questão descreve a verificação do cumprimento das normas e procedimentos de administração de materiais e a identificação de desvios em relação à política de suprimento.\n\n- **A) Transporte — incorreta:** cuida da movimentação dos materiais.\n- **B) Inspeção de suprimentos — resposta indicada:** a inspeção verifica a observância de normas e procedimentos e identifica desvios na execução.\n- **C) Classificação de material — incorreta:** organiza itens segundo características e critérios definidos.\n- **D) Padronização — incorreta:** reduz variedade desnecessária e estabelece padrões para materiais.\n- **E) Normalização — incorreta:** estabelece normas e especificações técnicas, mas não é a atividade de fiscalização da aplicação dessas normas.\n\n**Nota:** a redação se aproxima também de atividades de controle/inspeção da função de suprimentos. Mantive a alternativa B indicada no banco, distinguindo a verificação de conformidade da elaboração de padrões.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1145736",
@@ -802,7 +844,28 @@
       "e": "estoques, de bens e serviços, contratos e fornecedores."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — estoques, bens e serviços, contratos e fornecedores.** A economia de suprimentos exige gestão integrada dos recursos e das relações necessárias ao abastecimento: controlar estoques, especificar e adquirir bens e serviços, administrar contratos e selecionar/acompanhar fornecedores.\n\n- **A) Incorreta:** inclui compra e venda e avaliação 360º, mas deixa de contemplar explicitamente estoques e fornecedores.\n- **B) Incorreta:** menciona preços, cotações, plataformas e IoT, mas não reúne os principais objetos da gestão de suprimentos.\n- **C) Incorreta:** orçamento e inovação tecnológica são relevantes, mas compra e venda não expressa tão bem o ciclo de suprimento público; faltam contratos e fornecedores.\n- **D) Incorreta:** inclui estoque e contratos, mas a plataforma e a inovação incremental não substituem a gestão de bens/serviços e fornecedores.\n- **E) Correta:** reúne estoques, bens e serviços, contratos e fornecedores.\n\n**Dica:** gestão de suprimentos integra necessidade, estoque, aquisição, fornecedor e contrato.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1163485",
@@ -819,7 +882,28 @@
       "e": "conservação."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: C — materiais.** As medidas descritas — criar padrões, desenhar fluxo de entrada e saída, programar compras e estabelecer níveis mínimo e máximo — formam um sistema integrado de controle de materiais, com ênfase importante na gestão de estoques.\n\n- **A) Saída — incorreta:** o servidor também organizou entradas, compras e níveis de reposição; não se limitou à expedição.\n- **B) Estoque — alternativa próxima, mas não é a resposta do gabarito:** níveis mínimo e máximo e periodicidade de compras são ferramentas de controle de estoque.\n- **C) Materiais — correta segundo o gabarito:** o conjunto de ações abrange o fluxo de materiais de forma mais ampla, da entrada à saída.\n- **D) Recebimento — incorreta:** é apenas uma etapa do fluxo.\n- **E) Conservação — incorreta:** trata da preservação física dos materiais, não do controle integrado de movimentação e reposição.\n\n**Ressalva:** a alternativa B é conceitualmente próxima, pois mínimo/máximo e reposição são instrumentos clássicos de gestão de estoques. A opção C é mais abrangente e corresponde ao gabarito cadastrado; a questão poderia ser mais precisa ao distinguir controle de materiais e controle de estoques.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1225005",
@@ -836,7 +920,28 @@
       "e": "Custos financeiros indesejáveis e lucros cessantes."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — custos financeiros indesejáveis e lucros cessantes.** O planejamento inadequado do momento e da quantidade de suprimento pode gerar capital imobilizado em excesso, custos financeiros e, na situação oposta, perda de vendas ou produção por falta de materiais. “Lucros cessantes” são ganhos que deixam de ser obtidos em razão da interrupção ou impossibilidade de operar.\n\n- **A) Estoques elevados e ociosidade — consequência possível:** descreve excesso de materiais, mas não abrange a perda por falta de suprimento.\n- **B) Insuficiência de estoque e ineficiência — consequência possível:** descreve ruptura, mas não explicita custos financeiros e lucros não realizados.\n- **C) Capital ocioso e compras adicionais — consequência possível:** aponta excesso e necessidade de compras emergenciais, mas não sintetiza tão bem os impactos econômicos da falha.\n- **D) Defeitos de fabricação e interrupções de máquinas — incorreta como resposta geral:** interrupções podem ocorrer, mas defeitos de fabricação não decorrem necessariamente de erro no tempo/quantidade de suprimento.\n- **E) Correta:** reúne custos financeiros e lucros cessantes, impactos econômicos que podem decorrer de excesso ou falta de materiais.\n\n**Dica:** estoque excessivo imobiliza capital; estoque insuficiente pode interromper operações e gerar vendas/receitas perdidas.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1012485",
@@ -853,7 +958,28 @@
       "e": "Especificação de materiais."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — armazenamento de materiais.** A atividade de armazenagem busca guardar e disponibilizar materiais de modo que estejam acessíveis no local e momento necessários, em condições adequadas e com custos controlados.\n\n- **A) Armazenamento — correta:** envolve guarda, conservação, localização e disponibilização dos itens.\n- **B) Inventário — incorreta:** é a contagem e conferência física dos materiais.\n- **C) Atendimento — incorreta:** é a entrega da requisição ao usuário, uma etapa do fluxo.\n- **D) Transporte — incorreta:** movimenta materiais entre locais, mas não responde pela função de manter estoque disponível.\n- **E) Especificação — incorreta:** define características e requisitos do material a ser adquirido.\n\n**Dica:** armazenagem organiza e conserva; transporte desloca; inventário confere quantidades.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1012806",
@@ -870,7 +996,28 @@
       "e": "Apenas III e IV."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — apenas I e IV.** O sistema de distribuição está relacionado à disponibilidade de produtos acabados e à estrutura de depósito/distribuição para encaminhá-los aos destinatários.\n\n- **I — verdadeira:** estoque de produtos acabados integra a distribuição, pois permite atender pedidos.\n- **II — falsa:** solicitação de compras pertence ao processo de suprimento/aquisição, não é atividade típica do sistema de distribuição de produtos acabados.\n- **III — falsa segundo a classificação da questão:** acompanhamento do pedido pode integrar o processamento de pedidos e o serviço ao cliente, mas não é apresentado aqui como uma das atividades físicas centrais do sistema de distribuição.\n- **IV — verdadeira:** depósito de distribuição é componente típico da estrutura de distribuição.\n\n- **A) Apenas I e II — incorreta:** II não é atividade de distribuição.\n- **B) Apenas I e III — incorreta:** III não integra a classificação pretendida.\n- **C) Apenas II e III — incorreta:** ambas não correspondem ao par indicado.\n- **D) Apenas I e IV — correta.**\n- **E) Apenas III e IV — incorreta:** inclui III e exclui I.\n\n**Ressalva:** em modelos mais amplos de logística, o acompanhamento do pedido pode integrar o ciclo de atendimento/distribuição. O gabarito usa uma definição mais restrita, centrada em estoque de produto acabado e depósito de distribuição.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1154375",
@@ -887,7 +1034,28 @@
       "e": "realizar a gestão dos estoques e conduzir a compra de insumos necessários à operação."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — gestão dos estoques e condução da compra de insumos necessários à operação.** A administração de materiais garante o abastecimento e a disponibilidade dos recursos necessários à atividade organizacional, incluindo compras, recebimento, armazenamento e controle dos estoques.\n\n- **A) Incorreta:** motivação da equipe de vendas é função de gestão de pessoas/comercial.\n- **B) Incorreta:** contabilidade financeira não é o objetivo específico da administração de materiais.\n- **C) Incorreta:** fluxo de caixa é atividade financeira.\n- **D) Incorreta:** contratação e demissão pertencem à gestão de pessoas.\n- **E) Correta:** compras e gestão de estoques são funções centrais da administração de materiais.\n\n**Dica:** administração de materiais assegura que os insumos necessários estejam disponíveis, sem falta nem excesso.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1008084",
@@ -904,7 +1072,28 @@
       "e": "1,apenas."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — afirmativas 1 e 2, apenas.** A primeira afirmação apresenta atributos da classificação; a segunda lista exemplos de classificação quanto à aplicação; a terceira inverte o critério da curva ABC.\n\n- **1 — verdadeira:** abrangência, flexibilidade e praticidade são atributos desejáveis de um sistema de classificação de materiais.\n- **2 — verdadeira:** matérias-primas, produtos em fabricação, produtos acabados, materiais de manutenção e materiais de consumo geral são exemplos de classificação quanto à aplicação.\n- **3 — falsa:** na curva ABC, os itens da classe A são os de maior relevância econômica/valor de consumo acumulado, e não os de baixo valor. Itens C tendem a representar menor parcela do valor total.\n\n- **A) 1, 2 e 3 — incorreta:** a afirmação 3 é falsa.\n- **B) 1 e 2, apenas — correta.**\n- **C) 1 e 3, apenas — incorreta:** 3 é falsa.\n- **D) 2 e 3, apenas — incorreta:** 3 é falsa.\n- **E) 1, apenas — incorreta:** a afirmação 2 também é verdadeira.\n\n**Dica:** curva ABC ordena itens pelo valor de consumo: classe A concentra maior valor; classe C, menor valor relativo.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "958502",
@@ -920,7 +1109,28 @@
       "d": "Despesas com recursos humanos."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: B — manutenção e continuidade de fornecimento.** A escolha criteriosa de fornecedores considera custos de produção, expedição e transporte, além de qualidade, prazo e confiabilidade. O objetivo é assegurar suprimento contínuo e adequado, especialmente no setor público, em que as condições devem estar definidas no edital e no contrato.\n\n- **A) Capacitação e aperfeiçoamento — incorreta:** relaciona-se à gestão de pessoas.\n- **B) Manutenção e continuidade de fornecimento — correta:** seleção e avaliação de fornecedores devem reduzir riscos de desabastecimento e assegurar condições de fornecimento.\n- **C) Bom relacionamento com fornecedores — relevante, mas não é o objetivo específico descrito:** relacionamento é meio para cooperação, não a finalidade de continuidade.\n- **D) Despesas com recursos humanos — incorreta:** não tem relação com a seleção de fornecedores e custos logísticos.\n\n**Dica:** avaliação de fornecedores considera preço total, qualidade, prazo, capacidade e confiabilidade para manter o abastecimento.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "720586",
