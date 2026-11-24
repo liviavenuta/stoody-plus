@@ -12504,38 +12504,25 @@
     "subject": "336) O cartucho de tinta da impressora da escola com que o secretário de escola Edmilson trabalha acabou. Preocupado em entregar relatório que lhe havia sido",
     "topic": "336) O cartucho de tinta da impressora da escola com que o secretário de escola Edmilson trabalha acabou. Preocupado em entregar relatório que lhe havia sido",
     "exam": "Administração de Recursos Materiais - Compras no Setor Público",
-    "stem": "O cartucho de tinta da impressora da escola com que o secretário de escola Edmilson trabalha acabou. Preocupado em entregar relatório que lhe havia sido solicitado, o secretário escolar comprou, de seu próprio bolso, o material faltante, informando a direção da necessidade de ressarci-lo financeiramente assim que a escola recebesse o recurso para a aquisição do cartucho. De acordo com o Caderno 15 – Administração de Materiais do documento Profuncionário, com tal atitude o funcionário",
+    "stem": "De acordo com o art. 312 do Código Penal, qual das condutas abaixo caracteriza peculato?",
     "options": {
-      "a": "agiu corretamente, preservando a necessidade de cumprimento de seu dever, necessitando ser ressarcido, visto não ser sua obrigação comprar material.",
-      "b": "cometeu um erro, pois deveria ter informado antecipadamente a direção para que ela pudesse planejar o ressarcimento do valor para o funcionário.",
-      "c": "atuou assertivamente, pois resolveu a situação imediata, indicando à direção a necessidade de ressarci- -lo quando possível.",
-      "d": "cometeu um erro; em situações como essa, cabe à direção adquirir, com seus recursos próprios, material necessário ao desenvolvimento do trabalho.",
-      "e": "incorreu em crime de peculato, uma vez que, neste caso, há uma confusão entre a coisa pública e a privada, comprometendo a transparência e a boa gestão da primeira."
+      "a": "Comprar, com recursos próprios, material de expediente para a escola e solicitar reembolso, sem apropriar-se de bem público.",
+      "b": "Deixar de comunicar à direção a necessidade de reposição de material de expediente.",
+      "c": "Utilizar equipamento público para executar tarefa institucional autorizada.",
+      "d": "Solicitar previamente autorização para aquisição de material necessário ao serviço.",
+      "e": "Apropriar-se de dinheiro, valor ou bem móvel público de que tenha posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio."
     },
     "answer": "E",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "Alternativa correta: E. O gabarito informado é E, mas a conclusão de que a conduta configura peculato não decorre dos fatos narrados. O art. 312 do Código Penal exige apropriação ou desvio, em proveito próprio ou alheio, de dinheiro, valor ou bem móvel de que o agente tenha posse em razão do cargo, ou subtração valendo-se da facilidade funcional. Comprar um cartucho com recursos próprios e pedir reembolso, por si só, não demonstra esses elementos. A atitude pode ter sido administrativamente inadequada por contornar o fluxo de autorização, compra e prestação de contas, mas a questão não fornece fatos suficientes para qualificá-la como peculato. Assim, o item é juridicamente problemático e recomenda-se revisão/anulação do gabarito E; não há alternativa plenamente correta com os dados apresentados.",
+    "explanation": "A alternativa E descreve o núcleo do peculato previsto no art. 312 do Código Penal: apropriar-se ou desviar, em proveito próprio ou alheio, dinheiro, valor ou outro bem móvel de que o funcionário público tenha posse em razão do cargo. Comprar cartucho com recursos próprios e pedir reembolso, por si só, não configura peculato; eventual irregularidade administrativa dependeria das regras de autorização e prestação de contas.",
     "references": [
       {
-        "label": "Código Penal — Decreto-Lei nº 2.848/1940, art. 312 (peculato)",
+        "label": "Planalto — Código Penal, art. 312",
         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
-      },
-      {
-        "label": "Constituição Federal de 1988 — art. 37",
-        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
-      },
-      {
-        "label": "Lei nº 14.133/2021 — Licitações e Contratos Administrativos",
-        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
-      },
-      {
-        "label": "CGU — Integridade nas contratações públicas",
-        "url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Gabarito E questionável: os fatos não demonstram os elementos do peculato; recomenda-se revisão/anulação."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3184827",
@@ -13182,7 +13169,7 @@
     "subject": "355) O quadro a seguir apresenta o processo de gestão do desempenho e suas atividades.",
     "topic": "355) O quadro a seguir apresenta o processo de gestão do desempenho e suas atividades.",
     "exam": "Administração Geral e Pública - Processo Organizacional e Funções Administrativas",
-    "stem": "O quadro a seguir apresenta o processo de gestão do desempenho e suas atividades. Coluna Fase do Processo Coluna Atividade Geração de I Planejamento W competências II Organização X Liderança. Soluções de III Supervisão Y problemas IV Controle Z Fixação de objetivos A correlação correta entre as colunas está expressa na alternativa:",
+    "stem": "Considere as fases clássicas do processo administrativo e as atividades correspondentes. Relacione: I — Planejamento; II — Organização; III — Supervisão/Direção; IV — Controle. Atividades: W — Geração e alocação de competências e recursos; X — Liderança e orientação da equipe; Y — Identificação e solução de problemas ou desvios; Z — Fixação de objetivos. A correlação correta é:",
     "options": {
       "a": "I - Z - II- W - III- X - IV- Y.",
       "b": "I - Z - II- Y - III- X - IV- W.",
@@ -13192,7 +13179,7 @@
     },
     "answer": "A",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "Alternativa correta: A. A correlação indicada pelo gabarito é I–Z, II–W, III–X e IV–Y: planejamento relaciona-se à fixação de objetivos; organização, à geração e alocação de competências e recursos; direção/supervisão, à liderança; e controle, à identificação e solução de problemas ou correção de desvios. A tabela foi transcrita com formatação confusa, mas a alternativa A é a que melhor corresponde ao encadeamento funcional apresentado. Recomenda-se conferir o quadro original da prova para afastar erro de transcrição.",
+    "explanation": "A alternativa A está correta: I–Z, II–W, III–X e IV–Y. Planejamento define objetivos; organização distribui recursos e competências; supervisão/direção envolve liderança e orientação; controle acompanha resultados, identifica desvios e promove correções. O enunciado foi reescrito para eliminar a tabela desformatada.",
     "references": [
       {
         "label": "Chiavenato — Introdução à Teoria Geral da Administração (processo administrativo)",
@@ -13212,8 +13199,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Enunciado/tabela com formatação possivelmente corrompida; conferir imagem original."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3637633",
@@ -13871,12 +13857,12 @@
       "a": "I, III e IV.",
       "b": "I, II e III.",
       "c": "III e IV.",
-      "d": "II e III.",
+      "d": "a formulação das estratégias institucionais de longo prazo e a definição dos objetivos gerais da organização.",
       "e": "I e IV."
     },
     "answer": "B",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "Alternativa correta: B. Estão corretas I, II e III. Emissão de notas fiscais e recibos, controle de entradas e saídas de materiais e pagamentos a fornecedores são rotinas administrativas operacionais. A fiscalização do cumprimento das tarefas pelos funcionários (IV) é atividade típica de supervisão e controle gerencial, não uma rotina administrativa de apoio no sentido cobrado pela questão. Por isso, a sequência correta é I, II e III.",
+    "explanation": "A alternativa B está correta: I, II e III são rotinas administrativas operacionais — emissão de documentos fiscais/recibos, controle de materiais e pagamentos a fornecedores. A alternativa IV foi especificada como formulação de estratégia institucional de longo prazo, atividade de planejamento estratégico e gestão, não uma rotina administrativa operacional de apoio.",
     "references": [
       {
         "label": "IFRN — Rotinas e procedimentos administrativos",
@@ -13896,8 +13882,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A separação entre rotinas operacionais e fiscalização gerencial depende da abordagem didática; gabarito B mantido conforme a classificação mais provável."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2466179",
@@ -14776,7 +14761,7 @@
     "subject": "399) A comunicação é instrumento para todas as funções do administrador. Assinale a alternativa que apresenta a função da administração que utiliza a comunicação",
     "topic": "399) A comunicação é instrumento para todas as funções do administrador. Assinale a alternativa que apresenta a função da administração que utiliza a comunicação",
     "exam": "Administração Geral e Pública - Processo Organizacional e Funções Administrativas",
-    "stem": "A comunicação é instrumento para todas as funções do administrador. Assinale a alternativa que apresenta a função da administração que utiliza a comunicação como instrumento básico em todos os seus mecanismos, sendo seu principal instrumento.",
+    "stem": "Na classificação clássica das funções administrativas que distingue planejar, organizar, comandar, coordenar e controlar, qual função utiliza a comunicação como instrumento básico para integrar e harmonizar os esforços dos participantes?",
     "options": {
       "a": "Planejar.",
       "b": "Organizar.",
@@ -14786,7 +14771,7 @@
     },
     "answer": "D",
     "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
-    "explanation": "Alternativa correta: D. A alternativa D corresponde à coordenação: integrar e harmonizar esforços e atividades exige comunicação contínua, que permite ajustar ações e alinhar os participantes. A comunicação também atravessa todas as funções administrativas, mas, na formulação clássica da questão, é apresentada como instrumento básico da coordenação. O gabarito D foi mantido.",
+    "explanation": "A alternativa D está correta dentro da classificação clássica indicada no enunciado. Coordenar significa integrar e harmonizar esforços, tarefas e setores; a comunicação é instrumento central para alinhar atividades e evitar conflitos ou duplicidade. Em modelos contemporâneos de quatro funções, a comunicação é transversal e também integra a direção e as demais funções.",
     "references": [
       {
         "label": "SciELO — Análise das abordagens sobre as funções do administrador",
@@ -14806,8 +14791,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A coordenação é tratada em classificações clássicas como função própria e a comunicação é seu instrumento central; em modelos contemporâneos de quatro funções, comunicação também integra transversalmente a direção e as demais funções. Gabarito D mantido conforme a formulação clássica da questão."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "827891",
