@@ -4720,7 +4720,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, III, estabelece que o prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período. A prorrogação é discricionária e deve ocorrer uma única vez.",
+    "explanation": "O art. 37, III, estabelece que o prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período. A alternativa C reproduz a regra constitucional.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4746,7 +4746,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A Constituição veda a vinculação ou equiparação de quaisquer espécies remuneratórias (art. 37, XIII) e impede que acréscimos pecuniários sejam computados ou acumulados para gerar acréscimos ulteriores (art. 37, XIV). Os dois pedidos contrariam expressamente a Constituição.",
+    "explanation": "O art. 37, XIII, veda vinculação ou equiparação de espécies remuneratórias para efeito de remuneração de pessoal do serviço público. O inciso XIV também impede que acréscimos pecuniários sejam computados ou acumulados para concessão de acréscimos ulteriores. Portanto, nenhum dos pedidos pode ser acolhido.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4770,7 +4770,7 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A responsabilidade do Município é objetiva, mas depende de dano e nexo causal entre a atuação do agente nessa qualidade e o prejuízo. Se ficar comprovada causa que rompa o nexo causal, como culpa exclusiva da vítima ou fato exclusivo de terceiro, a obrigação de indenizar pode ser afastada. O direito de regresso contra a agente depende de dolo ou culpa.",
+    "explanation": "A responsabilidade do Município é objetiva, nos termos do art. 37, § 6º: exige dano causado por agente público nessa qualidade e nexo causal. Pode ser afastada ou reduzida se houver causa que rompa ou diminua o nexo causal, como culpa exclusiva ou concorrente da vítima, conforme o caso.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4799,7 +4799,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Nas hipóteses constitucionais de acumulação remunerada, o teto é aplicado a cada vínculo isoladamente, e não à soma das remunerações, conforme entendimento do STF nos Temas 377 e 384. As demais alternativas contrariam a jurisprudência sobre nomeação e remarcação de teste físico de gestante.",
+    "explanation": "Nas hipóteses constitucionais de acumulação lícita, o teto remuneratório é aplicado separadamente a cada vínculo, e não à soma das remunerações, conforme entendimento do STF em repercussão geral. As demais alternativas contrariam teses do STF sobre posse tardia, candidato aprovado fora das vagas e remarcação de teste físico para gestante.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4829,7 +4829,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, XVIII, confere à administração fazendária e a seus servidores fiscais, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei.",
+    "explanation": "O art. 37, XVIII, assegura precedência à administração fazendária e a seus servidores fiscais, dentro de suas áreas de competência e jurisdição, sobre os demais setores administrativos, na forma da lei. A contratação temporária depende de lei, e a acumulação de cargos de saúde exige profissões regulamentadas.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4855,7 +4855,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 13, prevê readaptação do servidor efetivo para atribuições e responsabilidades compatíveis com a limitação física ou mental, observadas a habilitação e a escolaridade exigidas, mantendo-se a remuneração do cargo de origem.",
+    "explanation": "O art. 37, § 13, prevê readaptação para cargo cujas atribuições e responsabilidades sejam compatíveis com a limitação física ou mental do servidor, desde que tenha habilitação e escolaridade exigidas, mantida a remuneração do cargo de origem.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4881,7 +4881,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O princípio da legalidade submete a Administração Pública à lei e ao ordenamento jurídico. O administrador só pode agir quando houver fundamento jurídico para sua atuação e deve observar a finalidade pública, sob pena de invalidade e responsabilização.",
+    "explanation": "O texto descreve o princípio da legalidade administrativa: o agente público só pode agir conforme autorização e limites do ordenamento jurídico, sempre orientado ao bem comum. A atuação fora desses limites pode invalidar o ato e gerar responsabilização.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4907,7 +4907,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, IV, assegura prioridade de convocação aos aprovados em concurso anterior durante o prazo improrrogável previsto no edital, sobre novos concursados para assumir cargo ou emprego na carreira. A prioridade não elimina a necessidade de observar a validade do certame anterior.",
+    "explanation": "O art. 37, IV, garante prioridade de convocação aos aprovados em concurso anterior, durante o prazo improrrogável previsto no edital, sobre novos concursados para assumir cargo ou emprego na carreira. A regra não significa convocação fora do prazo de validade do certame.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4933,7 +4933,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A desonestidade e o favorecimento de amigos na divulgação da classificação violam o princípio da moralidade administrativa, além de poderem atingir a impessoalidade e a publicidade. A alternativa B é a mais diretamente relacionada ao dever de honestidade.",
+    "explanation": "Manipular a classificação para favorecer amigos viola a moralidade administrativa, pois representa conduta desonesta e contrária à probidade e à boa-fé exigidas do agente público. Também pode afetar a impessoalidade e a legalidade.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4959,7 +4959,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 6º, prevê responsabilidade objetiva das pessoas jurídicas de direito público e das pessoas jurídicas de direito privado prestadoras de serviços públicos, assegurado o direito de regresso contra o agente nos casos de dolo ou culpa. A alternativa A reproduz a regra constitucional.",
+    "explanation": "O art. 37, § 6º, determina a responsabilidade objetiva das pessoas jurídicas de direito público e das pessoas jurídicas de direito privado prestadoras de serviços públicos pelos danos causados por seus agentes nessa qualidade, assegurado o regresso contra o responsável em caso de dolo ou culpa.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -4985,7 +4985,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O servidor investido em mandato eletivo federal, estadual ou distrital deve ficar afastado do cargo, emprego ou função, conforme art. 38, I. Para mandato de vereador, há regra específica que permite acumulação se houver compatibilidade de horários.",
+    "explanation": "O servidor público investido em mandato eletivo federal, estadual ou distrital deve ficar afastado do cargo, emprego ou função, conforme art. 38, I. As regras para Prefeito e Vereador são diferentes: Prefeito pode optar pela remuneração; Vereador pode acumular se houver compatibilidade de horários.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5011,7 +5011,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, XXII, determina que as administrações tributárias são atividades essenciais, exercidas por carreiras específicas, com recursos prioritários e atuação integrada, inclusive compartilhando cadastros e informações fiscais na forma da lei ou convênio. As demais opções alteram regras constitucionais sobre acumulação, teto e cargos em comissão.",
+    "explanation": "O art. 37, XXII, determina que as administrações tributárias sejam exercidas por servidores de carreiras específicas, tenham recursos prioritários e atuem de forma integrada, inclusive com compartilhamento de cadastros e informações fiscais, na forma da lei ou convênio. As demais alternativas alteram indevidamente as regras constitucionais.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5037,7 +5037,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, III, fixa o prazo máximo de validade do concurso em dois anos, admitida uma única prorrogação por igual período.",
+    "explanation": "O art. 37, III, prevê prazo de validade de até dois anos, prorrogável uma vez, por igual período.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5063,7 +5063,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Subjetividade não integra os princípios expressos no art. 37, caput. Os princípios constitucionais expressos são legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+    "explanation": "Subjetividade não integra os princípios expressos do art. 37. A Constituição enumera legalidade, impessoalidade, moralidade, publicidade e eficiência.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5089,7 +5089,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, § 7º, prevê que a lei disporá sobre requisitos e restrições ao ocupante de cargo ou emprego da Administração direta e indireta que possibilite acesso a informações privilegiadas. A alternativa A erra ao dispensar autorização legislativa para criação de subsidiárias; C fala em cassação de direitos políticos; D ignora a ressalva constitucional das ações de ressarcimento; E elimina exceções expressas à acumulação de proventos.",
+    "explanation": "O art. 37, § 7º, prevê que a lei disponha sobre requisitos e restrições aplicáveis ao ocupante de cargo ou emprego da Administração direta e indireta que possibilite acesso a informações privilegiadas. A alternativa A erra ao dispensar autorização legislativa para criação de subsidiárias; C troca suspensão por cassação dos direitos políticos; D generaliza a imprescritibilidade; e E ignora exceções constitucionais à acumulação de proventos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5115,7 +5115,7 @@
     },
     "answer": "E",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Planejamento é princípio extraído da organização constitucional da Administração, especialmente das competências de planejamento e coordenação atribuídas ao Poder Executivo e das regras constitucionais de planejamento orçamentário. Não integra a lista expressa do art. 37, caput.",
+    "explanation": "O planejamento é princípio implícito/inferido da organização constitucional da Administração Pública, especialmente da estrutura e das competências do Poder Executivo. Não integra a enumeração expressa do art. 37, caput.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5141,7 +5141,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A EC nº 138/2025 alterou o art. 37, XVI, b, permitindo acumular um cargo de professor com outro de qualquer natureza, desde que haja compatibilidade de horários. Assim, a hipótese de professor com cargo técnico ou científico continua permitida, embora a exigência de natureza técnica ou científica tenha deixado de existir.",
+    "explanation": "A Constituição admite a acumulação remunerada de um cargo de professor com outro técnico ou científico, desde que haja compatibilidade de horários e respeito ao teto. A EC nº 138/2025 ampliou a hipótese para um cargo de professor com outro de qualquer natureza; portanto, a hipótese descrita na alternativa C permanece permitida.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5171,7 +5171,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O servidor investido em mandato eletivo estadual deve afastar-se do cargo, emprego ou função, conforme art. 38, I. As regras de acumulação por compatibilidade de horários aplicam-se especificamente ao mandato de vereador.",
+    "explanation": "O servidor público investido em mandato eletivo estadual deve afastar-se do cargo, emprego ou função, nos termos do art. 38, I. As demais alternativas confundem as regras de remuneração e contagem de tempo aplicáveis aos mandatos de Prefeito e Vereador.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5195,7 +5195,7 @@
     },
     "answer": "C",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A eficiência exige atuação administrativa com presteza, qualidade, rendimento funcional e busca de resultados positivos para o serviço público e para a coletividade. A alternativa C descreve esse princípio.",
+    "explanation": "A eficiência exige atuação administrativa com presteza, qualidade e rendimento funcional, buscando resultados positivos e atendimento satisfatório das necessidades coletivas. A alternativa C expressa essa ideia. O tratamento diferenciado a pessoas com deficiência pode ser necessário para assegurar igualdade material, não constituindo por si só violação à impessoalidade.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5221,7 +5221,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Os cinco princípios expressos no art. 37, caput, são legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+    "explanation": "O art. 37, caput, enumera legalidade, impessoalidade, moralidade, publicidade e eficiência. A alternativa D apresenta exatamente os cinco princípios expressos.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5247,7 +5247,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "Os princípios da Administração Pública previstos no art. 37 da Constituição integram o campo do Direito Administrativo, embora tenham fundamento constitucional. A alternativa B é a classificação adequada.",
+    "explanation": "Os princípios do art. 37 regem a atuação administrativa e integram o Direito Administrativo, ramo do Direito Público que disciplina a organização e a atividade da Administração Pública. Eles também têm fundamento constitucional, mas a pergunta solicita o ramo jurídico a que pertencem.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5273,7 +5273,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 37, III, prevê validade de concurso público de até dois anos, prorrogável uma vez, por igual período.",
+    "explanation": "O art. 37, III, estabelece prazo de validade de até dois anos, prorrogável uma vez, por igual período.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5299,7 +5299,7 @@
     },
     "answer": "D",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "A alternativa D reproduz o art. 37, III, sobre validade de concurso público. Entretanto, a alternativa C também reproduz o art. 37, X, que assegura revisão geral anual na mesma data e sem distinção de índices. Portanto, o item tem duas alternativas corretas e deve ser revisado ou anulado.",
+    "explanation": "O art. 37, III, prevê prazo de validade de concurso de até dois anos, prorrogável uma vez por igual período. Atenção: a alternativa C também reproduz, em essência, o art. 37, X, que assegura revisão geral anual na mesma data e sem distinção de índices. Assim, o item tem duas alternativas constitucionalmente corretas e deve ser revisto/anulado.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5308,7 +5308,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão com dupla resposta: C reproduz o art. 37, X, e D reproduz o art. 37, III. Recomenda-se anulação ou reformulação."
+    "reviewNote": "Questão com dupla resposta: C corresponde ao art. 37, X, e D ao art. 37, III. Recomenda-se revisão/anulação."
   },
   {
     "id": "1473226",
@@ -5326,7 +5326,7 @@
     },
     "answer": "B",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O art. 41 da Constituição assegura estabilidade aos servidores nomeados para cargo de provimento efetivo em virtude de concurso público após três anos de efetivo exercício, condicionada à avaliação especial de desempenho.",
+    "explanation": "O art. 41 da Constituição assegura estabilidade aos servidores nomeados para cargo de provimento efetivo em virtude de concurso público após três anos de efetivo exercício, condicionada à avaliação especial de desempenho por comissão instituída para essa finalidade.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
@@ -5352,7 +5352,7 @@
     },
     "answer": "A",
     "source": "Noções de Legislação Institucional, Previdenciária e de Assistência à Saúde (Médio) para IPAM.pdf",
-    "explanation": "O princípio da legalidade determina que a Administração Pública atue conforme a lei e o ordenamento jurídico, sem liberdade para agir contra ou além das autorizações legais. A alternativa A expressa a regra geral; a alternativa C descreve moralidade, D eficiência e B cita dispositivo constitucional incorreto.",
+    "explanation": "A legalidade administrativa significa que a Administração só pode atuar quando houver fundamento jurídico e dentro dos limites estabelecidos pelo ordenamento. Diferentemente do particular, que pode fazer tudo o que a lei não proíbe, o agente público precisa de autorização jurídica para agir. A alternativa B cita incorretamente o dispositivo: a regra “ninguém será obrigado...” está no art. 5º, II, e não no art. 10º, IV.",
     "references": [
       {
         "label": "Planalto — Constituição Federal de 1988",
