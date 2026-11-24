@@ -914,7 +914,20 @@
       "e": "Equipe diretiva https://www.tecconcursos.com.br/questoes/cadernos/108619254/imprimir 12/11/2026, 23:59 Caderno Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM - Porto Velho - 2027"
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é C — equipe interfuncional. Ela reúne integrantes de diferentes áreas ou funções, frequentemente situados em níveis hierárquicos equivalentes, para tratar de um processo, projeto ou problema que atravessa setores. O valor desse arranjo está em integrar conhecimentos e perspectivas que, isoladamente, ficariam distribuídos em departamentos diferentes.\n\nPor que as outras estão erradas: A) equipe motivacional não é a classificação técnica descrita; B) equipe estrutural também não corresponde à composição por diferentes funções; D) equipe local não indica integração entre áreas; E) equipe diretiva se refere a funções de direção, não à característica apresentada.\n\nNota editorial: a alternativa E contém metadados de impressão anexados ao texto. Recomenda-se remover esse trecho na revisão do cadastro.",
+    "references": [
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade (Gestaopublicagov.br)",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      },
+      {
+        "label": "e-Tec Brasil/MEC — Modelos contemporâneos de gestão: Gestão da Qualidade",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "982827",
@@ -931,7 +944,20 @@
       "e": "Grupos primários, temporários, de amizade, de interesses, e de comando"
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D — grupos de comando e temporários. Na classificação tradicional de grupos formais, os grupos de comando são definidos pela estrutura organizacional e pelas relações de autoridade; os grupos temporários são constituídos para cumprir uma tarefa ou objetivo específico por determinado período. Já grupos de amizade e de interesses são normalmente classificados como informais, pois surgem das relações sociais e interesses dos próprios integrantes.\n\nPor que as outras estão erradas: A) inclui amizade, que é informal; B) inclui interesses, também informal; C) inclui amizade e interesses; E) mistura categorias informais (amizade e interesses) com formais.\n\nDica: formal = estabelecido pela organização, como comando e tarefa temporária; informal = nasce de afinidades ou interesses pessoais.",
+    "references": [
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade (Gestaopublicagov.br)",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      },
+      {
+        "label": "e-Tec Brasil/MEC — Modelos contemporâneos de gestão: Gestão da Qualidade",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "863234",
@@ -948,7 +974,20 @@
       "e": "O intercâmbio de ideias e de soluções é presente e constante em ambos, equipes e grupos de trabalho."
     },
     "answer": "D",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é D, conforme o gabarito cadastrado. Em abordagens tradicionais de comportamento organizacional, equipes tendem a apresentar maior integração, interação e responsabilidade compartilhada do que grupos de trabalho mais orientados à soma de contribuições individuais. A alternativa D expressa essa distinção pela intensidade da interação afetiva descrita no item.\n\nPor que as outras estão erradas: A) grupos e equipes não necessariamente têm objetivos comuns no mesmo grau; B) decisões coletivas não são uma característica obrigatória de todo grupo de trabalho; C) não existe regra geral de que grupos sejam sempre mais eficientes em problemas de longo prazo; E) o intercâmbio pode ocorrer em ambos, portanto não diferencia adequadamente equipe e grupo.\n\nRessalva conceitual: a distinção entre grupo e equipe varia conforme o autor; a intensidade afetiva não é critério universal isolado. Para fins de prova, observe a abordagem tradicional pressuposta pelo item.",
+    "references": [
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade (Gestaopublicagov.br)",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      },
+      {
+        "label": "e-Tec Brasil/MEC — Modelos contemporâneos de gestão: Gestão da Qualidade",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "295682",
@@ -965,7 +1004,20 @@
       "e": "dedicando-se e facilitando as rotinas de sua área, de seus superiores e de toda a organização como um todo."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é E. O assistente administrativo deve contribuir para o funcionamento da área e da organização como um todo, facilitando rotinas, apoiando fluxos de trabalho e colaborando com superiores e colegas. A postura multifuncional não significa ultrapassar competências ou decidir sozinho estratégias que cabem à gestão; significa atuar com iniciativa, responsabilidade e visão sistêmica dentro de suas atribuições.\n\nPor que as outras estão erradas: A) decidir estratégias por conta própria pode ultrapassar a alçada do cargo; B) assumir decisões apenas pela experiência pessoal ignora normas e alinhamento organizacional; C) apenas relatar dificuldades não apresenta atitude colaborativa para solucioná-las; D) dedicação exclusiva à chefia, sem considerar a organização, reduz a visão sistêmica.\n\nDica: em questões sobre postura administrativa, prefira colaboração, facilitação dos processos e foco no resultado institucional.",
+    "references": [
+      {
+        "label": "Governo Federal — Princípios da Gestão da Qualidade (Gestaopublicagov.br)",
+        "url": "https://www.gov.br/transferegov/pt-br/perguntas-frequentes/gestaopublicagov-1.br"
+      },
+      {
+        "label": "e-Tec Brasil/MEC — Modelos contemporâneos de gestão: Gestão da Qualidade",
+        "url": "https://redeetec.mec.gov.br/images/stories/pdf/proeja/modelos_gestao.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3447620",
@@ -982,7 +1034,20 @@
       "e": "redução do quadro de funcionários."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é B — satisfação do cliente e melhoria contínua. A gestão da qualidade busca assegurar que produtos e serviços atendam aos requisitos e às necessidades dos usuários, ao mesmo tempo em que os processos são avaliados e aperfeiçoados continuamente. Em sistemas de gestão, foco no cliente e melhoria são princípios centrais.\n\nPor que as outras estão erradas: A) tecnologia pode ser um meio, mas não é o objetivo principal da qualidade; C) expansão internacional é uma possível estratégia de negócio, não a finalidade da gestão da qualidade; D) produtividade sem controle de qualidade pode aumentar defeitos e desperdícios; E) reduzir funcionários não é objetivo da qualidade e pode até prejudicar processos.\n\nDica de prova: qualidade combina satisfação do usuário, conformidade e melhoria contínua.",
+    "references": [
+      {
+        "label": "ANAC — Fundamentos de um Sistema de Gestão da Qualidade",
+        "url": "https://capacitacao.anac.gov.br/course/section.php?id=5986"
+      },
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2345552",
@@ -999,7 +1064,20 @@
       "e": "eficiência."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é C — confiabilidade. No modelo SERVQUAL, confiabilidade (reliability) é a capacidade de executar o serviço prometido de forma correta, consistente e segura, cumprindo o que foi combinado. A questão enfatiza precisamente desempenho seguro e preciso.\n\nPor que as outras estão erradas: A) presteza é disposição e prontidão para ajudar e atender; B) empatia é atenção individualizada e compreensão das necessidades do usuário; D) tangibilidade envolve instalações, equipamentos, aparência dos profissionais e materiais de comunicação; E) eficiência relaciona resultados e recursos, mas não é a dimensão específica descrita no enunciado.\n\nDica de prova: promessa cumprida com precisão = confiabilidade; rapidez e disposição = presteza.",
+    "references": [
+      {
+        "label": "ANAC — Fundamentos de um Sistema de Gestão da Qualidade",
+        "url": "https://capacitacao.anac.gov.br/course/section.php?id=5986"
+      },
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2446152",
@@ -1016,7 +1094,20 @@
       "e": "Omissão de erros."
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é E — omissão de erros. A gestão da qualidade procura identificar, prevenir, registrar e corrigir falhas, não omiti-las. Esconder erros impede análise de causas, aprendizagem organizacional e melhoria dos processos.\n\nPor que as outras estão corretas como benefícios: A) definir e controlar processos aumenta padronização e previsibilidade; B) reduzir desperdícios melhora o uso de recursos; C) prevenir erros diminui retrabalho e não conformidades; D) processos monitorados e analisados podem revelar oportunidades de melhoria e crescimento.\n\nNota editorial: a alternativa D contém URL e metadados de impressão colados ao texto; o conteúdo substantivo da opção é compatível com a ideia de identificar oportunidades.",
+    "references": [
+      {
+        "label": "ANAC — Fundamentos de um Sistema de Gestão da Qualidade",
+        "url": "https://capacitacao.anac.gov.br/course/section.php?id=5986"
+      },
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2453232",
@@ -1033,7 +1124,20 @@
       "e": "II e III."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é C — I, II e IV. A gestão da qualidade considera a satisfação de clientes internos e externos e das demais partes interessadas (I), utiliza registros e controles para dar rastreabilidade e confiabilidade às etapas dos processos (II) e procura oferecer produtos e serviços alinhados às necessidades dos clientes (IV).\n\nA afirmativa III está incorreta porque trata o cliente como receptor passivo. Abordagens atuais de qualidade valorizam compreender necessidades, ouvir feedback, acompanhar a satisfação e utilizar essas informações para melhorar produtos e serviços.\n\nPor que as outras estão erradas: A) inclui a afirmativa III, que é falsa, e deixa de incluir IV; B) omite IV; D) inclui III e omite I e II; E) inclui III e omite I e IV.",
+    "references": [
+      {
+        "label": "ANAC — Fundamentos de um Sistema de Gestão da Qualidade",
+        "url": "https://capacitacao.anac.gov.br/course/section.php?id=5986"
+      },
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2446199",
@@ -1050,7 +1154,20 @@
       "e": "decisão baseada em hipótese."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é A — gestão de relacionamento. A gestão da qualidade inclui administrar relações com partes interessadas relevantes, clientes, fornecedores e parceiros, pois resultados sustentáveis dependem de compreender necessidades e coordenar essas relações. Esse princípio aparece entre os sete princípios de gestão da qualidade associados à ABNT NBR ISO 9000:2015.\n\nPor que as outras estão erradas: B) visão marxista não é princípio de sistema de gestão da qualidade; C) foco apenas na empresa contraria o princípio de foco no cliente e nas partes interessadas; D) melhoria descontinuada contradiz a melhoria contínua; E) decisões baseadas em hipóteses sem evidências contrariam a tomada de decisão baseada em evidências.\n\nDica de prova: relacionamento com partes interessadas é um dos princípios formais da gestão da qualidade.",
+    "references": [
+      {
+        "label": "ANAC — Fundamentos de um Sistema de Gestão da Qualidade",
+        "url": "https://capacitacao.anac.gov.br/course/section.php?id=5986"
+      },
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2445341",
@@ -1067,7 +1184,20 @@
       "e": "Delegação."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "A alternativa correta é A — disseminação de informações. O texto destaca transparência no fluxo de informações e conhecimento compartilhado sobre negócio, missão e planos. A disseminação de informações assegura que as pessoas compreendam o contexto organizacional e como suas atividades contribuem para os objetivos coletivos.\n\nPor que as outras estão erradas: B) não aceitação de erros é outro princípio da qualidade total, relacionado à prevenção de falhas, não ao fluxo transparente de informações descrito; C) melhoria contínua refere-se ao aperfeiçoamento sistemático de processos; D) gerência participativa envolve participação nas decisões, mas o foco específico do enunciado é a divulgação e compreensão das informações; E) delegação é atribuir autoridade e responsabilidade para decisões e execução.\n\nDica de prova: missão, visão, planos e transparência no fluxo informacional indicam disseminação de informações.",
+    "references": [
+      {
+        "label": "ANAC — Fundamentos de um Sistema de Gestão da Qualidade",
+        "url": "https://capacitacao.anac.gov.br/course/section.php?id=5986"
+      },
+      {
+        "label": "ANVISA — Guia para implantação de Sistema de Gestão da Qualidade",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/sistema-nacional-de-vigilancia-sanitaria/publicacoes-de-projetos/guia-para-implantacao-de-sistema-de-gestao-da-qualidade-sgq-em-unidades-do-sistema-nacional-de-vigilancia-sanitaria-snvs-1"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2445349",
