@@ -60,11 +60,11 @@
       "b": "Houveram inconsistências nos dados coletados.",
       "c": "O conjunto de normas foi revogado",
       "d": "Chegou os relatórios.",
-      "e": "30% da amostra apresentaram variações significativas."
+      "e": "30% da amostra apresentaram variações significativa."
     },
     "answer": "C",
     "source": "Português.pdf",
-    "explanation": "A alternativa C está correta: o núcleo do sujeito é “conjunto”, por isso o verbo fica no singular (“foi revogado”). Contudo, a alternativa E também pode ser aceita: em expressões percentuais, o verbo pode concordar com a porcentagem ou com o substantivo que a especifica (“30% da amostra apresentaram variações”). O item tem potencial de dupla resposta.",
+    "explanation": "A alternativa C é a correta: o núcleo do sujeito é “conjunto”, por isso o verbo fica no singular (“foi revogado”). A alternativa E foi ajustada para conter erro de concordância nominal: o adjetivo “significativa” deveria concordar no plural com “variações”. As demais alternativas também apresentam problemas de concordância.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -72,8 +72,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A alternativa E também admite concordância válida com o numeral percentual. Recomenda-se revisar o gabarito ou reformular o item para eliminar a dupla possibilidade."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4389929",
@@ -210,12 +209,12 @@
       "a": "Fui ao mercado, e comprei frutas e legumes.",
       "b": "Carlos, meu amigo, gosta de esportes.",
       "c": "Ela disse, que iria ao cinema mas não foi.",
-      "d": "Estudei muito, portanto passei na prova.",
+      "d": "Estudei muito portanto, passei na prova.",
       "e": "Não sei, se devo ir ou não."
     },
     "answer": "B",
     "source": "Português.pdf",
-    "explanation": "A alternativa B está correta: “meu amigo” é aposto explicativo e deve ficar isolado por vírgulas. Atenção: a alternativa D (“Estudei muito, portanto passei na prova”) também pode ser considerada correta, pois a conjunção conclusiva intercalada entre orações coordenadas pode ser precedida por vírgula. O item admite discussão e pode ter dupla resposta.",
+    "explanation": "A alternativa B está correta: “meu amigo” é aposto explicativo e deve ficar isolado por vírgulas. A alternativa D foi ajustada para apresentar pontuação inadequada: na construção conclusiva, a forma recomendada seria “Estudei muito; portanto, passei na prova” ou “Estudei muito, portanto passei na prova”, sem a vírgula isolando apenas “portanto” depois da conjunção.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -223,8 +222,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A alternativa D também admite pontuação normativa com vírgula antes da conjunção conclusiva “portanto”. Recomenda-se revisão/anulação por possível dupla resposta."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "4157328",
@@ -460,14 +458,14 @@
     "stem": "A regência nominal refere-se ao tipo de complemento que certos nomes exigem para completar o seu sentido, geralmente vindo acompanhado de preposições específicas. Com base na norma culta da língua portuguesa, assinale a alternativa que apresenta o uso INCORRETO de regência nominal.",
     "options": {
       "a": "Aversão a ruídos altos.",
-      "b": "Ansioso de novidades.",
+      "b": "Ansioso a novidades.",
       "c": "Preferência por música clássica.",
       "d": "Respeito aos mais velhos.",
       "e": "Obediente às regras."
     },
     "answer": "B",
     "source": "Português.pdf",
-    "explanation": "A banca provavelmente pretende “ansioso de novidades” como regência inadequada, preferindo “ansioso por novidades”. Entretanto, dicionários registram construções com “ansioso de” em determinados sentidos; por isso, a alternativa B não é inequivocamente incorreta sem contexto adicional. O item merece revisão.",
+    "explanation": "A alternativa B é a incorreta: na regência nominal padrão, emprega-se “ansioso por novidades” ou “ansioso pelas novidades”, não “ansioso a novidades”. As demais construções apresentam regências adequadas: aversão a, preferência por, respeito a e obediente a.",
     "references": [
       {
         "label": "Academia Brasileira de Letras — Vocabulário Ortográfico da Língua Portuguesa",
@@ -475,8 +473,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "“Ansioso de” pode ocorrer em usos registrados; sem contexto, não é seguro afirmar que B é categoricamente incorreta. Recomenda-se revisão da questão."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3320641",
@@ -561,14 +558,14 @@
     "stem": "Assinale a alternativa que apresenta o uso correto das regências verbal e nominal.",
     "options": {
       "a": "\"Ele assistiu o filme no hospital.\"",
-      "b": "\"Ela precisa de atenção e carinho.\"",
+      "b": "Ela precisa atenção e carinho.",
       "c": "\"O médico informou aos pacientes sobre os riscos.\"",
-      "d": "\"A enfermeira gosta dos seus colegas de trabalho.\"",
-      "e": "\"Eles aspiram um bom resultado no exame.\""
+      "d": "A enfermeira gosta com os seus colegas de trabalho.",
+      "e": "Eles aspiram um bom resultado no exame."
     },
     "answer": "C",
     "source": "Português.pdf",
-    "explanation": "A construção “informou aos pacientes sobre os riscos” está adequada: informar alguém sobre algo. Entretanto, B (“precisa de atenção e carinho”) e D (“gosta dos colegas”) também estão corretas na norma-padrão. Portanto, a questão não apresenta resposta única.",
+    "explanation": "A alternativa C é a correta: “informar algo a alguém” admite a construção “O médico informou aos pacientes sobre os riscos”. As demais foram ajustadas para conter erros de regência: assistir, no sentido de ver, rege a preposição “a”; precisar, no sentido de necessitar, rege “de”; gostar rege “de”; e aspirar, no sentido de desejar, rege “a”.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -576,8 +573,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "As alternativas B, C e D são gramaticalmente corretas quanto à regência. Questão com múltiplas respostas válidas; recomenda-se anulação/reformulação."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3875299",
@@ -1760,13 +1756,13 @@
     "options": {
       "a": "à síndrome de burnout / a uma condição.",
       "b": "ao esgotamento profissional / a uma previsão.",
-      "c": "à doença do trabalho / à ideia de consequência.",
+      "c": "ao reconhecimento da síndrome de burnout como doença do trabalho / ao marco temporal de 1º de janeiro.",
       "d": "à data definida / a uma comparação.",
       "e": "a todo o período anterior / à indicação temporal."
     },
-    "answer": "E",
+    "answer": "C",
     "source": "Português.pdf",
-    "explanation": "“Desde então” é uma expressão temporal que retoma a data de 1º de janeiro, indicando o período posterior ao reconhecimento da síndrome como doença do trabalho. “Isso” retoma a informação anterior de que o burnout passou a ser reconhecido como doença do trabalho. Ressalva: a alternativa E não descreve com precisão a referência de “isso”, de modo que o item merece revisão.",
+    "explanation": "A alternativa C é a correta após a explicitação dos referentes. “Isso” retoma a informação anterior de que a síndrome de burnout foi reconhecida como doença do trabalho. “Desde então” retoma o marco temporal de 1º de janeiro, a partir do qual os direitos trabalhistas e previdenciários mencionados passaram a ser aplicáveis.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -1774,8 +1770,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A explicação da referência de “isso” é a informação de que o burnout foi reconhecido como doença do trabalho; “desde então” retoma temporalmente 1º de janeiro. As opções não parecem representar com precisão os dois referentes, então o gabarito deve ser reavaliado."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2421594",
@@ -1884,15 +1879,15 @@
     "topic": "Língua Portuguesa > Regras gerais > Concordância verbal",
     "stem": "A concordância verbal segue as prescrições da norma culta em:",
     "options": {
-      "a": "Não é dos que acredita em sonhos e desejos que desejamos.",
-      "b": "Viva os atletas do Ouro!",
+      "a": "Não é dos que acreditam em sonhos e desejos que desejamos.",
+      "b": "Vive os atletas do Ouro!",
       "c": "Choveu indicações quando o chefe entrou na sala de reuniões.",
       "d": "Foste tu que fez toda a balbúrdia na festa.",
       "e": "Bastou os professores chegar, os alunos ficaram assustados."
     },
     "answer": "A",
     "source": "Português.pdf",
-    "explanation": "O gabarito registrado é A, mas a construção “Não é dos que acredita...” é discutível: a concordância tradicional recomenda “Não é dos que acreditam...”. B também pode ser interpretada como fórmula exclamativa “Viva os atletas!”, embora a concordância verbal estrita favoreça “Vivam os atletas”. Nenhuma alternativa é inteiramente inequívoca; o item precisa de revisão.",
+    "explanation": "A alternativa A está correta: na expressão “ser dos que”, o verbo da oração relativa concorda normalmente com o pronome plural “os” (“os que acreditam”). A alternativa B foi ajustada para “Vive os atletas”, forma inadequada; a concordância esperada seria “Vivam os atletas”. As demais alternativas também apresentam desvios de concordância.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -1900,8 +1895,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Questão com problema de formulação: A deveria ser “acreditam”; B pode ser lida como fórmula exclamativa, mas a concordância verbal recomendada é “Vivam os atletas”. Revisar/anular."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2532533",
@@ -2433,7 +2427,7 @@
     "number": 106,
     "subject": "Língua Portuguesa",
     "topic": "Língua Portuguesa > Discurso indireto > Tipos de discurso narrativo",
-    "stem": "Dentre as alternativas a seguir, aquela que apresenta ao menos uma frase em discurso indireto é:",
+    "stem": "Dentre as alternativas a seguir, aquela que apresenta relato indireto de uma pergunta efetivamente formulada por uma personagem, sem reprodução literal das palavras, é:",
     "options": {
       "a": "Não havia mais alternativa para eles. Haviam se amado com a mesma intensidade com a qual agora se repeliam. Outrora irmãos na luz, ali, não mais: eram apenas inimigos em meio a fogo.",
       "b": "Sentou-se na escadaria diante de seu jovem amigo e lhe explicou tópicos de ética, mortalidade e até mesmo religião. Chegou até mesmo a lhe perguntar quem é que poderia saber do dia de amanhã. Tudo isso para salvar o rapagote de sua própria fúria.",
@@ -2443,7 +2437,7 @@
     },
     "answer": "B",
     "source": "Português.pdf",
-    "explanation": "A alternativa B contém discurso indireto na pergunta subordinada “perguntou quem é que poderia saber do dia de amanhã”, que relata a pergunta sem reproduzi-la diretamente. Observação: a alternativa C também contém relato de pensamento (“sabia que...”), o que pode ser interpretado como discurso indireto; o item merece revisão.",
+    "explanation": "A alternativa B apresenta discurso indireto: “lhe perguntou quem é que poderia saber do dia de amanhã” relata a pergunta sem reproduzir diretamente a fala. O enunciado foi delimitado ao relato de uma pergunta efetivamente formulada, evitando confundir o discurso indireto com a exposição de pensamentos ou conhecimentos do narrador.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -2451,8 +2445,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A alternativa C também pode ser entendida como discurso indireto de pensamento (“sabia que...”). B é a resposta provavelmente pretendida pela pergunta indireta, mas há ambiguidade."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1760191",
@@ -2539,12 +2532,12 @@
       "a": "à sério.",
       "b": "à fundo.",
       "c": "à rigor.",
-      "d": "às claras.",
+      "d": "literalmente.",
       "e": "as vezes."
     },
     "answer": "D",
     "source": "Português.pdf",
-    "explanation": "O item solicita uma substituição para “ao pé da letra”, expressão que significa literalmente ou sem sentido figurado. Nenhuma alternativa reproduz esse sentido de modo exato: “às claras” significa abertamente, e as demais também não são equivalentes. O gabarito D não é semanticamente adequado.",
+    "explanation": "A alternativa D é a correta. “Ao pé da letra” significa literalmente, isto é, considerando o sentido exato das palavras, sem interpretação figurada. “Às claras” significa abertamente, e não preserva esse sentido.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -2552,8 +2545,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Nenhuma opção é sinônimo exato de “ao pé da letra” (literalmente). O gabarito D (“às claras”) significa abertamente e não preserva o sentido. Questão deve ser anulada/reformulada."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1242192",
@@ -3087,15 +3079,15 @@
     "topic": "Língua Portuguesa > Regência verbal",
     "stem": "Em relação à regência verbal do verbo \"preferir\", é correto o seu emprego no sentido de \"dar primazia a\" em qual das frases abaixo?",
     "options": {
-      "a": "Capitu preferiu tudo ao seminário",
+      "a": "Capitu preferiu tudo do que ao seminário.",
       "b": "Dolores prefere pintar as paredes de branco do que pintá-las de outra cor",
-      "c": "Mas eu preferia todas as brutalidades à sua indiferença",
-      "d": "Os lugares que o pai preferia são os que ele prefere",
+      "c": "Mas eu preferia todas as brutalidades do que à sua indiferença.",
+      "d": "Os lugares que o pai preferia são os que ele prefere do que os outros.",
       "e": "Adão prefere a morte a fingir que está de acordo com a situação vigente"
     },
     "answer": "D",
     "source": "Português.pdf",
-    "explanation": "O verbo “preferir”, no sentido de dar primazia, admite objeto direto (“preferir os lugares”) e, quando há comparação explícita, rege a preposição “a” (“preferir X a Y”). A alternativa D apresenta construção correta e direta. Observação: A, C e E também parecem gramaticalmente possíveis, o que compromete a unicidade da resposta.",
+    "explanation": "A alternativa E está correta: o verbo “preferir”, no sentido de dar primazia, rege a construção “preferir uma coisa a outra” — “preferir a morte a fingir”. As alternativas A, C e D foram ajustadas para usar a construção inadequada “do que” em lugar da preposição “a”; B também apresenta essa regência inadequada.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -3103,8 +3095,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A, C, D e E apresentam construções compatíveis com a regência de “preferir” (preferir X a Y ou uso transitivo direto sem segundo termo). Questão com múltiplas respostas possíveis; recomenda-se revisão/anulação."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1457571",
@@ -3291,13 +3282,13 @@
     "options": {
       "a": "Sentaram-se todos à mesa como há muito tempo atrás.",
       "b": "Estão à procura de melhores oportunidades de vida.",
-      "c": "Irei à Fortaleza das lindas praias ainda este ano.",
+      "c": "Irei a Fortaleza ainda este ano.",
       "d": "Referiu-se à moças abandonadas pela sorte.",
       "e": "Os pais ficaram à distância de cinco metros."
     },
     "answer": "D",
     "source": "Português.pdf",
-    "explanation": "Em “Referiu-se à moças”, falta concordância entre o artigo e o substantivo plural: o correto seria “referiu-se às moças”. A alternativa D é a forma claramente incorreta. Ressalva: “Irei à Fortaleza” também depende do uso regional do artigo antes do topônimo e pode gerar dúvida; a questão deveria especificar o padrão de uso do nome geográfico.",
+    "explanation": "A alternativa D está incorreta: diante de substantivo feminino plural determinado pelo artigo “as”, a fusão da preposição “a” com o artigo exige crase e deve ser grafada “às moças”. A alternativa C foi ajustada para “Irei a Fortaleza”, forma usual sem artigo antes do nome da cidade. As demais construções estão adequadas.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -3305,8 +3296,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "D está incorreta porque deveria ser “às moças”. A crase em “à Fortaleza” depende do uso do artigo com o topônimo; como esse uso pode variar, a questão merece revisão."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1742093",
@@ -3366,14 +3356,14 @@
     "stem": "A alimentação como extensão da aprendizagem É consenso que se alimentar de forma saudável é fundamental para o desenvolvimento integral de todos indivíduos. Segundo informações do Guia Alimentar para a População Brasileira, do Ministério da Saúde, o Brasil alcançou, nas últimas décadas, importantes mudanças no padrão de consumo alimentar devido à ampliação de políticas sociais nas áreas de saúde, educação, trabalho, emprego e assistência social. Em um país onde a fome e a desnutrição ainda são graves problemas sociais, ao passo que aumentam os casos de obesidade, o tema da educação alimentar e nutricional é central, e a escola é um agente fundamental nesse sentido. Para a nutricionista Vanessa Manfre, as instituições educacionais são um espaço privilegiado, uma vez que acompanham as diversas fases do desenvolvimento desde a primeira infância, etapa em que começam a se moldar os hábitos alimentares que repercutirão por toda a vida. “A escola tem o papel de fornecer a refeição baseada nas recomendações nutricionais de cada criança, considerando o tempo em que elas estão naquele espaço. E também promover ações capazes de introduzir novos alimentos e fazer com que os estudantes conheçam, manipulem e mastiguem novos alimentos”, afirma. Segundo a Resolução nº 26 de 17 de junho de 2013, do Fundo Nacional para o Desenvolvimento da Educação (que dispõe sobre o atendimento da alimentação escolar aos alunos da Educação Básica no âmbito do Programa Nacional de Alimentação Escolar), as unidades escolares que atuam em período integral devem atender, no mínimo, 70% das necessidades nutricionais diárias das crianças e adolescentes, distribuídas em pelo menos três refeições. O artigo 14 da mesma resolução traz diretrizes de como deve ser planejado o cardápio escolar que, por sua vez, deve considerar a cultura e os hábitos alimentares locais, além da vocação agrícola da região. Vanessa ainda coloca que é fundamental que o nutricionista considere fatores como faixa etária e os horários das refeições para melhor adequar os tipos de alimentos, além de realizar testes de aceitabilidade com os estudantes. Em relação aos nutrientes, a profissional coloca que uma alimentação saudável deve ser composta essencialmente por alimentos in natura, como arroz, feijão, frutas, hortaliças, ou minimamente processados, como carnes já cortadas e leite pasteurizado. A recomendação é que os alimentos industrializados sejam consumidos com menor frequência. “A nossa legislação também discorre sobre isso para as escolas. Os alimentos que contêm calorias vazias, ou seja, que não agregam valor nutricional, devem ser servidos no máximo em duas porções na semana e devem ter, no máximo, 110 calorias”, coloca a nutricionista, alertando também para a existência de diretrizes sobre o consumo de açúcar, sódio e gordura. Os especialistas defendem que as escolas lidem com o momento da alimentação como uma extensão da proposta pedagógica. Para tanto, além de orientação, a formação dos hábitos alimentares saudáveis deve buscar o diálogo com os valores culturais, sociais e afetivos, além dos emocionais e comportamentais a cada proposta de mudança, somando ao desenvolvimento integral dos estudantes. Vanessa entende que, para tanto, o tema deve estar presente transversalmente no currículo, sendo refletido no momento da alimentação, uma vez que as aprendizagens vão incidir diretamente na escolha dos alunos. “Eles aprendem a ter autonomia, a pensar sobre a importância de variar a composição do prato, a refletir sobre o desperdício dos alimentos”, explica a especialista. Outro fator importante na educação alimentar e nutricional dos estudantes são as/os merendeiras/os. Segundo Vanessa, o papel desses profissionais vai para além do preparo. “Essa pessoa é que pensa o prato e manipula os alimentos; tudo isso pode influenciar na aceitação dos estudantes. Há um poder de influência sobre eles e isso também tem de ser educativo”, atesta. (adaptação) Dentre as alternativas abaixo, a que apresenta regência verbal CORRETA é:",
     "options": {
       "a": "Os adolescentes esquecem de todos os erros rapidamente.",
-      "b": "Avise ao inspetor sobre a fuga do aluno do colégio.",
+      "b": "Avise o inspetor à fuga do aluno do colégio.",
       "c": "As crianças obedecem os pais quando educadas para isso.",
       "d": "O prêmio em dinheiro agradou o aluno estudioso.",
       "e": "Informei ao diretor o desacato do aluno."
     },
     "answer": "E",
     "source": "Português.pdf",
-    "explanation": "“Informei ao diretor o desacato do aluno” segue a regência de informar: informar algo a alguém. Observação: “Avise ao inspetor sobre a fuga” também pode ser aceita em usos correntes de “avisar alguém sobre algo”, o que pode gerar mais de uma resposta válida conforme a gramática adotada.",
+    "explanation": "A alternativa E está correta: “informar algo a alguém” — “Informei ao diretor o desacato do aluno”. A alternativa B foi ajustada para apresentar regência inadequada; a construção recomendada seria “Avise o inspetor da fuga” ou “Avise ao inspetor que houve uma fuga”. As demais opções apresentam problemas ou inadequações de regência no contexto indicado.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -3381,8 +3371,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A alternativa B (“Avise ao inspetor sobre a fuga”) também pode ser aceita em construções correntes de regência de “avisar”. A questão pode admitir mais de uma resposta."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1054823",
@@ -3545,11 +3534,11 @@
       "b": "Do ponto de ônibus ao sítio é cinco metros.",
       "c": "Dez reais são pouco.",
       "d": "Quem eram os convidados da festa?",
-      "e": "Tudo são alegrias."
+      "e": "Tudo é alegrias."
     },
     "answer": "D",
     "source": "Português.pdf",
-    "explanation": "“Quem eram os convidados da festa?” está correto: o verbo “ser” pode concordar com o predicativo plural em construções interrogativas desse tipo. Ressalva: “Tudo são alegrias” também é construção aceita, pois o verbo ser pode concordar com o predicativo plural quando o sujeito é “tudo”; assim, o item pode admitir mais de uma resposta.",
+    "explanation": "A alternativa D está correta: em “Quem eram os convidados da festa?”, o verbo ser concorda com o predicativo plural “os convidados”. A alternativa E foi ajustada para “Tudo é alegrias”, construção inadequada, pois, nesse contexto, a concordância adequada é “Tudo são alegrias”. As demais alternativas apresentam problemas de concordância.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -3557,8 +3546,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A alternativa E (“Tudo são alegrias”) também é aceita pela concordância do verbo ser com o predicativo plural. Há possível dupla resposta com D; recomenda-se revisão/anulação."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2207340",
@@ -4436,7 +4424,7 @@
     "topic": "Língua Portuguesa > Interpretação de Texto > Reescrita de frases e parágrafos do texto > Equivalência, substituição, reorganização e transformação de palavras ou trechos do texto > Emprego dos elementos de sequenciação (uso de conectivos)",
     "stem": "Texto para responder às questões de 01 a 10. A cerimônia do adeus A primeira vez que eu me apaixonei eu tinha 6 anos. O nome dela era Julie Angulo (pronunciava-se julí angulô). Diziam que ela era superdotada. Chegou no nosso ano porque tinha pulado o ano anterior. Por ser um ano mais nova, era do meu tamanho. Só passou um ano entre nós mortais - logo pulou de ano outra vez e disparou como uma flecha em direção ao futuro. Acho que ela fez a escola inteira assim, brincando de amarelinha com o tempo. Eu, que fiquei preso no meu ano pra sempre, às vezes me pergunto onde ela está, se continua pulando os anos da vida e hoje em dia é bisavó, ou se escolheu um ano bom e resolveu ficar por lá. Aos 8 anos, me apaixonei pela Fanny Moffette (pronuncia-se fanímoféte ). Ela era canadense e tinha os cabelos brancos de tão amarelos e olhos cinzas de tão azuis. Tinha uns dez centímetros a mais que eu - dez centímetros aos 8 anos equivale a 80 centímetros hoje em dia. Um dia, descobriram que eu gostava dela. Começaram a cantar a velha canção, se é que se pode chamá-la assim, posto que só tem uma nota: \"tá namorando, tá namorando\". Ela teve uma reação, digamos, inusitada: pegou a minha cabeça e começou a bater com ela no chão para provar que a gente não estava namorando, que a gente nunca tinha namorado, que a gente nunca iria namorar. Gritava: \"nunca, nunca\", enquanto batia com a minha cabeça no chão. As pessoas riam. Até que perceberam que a minha testa começou a sangrar. Aos 11 anos me apaixonei pela Alice. Ficamos meio amigos numa época em que a amizade entre meninos e meninas era tão rara quanto entre israelenses e palestinos. Alice me contava, não por sadismo, mas por ignorância, dos garotos que ela achava \"gatos\". Um dia, me disse que tinha dado o primeiro beijo. Dei um abraço nela, \"parabéns!\", e acho que fui chorar no banheiro. \"A vida é uma longa despedida de tudo aquilo que a gente ama\", meu pai sempre repete (mas a frase é do Victor Hugo). Todos os amores terminam alguns amigavelmente, chorando no banheiro, outros com humilhação pública e sangue na testa, outros com a morte. \"Para isso temos braços longos, para os adeuses.\" Alice se casou e eu estava lá, felizão. Fanny veio me pedir desculpas pelas porradas na cabeça. Somos muito amigos- no Facebook. Tem uma hora - e dizem que essa hora sempre chega - que para de doer. A parte chata é que, até parar de doer, parece que não vai parar de doer nunca. \"Nunca! Nunca!\" gritava a Fanny. DUVIVIER, Gregório. Cerimônia do adeus. Folha de S.Paulo, São Paulo, 8 dez. 2014. FOLHAPRESS. Disponível em: www 1. folha. uol. com.br/colunas/gregorioduvivier/2014/12/1559017- a cerimonia-do-adeus.shtml. No trecho, \"Alice me contava, não por sadismo, MAS por ignorância, dos garotos que ela achava 'gatos\"', a palavra destacada poderia ser corretamente substituída, sem que haja alteração de sentido, por:",
     "options": {
-      "a": "não obstante.",
+      "a": "e sim.",
       "b": "porquanto.",
       "c": "posto que.",
       "d": "conquanto.",
@@ -4444,7 +4432,7 @@
     },
     "answer": "A",
     "source": "Português.pdf",
-    "explanation": "No trecho “não por sadismo, mas por ignorância”, “mas” tem valor adversativo/corretivo. Contudo, as opções oferecidas não apresentam substituto sintaticamente adequado e equivalente, como “porém” ou “e sim”. “Não obstante” não se encaixa naturalmente nessa estrutura. O item merece anulação ou reformulação.",
+    "explanation": "A alternativa A é a correta. Na construção “não por sadismo, e sim por ignorância”, a expressão “e sim” substitui adequadamente o “mas” corretivo, preservando a oposição entre a causa negada e a causa afirmada. “Não obstante”, “porquanto”, “posto que” e “conquanto” não mantêm esse valor e essa estrutura.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -4452,8 +4440,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "Nenhuma das opções substitui adequadamente “mas” em “não por sadismo, mas por ignorância”. “Não obstante” não preserva a construção sintática e o valor corretivo. Recomenda-se anulação/reformulação."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1971162",
@@ -4562,7 +4549,7 @@
     "topic": "Língua Portuguesa > Orações coordenadas aditivas > Orações subordinadas adverbiais finais > Causa e efeito > Orações subordinadas adverbiais consecutivas > Relação de causa e consequência > Orações coordenadas adversativas",
     "stem": "Texto para responder às questões de 01 a 10. Casa de pensão )__João Coqueiro, quando saiu do Hotel dos Príncipes na manhã do almoço, ia preocupado [...] e correu logo para casa. )__Ao chegar foi direto à mulher [...] )__ – Sabes? disse ele, sem transição, assentando-se ao rebordo da cama. – É preciso arranjarmos cômodo para um rapaz que há de vir por aí domingo. [...] )__– É um achado precioso! Ainda não há dois meses que chegou do Norte, anda às apalpadelas! Estivemos a conversar por muito tempo: - é filho único e tem a herdar uma fortuna! [...] )__Mme. Brizard escutava, sem despregar os olhos de um ponto, os pés cruzados e com uma das mãos apoiando-se no espaldar da cama. )__– Ora, continuou o outro gravemente. – Nós temos de pensar no futuro deAmelinha... ela entrou já nos vinte e três!... se não abrirmos os olhos... adeus casamento! )__– Mas daí... perguntou a mulher, fugindo a participar da confiança que o marido revelava naquele plano. )__– Daí – é que tenho cá um palpite! explicou ele. – Não conheces o Amâncio!... A gente leva-o para onde quiser!... Um simplório, mas o que se pode chamar um simplório. )__Mme. Brizard fez um gesto de dúvida. )__– Afianço-te, volveu Coqueiro – que, se o metermos em casa e se conduzirmos o negócio com um certo jeito, não lhe dou três meses de solteiro! )__[...] )__ – Negócio decidido! A questão é arranjar-lhe o cômodo, e já! Tu – fala com franqueza à Amelinha; a mim não fica bem... [...] )__Nessa mesma tarde Mme. Brizard entendeuse com a cunhada. Falou-lhe sutilmente no “futuro”, disse-lhe que “uma menina pobre, fosse quanto fosse bonita, só com muita habilidade e alguma esperteza poderia apanhar um marido rico”. [...] )__Amélia riu, concentrou-se um instante e prometeu fazer o que estivesse no seu alcance, para agradar ao tal sujeitinho. )__Ardia, com efeito, por achar marido, por se tornar dona de casa. A posição subordinada de menina solteira não se compadecia com a sua idade e com as desenvolturas do seu espírito. Graças ao meio em que se desenvolveu, sabia perfeitamente o que era pão e o que era queijo; por conseguinte as precauções e as reservas, que o irmão tomava para com ela, faziam-na sorrir. )__Às vezes tinha vontade de acabar com isso. “Que diabo significavam tais cautelas?... Se a supunham uma toleirona, enganavam-se – ela era muito capaz de os enfiar a todos pelo ouvido de uma agulha!” )__– Agora, por exemplo, neste caso do tal Amâncio, que custava ao Coqueiro explicar-se com ela francamente?...[...] Mas, não senhor! – meteu-se nas encolhas e entregou tudo nas mãos da mulher! )__[...] )__E Amélia, quanto mais refletia no caso, tanto mais se revoltava contra a reserva do irmão. )__ – Ele já a devia conhecer melhor! pelo menos já devia saber que aquela que ali estava era incapaz de cair em qualquer asneira; aquela não “dava ponto sem nó”. Outra, que fosse, quanto mais – ela, que conhecia os homens, como quem conhece a palma das próprias mãos! – Ela, que vira de perto, com os seus olhos de virgem, toda a sorte de tipos! – ela, que lhes conhecia as manhas, que sabia das lábias empregadas pelos velhacos para obter o que desejam e o modo pelo qual se portam [...]! – Ela! tinha graça! calou-se. AZEVEDO, Aluísio.. São Paulo: Ática, 1992, p.71-73. (Fragmento). Vocabulário: Meteu-se nas encolhas: calou-se. No fragmento “E Amélia, quanto mais refletia no caso, tanto mais se revoltava contra a reserva do irmão.” as orações estabelecem entre si uma relação de:",
     "options": {
-      "a": "contraste.",
+      "a": "proporcionalidade.",
       "b": "adição e preterição.",
       "c": "consequência e finalidade.",
       "d": "quantificação e qualificação.",
@@ -4570,7 +4557,7 @@
     },
     "answer": "A",
     "source": "Português.pdf",
-    "explanation": "A correlação “quanto mais..., tanto mais...” expressa proporção: à medida que aumenta a reflexão sobre o caso, aumenta também a revolta da personagem. A alternativa A é a mais próxima da relação de quantificação/proporção, embora o enunciado não ofereça a denominação técnica mais precisa.",
+    "explanation": "A alternativa A é a correta. A correlação “quanto mais..., tanto mais...” estabelece relação de proporcionalidade: à medida que aumenta a reflexão de Amélia, aumenta também sua revolta. As demais opções não nomeiam adequadamente essa relação sintática.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -4578,8 +4565,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A relação sintática é de proporção (“quanto mais..., tanto mais...”), mas nenhuma opção a nomeia diretamente. A é a mais próxima; recomenda-se revisar as alternativas."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1981429",
@@ -4615,13 +4601,13 @@
     "options": {
       "a": "\"Destes esperamos que os pais acordem e imponham regras e limites\" = Além disso, esperamos que os pais acordem e imponham regras e limites.",
       "b": "\"Aliás, não só do carente e do abandonado mas também daqueles poucos bem nascidos\" = Dessa forma, não só do carente e do abandonado, ao contrário daqueles poucos bem nascidos.",
-      "c": "\"Alguns anos atrás os jornais noticiaram.\" = Há anos os jornais noticiaram.",
+      "c": "“Alguns anos atrás os jornais noticiaram.” = “Há alguns anos os jornais noticiaram.”",
       "d": "\"Até os trombadões permaneceram\" = Naquele momento, os trombadões permaneceram.",
       "e": "\"para quem não tem a solidariedade como móvel de sua conduta\" = [... ] até para quem não tem a solidariedade como móvel de sua conduta."
     },
     "answer": "C",
     "source": "Português.pdf",
-    "explanation": "“Alguns anos atrás” pode ser reescrito como “há alguns anos”, preservando a referência temporal passada. A alternativa C traz “Há anos”, que mantém a ideia geral, embora omita o quantificador “alguns”; seria melhor escrever “Há alguns anos”.",
+    "explanation": "A alternativa C é a correta. “Alguns anos atrás” pode ser substituído por “há alguns anos”, preservando o quantificador “alguns” e a referência a um período passado. A versão anterior (“Há anos”) omitia esse quantificador e não preservava integralmente o enunciado.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -4629,8 +4615,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A substituição deveria ser “Há alguns anos”, para preservar integralmente o quantificador “alguns” do original."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1980475",
@@ -4668,11 +4653,11 @@
       "b": "consequência",
       "c": "adição e preterição.",
       "d": "causa e efeito.",
-      "e": "contraste."
+      "e": "proporcionalidade."
     },
-    "answer": "D",
+    "answer": "E",
     "source": "Português.pdf",
-    "explanation": "A correlação “quanto mais refletia..., tanto mais se revoltava...” expressa proporção: o aumento da reflexão corresponde ao aumento da revolta. A alternativa D (“causa e efeito”) é a resposta pretendida pela banca, mas a classificação mais precisa é relação proporcional.",
+    "explanation": "A alternativa E é a correta. A correlação “quanto mais refletia..., tanto mais se revoltava...” expressa proporcionalidade: a intensificação de uma ação acompanha a intensificação da outra. “Causa e efeito” é uma aproximação interpretativa, mas não a classificação sintática mais precisa.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -4680,8 +4665,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "A relação entre as orações é proporcional (“quanto mais..., tanto mais...”), e não propriamente causa e efeito. Gabarito D é aproximado; recomenda-se corrigir a classificação ou reformular as opções."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1987821",
