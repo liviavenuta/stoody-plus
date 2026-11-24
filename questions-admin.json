@@ -5803,7 +5803,28 @@
       "e": "autotutela."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — impessoalidade.** O princípio exige tratamento objetivo e igualitário dos administrados que se encontrem em situações jurídicas equivalentes, sem favorecimentos ou perseguições pessoais.\n\n- **A) Legalidade — incorreta:** exige conformidade com a lei e o ordenamento.\n- **B) Impessoalidade — correta:** impede discriminações arbitrárias e direciona a atuação à finalidade pública.\n- **C) Publicidade — incorreta:** assegura transparência e divulgação dos atos.\n- **D) Eficiência — incorreta:** relaciona-se à qualidade dos resultados e ao uso adequado dos recursos.\n- **E) Autotutela — incorreta:** refere-se à revisão dos próprios atos pela Administração.\n\n**Dica:** igualdade de tratamento entre pessoas em situação equivalente é manifestação clássica da impessoalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "446820",
@@ -5820,7 +5841,28 @@
       "e": "indisponibilidade."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — impessoalidade.** Favorecer determinada empresa por meio de ato administrativo significa direcionar a atuação pública a um interesse privado específico, em vez de observar critérios objetivos e a finalidade pública. Isso viola especialmente a impessoalidade e pode também afetar moralidade, legalidade e regras de contratação.\n\n- **A) Motivação — incorreta como resposta principal:** motivação exige exposição dos fundamentos da decisão; o enunciado destaca o favorecimento.\n- **B) Impessoalidade — correta:** veda favoritismo e direcionamento.\n- **C) Autotutela — incorreta:** trata da revisão dos próprios atos administrativos.\n- **D) Publicidade — incorreta:** refere-se à transparência, não ao favorecimento em si.\n- **E) Indisponibilidade — incorreta como resposta principal:** a Administração não pode dispor livremente do interesse público, mas o vício descrito aponta diretamente para impessoalidade.\n\n**Dica:** favorecer uma empresa ou pessoa determinada é sinal de violação à impessoalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "573878",
@@ -5837,7 +5879,28 @@
       "e": "o agente público pode fazer tudo aquilo que a lei autorize."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito cadastrado: A.** A alternativa apresenta a formulação tradicional da legalidade administrativa: o agente público deve cumprir as determinações jurídicas e atuar dentro das competências e limites definidos pelo ordenamento.\n\n- **A) Correta segundo o gabarito:** expressa o dever de cumprir as determinações legais.\n- **B) Incorreta:** a lei não é mera sugestão.\n- **C) Incorreta:** a Administração não atua com base em sugestões legislativas.\n- **D) Incorreta:** “fazer tudo o que a lei não proíbe” é a formulação tradicional da liberdade dos particulares, não da Administração.\n- **E) Também expressa uma ideia verdadeira de legalidade:** a Administração só pode agir quando houver autorização jurídica. Por isso, a alternativa é muito próxima do conceito correto.\n\n**Ressalva sobre o item:** A e E são semanticamente compatíveis com a legalidade administrativa, embora A reproduza a formulação mais direta de que o agente deve cumprir o que a lei determina. A presença de E torna a questão menos precisa; mantive o gabarito cadastrado sem ocultar a proximidade entre as alternativas.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "566812",
@@ -5854,7 +5917,28 @@
       "e": "eficiência."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — moralidade.** O enunciado descreve conduta proba e respeito a preceitos éticos por quem representa a Administração Pública. Isso corresponde à moralidade administrativa, prevista expressamente no art. 37, caput.\n\n- **A) Moralidade — correta:** exige honestidade, probidade, lealdade e boa-fé.\n- **B) Impessoalidade — incorreta:** veda favorecimentos e perseguições.\n- **C) Legalidade — incorreta:** exige conformidade com o ordenamento.\n- **D) Publicidade — incorreta:** assegura transparência e divulgação dos atos.\n- **E) Eficiência — incorreta:** relaciona-se a desempenho, qualidade e resultados.\n\n**Dica:** conduta proba e ética indica moralidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "574371",
@@ -5871,7 +5955,28 @@
       "e": "Legalidade"
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A — impessoalidade.** A finalidade do ato administrativo deve ser sempre a finalidade pública definida pelo ordenamento. A impessoalidade exige que o agente não use a competência para atender interesses pessoais ou beneficiar determinados indivíduos; o ato deve perseguir o fim legal e coletivo.\n\n- **A) Impessoalidade — correta:** vincula a atuação à finalidade pública e afasta interesses particulares.\n- **B) Publicidade — incorreta:** refere-se à transparência e divulgação.\n- **C) Moralidade — incorreta:** exige padrões éticos e probidade, embora possa ser afetada por desvio de finalidade.\n- **D) Eficiência — incorreta:** trata de qualidade e resultados.\n- **E) Legalidade — incorreta como resposta pretendida:** a finalidade também é elemento vinculado à legalidade, mas, entre os princípios expressos do art. 37, a associação doutrinária específica entre finalidade pública e impessoalidade é a resposta esperada.\n\n**Dica:** desvio de finalidade é vício relacionado à busca de fim diverso daquele previsto na norma, frequentemente conectado à impessoalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "573750",
@@ -5888,7 +5993,28 @@
       "e": "Impessoalidade - atribuir as obras públicas realizadas ao cargo público desempenhado e não ao ocupante desse mesmo cargo"
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — impessoalidade.** A alternativa descreve a atribuição das obras públicas à instituição ou ao cargo público, e não à pessoa que temporariamente o ocupa. Essa é uma manifestação da impessoalidade e se conecta à vedação de promoção pessoal do art. 37, § 1º.\n\n- **A) Incorreta:** publicidade não significa divulgação irrestrita de todos os atos sem exceções; há sigilos e proteções legais.\n- **B) Incorreta:** moralidade administrativa não se reduz a aparência, vestuário ou estética do agente; envolve probidade e ética na atuação.\n- **C) Incorreta:** motivação deve apresentar fundamentos de fato e de direito, quando exigida; não basta indicar apenas fatos.\n- **D) Incorreta:** descreve controle finalístico/tutela sobre entidades da Administração indireta, não autotutela. Autotutela é o controle que a Administração exerce sobre os próprios atos.\n- **E) Correta:** a obra é atribuída à instituição pública, não ao ocupante do cargo.\n\n**Dica:** obras, campanhas e serviços públicos não pertencem ao governante ou servidor; pertencem à Administração e devem ser divulgados sem promoção pessoal.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "573748",
@@ -5905,7 +6031,28 @@
       "e": "Só se pode falar em Administração Pública quando se tratar do Poder Executivo."
     },
     "answer": "A",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: A.** Divulgar o preço da contratação de uma obra pública licitada está relacionado ao princípio da publicidade, pois permite que a sociedade conheça os atos e fiscalize a aplicação dos recursos públicos.\n\n- **A) Correta:** transparência sobre o preço contratado é manifestação da publicidade.\n- **B) Incorreta:** eficiência aplica-se à Administração Pública em todos os entes e Poderes, conforme o art. 37.\n- **C) Incorreta:** princípios orientam tanto a estrutura quanto o funcionamento e a atuação administrativa.\n- **D) Incorreta:** moralidade não se confunde com vestuário ou aparência pessoal do servidor.\n- **E) Incorreta:** Administração Pública não se limita ao Poder Executivo; há atividade administrativa nos Poderes Legislativo e Judiciário.\n\n**Dica:** publicidade permite controle social de contratos, despesas, licitações e demais atos públicos, respeitadas as exceções legais.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "295693",
@@ -5922,7 +6069,28 @@
       "e": "eficiência."
     },
     "answer": "B",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: B — legalidade.** O Estado de Direito caracteriza-se pela submissão do próprio poder estatal ao Direito. A legalidade administrativa impede que a Administração atue por vontade arbitrária dos agentes e exige fundamento jurídico para o exercício de suas competências.\n\n- **A) Impessoalidade — incorreta:** exige objetividade e ausência de favorecimento.\n- **B) Legalidade — correta:** é elemento central do Estado de Direito e submete a Administração ao ordenamento.\n- **C) Moralidade — incorreta:** exige probidade e ética.\n- **D) Publicidade — incorreta:** assegura transparência.\n- **E) Eficiência — incorreta:** orienta qualidade e resultados da atuação administrativa.\n\n**Dica:** Estado de Direito e submissão do poder estatal ao ordenamento apontam para legalidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "201624",
@@ -5939,7 +6107,28 @@
       "e": "pessoalidade e moralidade."
     },
     "answer": "C",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: C — publicidade e impessoalidade.** Ambos são princípios expressos no caput do art. 37 da Constituição.\n\n- **A) Finalidade e imperatividade — incorreta:** finalidade é princípio/elemento relevante do ato administrativo, mas imperatividade é atributo de determinados atos.\n- **B) Formalidade e legalidade — incorreta:** legalidade é princípio expresso, mas formalidade não substitui outro princípio do rol.\n- **C) Publicidade e impessoalidade — correta:** ambos integram expressamente o art. 37.\n- **D) Moralidade e eventualidade — incorreta:** moralidade é princípio expresso, mas eventualidade não integra o rol.\n- **E) Pessoalidade e moralidade — incorreta:** pessoalidade contraria a impessoalidade e não é princípio constitucional expresso.\n\n**Dica:** a questão pede apenas dois exemplos; não é necessário que a alternativa traga os cinco princípios do LIMPE.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "254910",
@@ -5956,7 +6145,28 @@
       "e": "moralidade"
     },
     "answer": "E",
-    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf"
+    "source": "Noções de Administração Pública, Atendimento e Ética (Médio) para IPAM.pdf",
+    "explanation": "**Gabarito: E — moralidade.** O enunciado afirma que não basta cumprir a legalidade estrita: o agente também deve observar ética, razoabilidade, justiça, honestidade e boa administração. A referência principal é o princípio da moralidade administrativa.\n\n- **A) Legitimidade — incorreta:** não é a denominação do princípio descrito.\n- **B) Eficiência — incorreta:** trata de qualidade, produtividade e resultados.\n- **C) Judicialidade — incorreta:** não corresponde ao princípio ético descrito.\n- **D) Economia — incorreta:** refere-se à utilização econômica dos recursos, não à probidade e à honestidade.\n- **E) Moralidade — correta:** exige padrões éticos, honestidade, boa-fé e probidade.\n\n**Dica:** quando o enunciado diz que legalidade não basta e acrescenta honestidade e ética, pense em moralidade.",
+    "references": [
+      {
+        "label": "Constituição Federal de 1988 — arts. 5º e 37 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm"
+      },
+      {
+        "label": "Lei nº 9.784/1999 — art. 2º e art. 50 (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+        "label": "Lei nº 12.527/2011 — Lei de Acesso à Informação (Planalto)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+        "label": "STF — Constituição e o Supremo, art. 37",
+        "url": "https://portal.stf.jus.br/Constituicao-Supremo/artigo.asp?abrirArtigo=37&abrirBase=CF"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "122604",
