@@ -2919,7 +2919,16 @@
       "e": "O patrão pagou ao empregado o 13º salário."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O verbo “assistir”, no sentido de ver ou presenciar, rege a preposição “a”: “assistimos ao jogo”. A forma “não lhe assistimos” não atende a essa regência no padrão cobrado; o adequado seria “não assistimos ao jogo”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1443455",
@@ -2935,7 +2944,16 @@
       "e": "A ideia de deus foi privatizada, porém cada um tem o seu, à sua imagem e semelhança, conquanto não professe religião nenhuma."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A reescrita D preserva a relação concessiva de “mesmo sem professar religião nenhuma” por meio de “mesmo que não professe religião alguma”. As demais opções alteram a relação lógica, sobretudo ao introduzir condição ou oposição.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1191456",
@@ -2951,7 +2969,16 @@
       "e": "Desejo que vós, a senhora, seu marido e os moleques, recebam este abraço absolutamente real."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O sujeito composto inclui “vós” e termos de terceira pessoa (“a senhora, seu marido e os moleques”). A forma verbal deveria acompanhar a segunda pessoa do plural (“recebei”) ou a frase deveria ser reestruturada. “Recebam” não concorda com o sujeito misto apresentado.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1664165",
@@ -2967,7 +2994,16 @@
       "e": "lecionando."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "No contexto, “explicando o passarinho os breves remos de asas ligeiras peninhas” descreve o movimento de abrir ou estender as asas. “Abrindo” é a substituição semântica mais adequada entre as opções.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1664173",
@@ -2983,7 +3019,16 @@
       "e": "Estou – estive."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "No discurso direto, a fala é “Estou com preguiça”. Na passagem para o indireto, o presente do indicativo recua para o pretérito imperfeito (“estava”) e o marcador temporal “este ano” passa a “naquele ano”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1449814",
@@ -2999,7 +3044,16 @@
       "e": "um velho, dois homens feitos e uma criança, dos quais deveriam destruir raivosamente os 5 mil soldados."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O verbo “destruir” é transitivo direto e não exige a preposição “de”. A construção “dos quais deveriam destruir” está inadequada; o correto seria “que deveriam destruir” ou “cuja destruição deveriam promover”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1449860",
@@ -3015,7 +3069,16 @@
       "e": "Essa ideia os fascinaria."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O verbo “fascinar” é transitivo direto: fascina alguém. Assim, o pronome que retoma “nos” deve ser objeto direto (“Essa ideia nos fascinava”); a forma “lhes fascinava” usa indevidamente o pronome de objeto indireto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2207238",
@@ -3031,7 +3094,17 @@
       "e": "Adão prefere a morte a fingir que está de acordo com a situação vigente"
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O verbo “preferir”, no sentido de dar primazia, admite objeto direto (“preferir os lugares”) e, quando há comparação explícita, rege a preposição “a” (“preferir X a Y”). A alternativa D apresenta construção correta e direta. Observação: A, C e E também parecem gramaticalmente possíveis, o que compromete a unicidade da resposta.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A, C, D e E apresentam construções compatíveis com a regência de “preferir” (preferir X a Y ou uso transitivo direto sem segundo termo). Questão com múltiplas respostas possíveis; recomenda-se revisão/anulação."
   },
   {
     "id": "1457571",
@@ -3047,7 +3120,16 @@
       "e": "eletrodomésticos e aparelhos digitais."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O pronome “Eles” retoma “meus alunos”, mencionado imediatamente antes no texto. Trata-se de mecanismo de coesão referencial que evita a repetição do sintagma nominal.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1193275",
@@ -3063,7 +3145,16 @@
       "e": "intransitivo: adjunto adverbial de lugar “do braço”."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Na construção “pegou-lhe do braço”, o verbo “pegar” aparece com complemento preposicionado (“do braço”), funcionando, na análise proposta pela questão, como transitivo indireto. A alternativa D é a classificação esperada no contexto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1331554",
@@ -3079,7 +3170,16 @@
       "e": "\"Fui à Campos do Jordão e conheci o Morro do Elefante\"."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Fui à Bahia” está correto porque o nome do estado admite artigo feminino: quem vai à Bahia, volta da Bahia. São Paulo, Minas Gerais, Gramado e Campos do Jordão normalmente não são precedidos de artigo nesse uso, portanto não recebem crase.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1192953",
@@ -3095,7 +3195,16 @@
       "e": "Após a conferência, o aluno perguntou ao conferencista: “Como posso fazer para alcançar esse nível de excelência?” / Após a conferência, o aluno perguntou ao conferencista como poderia fazer para alcançar aquele nível de excelência."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Na passagem do discurso direto para o indireto, a fala “quando vamos fazer a primeira prova?” deve ser ajustada à pessoa e ao tempo do relato. A alternativa A mantém “irão” sem o recuo temporal adequado e apresenta a formulação inadequada; as demais preservam melhor as relações de pessoa, tempo e lugar.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1192943",
@@ -3111,7 +3220,16 @@
       "e": "Os educadores sentiram-se honrados, em razão da homenagem que os alunos prepararam."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “As medidas econômicas foram importantes, pois criaram um conceito novo de poupança”, a oração introduzida por “pois” explica por que as medidas foram importantes, funcionando como explicação. Nas demais alternativas, a segunda oração tende a indicar causa ou consequência.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1123835",
@@ -3127,7 +3245,16 @@
       "e": "instrui o leitor acerca de um procedimento, fornecendo-lhe várias informações que condicionam a sua conduta, incitando--o a agir. Utiliza predominantemente verbos no infinitivo, imperativo ou presente do indicativo com indeterminação do sujeito."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A narrativa organiza fatos em sequência e apresenta personagens, espaço, tempo e enredo. O predomínio de verbos de ação e a progressão dos acontecimentos caracterizam a tipologia narrativa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1448753",
@@ -3143,7 +3270,16 @@
       "e": "E, desse mal, padecem muitos pais e professores sob quem são feitas muitas críticas."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A forma “sob quem são feitas muitas críticas” apresenta regência inadequada. A construção mais natural seria “a quem são dirigidas muitas críticas” ou “sobre quem recaem muitas críticas”, conforme o sentido pretendido.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1739019",
@@ -3159,7 +3295,17 @@
       "e": "Os pais ficaram à distância de cinco metros."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Em “Referiu-se à moças”, falta concordância entre o artigo e o substantivo plural: o correto seria “referiu-se às moças”. A alternativa D é a forma claramente incorreta. Ressalva: “Irei à Fortaleza” também depende do uso regional do artigo antes do topônimo e pode gerar dúvida; a questão deveria especificar o padrão de uso do nome geográfico.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "D está incorreta porque deveria ser “às moças”. A crase em “à Fortaleza” depende do uso do artigo com o topônimo; como esse uso pode variar, a questão merece revisão."
   },
   {
     "id": "1742093",
@@ -3175,7 +3321,16 @@
       "e": "Senso Comum"
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A citação de dados e declarações de organizações reconhecidas, como OMS e Unicef, além de especialistas, constitui argumento de autoridade. Esse recurso aumenta a credibilidade das informações apresentadas.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1289250",
@@ -3191,7 +3346,16 @@
       "e": "um amigo."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O narrador é o filho, que relata a história da mãe e do homem que a deixou. A perspectiva é de quem narra sua própria origem e infância, não da mãe nem do homem.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1448457",
@@ -3207,7 +3371,17 @@
       "e": "Informei ao diretor o desacato do aluno."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Informei ao diretor o desacato do aluno” segue a regência de informar: informar algo a alguém. Observação: “Avise ao inspetor sobre a fuga” também pode ser aceita em usos correntes de “avisar alguém sobre algo”, o que pode gerar mais de uma resposta válida conforme a gramática adotada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A alternativa B (“Avise ao inspetor sobre a fuga”) também pode ser aceita em construções correntes de regência de “avisar”. A questão pode admitir mais de uma resposta."
   },
   {
     "id": "1054823",
@@ -3223,7 +3397,16 @@
       "e": "tem a intenção de passar ao leitor uma imagem, tanto quanto possível nítida, da figura que é o objeto do assunto em pauta."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho usa formas verbais no presente e apresenta uma avaliação geral sobre a importância do cargo de delegado na cidade. Em vez de narrar uma sequência de fatos passados, focaliza o ponto de vista do enunciador.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1974820",
@@ -3239,7 +3422,16 @@
       "e": "sendo, nesse contexto, um verbo pronominal, DEIXAR exige um pronome oblíquo de 1ª pessoa."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Na norma-padrão formal, a construção é “O humano não me deixou ir ao quintal hoje”. O verbo causativo “deixar” permite pronome oblíquo como sujeito do infinitivo em construções como “deixou-me ir”; “deixou eu ir” é comum na fala, mas não é a forma esperada pela norma-padrão cobrada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1974140",
@@ -3255,7 +3447,16 @@
       "e": "metonímia."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A palavra “política” aparece com sentidos relacionados, mas distintos: no primeiro trecho, política preventiva como conjunto de medidas; no segundo, a política como atividade ou campo de atuação pública. Essa multiplicidade de sentidos caracteriza polissemia.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2207342",
@@ -3271,7 +3472,16 @@
       "e": "Nós faremos uma viagem amanhã."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Na passagem para o discurso indireto, “Nós viajaremos amanhã” torna-se “Eles disseram que viajariam no dia seguinte”: ajustam-se a pessoa verbal, o tempo futuro para o futuro do pretérito e o advérbio temporal.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2502533",
@@ -3287,7 +3497,16 @@
       "e": "retificar a afirmação."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Obviamente” reforça a certeza do autor sobre a afirmação de que o caso é uma aberração, buscando não deixar dúvidas quanto à avaliação expressa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2502412",
@@ -3303,7 +3522,16 @@
       "e": "a condição de ídolo popular tem tantas responsabilidades quanto prazeres."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A tese central é a possível necessidade de uma política preventiva em relação aos jogadores de futebol, para que clubes e dirigentes identifiquem sinais de comportamento problemático e assumam responsabilidades na formação e acompanhamento dos atletas.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2207353",
