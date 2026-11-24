@@ -3187,7 +3187,7 @@
     },
     "answer": "A",
     "source": "Português.pdf",
-    "explanation": "A alternativa A é a inadequada. No discurso direto, a pergunta é “Dona Vilma, quando vamos fazer a primeira prova?”. Na passagem ao discurso indireto, a fala deveria ser ajustada à terceira pessoa e ao recuo temporal: “O aluno perguntou à professora Dona Vilma quando iriam fazer a primeira prova” (ou “quando fariam”). A alternativa A mantém “irão”, sem o ajuste temporal esperado.",
+    "explanation": "A alternativa A é a inadequada. No discurso direto, a pergunta é “Dona Vilma, quando vamos fazer a primeira prova?”. Na passagem ao discurso indireto, o verbo deve acompanhar a mudança de pessoa e o ajuste temporal: “O aluno perguntou à professora Dona Vilma quando iriam fazer a primeira prova” ou “quando fariam a primeira prova”. A forma “irão” não realiza o recuo temporal esperado no contexto narrado.",
     "references": [
       {
         "label": "Presidência da República — Manual de Redação da Presidência da República",
@@ -3195,8 +3195,7 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24",
-    "reviewNote": "O gabarito A foi mantido; o erro está na manutenção de “irão” em vez do recuo temporal “iriam/fariam” na transposição para o discurso indireto."
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1192943",
