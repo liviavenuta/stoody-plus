@@ -3832,7 +3832,28 @@
       "e": "I e III."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — II e III.** O WMS (Warehouse Management System) gerencia operações internas do armazém, como mão de obra, tarefas, endereçamento, separação (picking) e produtividade. O controle de rotas e desempenho do transporte externo é tipicamente atribuição de um TMS (Transportation Management System).\n\n- **I — falsa:** um WMS pode integrar-se a sistemas EDI e a outros sistemas corporativos; não é correto afirmar que não possui integração.\n- **II — verdadeira:** pode apoiar o planejamento de mão de obra e a análise de produtividade.\n- **III — verdadeira:** prioriza tarefas operacionais e pode consolidar listas de picking.\n- **IV — falsa no enquadramento da questão:** distâncias e rotas de transporte são funcionalidades associadas principalmente ao TMS, não ao núcleo do WMS.\n- **A) II e III — correta.**\n- **B), C), D) e E) — incorretas:** incluem afirmações falsas ou excluem funcionalidades típicas do WMS.\n\n**Dica:** WMS = operações do armazém; TMS = gestão do transporte; EDI = intercâmbio eletrônico de dados entre sistemas/organizações.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "844339",
@@ -3849,7 +3870,28 @@
       "e": "controle, recebimento, armazenagem e distribuição."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — controle, recebimento, armazenagem e distribuição.** Essas são funções centrais do almoxarifado: receber materiais, conferir, registrar, guardar e conservar, controlar saldos e entregar aos usuários mediante requisição.\n\n- **A) Incorreta:** classificação e codificação são atividades de identificação/classificação de materiais, não o conjunto central das funções do almoxarifado.\n- **B) Incorreta:** conferência e expedição podem integrar o processo, mas “contabilização” não substitui armazenagem e controle.\n- **C) Incorreta:** cobrança não é função do almoxarifado.\n- **D) Incorreta:** decodificação não é função típica; especificação e fiscalização não formam o conjunto central.\n- **E) Correta:** reúne controle, recebimento, armazenagem e distribuição.\n\n**Dica:** almoxarifado recebe, confere, registra, guarda, conserva, controla e distribui.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "844368",
@@ -3866,7 +3908,28 @@
       "e": "depósito, almoxarifado e financeiro."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — máquinas, pessoas e materiais.** O arranjo físico (layout) organiza a disposição dos recursos e dos fluxos de trabalho para facilitar operações, movimentação, segurança e produtividade. Seus elementos centrais incluem pessoas, máquinas/equipamentos e materiais.\n\n- **A) Incorreta:** fornecedores e tesouraria não são os componentes básicos do arranjo físico interno.\n- **B) Correta:** integra pessoas, máquinas e materiais no espaço de trabalho.\n- **C) Incorreta:** planejamento, estoque e compras são funções/processos, não os recursos físicos que o layout organiza.\n- **D) Incorreta:** produção, serviços e expedição são áreas/processos que podem ser organizados pelo layout, mas não os três elementos fundamentais.\n- **E) Incorreta:** reúne unidades organizacionais, sem expressar os elementos operacionais do arranjo físico.\n\n**Dica:** layout busca posicionar recursos e postos de trabalho para reduzir deslocamentos, gargalos e riscos.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "814515",
@@ -3883,7 +3946,28 @@
       "e": "Recebimento."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — armazenagem.** A definição menciona sistema de instalação, layout, preservação da qualidade e organização dos espaços de guarda. Esses elementos pertencem à fase de armazenagem.\n\n- **A) Atendimento — incorreta:** é a entrega dos materiais ao usuário.\n- **B) Conferência — incorreta:** verifica quantidade e qualidade no recebimento ou expedição.\n- **C) Armazenagem — correta:** envolve guarda, conservação, localização e organização física dos materiais.\n- **D) Distribuição — incorreta:** é a movimentação/entrega dos materiais aos destinos.\n- **E) Recebimento — incorreta:** é a entrada e aceitação dos materiais entregues.\n\n**Dica:** layout, endereçamento, acondicionamento e preservação indicam armazenagem.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "409035",
@@ -3899,7 +3983,28 @@
       "d": "integralidade"
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — natureza.** A escolha do sistema de estocagem depende das características do material armazenado: dimensões, peso, fragilidade, perecibilidade, risco, forma de acondicionamento e necessidades de conservação. Em conjunto, esses aspectos constituem a natureza do material.\n\n- **A) Natureza — correta:** as características próprias do material condicionam o sistema de estocagem.\n- **B) Cobertura — incorreta:** cobertura de estoque relaciona-se ao tempo que o saldo disponível consegue atender à demanda.\n- **C) Resistência — incorreta:** é uma característica relevante, mas não abrange todas as condições do material.\n- **D) Integralidade — incorreta:** não é o conceito geral pedido.\n\n**Dica:** sistema de armazenagem deve ser escolhido conforme a natureza dos materiais, o espaço, os equipamentos e o fluxo operacional.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "809291",
@@ -3916,7 +4021,28 @@
       "e": "número de caminhões carregados e descarregados e espaços ociosos envolvidos na armazenagem."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — espaço, tipos de materiais, número de itens, velocidade de atendimento e embalagem.** A escolha do sistema de estocagem precisa considerar as características da carga e as exigências operacionais, além da capacidade e do ritmo de atendimento.\n\n- **A) Incorreta:** local, espaço, equipamentos e estruturas são fatores relevantes, mas a alternativa B reúne fatores mais diretamente ligados ao perfil dos materiais e à operação.\n- **B) Correta:** contempla espaço, natureza dos materiais, variedade de itens, velocidade de atendimento e embalagens.\n- **C) Incorreta:** limita-se a automação e pessoal, deixando de fora as características da carga e do atendimento.\n- **D) Incorreta:** considera mão de obra, equipamentos e espaço, mas não inclui tipo e volume dos materiais nem velocidade de atendimento.\n- **E) Incorreta:** quantidade de caminhões e espaços ociosos não são os critérios centrais para escolher o sistema de estocagem.\n\n**Dica:** avalie o que será guardado, quanto, como está embalado, com que frequência sai e qual espaço/equipamento está disponível.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "519216",
@@ -3933,7 +4059,28 @@
       "e": "materiais ou suprimentos a serem consumidos no processo de produção."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito cadastrado: E — materiais ou suprimentos a serem consumidos no processo de produção.** O CPC 16 define estoques como ativos mantidos para venda no curso normal dos negócios, em processo de produção para venda ou na forma de materiais/suprimentos a serem consumidos no processo de produção ou na prestação de serviços. A alternativa E reproduz uma dessas categorias.\n\n- **A) Incorreta na redação apresentada:** o CPC 16 fala em ativos mantidos para venda no curso normal dos negócios, não “mantidos para compra”.\n- **B) Incorreta:** a expressão “em processo de produção para compra” está errada; o correto é produção para venda.\n- **C) Incorreta:** imobilizado para venda e uso não corresponde à definição de estoque.\n- **D) Incorreta:** mistura materiais consumidos em serviços com imobilizado para uso próprio.\n- **E) Correta:** materiais e suprimentos destinados ao consumo no processo produtivo são estoques.\n\n**Dica:** estoques incluem bens para venda, produtos em elaboração e materiais/suprimentos que serão consumidos na produção ou na prestação de serviços.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "813260",
@@ -3950,7 +4097,28 @@
       "e": "sala de controle."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — almoxarifado.** Almoxarifado é o local destinado à guarda, conservação, controle e distribuição de materiais para uso interno da organização.\n\n- **A) Reservatório — incorreta:** designa recipiente ou estrutura para armazenar líquidos ou outros conteúdos específicos.\n- **B) Dispensário — incorreta:** pode ser local de dispensação/fornecimento, especialmente em contextos de saúde, mas não é a denominação geral do depósito de materiais.\n- **C) Arquivo — incorreta:** destina-se à guarda de documentos.\n- **D) Almoxarifado — correta:** local de armazenamento e controle de materiais para uso futuro.\n- **E) Sala de controle — incorreta:** não é o espaço típico de guarda de materiais.\n\n**Dica:** materiais para uso interno aguardando requisição ficam no almoxarifado.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1233495",
@@ -3967,7 +4135,28 @@
       "e": "reciclagem de livros e materiais diversos."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — guarda e conservação de materiais que serão utilizados futuramente.** O almoxarifado mantém materiais sob condições adequadas até que sejam requisitados, preservando sua integridade e controlando sua disponibilidade.\n\n- **A) Incorreta:** correspondências são tratadas por protocolo/expedição documental.\n- **B) Incorreta:** materiais sem possibilidade de utilização devem ser identificados e destinados adequadamente, não mantidos como finalidade do almoxarifado.\n- **C) Correta:** descreve a função de guarda e conservação de materiais para uso futuro.\n- **D) Incorreta:** restauração e manutenção são atividades de manutenção técnica.\n- **E) Incorreta:** reciclagem de livros e materiais não define a função do almoxarifado.\n\n**Dica:** almoxarifado guarda materiais utilizáveis e os disponibiliza quando requisitados.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1233516",
@@ -3984,7 +4173,28 @@
       "e": "efetuar o pagamento do material entregue, antes de sua conferência."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — conferir a nota fiscal com o pedido e o material entregue.** No recebimento, o almoxarife deve confrontar os documentos da aquisição com o material físico, verificando se a entrega corresponde ao que foi autorizado e solicitado.\n\n- **A) Incorreta:** atestar a nota fiscal antes da conferência física pode validar material em quantidade ou condição divergente.\n- **B) Correta:** a conferência documental e física compara nota fiscal, pedido/ordem de fornecimento e material recebido.\n- **C) Incorreta:** requisição complementar não é a etapa básica de recebimento.\n- **D) Incorreta:** “inventário provisório” não substitui a conferência da entrega.\n- **E) Incorreta:** pagamento antes da conferência compromete o controle e a segurança do processo.\n\n**Dica:** recebimento seguro = conferir autorização/pedido, documento fiscal, quantidade, qualidade e condições físicas antes do aceite e registro.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      },
+      {
+        "label": "CPC 16 (R1) — Estoques, Comitê de Pronunciamentos Contábeis",
+        "url": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3780606",
