@@ -6852,7 +6852,28 @@
       "e": "II e III."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — I e III.** A eficiência do almoxarifado melhora quando se reduzem deslocamentos desnecessários e se aproveita adequadamente o volume disponível, sem comprometer segurança e acessibilidade.\n\n- **I — Correta:** reduzir as distâncias de ida e volta diminui tempo, esforço e custo de movimentação.\n- **II — Incorreta:** a afirmação prescreve especificamente luz fria, mas o requisito geral é iluminação suficiente e adequada à atividade; a temperatura de cor não é, por si só, fator fundamental universal de eficiência.\n- **III — Correta:** a utilização racional da capacidade volumétrica amplia o aproveitamento do espaço.\n\n**Dica:** layout eficiente combina menor percurso, bom uso do espaço, acesso aos itens e segurança.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1074396",
@@ -6869,7 +6890,28 @@
       "e": "engloba as peças de série num grupo de forma a constituir uma base de produção por família de peças."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — separar um espaço para as necessidades diárias e outro para materiais de uso esporádico.** O método divide o estoque em lote diário, acessível para o consumo rotineiro, e lote de reserva, mantido para reposição ou demandas menos frequentes.\n\n- **A) Correta:** descreve exatamente a separação entre lote de uso diário e reserva.\n- **B) Incorreta:** descreve armazenagem por características/agrupamento, que facilita localizar itens semelhantes, mas pode não otimizar o espaço.\n- **C) Incorreta:** refere-se à organização sequencial de materiais conforme a linha de produção.\n- **D) Incorreta:** descreve uma desvantagem de método que não considera a frequência de movimentação.\n- **E) Incorreta:** trata de agrupamento por família de peças.\n\n**Dica:** lote diário fica próximo do ponto de consumo; reserva recompõe o lote diário conforme a necessidade.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1013749",
@@ -6886,7 +6928,28 @@
       "e": "flow-rack, talhas e esteiras."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — drive-in, cantilever e flow-rack.** Os três são estruturas ou sistemas destinados a acomodar materiais: drive-in armazena paletes em alta densidade; cantilever utiliza braços em balanço para itens longos; flow-rack usa pistas inclinadas/roletes para movimentação por gravidade.\n\n- **A) Correta:** reúne três sistemas/estruturas de armazenagem.\n- **B) Incorreta:** guindaste e ponte rolante são equipamentos de movimentação e elevação, não estruturas para acomodar produtos.\n- **C) Incorreta:** contêiner é unidade de carga, carreta é veículo e elevador é equipamento de transporte vertical.\n- **D) Incorreta:** rampas e caminhões não são estruturas de armazenagem.\n- **E) Incorreta:** talhas e esteiras são equipamentos de movimentação, não estruturas de estocagem.\n\n**Dica:** cantilever = cargas longas; drive-in = alta densidade de paletes; flow-rack = fluxo por gravidade.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1130169",
@@ -6903,7 +6966,28 @@
       "e": "garantir a movimentação e retiradas dos materiais visando a um atendimento ágil e eficiente e receber e conferir os materiais adquiridos ou cedidos de acordo com o documento de compra."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — movimentar e retirar materiais com agilidade e receber/conferir materiais conforme o documento de compra.** São atividades operacionais diretamente atribuídas ao almoxarifado, que recebe, verifica, guarda e distribui materiais.\n\n- **A) Incorreta:** prazo de pagamento e reação a solicitações de clientes não são funções específicas do almoxarifado.\n- **B) Incorreta:** imobilização de capital e economia de escala são objetivos de planejamento de estoques e compras.\n- **C) Incorreta:** serviço ao consumidor e proteção contra aumento de preços são objetivos comerciais/estratégicos mais amplos.\n- **D) Incorreta como resposta:** expressa objetivos gerais de logística e nível de serviço, mas não descreve as rotinas concretas de almoxarifado com a precisão da alternativa E.\n- **E) Correta:** contempla recebimento, conferência, movimentação e atendimento.\n\n**Dica:** a IN SEDAP 205/1988 trata a armazenagem como guarda, localização, segurança e preservação, e disciplina recebimento e distribuição.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2785117",
@@ -6920,7 +7004,28 @@
       "e": "inventário."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — armazenagem.** As seis fases descritas formam um fluxo de armazenagem: verificar recebimento, identificar o material, guardar no endereço definido, registrar a localização, acompanhar condições de proteção e separar para distribuição.\n\n- **A) Correta:** reúne atividades que ocorrem desde a entrada até a preparação para fornecimento.\n- **B) Codificação — incorreta:** é atribuição de códigos de identificação aos itens, não inclui todas as etapas apresentadas.\n- **C) Contagem cíclica — incorreta:** é contagem periódica e rotativa do estoque.\n- **D) Compra — incorreta:** envolve seleção de fornecedor, aquisição e contratação.\n- **E) Inventário — incorreta:** é levantamento físico para verificar saldos e bens, não todo o fluxo descrito.\n\n**Dica:** armazenagem inclui mais do que guardar: identificação, endereçamento, conservação, controle e separação.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1243926",
@@ -6937,7 +7042,28 @@
       "e": "I, II, III, IV, V e VI."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito indicado: C — II, III, IV, V e VI.** As atividades descritas nos itens II a VI correspondem a tarefas usuais do almoxarife. O item I apresenta a expressão “residências” como local de trabalho, o que destoa da descrição ocupacional usual e provavelmente decorre de erro de transcrição/adaptação do enunciado.\n\n- **I — Não considerada correta pela banca:** recepcionar, conferir e armazenar materiais em almoxarifados, armazéns, silos e depósitos é compatível com a função; a inclusão de “residências” torna a frase problemática.\n- **II — Correta:** registrar entradas e saídas e controlar saldos.\n- **III — Correta:** separar e distribuir materiais para expedição.\n- **IV — Correta:** organizar o espaço, facilitar movimentação e conservar o estoque limpo.\n- **V — Correta:** embalar/desembalar e apoiar expedição e despacho.\n- **VI — Correta:** auxiliar nas atividades logísticas.\n\n**Ressalva:** o item I, sem a palavra “residências”, seria uma descrição plausível da função. O gabarito C parece depender dessa palavra estranha; confira o texto original da prova se for possível.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1877628",
@@ -6954,7 +7080,28 @@
       "e": "II, III e IV."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — I, II e III.** Os três primeiros itens descrevem documentos de controle e comunicação utilizados no almoxarifado. O item IV define alvará, documento de licenciamento/autorização administrativa, não um documento de rotina de estoque.\n\n- **I — Correta:** ficha de controle de estoque registra entradas, saídas e saldos.\n- **II — Correta:** ficha de localização indica por código o endereço físico do material.\n- **III — Correta:** comunicação de irregularidades formaliza ao fornecedor os motivos qualitativos ou quantitativos da devolução.\n- **IV — Incorreta:** alvará é licença/autorização de funcionamento, não documento de movimentação ou controle de materiais.\n\n- **D) Correta:** I, II e III.\n- **A, B, C e E — incorretas:** omitem algum dos três documentos pertinentes ou incluem o alvará.\n\n**Dica:** diferencie documentos de estoque (fichas, requisições, devoluções, inspeções) de licenças administrativas.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1025920",
@@ -6971,7 +7118,28 @@
       "e": "Pilhas."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — prateleiras.** Prateleiras são uma solução simples e econômica para guardar peças pequenas e leves, materiais variados e caixas ou gavetas padronizadas. Podem ser fabricadas em madeira ou perfis metálicos e dimensionadas conforme peso e tamanho dos itens.\n\n- **A) Raques/racks — incorreta:** estruturas mais robustas, frequentemente destinadas a cargas paletizadas ou volumes maiores.\n- **B) Paletes — incorreta:** plataformas para unitização e movimentação de cargas.\n- **C) Correta:** prateleiras acomodam materiais pequenos, leves e de dimensões variadas.\n- **D) Bags — incorreta:** recipientes flexíveis para materiais a granel.\n- **E) Pilhas — incorreta:** técnica de disposição de volumes uns sobre os outros, não estrutura com planos de apoio e gavetas.\n\n**Dica:** prateleiras são adequadas para itens pequenos e caixas; porta-paletes/racks para unidades de carga mais pesadas.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2785147",
@@ -6988,7 +7156,28 @@
       "e": "III, IV, V, VI, VII."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — I, II, IV, VI e VII.** Os equipamentos e sistemas básicos de armazenagem incluem veículos industriais, equipamentos de elevação/transferência, transportadores contínuos, recipientes e estruturas de armazenagem.\n\n- **I — Correta:** empilhadeiras, paleteiras e outros veículos industriais movimentam cargas.\n- **II — Correta:** talhas, guindastes e equipamentos similares elevam e transferem materiais.\n- **III — Incorreta:** envelopes plásticos são embalagens/insumos, não uma categoria central de equipamento de armazenagem.\n- **IV — Correta:** esteiras e transportadores contínuos movimentam cargas.\n- **V — Incorreta:** dispensadores de fita adesiva são acessórios de embalagem, não equipamento básico do sistema de armazenagem.\n- **VI — Correta:** recipientes acondicionam materiais.\n- **VII — Correta:** estantes, racks e porta-paletes são estruturas de armazenagem.\n\n**Dica:** memorize as famílias: veículos industriais; elevação/transferência; transportadores; recipientes; estruturas.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1151658",
@@ -7004,7 +7193,28 @@
       "d": "II e III, apenas."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito indicado: A — I, II e III.** O recebimento integra o fluxo entre aquisição e liquidação/pagamento, pois a entrega precisa ser verificada antes de se atestar o cumprimento da obrigação. O recebimento provisório registra a entrega para posterior conferência e aceitação definitiva.\n\n- **I — Correta:** o recebimento é etapa intermediária entre a compra e a autorização do pagamento.\n- **II — Correta no sentido de controle:** o pagamento depende do recebimento/atesto e da verificação exigida no processo.\n- **III — Correta:** o recebimento provisório comprova a entrega e sua data, sem equivaler necessariamente à aceitação definitiva do objeto.\n\n**Nota jurídica:** em contratações públicas, o recebimento provisório e definitivo é disciplinado pela legislação e pelo contrato; o procedimento concreto pode variar conforme o objeto. A IN SEDAP 205/1988 também deixa claro que receber fisicamente não implica aceitar automaticamente o material.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1877612",
@@ -7021,7 +7231,28 @@
       "e": "menores em cima, maiores embaixo."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — mais pesados embaixo, mais leves em cima.** Colocar os itens pesados nas prateleiras inferiores reduz o centro de gravidade da carga, diminui o risco de tombamento e facilita o manuseio sem elevar volumes pesados acima dos ombros.\n\n- **A) Correta:** distribui o peso de forma mais segura e favorece a estabilidade.\n- **B) Incorreta:** concentrar peso no alto aumenta risco de desequilíbrio e queda.\n- **C) Incorreta:** a idade do material não define a posição vertical da carga.\n- **D) Incorreta:** tamanho, isoladamente, não substitui a análise de peso e estabilidade.\n- **E) Incorreta:** itens maiores podem ser pesados ou volumosos; devem ser posicionados segundo capacidade, estabilidade e segurança.\n\n**Dica:** itens pesados e volumosos nas partes inferiores, sem exceder a capacidade das prateleiras e do piso.",
+    "references": [
+      {
+        "label": "Ministério do Trabalho — NR-11: requisitos de segurança para armazenagem e movimentação",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-23: proteção contra incêndios",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-23-nr-23"
+      },
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: cuidados de armazenagem",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2785129",
@@ -7038,7 +7269,28 @@
       "e": "Comercial."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — almoxarifado.** O enunciado define o setor destinado à guarda e à conservação de materiais para uso interno, em condições adequadas. Essa é a finalidade típica do almoxarifado.\n\n- **A) Diretoria — incorreta:** exerce funções de direção e decisão.\n- **B) Correta:** guarda, conserva, controla e distribui materiais.\n- **C) Recursos Humanos — incorreta:** administra relações e processos de pessoal.\n- **D) Financeiro — incorreta:** administra recursos financeiros e pagamentos.\n- **E) Comercial — incorreta:** atua em vendas e relacionamento comercial.\n\n**Dica:** o almoxarifado é a unidade física e operacional de guarda e fornecimento dos materiais da organização.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1130184",
@@ -7055,7 +7307,28 @@
       "e": "1– cantilever; 2 – em estantes; 3 – altura; 4 – paleteira; 5 – custo"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — palete; horizontalmente; altura; paleteira; carregamento.** Palete é uma plataforma horizontal sobre apoios, dimensionada para permitir a entrada dos garfos de paleteira ou empilhadeira e formar uma unidade de carga para movimentação, armazenagem e transporte.\n\n- **A) Incorreta:** porta-palete é estrutura de armazenagem, não a plataforma; ponte rolante não entra sob o palete.\n- **B) Incorreta:** carrinho manual não corresponde à compatibilidade dimensional descrita para os garfos.\n- **C) Correta:** os termos completam tecnicamente a definição de palete.\n- **D) Incorreta:** push-back é sistema de armazenagem dinâmico, não plataforma.\n- **E) Incorreta:** cantilever é estrutura para materiais longos, não plataforma de carga.\n\n**Dica:** palete unitiza volumes para movimentar várias embalagens de uma só vez.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "858289",
@@ -7072,7 +7345,28 @@
       "e": "valor."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — rotatividade de materiais.** O critério considera a frequência de entradas e saídas: itens com maior giro ficam próximos das portas, áreas de separação ou expedição para reduzir deslocamentos e tempo de atendimento.\n\n- **A) Volume e peso — incorreta:** considera dimensões e massa, não frequência de movimentação.\n- **B) Ordem de entrada/saída — incorreta:** relaciona-se ao método de rotação do estoque, como PEPS.\n- **C) Similaridade — incorreta:** agrupa materiais com características semelhantes.\n- **D) Correta:** a localização é definida pela rotatividade ou giro dos itens.\n- **E) Valor — incorreta:** relaciona-se à classificação por importância econômica, como análise ABC.\n\n**Dica:** alto giro perto da expedição; baixo giro em áreas menos acessíveis, respeitando segurança e características do produto.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "999163",
@@ -7089,7 +7383,28 @@
       "e": "O piso deve ser de material branco lavável e resistente ao peso dos produtos e movimentação."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — piso plano, liso, lavável e resistente ao peso e à movimentação.** Áreas de armazenamento de medicamentos precisam permitir limpeza, conservação e circulação segura de cargas. O piso deve suportar os equipamentos e volumes e ser compatível com a higienização.\n\n- **A) Incorreta:** não existe exigência universal de paredes revestidas com azulejos brancos.\n- **B) Incorreta:** a distância fixa de um metro das paredes não é a regra geral apresentada para todos os depósitos; o afastamento deve observar ventilação, inspeção, limpeza e normas aplicáveis.\n- **C) Correta:** superfície plana, lisa, lavável e resistente facilita higienização e suporta a operação.\n- **D) Incorreta:** a regra não é um limite universal de 50 cm do teto; devem ser respeitadas condições de segurança, ventilação e recomendações técnicas.\n- **E) Incorreta:** a cor branca não é o requisito determinante; importam as características funcionais do piso.\n\n**Atenção:** armazenagem de medicamentos deve seguir as boas práticas sanitárias aplicáveis, incluindo controle de temperatura, umidade, limpeza, segregação e rastreabilidade.",
+    "references": [
+      {
+        "label": "Anvisa — RDC nº 430/2020: Boas Práticas de Distribuição, Armazenagem e Transporte de Medicamentos (perguntas e respostas)",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/certificacao-e-fiscalizacao/perguntas-e-respostas/perguntas-e-respostas-rdc-430-de-2020.pdf/@@download/file"
+      },
+      {
+        "label": "Ministério da Saúde — Manual da Rede de Frio do Programa Nacional de Imunizações",
+        "url": "https://www.gov.br/saude/pt-br/vacinacao/rede-de-frio/publicacoes/manual-da-rede-de-frio-pni-6ed"
+      },
+      {
+        "label": "Anvisa — Controle sanitário de alimentos",
+        "url": "https://www.gov.br/anvisa/pt-br/assuntos/alimentos/controle-sanitario/"
+      },
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: conservação e armazenagem",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1008088",
@@ -7106,7 +7421,28 @@
       "e": "Agrupamento; Tamanho e Fornecedor"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — peso, volume e natureza especial.** Esses critérios refletem características físicas e riscos que condicionam a escolha do método de armazenagem e dos equipamentos.\n\n- **A) Incorreta:** agrupamento é um critério de organização, mas preço não é uma característica física e frequência é critério de localização.\n- **B) Incorreta:** tamanho/volume são relevantes, mas fornecedor não é parâmetro físico de acondicionamento.\n- **C) Correta:** peso, volume e natureza especial influenciam diretamente estrutura, capacidade, segregação e segurança.\n- **D) Incorreta:** preço e frequência podem orientar políticas de estoque, mas não são os três critérios de armazenagem física pedidos.\n- **E) Incorreta:** fornecedor não define, por si, a forma de acondicionamento.\n\n**Dica:** escolha a estrutura considerando dimensões, peso, forma, fragilidade, periculosidade e condições especiais do material.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1877609",
@@ -7123,7 +7459,28 @@
       "e": "arejado e com fácil acesso."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — arejado e com fácil acesso.** O almoxarifado deve ter circulação de ar e acesso compatível com recebimento, movimentação e distribuição, respeitando as condições de conservação específicas dos materiais.\n\n- **A) Incorreta:** ambiente abafado favorece condições inadequadas e difícil acesso prejudica a operação.\n- **B) Incorreta:** aquecimento pode danificar materiais sensíveis e afastamento excessivo dificulta o atendimento.\n- **C) Incorreta:** esconder o local e criar desvios compromete acesso, segurança operacional e fluxo.\n- **D) Incorreta como regra geral:** ventilação é desejável, mas pouca luminosidade não é requisito universal; iluminação adequada é necessária para identificação e segurança.\n- **E) Correta:** ambiente arejado e acessível favorece conservação e eficiência.\n\n**Dica:** as condições ambientais devem ser ajustadas ao tipo de material; medicamentos e produtos sensíveis exigem controles específicos.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1151646",
@@ -7139,7 +7496,28 @@
       "d": "Estabelecer normas de armazenamento dos materiais estocados."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — receber e efetuar o pagamento de notas fiscais.** O almoxarifado recebe materiais e confere documentos e quantidades, mas o pagamento de notas fiscais pertence ao fluxo financeiro/contábil e à autoridade competente, não à função operacional do depósito.\n\n- **A) Correta como EXCETO:** pagamento não é atribuição típica do almoxarifado.\n- **B) Função correta:** recebimento, conferência, armazenagem e registro compõem o fluxo de materiais.\n- **C) Função correta:** conservar qualidade e quantidades é responsabilidade central.\n- **D) Função correta:** estabelecer procedimentos de armazenagem é parte da gestão do depósito.\n\n**Dica:** o almoxarifado atesta recebimento e registra entrada; a liquidação e o pagamento seguem o processo financeiro-administrativo.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2785108",
@@ -7156,7 +7534,28 @@
       "e": "III, IV e V."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — I, II, IV e V.** O almoxarifado recebe, confere, armazena, registra, fornece dados de consumo e estabelece procedimentos de guarda. Emitir nota fiscal para pagamento não é atribuição do almoxarifado.\n\n- **I — Correta:** confere os materiais com o documento de compra ou equivalente.\n- **II — Correta:** registra entradas e mantém controles do estoque.\n- **III — Incorreta:** a emissão de documentos fiscais de pagamento não é função típica do almoxarifado.\n- **IV — Correta:** estatísticas de consumo apoiam previsão de compras e ressuprimento.\n- **V — Correta:** normas de armazenagem orientam conservação e segurança.\n\n- **D) Correta:** I, II, IV e V.\n- **A, B, C e E — incorretas:** excluem atividades próprias ou incluem o item III.\n\n**Dica:** almoxarifado fornece informação e evidência do recebimento, mas não substitui as áreas fiscal, financeira e de compras.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1151652",
@@ -7170,7 +7569,28 @@
       "d": "Garantir instalações adequadas e recursos de movimentação e distribuição suficientes para um atendimento rápido e eficiente."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — garantir excessos de materiais para que nunca falte nenhum item.** O objetivo é manter níveis adequados de estoque, não acumular excesso. Estoque excessivo imobiliza capital, ocupa espaço e aumenta risco de obsolescência, avaria e vencimento.\n\n- **A) Correta como função:** preservar qualidade e quantidades exige controle e conservação.\n- **B) Correta como função:** entregar mediante solicitações autorizadas é rotina de distribuição.\n- **C) Correta como EXCETO:** excesso permanente não é objetivo de gestão; deve-se equilibrar disponibilidade e custo.\n- **D) Correta como função:** infraestrutura e recursos adequados viabilizam atendimento ágil.\n\n**Dica:** o objetivo é evitar tanto ruptura quanto excesso, utilizando parâmetros de consumo, prazo de reposição e estoque de segurança.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "844344",
@@ -7187,7 +7607,28 @@
       "e": "ficha de prateleira, inventário permanente e notas explicativas."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — notas fiscais, requisições de materiais e devoluções.** A nota fiscal ou documento equivalente dá suporte ao recebimento; a requisição autoriza a saída para o usuário; e o documento de devolução registra o retorno ao estoque.\n\n- **A) Incorreta:** notas explicativas e catálogo não são documentos básicos de movimentação física.\n- **B) Incorreta:** ficha de produção e cartão de inventário podem apoiar controles específicos, mas não substituem os documentos de entrada e saída listados.\n- **C) Correta:** contempla os documentos que dão suporte às entradas, saídas e retornos.\n- **D) Incorreta:** requisições de venda e relatórios de expedição não são o conjunto padrão de controle interno do almoxarifado.\n- **E) Incorreta:** inventário permanente e notas explicativas não substituem documentos que autorizam e comprovam a movimentação.\n\n**Dica:** toda entrada, saída e devolução deve ter documento de suporte e registro no controle de estoque.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "691872",
@@ -7204,7 +7645,28 @@
       "e": "movimentação."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — fragilidade.** Materiais frágeis exigem cuidados especiais de acondicionamento, proteção contra impactos, empilhamento limitado e movimentação cuidadosa, podendo demandar embalagens e estruturas específicas.\n\n- **A) Custo — incorreta como melhor resposta:** pode influenciar a decisão econômica, mas não determina diretamente a complexidade física do acondicionamento.\n- **B) Correta:** fragilidade requer proteção e manuseio específicos.\n- **C) Valor — incorreta como melhor resposta:** pode justificar controles de segurança, mas não é a característica física indicada.\n- **D) Uso — incorreta:** frequência ou finalidade de uso pode orientar localização, não necessariamente armazenagem complexa.\n- **E) Movimentação — incorreta:** influencia o layout e os equipamentos, mas a fragilidade é o fator específico clássico de cuidado especial.\n\n**Dica:** fragilidade, periculosidade, peso, volume, perecibilidade e condições ambientais podem exigir armazenagem especial.",
+    "references": [
+      {
+        "label": "Ministério do Trabalho — NR-11: requisitos de segurança para armazenagem e movimentação",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-23: proteção contra incêndios",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-23-nr-23"
+      },
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: cuidados de armazenagem",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "814710",
@@ -7221,7 +7683,28 @@
       "e": "Dar entrada em compras não autorizadas ou em desacordo com a programação de entrega, transcrevendo as informações no verso da Nota Fiscal."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E — dar entrada em compras não autorizadas ou em desacordo com a programação de entrega.** O almoxarifado não deve aceitar e registrar indiscriminadamente compras não autorizadas ou entregas fora das condições previstas. Deve conferir documentos, autorização, especificação, quantidade e programação, e encaminhar irregularidades para regularização.\n\n- **A) Correta como objetivo:** disponibilizar o material certo, na quantidade e local necessários.\n- **B) Correta como objetivo:** instalações e equipamentos devem permitir atendimento rápido e eficiente.\n- **C) Correta como objetivo geral:** controles buscam evitar divergências e perdas, embora a eliminação absoluta seja uma meta ideal.\n- **D) Correta como objetivo:** preservar qualidade e quantidade.\n- **E) Incorreta e resposta:** aceitar compras não autorizadas ou entregas divergentes contraria o controle de recebimento.\n\n**Dica:** recebimento físico não significa aceitação. A IN 205/1988 determina regularização quando o material divergir do pedido ou apresentar faltas/defeitos.",
+    "references": [
+      {
+        "label": "Ministério do Trabalho — NR-11: requisitos de segurança para armazenagem e movimentação",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-23: proteção contra incêndios",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-23-nr-23"
+      },
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: cuidados de armazenagem",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "844349",
@@ -7238,7 +7721,28 @@
       "e": "forma, tamanho, periodicidade, frequência e transportabilidade."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — dimensão, volume, forma, perecibilidade e fragilidade.** A unitização reúne volumes em uma unidade de carga; para isso, é necessário considerar dimensões e geometria, volume, resistência e características de conservação dos produtos.\n\n- **A) Incorreta como conjunto esperado:** peso e periculosidade são importantes para segurança, mas a alternativa C reúne melhor os atributos de compatibilidade física e conservação.\n- **B) Incorreta:** identificação é necessária, mas oxidação não substitui critérios dimensionais e de acondicionamento.\n- **C) Correta:** dimensões, volume, forma, perecibilidade e fragilidade condicionam a formação segura da unidade.\n- **D) Incorreta:** “radiciação” não é característica usual de unitização e a lista mistura fatores sem coerência.\n- **E) Incorreta:** periodicidade e frequência dizem respeito ao giro/localização, não às características físicas básicas da unidade de carga.\n\n**Dica:** a unidade de carga deve ser estável, compatível com o equipamento e segura para o produto e os operadores.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "844342",
@@ -7255,7 +7759,28 @@
       "e": "valor, volume, unitização, transportabilidade e radiciação."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — volume, peso, forma, fragilidade e inflamabilidade.** Esses parâmetros descrevem características físicas e riscos que determinam a estrutura, o acondicionamento, a segregação e os equipamentos necessários.\n\n- **A) Correta:** volume, peso, forma, fragilidade e inflamabilidade são fatores relevantes para armazenagem.\n- **B) Incorreta:** disponibilidade e transportabilidade não são características intrínsecas do material; explosividade é risco relevante, mas a combinação não é a melhor.\n- **C) Incorreta:** valor e classificação podem orientar controles, mas a lista não apresenta o conjunto físico mais direto; “radiciação” não é termo técnico usual nesse contexto.\n- **D) Incorreta:** classificação e codificação são procedimentos de gestão, não características do material.\n- **E) Incorreta:** valor e transportabilidade influenciam decisões logísticas, mas não substituem forma, fragilidade e inflamabilidade.\n\n**Dica:** primeiro identifique propriedades físicas e riscos; depois escolha embalagem, estrutura, localização e equipamento adequados.",
+    "references": [
+      {
+        "label": "Ministério do Trabalho — NR-11: requisitos de segurança para armazenagem e movimentação",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-23: proteção contra incêndios",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-23-nr-23"
+      },
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: cuidados de armazenagem",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "844352",
@@ -7270,7 +7795,28 @@
       "e": "estruturas de aço, corredores e salas."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — equipamentos de elevação, recipientes e estruturas de armazenagem.** Essa alternativa reúne três famílias de equipamentos usadas no sistema: meios para elevar/transferir cargas, recipientes para acondicioná-las e estruturas para guardá-las.\n\n- **A) Incorreta:** prateleiras e paleteiras são equipamentos/estruturas pertinentes, mas a lista não é a classificação geral esperada e contêineres são recipientes.\n- **B) Incorreta:** carreta é veículo de transporte externo, não equipamento geral de armazenagem interna.\n- **C) Correta:** contempla elevação, acondicionamento e estrutura de armazenagem.\n- **D) Incorreta:** cantilever e estruturas de estocagem são válidos, mas contêineres são recipientes; não abrange a categoria de elevação.\n- **E) Incorreta:** corredores e salas são elementos de layout/instalação, não equipamentos.\n\n**Dica:** diferencie equipamentos de movimentação, recipientes de acondicionamento e estruturas de armazenagem.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "619176",
@@ -7287,7 +7833,28 @@
       "e": "gestão do estoque médio e controle do tempo de reposição de materiais."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — identificação do material e informação da localização física da guarda.** Identificar cada item e registrar seu endereço no depósito são fases centrais da armazenagem, pois permitem localizar, retirar e inventariar os materiais corretamente.\n\n- **A) Incorreta:** tempo de reposição e procedimento de compra pertencem ao planejamento de suprimentos.\n- **B) Correta:** identificação e endereçamento são etapas do processo de armazenagem.\n- **C) Incorreta:** aumentar jornada de trabalho não é fase de armazenagem.\n- **D) Incorreta:** análise de gráfico e pedido de aquisição são atividades de controle e reposição.\n- **E) Incorreta:** estoque médio e tempo de reposição são parâmetros de gestão de estoques.\n\n**Dica:** material sem identificação ou endereço definido tende a gerar erros de separação, perdas de tempo e divergências de inventário.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "674065",
@@ -7304,7 +7871,28 @@
       "e": "Planejamento e controle da produção."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — almoxarifado.** É a área responsável pela guarda física dos materiais em estoque, incluindo produtos recebidos de fornecedores e materiais destinados ao atendimento da produção ou de outros setores.\n\n- **A) Compras — incorreta:** seleciona fornecedores e realiza aquisições.\n- **B) Importação — incorreta:** trata de operações de aquisição internacional e desembaraço.\n- **C) Produção — incorreta:** transforma insumos em produtos.\n- **D) Correta:** guarda, conserva, controla e disponibiliza os materiais.\n- **E) Planejamento e controle da produção — incorreta:** programa necessidades e fluxo de produção, mas não é a área de guarda física.\n\n**Dica:** o almoxarifado é o ponto de custódia física entre o recebimento e o fornecimento dos materiais.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "623513",
@@ -7321,7 +7909,28 @@
       "e": "40."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — 25 posições de paletes.** Primeiro, calcula-se a quantidade de paletes necessária para acomodar as caixas: (2.000 \\div 20 = 100) paletes. Como cada posição vertical comporta quatro paletes empilhados, são necessárias (100 \\div 4 = 25) posições no piso.\n\n- **A) 25 — correta:** 100 paletes distribuídos em pilhas de quatro resultam em 25 posições.\n- **B) 50 — incorreta:** corresponderia a empilhar apenas dois paletes por posição.\n- **C) 15 — incorreta:** não acomoda as 100 unidades com o limite de quatro por pilha.\n- **D) 20 — incorreta:** 20 posições × 4 = 80 paletes, insuficientes.\n- **E) 40 — incorreta:** 40 posições × 4 = 160 posições-palete, acima do necessário.\n\n**Cálculo:** caixas ÷ caixas por palete ÷ paletes por pilha = posições no piso. O resultado pressupõe que o empilhamento de quatro paletes é permitido e seguro para o produto e a estrutura.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "772354",
@@ -7338,7 +7947,28 @@
       "e": "autorização do chefe."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — nota fiscal.** A nota fiscal é o documento fiscal que acompanha a operação de circulação da mercadoria e permite confrontar o que foi entregue com o que foi comprado, incluindo descrição, quantidade e demais dados pertinentes.\n\n- **A) Nota de empenho — incorreta:** é documento orçamentário que formaliza o compromisso de despesa pública; não substitui o documento fiscal que acompanha a mercadoria.\n- **B) Conhecimento de transporte — incorreta:** documenta a prestação do serviço de transporte, não a compra e a descrição fiscal da mercadoria como documento principal de recebimento.\n- **C) Correta:** a nota fiscal dá suporte documental ao recebimento e à conferência.\n- **D) Pedido de venda — incorreta:** é documento comercial do vendedor, não o documento fiscal de circulação.\n- **E) Autorização do chefe — incorreta:** pode integrar o fluxo interno de autorização, mas não substitui o documento fiscal.\n\n**Dica:** confronte nota fiscal, pedido/nota de empenho e material efetivamente entregue; divergências devem ser registradas e regularizadas.",
+    "references": [
+      {
+        "label": "Governo Federal — IN SEDAP nº 205/1988: recebimento, armazenagem, distribuição e controle",
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-205-de-08-de-abril-de-1988"
+      },
+      {
+        "label": "Ministério do Trabalho — NR-11: Transporte, Movimentação, Armazenagem e Manuseio de Materiais",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-11-nr-11"
+      },
+      {
+        "label": "IBGE — Apostila de Gestão de Materiais",
+        "url": "https://www.ibge.gov.br/biblioteca/visualizacao/arquivo/PEG/2082/2082_ApostilaGestaoMateriais.pdf"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1480628",
