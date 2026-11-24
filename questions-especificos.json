@@ -390,7 +390,28 @@
       "e": "a parte comercial das organizações."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — a parte física das organizações.** A administração de recursos materiais gerencia o fluxo físico dos bens: identificação de fornecedores, aquisição, recebimento, movimentação interna, armazenagem e distribuição. O foco é garantir que os materiais estejam disponíveis conforme as necessidades da organização.\n\n- **A) Parte física — correta:** corresponde aos materiais, estoques e sua movimentação.\n- **B) Parte pessoal — incorreta:** refere-se à gestão de pessoas e recursos humanos.\n- **C) Parte produtiva — incorreta:** a administração de materiais apoia a produção, mas não se limita ao processo produtivo.\n- **D) Parte estrutural — incorreta:** não expressa o escopo específico descrito.\n- **E) Parte comercial — incorreta:** compras e distribuição podem dialogar com a área comercial, mas o escopo é mais amplo e envolve toda a gestão física dos materiais.\n\n**Dica:** administração de materiais acompanha o fluxo físico desde o fornecedor até o usuário/consumidor.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2361421",
@@ -407,7 +428,28 @@
       "e": "I, II e III."
     },
     "answer": "B",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: B — apenas I e II.** As duas primeiras definições estão corretas; a terceira não corresponde ao conceito de blocagem na formulação técnica cobrada.\n\n- **I — verdadeira:** docas são áreas de interface entre recebimento/expedição e os veículos ou modais de transporte, facilitando operações de carga e descarga.\n- **II — verdadeira:** tara é o peso do veículo ou unidade de transporte vazia. Subtraindo-se a tara do peso bruto, obtém-se o peso líquido da carga.\n- **III — falsa segundo o gabarito:** agrupar embalagens menores em uma unidade maior é normalmente descrito como unitização de cargas. A questão reserva “blocagem” a outra forma de acondicionamento/armazenagem; os termos podem variar entre materiais didáticos.\n\n- **A) Apenas II — incorreta:** I também está correta.\n- **B) Apenas I e II — correta.**\n- **C) Apenas I e III — incorreta:** III é falsa no enquadramento adotado.\n- **D) Apenas II e III — incorreta:** III é falsa.\n- **E) I, II e III — incorreta:** inclui a afirmação III.\n\n**Ressalva:** há variação terminológica em materiais de logística para “blocagem” e “unitização”. A resposta segue o gabarito e a distinção conceitual usual entre consolidação de volumes e unitização da carga.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2489695",
@@ -424,7 +466,28 @@
       "e": "recurso material é todo bem tangível e intangível empregado em uma organização que detém natureza permanente."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — abrangência, flexibilidade e praticidade.** Esses são critérios associados à classificação de materiais: o sistema deve abranger os itens relevantes, permitir adaptação às necessidades e ser prático para uso e controle.\n\n- **A) Incorreta:** a administração de materiais busca reduzir desperdícios, não maximizá-los.\n- **B) Incorreta:** as compras públicas têm papel relevante na economia e no mercado, inclusive pelo volume de aquisições e seu potencial de indução.\n- **C) Incorreta:** tombamento e alienação são atividades de gestão patrimonial, não elementos típicos da gestão de estoques de consumo.\n- **D) Correta:** abrangência, flexibilidade e praticidade são critérios de classificação.\n- **E) Incorreta:** a alternativa mistura bens tangíveis e intangíveis e afirma natureza permanente como característica geral de recurso material; materiais podem ser de consumo ou permanentes.\n\n**Dica:** classificação de materiais precisa ser ampla o suficiente, adaptável e simples de aplicar.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2145707",
@@ -441,7 +504,28 @@
       "e": "Diagrama."
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — cronograma.** Cronograma é a representação organizada das tarefas ou atividades distribuídas no tempo, com datas ou prazos definidos para sua execução.\n\n- **A) Organograma — incorreta:** representa a estrutura hierárquica e as relações entre unidades organizacionais.\n- **B) Pentagrama — incorreta:** não é ferramenta de programação de tarefas administrativas.\n- **C) Cronograma — correta:** organiza atividades em sequência temporal e indica datas/prazos.\n- **D) Fluxograma — incorreta:** representa graficamente etapas e fluxos de um processo, não necessariamente seu calendário.\n- **E) Diagrama — incorreta:** é denominação genérica para representação gráfica; não identifica especificamente o planejamento temporal.\n\n**Dica:** cronograma = quando cada tarefa será feita; fluxograma = como o processo flui.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2348101",
@@ -457,7 +541,28 @@
       "d": "fragilidade."
     },
     "answer": "D",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: D — fragilidade.** O critério da fragilidade considera material cuja estrutura é quebradiça, deformável ou danificável, de modo que o uso normal pode causar irrecuperabilidade ou perda de identidade/funcionalidade. Por esse critério, o item pode ser classificado como material de consumo no setor público.\n\n- **A) Durabilidade — incorreta:** relaciona-se à perda ou redução das condições de funcionamento em até dois anos de uso normal.\n- **B) Perecibilidade — incorreta:** refere-se à deterioração ou alteração física/química ao longo do tempo ou do uso.\n- **C) Incorporabilidade — incorreta:** ocorre quando o material se destina a integrar outro bem e não pode ser retirado sem prejuízo do principal.\n- **D) Fragilidade — correta:** corresponde à estrutura quebradiça, deformável ou danificável com perda de identidade ou funcionalidade.\n\n**Dica:** memorize os critérios: durabilidade, fragilidade, perecibilidade, incorporabilidade e transformabilidade. Basta atender a um dos critérios previstos para caracterização como material de consumo, conforme a regra aplicável.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2558120",
@@ -474,7 +579,28 @@
       "e": "As empresas secundárias são também chamadas empresas de transformação pelo fato de partirem de uma matéria-prima adquirida de terceiros para processá-la e transformá-la em produto acabado."
     },
     "answer": "E",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: E.** Empresas secundárias, também chamadas de empresas de transformação ou industriais, recebem matérias-primas e insumos e os transformam em produtos acabados.\n\n- **A) Incorreta:** materiais não ficam estáticos; circulam entre recebimento, armazenagem, processamento e expedição.\n- **B) Incorreta:** materiais semiacabados já passaram por alguma etapa de transformação; não são simplesmente os insumos básicos que ingressam inicialmente no processo.\n- **C) Incorreta:** a logística é muito anterior à década de 1990 e ao comércio eletrônico; suas práticas e conceitos têm longa história.\n- **D) Incorreta:** serviços são predominantemente intangíveis; bens e mercadorias são tangíveis.\n- **E) Correta:** descreve a empresa de transformação, que processa matérias-primas adquiridas de terceiros para obter produtos acabados.\n\n**Dica:** setor primário extrai/produz matérias-primas; setor secundário transforma; setor terciário presta serviços e realiza atividades comerciais.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2348094",
@@ -490,7 +616,28 @@
       "d": "regularização."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — conferência qualitativa.** A conferência qualitativa, também chamada inspeção técnica, verifica se o material recebido atende às especificações e está adequado ao uso a que se destina, examinando qualidade, características e condições.\n\n- **A) Conferência qualitativa — correta:** verifica conformidade técnica e qualidade do material.\n- **B) Conferência quantitativa — incorreta:** verifica quantidades, volumes, unidades e divergências numéricas.\n- **C) Descarga — incorreta:** é a operação física de retirar os materiais do veículo.\n- **D) Regularização — incorreta:** é etapa de tratamento documental/administrativo das divergências e da entrada, não a inspeção técnica em si.\n\n**Dica:** quantitativa = quanto chegou; qualitativa = se chegou conforme especificação.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2036836",
@@ -507,7 +654,28 @@
       "e": "Cancelamento de bloqueio orçamentário"
     },
     "answer": "C",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: C — localização do bem material.** O controle patrimonial exige saber onde cada bem está, a qual unidade ou responsável está vinculado e se sua localização corresponde aos registros. A localização é atividade típica de inventário e acompanhamento patrimonial.\n\n- **A) Pintura — incorreta:** é manutenção/conservação, não atividade central de controle patrimonial.\n- **B) Conserto — incorreta:** é manutenção corretiva.\n- **C) Localização — correta:** permite rastrear e conferir a existência e a alocação do bem.\n- **D) Assistência técnica — incorreta:** é serviço de manutenção ou suporte.\n- **E) Cancelamento de bloqueio orçamentário — incorreta:** é atividade orçamentária, sem relação direta com controle físico de bens.\n\n**Dica:** controle patrimonial envolve identificação, registro, localização, responsável, movimentação, inventário e baixa.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1656908",
@@ -524,7 +692,28 @@
       "e": "O recurso patrimonial é bem de estoque."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — o recurso patrimonial é de natureza permanente.** Na distinção didática usual, recursos materiais abrangem os bens necessários às atividades da organização, especialmente materiais de consumo e suprimentos; recursos patrimoniais são bens permanentes que compõem o patrimônio, como máquinas, equipamentos, móveis e instalações.\n\n- **A) Correta:** recurso patrimonial é, em regra, bem de caráter permanente.\n- **B) Incorreta:** material de consumo não é definido por natureza permanente.\n- **C) Incorreta:** recurso patrimonial não é material de consumo.\n- **D) Incorreta:** equipamento de produção pode ser recurso patrimonial, mas a alternativa não apresenta a distinção geral.\n- **E) Incorreta:** bem de estoque é material armazenado para consumo ou utilização, não necessariamente patrimônio permanente.\n\n**Atenção:** no setor público, a classificação contábil e patrimonial deve observar os critérios normativos. A distinção não se resume apenas ao nome do item: durabilidade, identidade física, fragilidade, perecibilidade e demais critérios também são considerados.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "3326853",
@@ -541,7 +730,28 @@
       "e": "V, F, V, V, F."
     },
     "answer": "A",
-    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf"
+    "source": "Conhecimentos Específicos para Técnico Administrativo_organized.pdf",
+    "explanation": "**Gabarito: A — V, F, F, V, V.** A sequência distingue inventário geral e inventário rotativo e reconhece a necessidade de planejamento prévio.\n\n- **1ª afirmação — verdadeira:** contagens físicas periódicas permitem comparar o estoque real com os registros contábeis e identificar divergências.\n- **2ª afirmação — falsa:** a descrição apresentada é de inventário geral, realizado em uma data ou período concentrado e abrangendo o conjunto dos itens. Inventário rotativo ocorre ao longo do exercício, por grupos ou ciclos.\n- **3ª afirmação — falsa:** a descrição corresponde ao inventário rotativo, não ao geral. O rotativo distribui as contagens ao longo do ano, em parcelas menores.\n- **4ª afirmação — verdadeira:** em modelos didáticos de inventário rotativo, os itens podem ser distribuídos em grupos de contagem, frequentemente três grupos segundo critérios de importância/valor ou frequência.\n- **5ª afirmação — verdadeira:** planejamento e preparação são essenciais para reduzir erros, interrupções e divergências durante a contagem.\n\n- **A) V, F, F, V, V — correta.**\n- **B), C), D) e E) — incorretas:** não correspondem à avaliação das cinco afirmações.\n\n**Dica:** inventário geral = contagem abrangente concentrada; inventário rotativo = contagens parciais distribuídas ao longo do ano.",
+    "references": [
+      {
+        "label": "ENAP — Gestão de Materiais, Renato Ribeiro Fenili",
+        "url": "https://repositorio.enap.gov.br/handle/1/2259"
+      },
+      {
+        "label": "MAPA — Manual de Gestão de Almoxarifado e Estoques (2025)",
+        "url": "https://repositorio-dspace.agricultura.gov.br/handle/1/6170"
+      },
+      {
+        "label": "Tesouro Nacional — Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+        "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48458_1514962/MCASP%20-%2010%C2%AA%20Edi%C3%A7%C3%A3o.pdf"
+      },
+      {
+        "label": "CAPES/PNAP — Gestão Logística Pública Municipal",
+        "url": "https://educapes.capes.gov.br/bitstream/capes/145418/1/PNAP%20-%20Modulo%20Especifico%20-%20GPM%20-%20Gestao%20Logistica.pdf"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "1253274",
