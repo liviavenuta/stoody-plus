@@ -3599,7 +3599,7 @@
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. Entre as opções, .DOCX é a única extensão comum de documento do Office e pode ser explorada em campanhas maliciosas por meio de conteúdo enganoso ou vulnerabilidades. **Ressalva:** não existe uma extensão única “mais utilizada” universalmente por vírus; executáveis e documentos habilitados para macros (como .DOCM) também são vetores frequentes. O item está mal formulado e a alternativa E é apenas a mais plausível entre as listadas.",
+    "explanation": "Gabarito originalmente cadastrado: E (não validado). Entre as opções, .DOCX é a única extensão comum de documento do Office, mas não é, por si só, executável nem habilitada para macros. Vírus e outros malwares podem ser distribuídos por diversos vetores, como executáveis, documentos com macros (por exemplo, .DOCM), arquivos compactados e exploração de vulnerabilidades. Não existe uma extensão única universalmente “mais utilizada”. Portanto, nenhuma alternativa está tecnicamente bem fundamentada; recomenda-se anular ou reescrever o item.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -3620,7 +3620,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Enunciado generaliza incorretamente a extensão mais usada por vírus. .DOCX não é arquivo executável nem formato habilitado para macros por padrão; há diversos vetores e extensões. E é apenas a alternativa mais plausível entre as opções, recomenda-se revisar/anular."
+    "reviewNote": "Gabarito E mantido apenas para preservar o registro original, não validado como correto. Enunciado sem critério verificável e extensão DOCX não é formato executável nem habilitado para macros por padrão. Recomenda-se anulação ou reescrita com vetor específico."
   },
   {
     "id": "2601735",
@@ -3933,7 +3933,7 @@
     },
     "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: A. Ctrl + Alt + Tab exibe miniaturas das aplicações abertas e permite alternar entre elas usando as setas. **Ressalva:** o enunciado chama esse recurso de “Aero Flip”, termo historicamente associado ao Flip 3D do Windows Vista/7; no Windows 10, a Visão de Tarefas é aberta por Windows + Tab. A alternativa A descreve o alternador persistente de aplicativos, não o antigo Flip 3D.",
+    "explanation": "Gabarito originalmente cadastrado: A. Ctrl + Alt + Tab mantém a visualização das miniaturas de aplicativos aberta para navegação por teclado. Contudo, o enunciado usa “Aero Flip” de modo impreciso: a expressão é associada historicamente ao Flip 3D do Windows Vista/7, enquanto no Windows 10 Windows + Tab abre a Visão de Tarefas. Assim, A é compatível com alternância de aplicativos, mas o termo usado no enunciado não identifica esse comando com precisão; recomenda-se corrigir a terminologia.",
     "references": [
       {
         "label": "Microsoft Support — Atalhos de teclado no Windows",
@@ -3954,7 +3954,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Ctrl+Alt+Tab exibe miniaturas de aplicativos abertos, mas 'Aero Flip' é nomenclatura histórica ambígua. No Windows 10, Win+Tab abre a Visão de Tarefas; revisar a terminologia."
+    "reviewNote": "Gabarito A é compatível com o alternador de aplicativos Ctrl+Alt+Tab, mas o termo “Aero Flip” é ambíguo/historicamente associado ao Flip 3D do Vista/7. No Windows 10, Win+Tab abre a Visão de Tarefas. Corrigir enunciado para “alternar entre aplicativos abertos”."
   },
   {
     "id": "2533665",
@@ -3971,7 +3971,7 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. **Ressalva de gabarito:** a função MÉDIA calcula a média aritmética dos argumentos numéricos; quando recebe referências, ignora texto e valores lógicos nelas. A descrição da alternativa B — considerar também texto e valores lógicos — corresponde à função MÉDIAA (AVERAGEA), não à MÉDIA. A alternativa A descreve MÉDIASE; C descreve MÉDIASES; D descreve DESV.MÉDIO. Assim, não há alternativa tecnicamente correta para a função MÉDIA como o enunciado pede; recomenda-se anulação ou correção das opções.",
+    "explanation": "Não há alternativa tecnicamente correta para a função MÉDIA. MÉDIA calcula a média aritmética dos argumentos numéricos e, em referências, ignora texto e valores lógicos. A opção B descreve MÉDIAA (AVERAGEA), que considera também texto e valores lógicos; A descreve MÉDIASE; C descreve MÉDIASES; D descreve DESV.MÉDIO. O gabarito B está incorreto para a pergunta formulada. Recomenda-se anular o item ou substituir a opção B pela definição correta de MÉDIA.",
     "references": [
       {
         "label": "Microsoft Support — Função MÉDIA",
@@ -3992,7 +3992,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Não há alternativa correta para a função MÉDIA: a opção B descreve MÉDIAA (AVERAGEA), que inclui texto e valores lógicos; a opção A descreve MÉDIASE. Recomenda-se anulação/correção."
+    "reviewNote": "Gabarito originalmente cadastrado B não corresponde à função MÉDIA; descreve MÉDIAA (AVERAGEA). Não há alternativa correta. Recomenda-se anulação ou correção das opções."
   },
   {
     "id": "2617465",
@@ -4194,7 +4194,7 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: D. CONT.NÚM conta células que contêm valores numéricos em um intervalo e ignora textos e células vazias. **Ressalva:** a tabela foi transcrita em texto com alinhamento/posições de células pouco claros; o total depende da disposição exata dos valores em B2:F4. O gabarito D (8) deve ser confirmado com a imagem ou planilha original antes de ser considerado definitivo.",
+    "explanation": "CONT.NÚM conta as células numéricas do intervalo B2:F4 e ignora textos e células vazias. O gabarito originalmente cadastrado é D (8), mas a tabela foi transcrita em texto sem preservar com segurança as posições das células. Sem a imagem ou planilha original, não é possível recontar o intervalo com confiabilidade. O gabarito deve permanecer provisório até conferência do material original.",
     "references": [
       {
         "label": "Microsoft Support — Função CONT.NÚM",
@@ -4215,7 +4215,7 @@
     ],
     "explanationStatus": "revisado_com_fontes",
     "explanationReviewed": "2026-11-24",
-    "reviewNote": "Tabela transcrita sem alinhamento inequívoco das células. O resultado de CONT.NÚM depende da posição dos dados; confirmar gabarito D com imagem/planilha original."
+    "reviewNote": "Gabarito D (8) provisório, não confirmado. A transcrição perdeu o alinhamento/endereçamento de algumas células; obter imagem ou planilha original antes de validar ou corrigir."
   },
   {
     "id": "2600172",
