@@ -1216,7 +1216,16 @@
       "e": "Tanto vírgula quanto ponto final possuem funções de iniciar uma construção textual."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O ponto final encerra um período ou uma ideia completa e marca uma pausa maior. A vírgula organiza elementos dentro do período e, em muitos usos, marca uma pausa menor, sem encerrar a ideia.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2786714",
@@ -1232,7 +1241,16 @@
       "e": "violência e conflitos."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto destaca a concentração de riqueza e as diferenças de renda entre grupos e países. O problema central apresentado é a má distribuição de renda, que aprofunda desigualdades e tensões sociais.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2889759",
@@ -1248,7 +1266,16 @@
       "e": "foliões – divertem."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O plural de “folião” é “foliões”. O sujeito “Os animados foliões de todas as partes do planeta” está no plural, por isso o verbo também deve ficar no plural: “se divertem”.",
+    "references": [
+      {
+        "label": "Academia Brasileira de Letras — Vocabulário Ortográfico da Língua Portuguesa",
+        "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2786736",
@@ -1264,7 +1291,16 @@
       "e": "Progressão de fatos e ações em determinado tempo e espaço"
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A notícia relata acontecimentos relacionados à coleta do Censo, com sequência de fatos, datas, locais e ações do IBGE. Predomina a progressão de fatos e ações em determinado tempo e espaço, característica da narração jornalística.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2786717",
@@ -1280,7 +1316,16 @@
       "e": "argumento consistente."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O texto utiliza dados estatísticos, comparações de desigualdade, citação de autoridade e referência a Gandhi. Não há paródia, que pressupõe retomada transformadora ou satírica de outro texto ou obra.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2832915",
@@ -1296,7 +1341,16 @@
       "e": "as pessoas com deficiência visual precisam ser instruídas sobre as fakes news no meio virtual, a fim de possam identificá-las."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A notícia informa que as oficinas pretendem desenvolver educação midiática e habilidades de checagem para que pessoas com deficiência visual possam reconhecer desinformação e participar da produção de conteúdo digital.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2863979",
@@ -1311,7 +1365,16 @@
       "d": "[...] da conscientização e da participação pública e do acesso à dados."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A construção correta é “acesso às informações”: o substantivo “acesso” rege a preposição “a”, que se combina com o artigo plural “as”, formando crase. Não se usa crase antes de “qualquer” ou de substantivo plural sem artigo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2957187",
@@ -1327,7 +1390,16 @@
       "e": "“o sistema de reposição de oxigênio”."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Esses veículos” retoma especificamente os submersíveis mencionados no início do fragmento. “Cada embarcação” e “essas máquinas” podem retomar submarinos ou embarcações em geral, conforme o contexto.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2931493",
@@ -1343,7 +1415,16 @@
       "e": "facilitam o controle sobre os garçons para que eles não entrem em conflito com os frequentadores."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "As regras de etiqueta do botequim são descritas como “regras de armistício” porque favorecem a convivência e evitam conflitos entre frequentadores e atendentes, especialmente em um ambiente descontraído em que podem surgir desentendimentos.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2931496",
@@ -1359,17 +1440,16 @@
       "e": "“ora”."
     },
     "answer": "C",
-    "source": "Português.pdf"
-  },
-  {
-    "id": "2832886",
-    "number": 61,
-    "subject": "Língua Portuguesa",
-    "topic": "Língua Portuguesa",
-    "stem": "Leia o soneto abaixo. Soneto da fidelidade De tudo, ao meu amor serei atento Antes, e com tal zelo, e sempre, e tanto Que mesmo em face do maior encanto Dele se encante mais meu pensamento. Quero vivê-lo em cada vão momento E em seu louvor hei de espalhar meu canto E rir meu riso e derramar meu pranto Ao seu pesar ou seu contentamento. E assim, quando mais tarde me procure Quem sabe a morte, angústia de quem vive Quem sabe a solidão, fim de quem ama Eu possa me dizer do amor (que tive): Que não seja imortal, posto que é chama Mas que seja infinito enquanto dure. COUTINHO, Afrânio (org.) - Vinícius de Moraes - Obra Poética. Rio de Janeiro: José Aguilar Editora, 1968. p. 293. Disponível em: dade.htm. Acesso em: 02 jan.",
-    "options": {},
-    "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A conjunção “pois” introduz a explicação ou justificativa para não devolver o prato: o substituto poderia vir com “sabor de vingança”. As demais opções indicam oposição, conclusão ou outros valores não adequados à relação entre as orações.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2675515",
@@ -1385,17 +1465,16 @@
       "e": "isolar uma estrutura de vocativo."
     },
     "answer": "A",
-    "source": "Português.pdf"
-  },
-  {
-    "id": "2600267",
-    "number": 63,
-    "subject": "Língua Portuguesa",
-    "topic": "Língua Portuguesa",
-    "stem": "Leia o excerto a seguir. - “Depois de dois anos estudando em Paris, o médico Oswaldo Gonçalves Cruz (1872-1917) voltou ao Brasil em 1899 e teve uma agenda cheia. Em outubro desse ano ele foi chamado para ajudar a conter um surto de peste bubônica em Santos, no litoral paulista. Em 1900, começou a construir na cidade do Rio de Janeiro um instituto que depois ganhou seu nome e se transformou em uma das principais instituições de produção de vacinas e de pesquisa do país. À frente do Departamento de Saúde Pública, ele combateu as epidemias de febre amarela e varíola, ganhando prestígio nacional e internacional, até a saúde debilitada fazê-lo se mudar para Petrópolis, na região serrana do estado do Rio, onde foi prefeito por alguns meses [...]. Além dos relatórios e dos artigos científicos, as ideias, o dia a dia e a trajetória profissional de Oswaldo Cruz estão refletidos nas 342 cartas que ele escreveu para a família, 583 para instituições públicas e outras 259 trocadas entre ele e outros cientistas de outubro de 1899 ao fim de 1916, quando renunciou ao cargo de prefeito de Petrópolis por estar com a saúde bastante frágil. [...]” - FIORAVANTI, Carlos. Em cartas, a história de cientistas. Pesquisa Fapesp, setembro de",
-    "options": {},
-    "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho “plataforma especializada em criptogames” explica o que é a Bayz, funcionando como aposto explicativo. Por isso, fica isolado por vírgulas.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2411551",
@@ -1411,7 +1490,16 @@
       "e": "regência nominal de “referentes”."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O adjetivo “referentes” rege a preposição “a” (“referentes a algo”). A crase ocorre pela combinação dessa preposição com o artigo feminino que antecede “vida”, “saúde”, “alimentação” e os demais substantivos.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431283",
@@ -1427,7 +1515,16 @@
       "e": "Opinião pessoal: “Pode-se dizer qualquer bobagem; haverá sempre um público”."
     },
     "answer": "D",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A frase “As fechaduras atraem os ladrões. O arrombador não entra em casa aberta” apresenta uma formulação irônica e paradoxal, explorando uma consequência levada ao absurdo. A alternativa D identifica o argumento do absurdo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2430592",
@@ -1443,7 +1540,16 @@
       "e": "havia gostado de estar presente hoje naquela feira de artesanato."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "Na passagem ao discurso indireto, “hoje” passa a “ontem” e “nesta feira” passa a “naquela feira”. O pretérito perfeito “gostei” recua para o mais-que-perfeito composto “gostara de ter estado”, conforme a perspectiva temporal indicada.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2430593",
@@ -1459,7 +1565,16 @@
       "e": "“Confio no tempo, que é um insigne alquimista. Dá-selhe um punhado de lodo, ele o restitui em diamantes”."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O trecho “Não desperdice afetos” apresenta uma orientação direta ao leitor, com verbo no imperativo e finalidade de aconselhamento. Essa é uma característica do tipo injuntivo.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2430598",
@@ -1475,7 +1590,16 @@
       "e": "transmite uma cena, cujo significado ele desconhece, levado por uma curiosidade que cresce à medida que narra."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O narrador participa da cena como testemunha: relata em primeira pessoa que seguia o homem e observou suas ações, mas não é o protagonista do episódio. Trata-se de narrador-personagem secundário.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2634893",
@@ -1491,7 +1615,16 @@
       "e": "narrador testemunha em 3ª pessoa."
     },
     "answer": "B",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O narrador participa do texto e relata experiências próprias, como “Acordo a hora que eu quero” e “achei que não poderia mais viver sem uma”. Portanto, é narrador-personagem em primeira pessoa.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2408569",
@@ -1507,7 +1640,16 @@
       "e": "A democracia é preferível a qualquer outro tipo de governo."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "A regência recomendada é “residente na Rua das Palmeiras” ou “residente à Rua das Palmeiras” conforme a tradição normativa? Na norma-padrão mais cobrada, usa-se “residente na rua”. A construção “residente à rua” é considerada inadequada neste contexto, sendo a alternativa C o desvio apontado.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2533921",
@@ -1523,7 +1665,16 @@
       "e": "astúcia."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Manha”, no contexto da capoeira, significa habilidade, astúcia ou esperteza. Seu antônimo mais adequado entre as alternativas é “candura”, que expressa ingenuidade ou inocência.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2408566",
@@ -1539,7 +1690,16 @@
       "e": "Sérgio desobedecia seus avós, mas obedecia os pais."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Quero-lhe muito bem” está correto, e “assistir ao seu jogo” emprega a preposição exigida pelo verbo assistir no sentido de ver. As demais alternativas apresentam problemas de regência, como “lhe encontrar”, “namora com” e “desobedecia seus avós”.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2599874",
@@ -1555,7 +1715,16 @@
       "e": "Deve haver preceitos constitucionais que dizem..."
     },
     "answer": "A",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "O verbo “haver”, no sentido de existir, é impessoal e deve permanecer no singular: “Deve haver preceitos constitucionais”. “Devem haver” está incorreto; com o verbo existir, a concordância seria plural (“devem existir”).",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2431255",
@@ -1571,7 +1740,16 @@
       "e": "“Ou pelo fato de ser sido pressionado pelos pais a tomar uma posição mais firme.” / uma retificação."
     },
     "answer": "C",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“De fato” introduz uma confirmação ou comprovação do argumento apresentado anteriormente. A expressão funciona como reforço probatório, e não como exemplificação, explicação, citação ou retificação.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24"
   },
   {
     "id": "2390610",
@@ -1587,7 +1765,17 @@
       "e": "a todo o período anterior / à indicação temporal."
     },
     "answer": "E",
-    "source": "Português.pdf"
+    "source": "Português.pdf",
+    "explanation": "“Desde então” é uma expressão temporal que retoma a data de 1º de janeiro, indicando o período posterior ao reconhecimento da síndrome como doença do trabalho. “Isso” retoma a informação anterior de que o burnout passou a ser reconhecido como doença do trabalho. Ressalva: a alternativa E não descreve com precisão a referência de “isso”, de modo que o item merece revisão.",
+    "references": [
+      {
+        "label": "Presidência da República — Manual de Redação da Presidência da República",
+        "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/centro-de-estudos-juridicos/manual-de-redacao-da-presidencia-da-republica"
+      }
+    ],
+    "explanationStatus": "revisado_com_fontes",
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A explicação da referência de “isso” é a informação de que o burnout foi reconhecido como doença do trabalho; “desde então” retoma temporalmente 1º de janeiro. As opções não parecem representar com precisão os dois referentes, então o gabarito deve ser reavaliado."
   },
   {
     "id": "2421594",
