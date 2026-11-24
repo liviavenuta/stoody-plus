@@ -4454,11 +4454,15 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Windows 10 é um sistema operacional proprietário, distribuído sob licença da Microsoft, portanto não é software livre. As demais afirmações descrevem capacidades típicas do sistema: multitarefa, múltiplas contas e escalonamento/preempção de processos.",
+    "explanation": "Alternativa correta: B. A afirmação incorreta é que o Windows 10 seria software livre. O Windows é um sistema operacional proprietário, distribuído sob licença da Microsoft. Ele oferece multitarefa, múltiplas contas/sessões e escalonamento de processos. A classificação do núcleo como monolítico é discutível e, em materiais técnicos, o Windows NT costuma ser descrito como arquitetura híbrida; isso não altera a resposta B.",
     "references": [
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "Microsoft Support — Fim do suporte ao Windows 10",
+        "url": "https://support.microsoft.com/pt-br/windows/deployment/updates-lifecycle/windows-10-support-has-ended-on-october-14-2025"
+      },
+      {
+        "label": "Microsoft Learn — User Mode and Kernel Mode",
+        "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode"
       },
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -4467,14 +4471,11 @@
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
-      },
-      {
-        "label": "Microsoft Support — Atalhos de teclado no Windows",
-        "url": "https://support.microsoft.com/pt-br/accessibility/windows/keyboard-shortcuts-in-windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "A alternativa B é inequivocamente incorreta: Windows 10 é proprietário. A descrição do núcleo como monolítico é imprecisa, pois Windows NT costuma ser classificado como híbrido; considerar a distinção na correção didática."
   },
   {
     "id": "2488947",
@@ -4491,23 +4492,23 @@
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. A sintaxe da função SOMASE é SOMASE(intervalo; critérios; [intervalo_soma]). O primeiro argumento contém as células avaliadas, o segundo define o critério e o terceiro, opcional, indica as células que serão somadas. Se omitido, o Excel soma as próprias células do intervalo.",
+    "explanation": "Alternativa correta: E. A sintaxe correta é SOMASE(intervalo; critérios; [intervalo_soma]). O primeiro argumento define as células avaliadas, o segundo estabelece o critério e o terceiro, opcional, indica quais valores serão somados. A alternativa E apresenta exatamente essa ordem.",
     "references": [
       {
         "label": "Microsoft Support — Função SOMASE",
-        "url": "https://support.microsoft.com/pt-br/excel/sumif-function"
+        "url": "https://support.microsoft.com/pt-br/excel/functions/sumif-function"
       },
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
         "url": "https://support.microsoft.com/pt-br/excel"
       },
       {
-        "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/"
+        "label": "Microsoft Support — Funções do Excel (ordem alfabética)",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       },
       {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4528,19 +4529,19 @@
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. Backup incremental copia os dados alterados desde o backup imediatamente anterior, seja ele completo ou incremental. Isso reduz o volume de cada execução, mas a restauração pode exigir o backup completo e toda a sequência de incrementais.",
+    "explanation": "Alternativa correta: E. O backup incremental copia os dados alterados desde o último backup realizado, seja ele completo ou incremental. Isso reduz o volume copiado em cada execução, mas a restauração pode exigir o backup completo e a sequência de incrementais posteriores.",
     "references": [
       {
-        "label": "IBM — Backup e recuperação de dados",
-        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
-      },
-      {
-        "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/"
+        "label": "Microsoft Support — Escolher uma solução de backup no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/backup-recovery/choose-a-backup-solution-in-windows"
       },
       {
         "label": "CISA — StopRansomware Guide",
         "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
       },
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -4565,27 +4566,28 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Certificado digital associa uma identidade a uma chave pública e permite verificar a origem de documentos e assinaturas digitais. A assinatura digital é produzida com a chave privada correspondente e validada com a chave pública certificada; criptografia isoladamente não comprova a identidade do remetente.",
+    "explanation": "Alternativa correta: B. O certificado digital associa uma identidade a uma chave pública e pode ser utilizado em processos de assinatura digital, ajudando a verificar autoria e integridade de documentos. Tecnicamente, certificado digital e assinatura digital não são a mesma coisa: o certificado identifica/vincula a chave; a assinatura é produzida criptograficamente com a chave privada.",
     "references": [
       {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
+        "label": "CERT.br — Verificar integridade e assinaturas digitais",
+        "url": "https://cartilha.cert.br/integridade/"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
-        "url": "https://cartilha.cert.br/fasciculos/"
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
       },
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Certificado digital não é sinônimo de assinatura digital: o certificado vincula identidade e chave pública, enquanto a assinatura é gerada criptograficamente. B é a melhor opção dada a formulação do item."
   },
   {
     "id": "2223300",
@@ -4602,8 +4604,12 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: D. Assinatura digital é um mecanismo criptográfico que permite verificar a autoria/origem e detectar alterações em documentos eletrônicos. Ela não é sinônimo de criptografia: a assinatura normalmente usa chave privada para assinar e chave pública para validar.",
+    "explanation": "Alternativa correta: D. A técnica descrita é a assinatura digital. Ela usa criptografia assimétrica para vincular o documento ao titular da chave privada e permite verificar a origem e detectar alterações. A criptografia, isoladamente, pode proteger confidencialidade, mas não equivale à assinatura digital.",
     "references": [
+      {
+        "label": "CERT.br — Verificar integridade e assinaturas digitais",
+        "url": "https://cartilha.cert.br/integridade/"
+      },
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
@@ -4613,12 +4619,8 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4639,7 +4641,7 @@
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. No contexto apresentado, legalidade significa que o tratamento de dados e as operações da organização devem observar a legislação aplicável, como a LGPD. As demais opções descrevem, de forma aproximada, integridade, confidencialidade, disponibilidade e rastreabilidade/autenticidade.",
+    "explanation": "Alternativa correta: E. No contexto do enunciado, legalidade significa que o tratamento e a proteção dos dados devem respeitar a legislação aplicável, incluindo a LGPD. As opções A, B e C descrevem, respectivamente, integridade, confidencialidade e disponibilidade; D aproxima-se de rastreabilidade/autenticidade.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -4650,12 +4652,12 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
       },
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4676,19 +4678,19 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. Dropbox e OneDrive são serviços de armazenamento/sincronização em nuvem que permitem manter cópias e recuperar arquivos; PureSync é ferramenta de sincronização e cópia. Avast e McAfee são principalmente soluções de segurança/antimalware, não ferramentas de backup no sentido pedido. A classificação de serviços de sincronização como backup merece ressalva: sincronização, sozinha, não substitui cópia de segurança independente.",
+    "explanation": "Alternativa correta: C. Dropbox, PureSync e OneDrive podem ser usados para sincronizar ou manter cópias de arquivos; Avast e McAfee são soluções de segurança/antivírus, não ferramentas de backup. Assim, I, II e V correspondem à alternativa C. Ressalva: sincronização em nuvem não substitui, por si só, uma estratégia de backup independente com versões e recuperação.",
     "references": [
       {
-        "label": "IBM — Backup e recuperação de dados",
-        "url": "https://www.ibm.com/br-pt/think/topics/backup-and-restore"
+        "label": "Microsoft Support — Escolher uma solução de backup no Windows",
+        "url": "https://support.microsoft.com/pt-br/windows/experience/backup-recovery/choose-a-backup-solution-in-windows"
+      },
+      {
+        "label": "Microsoft Support — Compartilhar arquivos e pastas do OneDrive",
+        "url": "https://support.microsoft.com/pt-br/office/compartilhar-arquivos-e-pastas-do-onedrive"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       },
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -4696,7 +4698,8 @@
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Dropbox e OneDrive oferecem sincronização/armazenamento em nuvem e podem integrar estratégias de cópia; sincronização isolada não equivale a backup independente. C é a resposta pretendida."
   },
   {
     "id": "2865835",
@@ -4713,7 +4716,7 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. Criptografia transforma a informação em forma não inteligível para observadores não autorizados, usando algoritmo e chave. O objetivo descrito é confidencialidade. Assinatura digital e certificado digital têm funções de autenticidade/integridade; backup recupera dados; nobreak fornece energia.",
+    "explanation": "Alternativa correta: C. A criptografia transforma a informação em conteúdo ilegível para quem não possui a chave apropriada, protegendo principalmente a confidencialidade. Assinatura digital e certificado digital apoiam autenticidade/integridade; backup permite recuperação; nobreak contribui para disponibilidade.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -4724,12 +4727,12 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
-        "url": "https://cartilha.cert.br/fasciculos/"
+        "label": "CERT.br — Verificar integridade e assinaturas digitais",
+        "url": "https://cartilha.cert.br/integridade/"
       },
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4750,7 +4753,7 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Autenticidade permite confirmar que uma entidade é quem afirma ser, tanto na origem quanto no destino da informação. A alternativa A descreve confidencialidade; C, integridade; D, disponibilidade; E aproxima-se de não repúdio.",
+    "explanation": "Alternativa correta: B. Autenticidade é a propriedade de confirmar que a entidade que envia ou recebe uma informação é realmente quem afirma ser. A alternativa E descreve não repúdio, que busca impedir que alguém negue uma ação ou autoria comprovada. As demais opções referem-se a confidencialidade, integridade e disponibilidade.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -4761,12 +4764,12 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
-        "url": "https://cartilha.cert.br/fasciculos/"
+        "label": "CERT.br — Verificar integridade e assinaturas digitais",
+        "url": "https://cartilha.cert.br/integridade/"
       },
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4787,14 +4790,14 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Scareware procura assustar ou alarmar a vítima, por exemplo exibindo avisos falsos de infecção, para induzi-la a comprar um produto, instalar software ou acessar uma página. Keylogger registra teclas; screenlogger captura telas/cliques; adware exibe publicidade; phishing tenta obter dados por fraude.",
+    "explanation": "Alternativa correta: B. Scareware é um software ou golpe que usa alertas alarmistas e mensagens assustadoras para induzir a vítima a comprar um produto, instalar algo ou acessar uma página. Captura de teclas é típica de keylogger; registro de cliques/tela, de screenlogger; propaganda, de adware.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
       },
       {
@@ -4802,8 +4805,8 @@
         "url": "https://csrc.nist.gov/glossary"
       },
       {
-        "label": "Microsoft — Microsoft Defender Antivirus",
-        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4824,7 +4827,7 @@
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. Segurança da informação reúne políticas, processos, recursos e controles para proteger informações contra acesso, uso, divulgação, alteração ou destruição indevidos. Cibersegurança concentra-se mais especificamente na proteção de sistemas, redes e ativos digitais; o enunciado usa a definição ampla de segurança da informação.",
+    "explanation": "Alternativa correta: E. O texto define segurança da informação: práticas, controles e recursos para proteger dados e sistemas contra acesso, uso, alteração ou destruição indevidos. Cibersegurança é um campo relacionado, com foco no ambiente digital/cibernético; backup e HD externo são recursos específicos, não o conceito amplo descrito.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -4835,7 +4838,7 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
       },
       {
@@ -4861,11 +4864,15 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: D. PAR(3) retorna 4; C1=2. A1=SOMA(B1:C1)=4+2=6. Como B1<C1 é falso, SE retorna 5. A expressão fica 5+4−6/2=6, respeitando a precedência da divisão. Portanto, alternativa D.",
+    "explanation": "Alternativa correta: D. PAR(3) arredonda 3 para o próximo inteiro par, resultando em 4. Assim, B1=4; C1=2; A1=SOMA(B1:C1)=6. Na fórmula, SE(4<2;10;5) retorna 5; portanto, 5+4−6/2=5+4−3=6. A alternativa correta é D.",
     "references": [
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
         "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (ordem alfabética)",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -4874,10 +4881,6 @@
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4898,11 +4901,15 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. PAR(7) retorna 8. A soma de A1:A5 é 12+31+27+4+8=82; dividindo por 2, obtém-se 41. A expressão totaliza 8+41=49, alternativa C.",
+    "explanation": "Alternativa correta: C. PAR(7) retorna 8. A soma de A1:A5 é 12+31+27+4+8=82; dividindo por 2, obtém-se 41. Logo, 8+41=49, alternativa C.",
     "references": [
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
         "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (ordem alfabética)",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -4911,10 +4918,6 @@
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4935,11 +4938,15 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: D. PAR(8) retorna 8; B7=4 e C7=2. Como 4<2 é falso, SE retorna 5. A expressão fica 5+4−8/2=5, alternativa D.",
+    "explanation": "Alternativa correta: D. PAR(8) retorna 8. Como B7=4 não é menor que C7=2, a função SE retorna 5. A expressão fica 5+4−8/2 = 5+4−4 = 5. Portanto, a alternativa D está correta.",
     "references": [
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
         "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (ordem alfabética)",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -4948,10 +4955,6 @@
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -4972,27 +4975,28 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. Entre as alternativas, .EXE é a extensão convencional de arquivos executáveis do Windows e, por isso, pode ser usada para distribuir programas maliciosos. Isso não significa que todo .EXE seja vírus, nem que outras extensões não possam transportar conteúdo malicioso.",
+    "explanation": "Alternativa correta: C. Entre as extensões listadas, .EXE identifica um arquivo executável do Windows e, por isso, é um tipo de arquivo frequentemente usado para distribuir malware. Ressalva: a extensão, sozinha, não prova que um arquivo seja malicioso; documentos, scripts e arquivos compactados também podem servir como vetores.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
-        "label": "Microsoft — Microsoft Defender Antivirus",
-        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
       },
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": ".EXE é executável, mas a extensão não é suficiente para identificar malware. O enunciado deveria perguntar qual extensão corresponde a executável, em vez de afirmar probabilidade universal."
   },
   {
     "id": "1969729",
@@ -5009,11 +5013,15 @@
     },
     "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: A. Substituindo os valores: A1−$C$1/B1+A1/C1 = 24−12/6+24/12 = 24−2+2 = 24. Os cifrões fixam a referência C1, embora, neste cálculo isolado, não alterem o valor numérico.",
+    "explanation": "Alternativa correta: A. Substituindo os valores na fórmula: A1−$C$1/B1+A1/C1 = 24−12/6+24/12. Primeiro são feitas as divisões: 24−2+2=24. A referência absoluta $C$1 continua apontando para C1, mas não muda o resultado neste cálculo. Alternativa A.",
     "references": [
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
         "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (ordem alfabética)",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -5022,10 +5030,6 @@
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5046,11 +5050,15 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. PAR(4) retorna 4. Aplicando a precedência de operadores, B1/C1=12/4=3; portanto 4+20−3=21. A alternativa correta é C.",
+    "explanation": "Alternativa correta: C. PAR(4) retorna 4. Em seguida, a expressão fica 4+20−12/4. Pela precedência das operações, primeiro calcula-se 12/4=3; então 4+20−3=21. Alternativa C.",
     "references": [
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
         "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (ordem alfabética)",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -5059,10 +5067,6 @@
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5083,7 +5087,7 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Criptografia transforma dados legíveis em texto cifrado por meio de algoritmo e chave, de modo que apenas quem dispõe da chave adequada possa recuperar o conteúdo. Compactação reduz tamanho; spoofing falsifica identidade/origem; orientação a objetos é paradigma de programação; patch é atualização/correção.",
+    "explanation": "Alternativa correta: B. A técnica é criptografia: um algoritmo transforma dados legíveis em texto cifrado e permite recuperá-los com a chave apropriada. O enunciado não especifica se a chave é simétrica ou assimétrica; portanto, a resposta geral é criptografia.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -5094,12 +5098,12 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
       },
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "CERT.br — Verificar integridade e assinaturas digitais",
+        "url": "https://cartilha.cert.br/integridade/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5120,7 +5124,7 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Firewall aplica regras para permitir ou bloquear tráfego de rede, podendo restringir conexões a endereços, portas, protocolos ou serviços autorizados. Criptografia protege o conteúdo dos dados; certificado digital valida identidade; antivírus detecta malware; modem fornece conectividade.",
+    "explanation": "Alternativa correta: B. Firewall aplica regras para permitir ou bloquear tráfego de rede, podendo restringir conexões por endereço IP, porta, protocolo ou outros critérios. Criptografia protege o conteúdo; certificado digital autentica identidades; antivírus detecta malware; modem fornece conectividade.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -5131,16 +5135,17 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
-        "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
         "label": "CISA — StopRansomware Guide",
         "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "Firewall pode aplicar regras por IP, mas o enunciado deveria especificar filtragem de tráfego por endereço para distinguir o recurso de ACLs e controles de rede."
   },
   {
     "id": "1241940",
@@ -5157,23 +5162,23 @@
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. Não repúdio é a propriedade que fornece evidências para impedir que uma entidade negue posteriormente uma ação que realizou, como o envio ou a assinatura de uma mensagem. Assinaturas digitais e registros confiáveis podem apoiar esse objetivo.",
+    "explanation": "Alternativa correta: E. Não repúdio é a propriedade que fornece evidências para impedir que uma entidade negue posteriormente uma ação que realizou, como o envio ou a assinatura de uma mensagem. A alternativa E expressa essa ideia. Identificação e autenticação são conceitos distintos.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
       },
       {
+        "label": "CERT.br — Verificar integridade e assinaturas digitais",
+        "url": "https://cartilha.cert.br/integridade/"
+      },
+      {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5194,14 +5199,14 @@
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. Shareware é um modelo de distribuição de software, geralmente disponibilizado para avaliação ou com funcionalidades/tempo limitados; não é, por definição, software danoso. Trojan, backdoor, spyware e ransomware são categorias de malware.",
+    "explanation": "Alternativa correta: E. Shareware é um modelo de distribuição de software proprietário para avaliação, normalmente por tempo limitado ou com recursos restritos; não é, por definição, software malicioso. Trojan, backdoor, spyware e ransomware são categorias ou tipos de malware.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
       },
       {
@@ -5209,8 +5214,8 @@
         "url": "https://csrc.nist.gov/glossary"
       },
       {
-        "label": "Microsoft — Microsoft Defender Antivirus",
-        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5231,19 +5236,19 @@
     },
     "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: A. A função HOJE() retorna a data atual do sistema e é recalculada quando a planilha é recalculada/aberta. Não recebe argumento. Se o objetivo fosse registrar uma data fixa que nunca mudasse, seria necessário inserir um valor estático, não usar HOJE().",
+    "explanation": "Alternativa correta: A. A função HOJE() retorna a data atual do sistema e não exige argumentos. Seu resultado é atualizado quando a planilha é recalculada. DATA exige ano, mês e dia como argumentos; as outras formas apresentadas não são sintaxes válidas para obter a data atual.",
     "references": [
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
         "url": "https://support.microsoft.com/pt-br/excel"
       },
       {
-        "label": "CERT.br — Cartilha de Segurança para Internet",
-        "url": "https://cartilha.cert.br/"
+        "label": "Microsoft Support — Funções do Excel (ordem alfabética)",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       },
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "CERT.br — Cartilha de Segurança para Internet",
+        "url": "https://cartilha.cert.br/"
       },
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -5268,7 +5273,7 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: D. Firewall protege redes ao filtrar conexões e tráfego de acordo com regras de segurança. Criptografia protege a confidencialidade dos dados; antivírus atua sobre malware; hub e modem não substituem um firewall.",
+    "explanation": "Alternativa correta: D. Firewall é o controle de segurança que monitora e filtra tráfego de rede segundo regras, ajudando a impedir conexões não autorizadas. Criptografia protege dados, antivírus trata de códigos maliciosos, e hub/modem não substituem um firewall.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -5279,12 +5284,12 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
-        "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
         "label": "CISA — StopRansomware Guide",
         "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+      },
+      {
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5305,7 +5310,7 @@
     },
     "answer": "E",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: E. A descrição corresponde à criptografia simétrica: os dados são codificados com uma chave e decodificados com a mesma chave. Certificado digital e antivírus têm funções diferentes; firewall controla tráfego; validador eletrônico não é a técnica descrita.",
+    "explanation": "Alternativa correta: E. O enunciado descreve criptografia simétrica, pois a mesma chave é utilizada para codificar e decodificar os dados. Entre as alternativas, a opção correspondente é E. Certificado digital, antivírus e firewall têm funções diferentes.",
     "references": [
       {
         "label": "NIST — Glossário de segurança cibernética",
@@ -5316,12 +5321,12 @@
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
-        "url": "https://cartilha.cert.br/fasciculos/"
+        "label": "CERT.br — Verificar integridade e assinaturas digitais",
+        "url": "https://cartilha.cert.br/integridade/"
       },
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5342,23 +5347,23 @@
     },
     "answer": "B",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: B. Malware é o termo genérico para software malicioso desenvolvido para comprometer, danificar, espionar ou obter acesso não autorizado a sistemas. Firefox é navegador; PC é computador; gigabyte é unidade de informação; phreaker é termo associado a exploração de sistemas telefônicos.",
+    "explanation": "Alternativa correta: B. Malware é o termo genérico para software ou código malicioso projetado para comprometer, danificar, espionar ou obter acesso indevido a sistemas. PC, Firefox e gigabyte não são categorias de software malicioso; phreaker designa uma pessoa que explora sistemas de telefonia.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
-        "label": "Microsoft — Microsoft Defender Antivirus",
-        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
       },
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5379,11 +5384,15 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: D. A soma D1:D4 é 8+10+4+2=24. Multiplicando por 2, obtém-se 48; em seguida, D2*D4=10*2=20. Logo, 48−20=28, alternativa D.",
+    "explanation": "Alternativa correta: D. A soma D1:D4 é 8+10+4+2=24. Multiplicando por 2, temos 48. Em seguida, D2×D4=10×2=20. Portanto, 48−20=28, alternativa D.",
     "references": [
       {
         "label": "Microsoft Support — Ajuda e aprendizagem do Excel",
         "url": "https://support.microsoft.com/pt-br/excel"
+      },
+      {
+        "label": "Microsoft Support — Funções do Excel (ordem alfabética)",
+        "url": "https://support.microsoft.com/pt-br/excel/excel-functions-alphabetical"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
@@ -5392,10 +5401,6 @@
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
-      },
-      {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5416,27 +5421,28 @@
     },
     "answer": "D",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: D. Certificado digital é um arquivo/credencial eletrônica que vincula uma identidade a uma chave pública e permite autenticação e validação de assinaturas em transações digitais. Criptografia é a técnica de proteção; firewall filtra tráfego; antivírus detecta malware; password é senha.",
+    "explanation": "Alternativa correta: D. Certificado digital é um registro eletrônico que vincula uma identidade a uma chave pública e pode ser usado para autenticação e assinatura digital em transações eletrônicas. A assinatura digital é a operação criptográfica feita com a chave privada; o certificado permite validar a identidade associada à chave.",
     "references": [
       {
-        "label": "NIST — Glossário de segurança cibernética",
-        "url": "https://csrc.nist.gov/glossary"
+        "label": "CERT.br — Verificar integridade e assinaturas digitais",
+        "url": "https://cartilha.cert.br/integridade/"
       },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
-        "url": "https://cartilha.cert.br/fasciculos/"
+        "label": "NIST — Glossário de segurança cibernética",
+        "url": "https://csrc.nist.gov/glossary"
       },
       {
-        "label": "Microsoft Support — Ajuda e aprendizagem do Windows",
-        "url": "https://support.microsoft.com/pt-br/windows"
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
+        "url": "https://cartilha.cert.br/fasciculos/"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
-    "explanationReviewed": "2026-11-24"
+    "explanationReviewed": "2026-11-24",
+    "reviewNote": "O certificado digital não é a assinatura em si; ele associa identidade à chave pública e permite validar assinaturas. D é a opção mais adequada, com ressalva terminológica."
   },
   {
     "id": "1283388",
@@ -5453,23 +5459,23 @@
     },
     "answer": "A",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: A. O enunciado descreve uma solução antivírus/antimalware instalada no servidor para detectar e bloquear códigos maliciosos. Firewall controla o tráfego de rede e pode reduzir a exposição a ameaças, mas não é sinônimo de antivírus. O gabarito foi corrigido de D (Firewall) para A (Antivírus).",
+    "explanation": "Alternativa correta: A. O enunciado descreve um servidor ou solução antivírus/antimalware que detecta e bloqueia códigos maliciosos. Firewall controla o tráfego de rede e pode reduzir a exposição a ameaças, mas não é sinônimo de antivírus. O gabarito foi corrigido de D (Firewall) para A (Antivírus).",
     "references": [
+      {
+        "label": "Microsoft — Microsoft Defender Antivirus",
+        "url": "https://www.microsoft.com/en-us/windows/comprehensive-security"
+      },
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
-        "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
-        "label": "Microsoft — Microsoft Defender Antivirus",
-        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
-      },
-      {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
@@ -5491,23 +5497,23 @@
     },
     "answer": "C",
     "source": "Informática.pdf",
-    "explanation": "Alternativa correta: C. Worm (verme) é malware que se replica e se propaga por redes sem precisar se anexar a outro programa hospedeiro, diferentemente do vírus clássico. Hacker é pessoa, não categoria de programa; as demais opções não correspondem à definição.",
+    "explanation": "Alternativa correta: C. Worm (verme) é um malware capaz de se replicar e se propagar entre computadores ou redes sem precisar se anexar a outro programa hospedeiro, diferentemente do vírus clássico. A alternativa C descreve essa característica.",
     "references": [
       {
         "label": "CERT.br — Cartilha de Segurança para Internet",
         "url": "https://cartilha.cert.br/"
       },
       {
-        "label": "CERT.br — Fascículos da Cartilha",
+        "label": "CERT.br — Fascículos da Cartilha de Segurança",
         "url": "https://cartilha.cert.br/fasciculos/"
-      },
-      {
-        "label": "Microsoft — Microsoft Defender Antivirus",
-        "url": "https://www.microsoft.com/pt-br/windows/comprehensive-security"
       },
       {
         "label": "NIST — Glossário de segurança cibernética",
         "url": "https://csrc.nist.gov/glossary"
+      },
+      {
+        "label": "CISA — StopRansomware Guide",
+        "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
       }
     ],
     "explanationStatus": "revisado_com_fontes",
